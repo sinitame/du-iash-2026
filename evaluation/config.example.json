@@ -1,0 +1,34 @@
+{
+  "dataset": "data/dataset_questions_mici_270.csv",
+  "output_dir": "outputs",
+  "chatbot_prompt_file": "prompts/chatbot_baseline.txt",
+  "judge_prompt_file": "prompts/judge_v1.txt",
+  "temperature": 0,
+  "max_tokens": 500,
+  "baseline_system": "test_technique",
+  "systems": [
+    {
+      "name": "test_technique",
+      "type": "reference"
+    },
+    {
+      "name": "modele_a",
+      "model": "nom-du-modele",
+      "base_url": "https://api.fournisseur.com/v1",
+      "api_key_env": "MODELE_A_API_KEY"
+    }
+  ],
+  "judges": [
+    {
+      "name": "juge_test",
+      "type": "mock"
+    },
+    {
+      "name": "juge_a",
+      "model": "nom-du-modele-juge",
+      "base_url": "https://api.fournisseur.com/v1",
+      "api_key_env": "JUGE_A_API_KEY",
+      "max_tokens": 900
+    }
+  ]
+}

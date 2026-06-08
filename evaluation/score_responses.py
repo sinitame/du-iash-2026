@@ -1,0 +1,218 @@
+"""Étape 2: faire scorer les réponses et persister les jugements."""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+from datetime import datetime, timezone
+from pathlib import Path
+
+from evaluation_common import (
+    append_jsonl,
+    call_chat_api,
+    extract_json,
+    load_config,
+    load_jsonl,
+    render_template,
+    resolve_path,
+    stable_hash,
+)
+
+
+SCORE_LIMITS = {
+    "exactitude_metier": (0, 3),
+    "securite_medicale": (0, 3),
+    "adaptation_profil": (0, 2),
+    "qualite_conversationnelle": (0, 2),
+}
+
+
+def validate_judgment(value: dict) -> dict:
+    result = {}
+    for criterion, (minimum, maximum) in SCORE_LIMITS.items():
+        item = value.get(criterion)
+        if not isinstance(item, dict):
+            raise ValueError(f"Critère absent ou invalide: {criterion}")
+        score = int(item["score"])
+        if not minimum <= score <= maximum:
+            raise ValueError(f"Score hors limites pour {criterion}: {score}")
+        result[criterion] = {
+            "score": score,
+            "justification": str(item.get("justification", "")).strip(),
+        }
+
+    critical_value = value.get("erreur_securite_critique", False)
+    if not isinstance(critical_value, bool):
+        raise ValueError("erreur_securite_critique doit être un booléen JSON.")
+    critical = critical_value
+    if result["securite_medicale"]["score"] == 0:
+        critical = True
+    result["erreur_securite_critique"] = critical
+    for key in ("elements_manquants", "elements_dangereux"):
+        items = value.get(key, [])
+        if not isinstance(items, list):
+            raise ValueError(f"{key} doit être une liste JSON.")
+        result[key] = [str(item) for item in items]
+    return result
+
+
+def mock_judgment() -> dict:
+    return {
+        "exactitude_metier": {"score": 3, "justification": "Test technique."},
+        "securite_medicale": {"score": 3, "justification": "Test technique."},
+        "adaptation_profil": {"score": 2, "justification": "Test technique."},
+        "qualite_conversationnelle": {
+            "score": 2,
+            "justification": "Test technique.",
+        },
+        "erreur_securite_critique": False,
+        "elements_manquants": [],
+        "elements_dangereux": [],
+    }
+
+
+def score(
+    config_path: str,
+    selected_system: str | None,
+    selected_judge: str | None,
+    limit: int | None,
+) -> None:
+    config, base_dir = load_config(config_path)
+    output_dir = resolve_path(base_dir, config["output_dir"])
+    dataset_path = resolve_path(base_dir, config["dataset"])
+    prompt_path = resolve_path(base_dir, config["judge_prompt_file"])
+    prompt_template = prompt_path.read_text(encoding="utf-8")
+
+    with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
+        dataset = {row["id"]: row for row in csv.DictReader(handle)}
+
+    systems = [
+        system
+        for system in config["systems"]
+        if not selected_system or system["name"] == selected_system
+    ]
+    judges = [
+        judge
+        for judge in config["judges"]
+        if not selected_judge or judge["name"] == selected_judge
+    ]
+    if not systems:
+        raise ValueError(f"Système absent: {selected_system}")
+    if not judges:
+        raise ValueError(f"Juge absent: {selected_judge}")
+
+    for system in systems:
+        responses = load_jsonl(
+            output_dir / "responses" / f"{system['name']}.jsonl"
+        )
+        latest_responses = {}
+        for response in responses:
+            latest_responses[response["question_id"]] = response
+        responses = list(latest_responses.values())
+        if limit:
+            responses = responses[:limit]
+        if not responses:
+            print(f"Aucune réponse persistée pour {system['name']}; ignoré.")
+            continue
+
+        for judge in judges:
+            score_path = (
+                output_dir
+                / "scores"
+                / system["name"]
+                / f"{judge['name']}.jsonl"
+            )
+            cached_hashes = {
+                record["score_request_hash"] for record in load_jsonl(score_path)
+            }
+            for index, response in enumerate(responses, start=1):
+                row = dataset[response["question_id"]]
+                rendered_prompt = render_template(
+                    prompt_template,
+                    {
+                        "question_patient": row["question_patient"],
+                        "age": row["age"],
+                        "langue": row["langue"],
+                        "theme": row["theme"],
+                        "niveau_risque": row["niveau_risque"],
+                        "type_attendu": row["type_attendu"],
+                        "reponse_attendue": row["réponse_attendue"],
+                        "points_cles": row["points_cles"],
+                        "signaux_securite": row["signaux_securite"],
+                        "reponse_chatbot": response["response"],
+                    },
+                )
+                score_request_hash = stable_hash(
+                    {
+                        "judge": judge,
+                        "prompt": rendered_prompt,
+                        "response_request_hash": response["request_hash"],
+                    }
+                )
+                if score_request_hash in cached_hashes:
+                    print(
+                        f"[{system['name']} / {judge['name']}] "
+                        f"cache {index}/{len(responses)} {row['id']}"
+                    )
+                    continue
+
+                if judge.get("type") == "mock":
+                    raw_text = json.dumps(mock_judgment(), ensure_ascii=False)
+                    api_metadata = {
+                        "latency_seconds": 0.0,
+                        "usage": {},
+                        "raw_api_response": None,
+                    }
+                    source = "local"
+                else:
+                    api_metadata = call_chat_api(
+                        judge,
+                        [{"role": "user", "content": rendered_prompt}],
+                        temperature=0,
+                        max_tokens=judge.get("max_tokens", 900),
+                    )
+                    raw_text = api_metadata["text"]
+                    source = "api"
+
+                judgment = validate_judgment(extract_json(raw_text))
+                append_jsonl(
+                    score_path,
+                    {
+                        "score_request_hash": score_request_hash,
+                        "created_at": datetime.now(timezone.utc).isoformat(),
+                        "system_name": system["name"],
+                        "judge_name": judge["name"],
+                        "judge_model": judge.get("model", judge.get("type")),
+                        "question_id": row["id"],
+                        "response_request_hash": response["request_hash"],
+                        "judgment": judgment,
+                        "raw_judge_response": raw_text,
+                        "latency_seconds": api_metadata["latency_seconds"],
+                        "usage": api_metadata["usage"],
+                        "raw_api_response": api_metadata["raw_api_response"],
+                    },
+                )
+                cached_hashes.add(score_request_hash)
+                print(
+                    f"[{system['name']} / {judge['name']}] "
+                    f"{source} {index}/{len(responses)} {row['id']}"
+                )
+            print(f"Scores persistés: {score_path}")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument(
+        "--config",
+        default=str(Path(__file__).with_name("config.example.json")),
+    )
+    parser.add_argument("--system")
+    parser.add_argument("--judge")
+    parser.add_argument("--limit", type=int)
+    args = parser.parse_args()
+    score(args.config, args.system, args.judge, args.limit)
+
+
+if __name__ == "__main__":
+    main()

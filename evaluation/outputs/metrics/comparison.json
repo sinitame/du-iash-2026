@@ -1,0 +1,10 @@
+{
+  "baseline": "test_technique",
+  "systemes": {
+    "test_technique": {
+      "score_global_moyen": 100.0,
+      "gain_absolu_vs_baseline": 0.0,
+      "taux_erreurs_securite_critiques": 0.0
+    }
+  }
+}
