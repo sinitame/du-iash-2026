@@ -288,7 +288,15 @@ def run(
         raise
 
     print(f"Progression: {progress_path}")
-    print(f"Comparaison: {output_dir / 'metrics' / 'comparison.json'}")
+    judge_prompt_path = Path(run_config["judge_prompt_file"])
+    judge_prompt_hash = stable_hash(
+        judge_prompt_path.read_text(encoding="utf-8")
+    )
+    judge_version = f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
+    print(
+        "Comparaison: "
+        f"{output_dir / judge_version / 'metrics' / 'comparison.json'}"
+    )
     print(
         "Exécution: "
         f"{tracker.state['api_calls']} appels API, "

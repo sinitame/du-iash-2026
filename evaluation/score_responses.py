@@ -124,6 +124,7 @@ def score(
     prompt_path = resolve_path(base_dir, config["judge_prompt_file"])
     prompt_template = prompt_path.read_text(encoding="utf-8")
     judge_prompt_hash = stable_hash(prompt_template)
+    judge_version = f"{prompt_path.stem}_{judge_prompt_hash[:8]}"
 
     with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
         dataset = {row["id"]: row for row in csv.DictReader(handle)}
@@ -162,13 +163,40 @@ def score(
         for judge in judges:
             score_path = (
                 output_dir
+                / judge_version
                 / "scores"
                 / system["name"]
                 / f"{judge['name']}.jsonl"
             )
+            legacy_score_paths = (
+                output_dir
+                / "scores"
+                / judge_version
+                / system["name"]
+                / f"{judge['name']}.jsonl",
+                output_dir
+                / "scores"
+                / system["name"]
+                / f"{judge['name']}.jsonl",
+            )
+            versioned_records = load_jsonl(score_path)
             cached_hashes = {
-                record["score_request_hash"] for record in load_jsonl(score_path)
+                record["score_request_hash"] for record in versioned_records
             }
+            for legacy_score_path in legacy_score_paths:
+                for record in load_jsonl(legacy_score_path):
+                    if record.get("judge_prompt_hash") != judge_prompt_hash:
+                        continue
+                    score_request_hash = record["score_request_hash"]
+                    if score_request_hash not in cached_hashes:
+                        append_jsonl(
+                            score_path,
+                            {
+                                **record,
+                                "judge_version": judge_version,
+                            },
+                        )
+                    cached_hashes.add(score_request_hash)
             pending = []
             for index, response in enumerate(responses, start=1):
                 row = dataset[response["question_id"]]
@@ -289,6 +317,7 @@ def score(
                             "judge_model": judge.get("model", judge.get("type")),
                             "judge_prompt_file": str(prompt_path),
                             "judge_prompt_hash": judge_prompt_hash,
+                            "judge_version": judge_version,
                             "question_id": row["id"],
                             "response_request_hash": response["request_hash"],
                             "judgment": result["judgment"],

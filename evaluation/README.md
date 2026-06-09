@@ -79,17 +79,24 @@ plus persistée.
 evaluation/outputs/
 ├── responses/
 │   └── <systeme>.jsonl
-├── scores/
-│   └── <systeme>/<juge>.jsonl
-├── metrics/
-│   ├── <systeme>.csv
-│   ├── <systeme>.summary.json
-│   └── comparison.json
+├── <version_juge>/
+│   ├── scores/
+│   │   └── <systeme>/<juge>.jsonl
+│   └── metrics/
+│       ├── <systeme>.csv
+│       ├── <systeme>.summary.json
+│       ├── comparison.json
+│       └── comparison.csv
 ├── progress/
 │   └── <dataset>_<mode>.json
 └── run_configs/
     └── <configuration utilisée>.json
 ```
+
+`<version_juge>` combine le nom du template et le début de son hash, par exemple
+`judge_v2_f9de70a0`. Les scores et métriques d'une calibration sont regroupés
+dans ce répertoire. Supprimer une version revient donc à supprimer un seul
+répertoire.
 
 Les fichiers JSONL sont append-only. Chaque requête possède un hash calculé à
 partir du modèle, du prompt, des paramètres et de l'entrée.

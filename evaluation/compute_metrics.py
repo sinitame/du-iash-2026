@@ -10,7 +10,7 @@ from collections import defaultdict
 from pathlib import Path
 from typing import Any
 
-from evaluation_common import load_config, load_jsonl, resolve_path
+from evaluation_common import load_config, load_jsonl, resolve_path, stable_hash
 
 
 DIMENSIONS = (
@@ -45,6 +45,12 @@ def score_global(scores: dict[str, float], blocked: bool) -> float:
         + 0.10 * scores["adaptation_profil"] / 2
         + 0.10 * scores["qualite_conversationnelle"] / 2
     )
+
+
+def format_french_number(value: float | None) -> str:
+    if value is None:
+        return ""
+    return f"{value:.2f}".replace(".", ",")
 
 
 def aggregate(items: list[dict[str, Any]]) -> dict[str, Any]:
@@ -125,6 +131,11 @@ def compute(
     config, base_dir = load_config(config_path)
     output_dir = resolve_path(base_dir, config["output_dir"])
     dataset_path = resolve_path(base_dir, config["dataset"])
+    judge_prompt_path = resolve_path(base_dir, config["judge_prompt_file"])
+    judge_prompt_hash = stable_hash(
+        judge_prompt_path.read_text(encoding="utf-8")
+    )
+    judge_version = f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
     with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
         dataset = {row["id"]: row for row in csv.DictReader(handle)}
     dataset_scope = {
@@ -155,15 +166,28 @@ def compute(
         }
         by_question: defaultdict[str, list[dict[str, Any]]] = defaultdict(list)
         for judge in config["judges"]:
-            score_path = (
+            score_paths = (
+                output_dir
+                / judge_version
+                / "scores"
+                / system["name"]
+                / f"{judge['name']}.jsonl",
+                output_dir
+                / "scores"
+                / judge_version
+                / system["name"]
+                / f"{judge['name']}.jsonl",
                 output_dir
                 / "scores"
                 / system["name"]
-                / f"{judge['name']}.jsonl"
+                / f"{judge['name']}.jsonl",
             )
             latest_by_response = {}
-            for record in load_jsonl(score_path):
-                latest_by_response[record["response_request_hash"]] = record
+            for score_path in score_paths:
+                for record in load_jsonl(score_path):
+                    if record.get("judge_prompt_hash") != judge_prompt_hash:
+                        continue
+                    latest_by_response[record["response_request_hash"]] = record
             for record in latest_by_response.values():
                 question_id = record["question_id"]
                 if (
@@ -229,7 +253,7 @@ def compute(
                 print(f"Aucun score persisté pour {system['name']}; ignoré.")
             continue
 
-        metrics_dir = output_dir / "metrics"
+        metrics_dir = output_dir / judge_version / "metrics"
         metrics_dir.mkdir(parents=True, exist_ok=True)
         detail_path = metrics_dir / f"{system['name']}.csv"
         with detail_path.open("w", encoding="utf-8-sig", newline="") as handle:
@@ -239,6 +263,8 @@ def compute(
 
         summary = {
             "systeme": system["name"],
+            "version_juge": judge_version,
+            "hash_prompt_juge": judge_prompt_hash,
             "provider": system.get("provider"),
             "modele": system.get("model"),
             "groupe_modele": system.get("model_group"),
@@ -333,10 +359,12 @@ def compute(
                     "taux_reponses_excellentes"
                 ],
             }
-        comparison_path = output_dir / "metrics" / "comparison.json"
+        comparison_path = metrics_dir / "comparison.json"
         comparison_path.write_text(
             json.dumps(
                 {
+                    "version_juge": judge_version,
+                    "hash_prompt_juge": judge_prompt_hash,
                     "baseline": baseline,
                     "baseline_valide": baseline_valid,
                     "avertissement_baseline": (
@@ -356,13 +384,13 @@ def compute(
             + "\n",
             encoding="utf-8",
         )
-        comparison_csv_path = output_dir / "metrics" / "comparison.csv"
+        comparison_detailed_csv_path = metrics_dir / "comparison_detailed.csv"
         comparison_rows = [
             {"systeme": name, **values}
             for name, values in comparison.items()
         ]
         if comparison_rows:
-            with comparison_csv_path.open(
+            with comparison_detailed_csv_path.open(
                 "w", encoding="utf-8-sig", newline=""
             ) as handle:
                 writer = csv.DictWriter(
@@ -371,9 +399,45 @@ def compute(
                 )
                 writer.writeheader()
                 writer.writerows(comparison_rows)
+
+        scores_by_model: defaultdict[str, dict[str, float]] = defaultdict(dict)
+        model_order = []
+        for system in config["systems"]:
+            name = system["name"]
+            values = comparison.get(name)
+            if not values:
+                continue
+            model = values.get("modele")
+            variant = values.get("variante_prompt")
+            if not model or variant not in {"baseline", "step_by_step"}:
+                continue
+            if model not in scores_by_model:
+                model_order.append(model)
+            scores_by_model[model][variant] = values["score_global_moyen"]
+
+        comparison_csv_path = metrics_dir / "comparison.csv"
+        with comparison_csv_path.open(
+            "w", encoding="utf-8-sig", newline=""
+        ) as handle:
+            writer = csv.writer(handle, delimiter=";")
+            writer.writerow(["model", "Baseline", "Baseline + prompt"])
+            for model in model_order:
+                scores = scores_by_model[model]
+                writer.writerow(
+                    [
+                        model,
+                        format_french_number(scores.get("baseline")),
+                        format_french_number(scores.get("step_by_step")),
+                    ]
+                )
+
         if verbose:
             print(f"Comparaison: {comparison_path}")
-            print(f"Comparaison CSV: {comparison_csv_path}")
+            print(f"Comparaison CSV synthétique: {comparison_csv_path}")
+            print(
+                "Comparaison CSV détaillée: "
+                f"{comparison_detailed_csv_path}"
+            )
 
 
 def main() -> None:
