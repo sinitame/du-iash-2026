@@ -7,6 +7,7 @@ import json
 import os
 import re
 import time
+import urllib.error
 import urllib.request
 from pathlib import Path
 from typing import Any
@@ -75,31 +76,111 @@ def call_chat_api(
     if not api_key:
         raise ValueError(f"Variable d'environnement absente: {api_key_env}")
 
-    payload = {
-        "model": provider["model"],
-        "messages": messages,
-        "temperature": temperature,
-        "max_tokens": max_tokens,
-    }
-    request = urllib.request.Request(
-        provider["base_url"].rstrip("/") + "/chat/completions",
-        data=json.dumps(payload).encode("utf-8"),
-        headers={
+    api_format = provider.get("api_format", "openai_chat")
+    if api_format == "anthropic_messages":
+        system_parts = [
+            message["content"] for message in messages if message["role"] == "system"
+        ]
+        api_messages = [
+            message for message in messages if message["role"] in {"user", "assistant"}
+        ]
+        payload = {
+            "model": provider["model"],
+            "messages": api_messages,
+            "max_tokens": max_tokens,
+            **provider.get("request_options", {}),
+        }
+        if system_parts:
+            payload["system"] = "\n\n".join(system_parts)
+        if provider.get("use_temperature", True):
+            payload["temperature"] = temperature
+        endpoint = provider["base_url"].rstrip("/") + "/messages"
+        headers = {
+            "x-api-key": api_key,
+            "anthropic-version": provider.get("anthropic_version", "2023-06-01"),
+            "Content-Type": "application/json",
+            **provider.get("headers", {}),
+        }
+    elif api_format == "openai_chat":
+        payload = {
+            "model": provider["model"],
+            "messages": messages,
+            provider.get("output_tokens_parameter", "max_tokens"): max_tokens,
+            **provider.get("request_options", {}),
+        }
+        if provider.get("use_temperature", True):
+            payload["temperature"] = temperature
+        endpoint = provider["base_url"].rstrip("/") + "/chat/completions"
+        headers = {
             "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
             **provider.get("headers", {}),
-        },
+        }
+    else:
+        raise ValueError(f"Format API inconnu: {api_format}")
+
+    request = urllib.request.Request(
+        endpoint,
+        data=json.dumps(payload).encode("utf-8"),
+        headers=headers,
         method="POST",
     )
     started = time.perf_counter()
-    with urllib.request.urlopen(
-        request, timeout=provider.get("timeout_seconds", 120)
-    ) as response:
-        body = json.loads(response.read().decode("utf-8"))
+    try:
+        with urllib.request.urlopen(
+            request, timeout=provider.get("timeout_seconds", 120)
+        ) as response:
+            body = json.loads(response.read().decode("utf-8"))
+    except urllib.error.HTTPError as error:
+        response_text = error.read().decode("utf-8", errors="replace")
+        try:
+            error_body = json.loads(response_text)
+            api_error = error_body.get("error", {})
+            message = api_error.get("message", response_text)
+            error_type = api_error.get("type")
+            error_code = api_error.get("code")
+        except json.JSONDecodeError:
+            message = response_text or error.reason
+            error_type = None
+            error_code = None
+
+        details = [f"HTTP {error.code}", str(message)]
+        if error_type:
+            details.append(f"type={error_type}")
+        if error_code:
+            details.append(f"code={error_code}")
+        request_id = error.headers.get("x-request-id") or error.headers.get("request-id")
+        if request_id:
+            details.append(f"request_id={request_id}")
+        if (
+            api_format == "openai_chat"
+            and error.code == 403
+            and error_code == "model_not_found"
+        ):
+            details.append(
+                "Vérifiez que la clé autorise Chat completions en écriture "
+                "et que le projet a accès au modèle."
+            )
+        raise RuntimeError("Erreur API: " + " | ".join(details)) from None
+    except urllib.error.URLError as error:
+        raise RuntimeError(f"Connexion à l'API impossible: {error.reason}") from None
+    if api_format == "anthropic_messages":
+        text = "".join(
+            block.get("text", "")
+            for block in body.get("content", [])
+            if block.get("type") == "text"
+        ).strip()
+        usage = body.get("usage", {})
+    else:
+        text = body["choices"][0]["message"]["content"].strip()
+        usage = body.get("usage", {})
+    if not text:
+        raise RuntimeError("L'API a retourné une réponse sans contenu texte.")
+
     return {
-        "text": body["choices"][0]["message"]["content"].strip(),
+        "text": text,
         "latency_seconds": round(time.perf_counter() - started, 4),
-        "usage": body.get("usage", {}),
+        "usage": usage,
         "raw_api_response": body,
     }
 

@@ -46,8 +46,56 @@ python3 evaluation/generate_responses.py \
 Pour un vrai système:
 
 ```bash
+export OPENAI_API_KEY="votre-nouvelle-cle"
 python3 evaluation/generate_responses.py \
-  --system modele_a
+  --system openai_gpt_5_mini
+```
+
+Les modèles répondants configurés sont:
+
+- `openai_gpt_5_mini` (`gpt-5-mini`), utilisé comme baseline;
+- `openai_gpt_4_1_mini` (`gpt-4.1-mini`);
+- `openai_gpt_4_turbo` (`gpt-4-turbo`);
+- `openai_gpt_3_5_turbo` (`gpt-3.5-turbo`).
+
+Les modèles Mistral configurés sont:
+
+- `mistral_large_2512` (`mistral-large-2512`);
+- `mistral_medium_2508` (`mistral-medium-2508`);
+- `mistral_small_2603` (`mistral-small-2603`);
+- `mistral_ministral_8b_2512` (`ministral-8b-2512`);
+- `mistral_nemo_2407` (`open-mistral-nemo-2407`).
+
+Les IDs sont figés plutôt que d'utiliser les alias `latest`, afin de rendre les
+résultats reproductibles.
+
+Pour générer les réponses d'un modèle Mistral:
+
+```bash
+export MISTRAL_API_KEY="votre-cle"
+python3 evaluation/generate_responses.py \
+  --system mistral_small_2603
+```
+
+Les modèles Anthropic configurés sont:
+
+- `anthropic_claude_fable_5` (`claude-fable-5`);
+- `anthropic_claude_opus_4_8` (`claude-opus-4-8`);
+- `anthropic_claude_sonnet_4_6` (`claude-sonnet-4-6`);
+- `anthropic_claude_haiku_4_5` (`claude-haiku-4-5-20251001`).
+
+Pour générer les réponses d'un modèle Anthropic:
+
+```bash
+export ANTHROPIC_API_KEY="votre-cle"
+python3 evaluation/generate_responses.py \
+  --system anthropic_claude_sonnet_4_6
+```
+
+Pour générer les réponses de tous les systèmes configurés:
+
+```bash
+python3 evaluation/generate_responses.py
 ```
 
 Relancer la même commande n'effectue pas de nouveaux appels pour les requêtes déjà
@@ -89,10 +137,59 @@ python3 evaluation/score_responses.py \
 Pour un vrai juge:
 
 ```bash
+export OPENAI_API_KEY="votre-nouvelle-cle"
 python3 evaluation/score_responses.py \
-  --system modele_a \
-  --judge juge_a
+  --system openai_gpt_5_mini \
+  --judge openai_gpt_4_1_mini_judge
 ```
+
+Le juge utilise `gpt-4.1-mini` et le mode de sortie JSON.
+Le même juge doit être utilisé pour tous les modèles répondants afin de préserver
+la comparabilité.
+
+Les réponses Mistral sont donc également évaluées par le juge OpenAI fixe:
+
+```bash
+python3 evaluation/score_responses.py \
+  --system mistral_small_2603 \
+  --judge openai_gpt_4_1_mini_judge
+```
+
+Il en va de même pour les réponses Anthropic:
+
+```bash
+python3 evaluation/score_responses.py \
+  --system anthropic_claude_sonnet_4_6 \
+  --judge openai_gpt_4_1_mini_judge
+```
+
+Pour scorer tous les systèmes configurés avec ce juge:
+
+```bash
+python3 evaluation/score_responses.py \
+  --judge openai_gpt_4_1_mini_judge
+```
+
+### Erreurs d'accès OpenAI
+
+Une erreur `401` ou `403` indique généralement une clé invalide/révoquée ou un
+modèle non autorisé pour le projet API. Créez une nouvelle clé dans le projet
+OpenAI concerné, vérifiez que la facturation et l'accès au modèle sont actifs, puis:
+
+```bash
+unset OPENAI_API_KEY
+export OPENAI_API_KEY="nouvelle-cle"
+```
+
+Ne placez jamais la clé dans `config.example.json` ou dans un fichier versionné.
+
+Pour une clé OpenAI avec permissions `Restricted`, le pipeline actuel nécessite:
+
+- `Chat completions (/v1/chat/completions)`: `Write`;
+- `List models`: `Read` est recommandé pour le diagnostic.
+
+Pour un environnement de développement, sélectionner temporairement `All` est
+l'option la plus simple.
 
 Les sorties brutes et structurées des juges sont persistées dans `scores/`.
 Une relance identique utilise le cache.
@@ -104,6 +201,10 @@ Cette étape ne fait aucun appel API:
 ```bash
 python3 evaluation/compute_metrics.py
 ```
+
+Cette commande sans `--system` régénère `comparison.json` avec tous les systèmes
+qui possèdent des réponses et des scores persistés. Une exécution ciblée, par
+exemple `--system openai_gpt_5_mini`, ne modifie plus la comparaison globale.
 
 Le score global est normalisé sur 100:
 
