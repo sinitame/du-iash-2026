@@ -38,6 +38,12 @@ python3 evaluation/run_evaluation.py \
 Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
 calcul des métriques.
 
+Le mode `prompt` exécute les variantes `baseline` et `step_by_step` afin de
+permettre leur comparaison dans un seul run. Il n'est donc pas nécessaire de
+lancer ensuite le mode `baseline`: ses réponses et scores auront déjà été
+produits. Le récapitulatif final indique le nombre d'appels API et de résultats
+réutilisés depuis le cache.
+
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 
 ```bash
@@ -133,6 +139,13 @@ Ces indicateurs évitent qu'une moyenne élevée masque quelques réponses faibl
 Pour comparer sérieusement les systèmes, utiliser un jeu de test couvrant
 plusieurs thèmes et suffisamment de questions. Le fichier `dataset_test.csv`
 contient seulement 9 questions d'un seul thème et sert surtout de smoke test.
+
+Le calcul produit trois fichiers de comparaison:
+
+- `comparison.json`: résultats complets structurés;
+- `comparison.csv`: tableau synthétique `model`, `Baseline`,
+  `Baseline + prompt`, avec séparateur `;` et décimales françaises;
+- `comparison_detailed.csv`: toutes les métriques disponibles par système.
 
 Test sans API:
 

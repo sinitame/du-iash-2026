@@ -165,7 +165,7 @@ class ProgressTracker:
         filled = min(width, round(width * ratio))
         bar = "#" * filled + "-" * (width - filled)
         line = (
-            f"\r[{bar}] {completed}/{total} ({ratio:.0%}) "
+            f"\r\033[2K[{bar}] {completed}/{total} ({ratio:.0%}) "
             f"{self.state['current_stage']} "
             f"{self.state.get('current_system') or ''} "
             f"{self.state.get('current_question_id') or ''}"
@@ -289,6 +289,12 @@ def run(
 
     print(f"Progression: {progress_path}")
     print(f"Comparaison: {output_dir / 'metrics' / 'comparison.json'}")
+    print(
+        "Exécution: "
+        f"{tracker.state['api_calls']} appels API, "
+        f"{tracker.state['cache_hits']} résultats réutilisés, "
+        f"{tracker.state['local_calls']} étape(s) locale(s)."
+    )
 
 
 def main() -> None:
