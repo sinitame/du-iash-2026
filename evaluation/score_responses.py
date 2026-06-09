@@ -7,6 +7,7 @@ import csv
 import json
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any, Callable
 
 from evaluation_common import (
     append_jsonl,
@@ -26,6 +27,7 @@ SCORE_LIMITS = {
     "adaptation_profil": (0, 2),
     "qualite_conversationnelle": (0, 2),
 }
+ProgressCallback = Callable[[dict[str, Any]], None]
 
 
 def validate_judgment(value: dict) -> dict:
@@ -77,6 +79,8 @@ def score(
     selected_system: str | None,
     selected_judge: str | None,
     limit: int | None,
+    progress_callback: ProgressCallback | None = None,
+    verbose: bool = True,
 ) -> None:
     config, base_dir = load_config(config_path)
     output_dir = resolve_path(base_dir, config["output_dir"])
@@ -108,12 +112,14 @@ def score(
         )
         latest_responses = {}
         for response in responses:
-            latest_responses[response["question_id"]] = response
+            if response["question_id"] in dataset:
+                latest_responses[response["question_id"]] = response
         responses = list(latest_responses.values())
         if limit:
             responses = responses[:limit]
         if not responses:
-            print(f"Aucune réponse persistée pour {system['name']}; ignoré.")
+            if verbose:
+                print(f"Aucune réponse persistée pour {system['name']}; ignoré.")
             continue
 
         for judge in judges:
@@ -151,10 +157,21 @@ def score(
                     }
                 )
                 if score_request_hash in cached_hashes:
-                    print(
-                        f"[{system['name']} / {judge['name']}] "
-                        f"cache {index}/{len(responses)} {row['id']}"
-                    )
+                    if verbose:
+                        print(
+                            f"[{system['name']} / {judge['name']}] "
+                            f"cache {index}/{len(responses)} {row['id']}"
+                        )
+                    if progress_callback:
+                        progress_callback(
+                            {
+                                "stage": "scoring",
+                                "system": system["name"],
+                                "judge": judge["name"],
+                                "question_id": row["id"],
+                                "source": "cache",
+                            }
+                        )
                     continue
 
                 if judge.get("type") == "mock":
@@ -194,11 +211,23 @@ def score(
                     },
                 )
                 cached_hashes.add(score_request_hash)
-                print(
-                    f"[{system['name']} / {judge['name']}] "
-                    f"{source} {index}/{len(responses)} {row['id']}"
-                )
-            print(f"Scores persistés: {score_path}")
+                if verbose:
+                    print(
+                        f"[{system['name']} / {judge['name']}] "
+                        f"{source} {index}/{len(responses)} {row['id']}"
+                    )
+                if progress_callback:
+                    progress_callback(
+                        {
+                            "stage": "scoring",
+                            "system": system["name"],
+                            "judge": judge["name"],
+                            "question_id": row["id"],
+                            "source": source,
+                        }
+                    )
+            if verbose:
+                print(f"Scores persistés: {score_path}")
 
 
 def main() -> None:

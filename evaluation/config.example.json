@@ -1,7 +1,6 @@
 {
   "dataset": "data/dataset_test.csv",
   "output_dir": "outputs",
-  "chatbot_prompt_file": "prompts/chatbot_baseline.txt",
   "judge_prompt_file": "prompts/judge_v1.txt",
   "temperature": 0,
   "max_tokens": 500,
@@ -14,6 +13,10 @@
     {
       "name": "openai_gpt_5_mini",
       "model": "gpt-5-mini",
+      "provider": "openai",
+      "model_group": "advanced",
+      "prompt_variant": "baseline",
+      "prompt_file": "prompts/chatbot_baseline.txt",
       "base_url": "https://api.openai.com/v1",
       "api_key_env": "OPENAI_API_KEY",
       "output_tokens_parameter": "max_completion_tokens",
@@ -23,88 +26,107 @@
       }
     },
     {
-      "name": "openai_gpt_4_1_mini",
-      "model": "gpt-4.1-mini",
+      "name": "openai_gpt_5_mini_step_by_step",
+      "model": "gpt-5-mini",
+      "provider": "openai",
+      "model_group": "advanced",
+      "prompt_variant": "step_by_step",
+      "prompt_file": "prompts/chatbot_step_by_step.txt",
       "base_url": "https://api.openai.com/v1",
       "api_key_env": "OPENAI_API_KEY",
-      "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "openai_gpt_4_turbo",
-      "model": "gpt-4-turbo",
-      "base_url": "https://api.openai.com/v1",
-      "api_key_env": "OPENAI_API_KEY",
-      "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "openai_gpt_3_5_turbo",
-      "model": "gpt-3.5-turbo",
-      "base_url": "https://api.openai.com/v1",
-      "api_key_env": "OPENAI_API_KEY",
-      "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "mistral_large_2512",
-      "model": "mistral-large-2512",
-      "base_url": "https://api.mistral.ai/v1",
-      "api_key_env": "MISTRAL_API_KEY",
-      "output_tokens_parameter": "max_tokens"
+      "output_tokens_parameter": "max_completion_tokens",
+      "use_temperature": false,
+      "request_options": {
+        "reasoning_effort": "minimal"
+      }
     },
     {
       "name": "mistral_medium_2508",
       "model": "mistral-medium-2508",
+      "provider": "mistral",
+      "model_group": "advanced",
+      "prompt_variant": "baseline",
+      "prompt_file": "prompts/chatbot_baseline.txt",
       "base_url": "https://api.mistral.ai/v1",
       "api_key_env": "MISTRAL_API_KEY",
       "output_tokens_parameter": "max_tokens"
     },
     {
-      "name": "mistral_small_2603",
-      "model": "mistral-small-2603",
+      "name": "mistral_medium_2508_step_by_step",
+      "model": "mistral-medium-2508",
+      "provider": "mistral",
+      "model_group": "advanced",
+      "prompt_variant": "step_by_step",
+      "prompt_file": "prompts/chatbot_step_by_step.txt",
       "base_url": "https://api.mistral.ai/v1",
       "api_key_env": "MISTRAL_API_KEY",
       "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "mistral_ministral_8b_2512",
-      "model": "ministral-8b-2512",
-      "base_url": "https://api.mistral.ai/v1",
-      "api_key_env": "MISTRAL_API_KEY",
-      "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "mistral_nemo_2407",
-      "model": "open-mistral-nemo-2407",
-      "base_url": "https://api.mistral.ai/v1",
-      "api_key_env": "MISTRAL_API_KEY",
-      "output_tokens_parameter": "max_tokens"
-    },
-    {
-      "name": "anthropic_claude_fable_5",
-      "model": "claude-fable-5",
-      "base_url": "https://api.anthropic.com/v1",
-      "api_key_env": "ANTHROPIC_API_KEY",
-      "api_format": "anthropic_messages",
-      "anthropic_version": "2023-06-01"
-    },
-    {
-      "name": "anthropic_claude_opus_4_8",
-      "model": "claude-opus-4-8",
-      "base_url": "https://api.anthropic.com/v1",
-      "api_key_env": "ANTHROPIC_API_KEY",
-      "api_format": "anthropic_messages",
-      "anthropic_version": "2023-06-01"
     },
     {
       "name": "anthropic_claude_sonnet_4_6",
       "model": "claude-sonnet-4-6",
+      "provider": "anthropic",
+      "model_group": "advanced",
+      "prompt_variant": "baseline",
+      "prompt_file": "prompts/chatbot_baseline.txt",
       "base_url": "https://api.anthropic.com/v1",
       "api_key_env": "ANTHROPIC_API_KEY",
       "api_format": "anthropic_messages",
       "anthropic_version": "2023-06-01"
     },
     {
+      "name": "anthropic_claude_sonnet_4_6_step_by_step",
+      "model": "claude-sonnet-4-6",
+      "provider": "anthropic",
+      "model_group": "advanced",
+      "prompt_variant": "step_by_step",
+      "prompt_file": "prompts/chatbot_step_by_step.txt",
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "ANTHROPIC_API_KEY",
+      "api_format": "anthropic_messages",
+      "anthropic_version": "2023-06-01"
+    },
+    {
+      "name": "mistral_ministral_8b_2512",
+      "model": "ministral-8b-2512",
+      "provider": "mistral",
+      "model_group": "compact",
+      "prompt_variant": "baseline",
+      "prompt_file": "prompts/chatbot_baseline.txt",
+      "base_url": "https://api.mistral.ai/v1",
+      "api_key_env": "MISTRAL_API_KEY",
+      "output_tokens_parameter": "max_tokens"
+    },
+    {
+      "name": "mistral_ministral_8b_2512_step_by_step",
+      "model": "ministral-8b-2512",
+      "provider": "mistral",
+      "model_group": "compact",
+      "prompt_variant": "step_by_step",
+      "prompt_file": "prompts/chatbot_step_by_step.txt",
+      "base_url": "https://api.mistral.ai/v1",
+      "api_key_env": "MISTRAL_API_KEY",
+      "output_tokens_parameter": "max_tokens"
+    },
+    {
       "name": "anthropic_claude_haiku_4_5",
       "model": "claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "model_group": "compact",
+      "prompt_variant": "baseline",
+      "prompt_file": "prompts/chatbot_baseline.txt",
+      "base_url": "https://api.anthropic.com/v1",
+      "api_key_env": "ANTHROPIC_API_KEY",
+      "api_format": "anthropic_messages",
+      "anthropic_version": "2023-06-01"
+    },
+    {
+      "name": "anthropic_claude_haiku_4_5_step_by_step",
+      "model": "claude-haiku-4-5-20251001",
+      "provider": "anthropic",
+      "model_group": "compact",
+      "prompt_variant": "step_by_step",
+      "prompt_file": "prompts/chatbot_step_by_step.txt",
       "base_url": "https://api.anthropic.com/v1",
       "api_key_env": "ANTHROPIC_API_KEY",
       "api_format": "anthropic_messages",

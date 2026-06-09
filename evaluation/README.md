@@ -8,6 +8,52 @@ Le pipeline sépare strictement trois opérations:
 
 Cette séparation évite de rappeler les APIs lorsqu'on modifie les métriques.
 
+## Commande complète
+
+Le script principal prend exactement deux entrées:
+
+```bash
+python3 evaluation/run_evaluation.py <dataset.csv> <mode>
+```
+
+Modes:
+
+- `baseline`: évalue les cinq modèles avec le prompt minimal;
+- `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
+- `rag`: réservé pour la prochaine étape, pas encore implémenté.
+
+Exemples:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  baseline
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  prompt
+```
+
+Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
+calcul des métriques.
+
+Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
+
+```bash
+export OPENAI_API_KEY="..."
+export MISTRAL_API_KEY="..."
+export ANTHROPIC_API_KEY="..."
+```
+
+La progression est affichée dans le terminal et persistée dans:
+
+```text
+evaluation/outputs/progress/<dataset>_<mode>.json
+```
+
+En cas d'interruption, relancer la même commande reprend les réponses et scores
+déjà sauvegardés grâce au cache.
+
 ## Structure des résultats
 
 ```text
@@ -16,10 +62,14 @@ evaluation/outputs/
 │   └── <systeme>.jsonl
 ├── scores/
 │   └── <systeme>/<juge>.jsonl
-└── metrics/
-    ├── <systeme>.csv
-    ├── <systeme>.summary.json
-    └── comparison.json
+├── metrics/
+│   ├── <systeme>.csv
+│   ├── <systeme>.summary.json
+│   └── comparison.json
+├── progress/
+│   └── <dataset>_<mode>.json
+└── run_configs/
+    └── <configuration utilisée>.json
 ```
 
 Les fichiers JSONL sont append-only. Chaque requête possède un hash calculé à
@@ -33,7 +83,15 @@ partir du modèle, du prompt, des paramètres et de l'entrée.
 
 ## 1. Générer les réponses
 
-Le prompt du chatbot est dans `evaluation/prompts/chatbot_baseline.txt`.
+Chaque système associe un modèle à un fichier `prompt_file`. Deux variantes sont
+disponibles:
+
+- `evaluation/prompts/chatbot_baseline.txt`: consignes minimales;
+- `evaluation/prompts/chatbot_step_by_step.txt`: réponse structurée en étapes,
+  adaptée au patient et attentive à la sécurité.
+
+Le prompt fait partie du hash de cache. Modifier son contenu crée donc une nouvelle
+requête, tandis qu'une relance sans modification réutilise les réponses persistées.
 
 Test sans API:
 
@@ -51,48 +109,47 @@ python3 evaluation/generate_responses.py \
   --system openai_gpt_5_mini
 ```
 
-Les modèles répondants configurés sont:
+Le panel est limité à cinq modèles, répartis en deux groupes indicatifs:
 
-- `openai_gpt_5_mini` (`gpt-5-mini`), utilisé comme baseline;
-- `openai_gpt_4_1_mini` (`gpt-4.1-mini`);
-- `openai_gpt_4_turbo` (`gpt-4-turbo`);
-- `openai_gpt_3_5_turbo` (`gpt-3.5-turbo`).
+Modèles généralistes avancés:
 
-Les modèles Mistral configurés sont:
+- OpenAI: `gpt-5-mini`;
+- Mistral: `mistral-medium-2508`;
+- Anthropic: `claude-sonnet-4-6`.
 
-- `mistral_large_2512` (`mistral-large-2512`);
-- `mistral_medium_2508` (`mistral-medium-2508`);
-- `mistral_small_2603` (`mistral-small-2603`);
-- `mistral_ministral_8b_2512` (`ministral-8b-2512`);
-- `mistral_nemo_2407` (`open-mistral-nemo-2407`).
+Modèles compacts:
 
-Les IDs sont figés plutôt que d'utiliser les alias `latest`, afin de rendre les
-résultats reproductibles.
+- Mistral: `ministral-8b-2512`;
+- Anthropic: `claude-haiku-4-5-20251001`.
 
-Pour générer les réponses d'un modèle Mistral:
+Les groupes servent à éviter les comparaisons manifestement déséquilibrées. Ils
+restent indicatifs, car les fournisseurs ne publient pas tous des caractéristiques
+directement comparables.
 
-```bash
-export MISTRAL_API_KEY="votre-cle"
-python3 evaluation/generate_responses.py \
-  --system mistral_small_2603
-```
-
-Les modèles Anthropic configurés sont:
-
-- `anthropic_claude_fable_5` (`claude-fable-5`);
-- `anthropic_claude_opus_4_8` (`claude-opus-4-8`);
-- `anthropic_claude_sonnet_4_6` (`claude-sonnet-4-6`);
-- `anthropic_claude_haiku_4_5` (`claude-haiku-4-5-20251001`).
-
-Pour générer les réponses d'un modèle Anthropic:
+Chaque modèle possède une baseline et une variante step-by-step:
 
 ```bash
-export ANTHROPIC_API_KEY="votre-cle"
 python3 evaluation/generate_responses.py \
-  --system anthropic_claude_sonnet_4_6
+  --system openai_gpt_5_mini_step_by_step
 ```
 
-Pour générer les réponses de tous les systèmes configurés:
+Pour essayer une nouvelle variante:
+
+1. Créer un fichier, par exemple `evaluation/prompts/chatbot_v2.txt`.
+2. Ajouter une entrée dans `systems` avec un nom unique et:
+
+```json
+{
+  "name": "openai_gpt_5_mini_v2",
+  "model": "gpt-5-mini",
+  "prompt_file": "prompts/chatbot_v2.txt"
+}
+```
+
+Les autres paramètres fournisseur doivent être repris depuis l'entrée du même
+modèle. Le nom unique sépare les réponses, scores et métriques de chaque variante.
+
+Pour générer toutes les variantes configurées:
 
 ```bash
 python3 evaluation/generate_responses.py
@@ -147,19 +204,11 @@ Le juge utilise `gpt-4.1-mini` et le mode de sortie JSON.
 Le même juge doit être utilisé pour tous les modèles répondants afin de préserver
 la comparabilité.
 
-Les réponses Mistral sont donc également évaluées par le juge OpenAI fixe:
+Exemple avec une variante de prompt:
 
 ```bash
 python3 evaluation/score_responses.py \
-  --system mistral_small_2603 \
-  --judge openai_gpt_4_1_mini_judge
-```
-
-Il en va de même pour les réponses Anthropic:
-
-```bash
-python3 evaluation/score_responses.py \
-  --system anthropic_claude_sonnet_4_6 \
+  --system mistral_small_2603_step_by_step \
   --judge openai_gpt_4_1_mini_judge
 ```
 
@@ -226,6 +275,7 @@ Les rapports contiennent:
 - le taux d'erreurs critiques;
 - les résultats par âge, thème et niveau de risque;
 - le gain absolu par rapport à la baseline.
+- le gain de chaque variante par rapport au prompt baseline du même modèle.
 
 Le CSV détaillé reste volontairement simple:
 
@@ -247,3 +297,8 @@ jugement reste disponible dans `scores/`, sans alourdir le rapport de métriques
 
 Le code de `compute_metrics.py` peut être modifié et relancé autant de fois que
 nécessaire sans régénérer les réponses ni rappeler les juges.
+
+## Étape suivante
+
+Le RAG n'est pas encore implémenté. Il sera ajouté comme une variante distincte
+après la comparaison des prompts baseline et step-by-step.

@@ -6,6 +6,7 @@ import argparse
 import csv
 from datetime import datetime, timezone
 from pathlib import Path
+from typing import Any, Callable
 
 from evaluation_common import (
     append_jsonl,
@@ -16,13 +17,26 @@ from evaluation_common import (
     stable_hash,
 )
 
+LEGACY_BASELINE_PROMPT = """\
+Tu es un assistant conversationnel. Réponds clairement en français.
+Ne pose pas de diagnostic et recommande de consulter un professionnel de santé
+si la situation peut être urgente."""
+LEGACY_BASELINE_PROMPT_HASH = stable_hash(LEGACY_BASELINE_PROMPT)
 
-def generate(config_path: str, selected_system: str | None, limit: int | None) -> None:
+
+ProgressCallback = Callable[[dict[str, Any]], None]
+
+
+def generate(
+    config_path: str,
+    selected_system: str | None,
+    limit: int | None,
+    progress_callback: ProgressCallback | None = None,
+    verbose: bool = True,
+) -> None:
     config, base_dir = load_config(config_path)
     dataset_path = resolve_path(base_dir, config["dataset"])
     output_dir = resolve_path(base_dir, config["output_dir"]) / "responses"
-    prompt_path = resolve_path(base_dir, config["chatbot_prompt_file"])
-    system_prompt = prompt_path.read_text(encoding="utf-8").strip()
 
     with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
         dataset = list(csv.DictReader(handle))
@@ -38,9 +52,21 @@ def generate(config_path: str, selected_system: str | None, limit: int | None) -
         raise ValueError(f"Système absent de la configuration: {selected_system}")
 
     for system in selected:
+        prompt_file = system.get("prompt_file")
+        if not prompt_file and system.get("type") != "reference":
+            raise ValueError(f"prompt_file absent pour le système {system['name']}")
+        prompt_path = (
+            resolve_path(base_dir, prompt_file) if prompt_file else None
+        )
+        system_prompt = (
+            prompt_path.read_text(encoding="utf-8").strip() if prompt_path else ""
+        )
+        prompt_hash = stable_hash(system_prompt)
         output_path = output_dir / f"{system['name']}.jsonl"
-        cached_hashes = {
-            record["request_hash"] for record in load_jsonl(output_path)
+        existing_records = load_jsonl(output_path)
+        cached_hashes = {record["request_hash"] for record in existing_records}
+        latest_by_question = {
+            record["question_id"]: record for record in existing_records
         }
         for index, row in enumerate(dataset, start=1):
             user_prompt = (
@@ -61,7 +87,68 @@ def generate(config_path: str, selected_system: str | None, limit: int | None) -
                 }
             )
             if request_hash in cached_hashes:
-                print(f"[{system['name']}] cache {index}/{len(dataset)} {row['id']}")
+                if verbose:
+                    print(
+                        f"[{system['name']}] cache "
+                        f"{index}/{len(dataset)} {row['id']}"
+                    )
+                if progress_callback:
+                    progress_callback(
+                        {
+                            "stage": "generation",
+                            "system": system["name"],
+                            "question_id": row["id"],
+                            "source": "cache",
+                        }
+                    )
+                continue
+            legacy_record = latest_by_question.get(row["id"])
+            same_semantic_request = (
+                legacy_record
+                and legacy_record.get("prompt_hash") == prompt_hash
+                and legacy_record.get("model")
+                == system.get("model", system.get("type"))
+                and legacy_record.get("question") == row["question_patient"]
+                and legacy_record.get("age") == row["age"]
+                and legacy_record.get("langue") == row["langue"]
+            )
+            if same_semantic_request:
+                if verbose:
+                    print(
+                        f"[{system['name']}] cache prompt "
+                        f"{index}/{len(dataset)} {row['id']}"
+                    )
+                if progress_callback:
+                    progress_callback(
+                        {
+                            "stage": "generation",
+                            "system": system["name"],
+                            "question_id": row["id"],
+                            "source": "cache",
+                        }
+                    )
+                continue
+            if (
+                legacy_record
+                and "prompt_hash" not in legacy_record
+                and prompt_hash == LEGACY_BASELINE_PROMPT_HASH
+                and legacy_record.get("model")
+                == system.get("model", system.get("type"))
+            ):
+                if verbose:
+                    print(
+                        f"[{system['name']}] cache legacy "
+                        f"{index}/{len(dataset)} {row['id']}"
+                    )
+                if progress_callback:
+                    progress_callback(
+                        {
+                            "stage": "generation",
+                            "system": system["name"],
+                            "question_id": row["id"],
+                            "source": "cache",
+                        }
+                    )
                 continue
 
             if system.get("type") == "reference":
@@ -88,6 +175,11 @@ def generate(config_path: str, selected_system: str | None, limit: int | None) -
                     "created_at": datetime.now(timezone.utc).isoformat(),
                     "system_name": system["name"],
                     "model": system.get("model", system.get("type")),
+                    "provider": system.get("provider"),
+                    "model_group": system.get("model_group"),
+                    "prompt_variant": system.get("prompt_variant"),
+                    "prompt_file": prompt_file,
+                    "prompt_hash": prompt_hash,
                     "question_id": row["id"],
                     "question": row["question_patient"],
                     "age": row["age"],
@@ -101,8 +193,28 @@ def generate(config_path: str, selected_system: str | None, limit: int | None) -
                 },
             )
             cached_hashes.add(request_hash)
-            print(f"[{system['name']}] {source} {index}/{len(dataset)} {row['id']}")
-        print(f"Réponses persistées: {output_path}")
+            latest_by_question[row["id"]] = {
+                "request_hash": request_hash,
+                "question_id": row["id"],
+                "model": system.get("model", system.get("type")),
+                "prompt_hash": prompt_hash,
+            }
+            if verbose:
+                print(
+                    f"[{system['name']}] {source} "
+                    f"{index}/{len(dataset)} {row['id']}"
+                )
+            if progress_callback:
+                progress_callback(
+                    {
+                        "stage": "generation",
+                        "system": system["name"],
+                        "question_id": row["id"],
+                        "source": source,
+                    }
+                )
+        if verbose:
+            print(f"Réponses persistées: {output_path}")
 
 
 def main() -> None:

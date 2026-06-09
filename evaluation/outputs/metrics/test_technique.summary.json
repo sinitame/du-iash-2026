@@ -1,5 +1,9 @@
 {
   "systeme": "test_technique",
+  "provider": null,
+  "modele": null,
+  "groupe_modele": null,
+  "variante_prompt": null,
   "global": {
     "nombre_questions": 9,
     "score_global_moyen": 100.0,

@@ -1,0 +1,268 @@
+"""Lancer génération, scoring et métriques avec suivi de progression."""
+
+from __future__ import annotations
+
+import argparse
+import csv
+import json
+import sys
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Any
+
+from compute_metrics import compute
+from evaluation_common import load_config, resolve_path, stable_hash
+from generate_responses import generate
+from score_responses import score
+
+
+def utc_now() -> str:
+    return datetime.now(timezone.utc).isoformat()
+
+
+def atomic_write_json(path: Path, value: dict[str, Any]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    temporary = path.with_suffix(path.suffix + ".tmp")
+    temporary.write_text(
+        json.dumps(value, ensure_ascii=False, indent=2) + "\n",
+        encoding="utf-8",
+    )
+    temporary.replace(path)
+
+
+def resolve_dataset_path(value: str, evaluation_dir: Path) -> Path:
+    supplied = Path(value).expanduser()
+    candidates = (
+        [supplied]
+        if supplied.is_absolute()
+        else [Path.cwd() / supplied, evaluation_dir / supplied]
+    )
+    for candidate in candidates:
+        if candidate.is_file():
+            return candidate.resolve()
+    raise FileNotFoundError(f"Dataset CSV introuvable: {value}")
+
+
+def count_questions(path: Path) -> int:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        return sum(1 for _ in csv.DictReader(handle))
+
+
+def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
+    if mode == "baseline":
+        variants = {"baseline"}
+    elif mode == "prompt":
+        variants = {"baseline", "step_by_step"}
+    elif mode == "rag":
+        raise NotImplementedError(
+            "Le mode RAG n'est pas encore implémenté. "
+            "Utilisez baseline ou prompt."
+        )
+    else:
+        raise ValueError(f"Mode inconnu: {mode}")
+
+    systems = [
+        system
+        for system in config["systems"]
+        if system.get("prompt_variant") in variants
+    ]
+    if not systems:
+        raise ValueError(f"Aucun système configuré pour le mode {mode}")
+    return systems
+
+
+class ProgressTracker:
+    def __init__(
+        self,
+        path: Path,
+        dataset: Path,
+        mode: str,
+        systems: list[dict[str, Any]],
+        question_count: int,
+    ):
+        self.path = path
+        self.state = {
+            "status": "running",
+            "started_at": utc_now(),
+            "updated_at": utc_now(),
+            "dataset": str(dataset),
+            "mode": mode,
+            "systems": [system["name"] for system in systems],
+            "question_count": question_count,
+            "total_steps": question_count * len(systems) * 2 + 1,
+            "completed_steps": 0,
+            "current_stage": "initialization",
+            "current_system": None,
+            "current_question_id": None,
+            "cache_hits": 0,
+            "api_calls": 0,
+            "local_calls": 0,
+            "error": None,
+        }
+        self._save()
+
+    def _save(self) -> None:
+        self.state["updated_at"] = utc_now()
+        atomic_write_json(self.path, self.state)
+
+    def update(self, event: dict[str, Any]) -> None:
+        self.state["completed_steps"] += 1
+        self.state["current_stage"] = event["stage"]
+        self.state["current_system"] = event.get("system")
+        self.state["current_question_id"] = event.get("question_id")
+        source = event.get("source")
+        if source == "cache":
+            self.state["cache_hits"] += 1
+        elif source == "api":
+            self.state["api_calls"] += 1
+        elif source == "local":
+            self.state["local_calls"] += 1
+        self._save()
+        self._render()
+
+    def metrics_done(self) -> None:
+        self.update({"stage": "metrics", "source": "local"})
+
+    def complete(self) -> None:
+        self.state["status"] = "completed"
+        self.state["completed_at"] = utc_now()
+        self.state["current_stage"] = "completed"
+        self._save()
+        self._render(final=True)
+
+    def fail(self, error: Exception) -> None:
+        self.state["status"] = "failed"
+        self.state["failed_at"] = utc_now()
+        self.state["error"] = str(error)
+        self._save()
+        print(file=sys.stderr)
+        print(f"Échec. Progression sauvegardée dans {self.path}", file=sys.stderr)
+
+    def _render(self, final: bool = False) -> None:
+        completed = self.state["completed_steps"]
+        total = self.state["total_steps"]
+        ratio = completed / total if total else 1
+        width = 28
+        filled = min(width, round(width * ratio))
+        bar = "#" * filled + "-" * (width - filled)
+        line = (
+            f"\r[{bar}] {completed}/{total} ({ratio:.0%}) "
+            f"{self.state['current_stage']} "
+            f"{self.state.get('current_system') or ''} "
+            f"{self.state.get('current_question_id') or ''}"
+        )
+        print(line.rstrip(), end="\n" if final else "", flush=True)
+
+
+def build_run_config(
+    base_config_path: Path,
+    dataset_path: Path,
+    mode: str,
+) -> tuple[Path, dict[str, Any], list[dict[str, Any]]]:
+    config, base_dir = load_config(base_config_path)
+    systems = select_systems(config, mode)
+    judges = [judge for judge in config["judges"] if judge.get("type") != "mock"]
+    if len(judges) != 1:
+        raise ValueError("La configuration doit contenir exactement un juge réel.")
+
+    output_dir = resolve_path(base_dir, config["output_dir"])
+    derived = {
+        **config,
+        "dataset": str(dataset_path),
+        "output_dir": str(output_dir),
+        "judge_prompt_file": str(
+            resolve_path(base_dir, config["judge_prompt_file"])
+        ),
+        "systems": [
+            {
+                **system,
+                "prompt_file": str(resolve_path(base_dir, system["prompt_file"])),
+            }
+            for system in systems
+        ],
+        "judges": judges,
+    }
+    run_key = stable_hash(
+        {
+            "dataset": str(dataset_path),
+            "mode": mode,
+            "systems": derived["systems"],
+            "judge": judges[0],
+        }
+    )[:12]
+    config_path = output_dir / "run_configs" / f"{dataset_path.stem}_{mode}_{run_key}.json"
+    atomic_write_json(config_path, derived)
+    return config_path, derived, systems
+
+
+def run(dataset_value: str, mode: str, base_config_value: str) -> None:
+    evaluation_dir = Path(__file__).resolve().parent
+    base_config_path = Path(base_config_value).resolve()
+    dataset_path = resolve_dataset_path(dataset_value, evaluation_dir)
+    run_config_path, run_config, systems = build_run_config(
+        base_config_path, dataset_path, mode
+    )
+    question_count = count_questions(dataset_path)
+    output_dir = Path(run_config["output_dir"])
+    progress_path = (
+        output_dir
+        / "progress"
+        / f"{dataset_path.stem}_{mode}.json"
+    )
+    tracker = ProgressTracker(
+        progress_path,
+        dataset_path,
+        mode,
+        systems,
+        question_count,
+    )
+
+    try:
+        for system in systems:
+            generate(
+                str(run_config_path),
+                system["name"],
+                None,
+                progress_callback=tracker.update,
+                verbose=False,
+            )
+        judge_name = run_config["judges"][0]["name"]
+        for system in systems:
+            score(
+                str(run_config_path),
+                system["name"],
+                judge_name,
+                None,
+                progress_callback=tracker.update,
+                verbose=False,
+            )
+        compute(str(run_config_path), None, verbose=False)
+        tracker.metrics_done()
+        tracker.complete()
+    except Exception as error:
+        tracker.fail(error)
+        raise
+
+    print(f"Progression: {progress_path}")
+    print(f"Comparaison: {output_dir / 'metrics' / 'comparison.json'}")
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser(
+        description="Lancer toute l'évaluation pour un CSV et un mode."
+    )
+    parser.add_argument("dataset", help="Chemin du fichier CSV")
+    parser.add_argument("mode", choices=("baseline", "prompt", "rag"))
+    parser.add_argument(
+        "--config",
+        default=str(Path(__file__).with_name("config.example.json")),
+    )
+    args = parser.parse_args()
+    try:
+        run(args.dataset, args.mode, args.config)
+    except NotImplementedError as error:
+        parser.error(str(error))
+
+
+if __name__ == "__main__":
+    main()

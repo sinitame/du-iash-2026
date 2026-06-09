@@ -2,18 +2,23 @@
   "baseline": "openai_gpt_5_mini",
   "systemes": {
     "openai_gpt_5_mini": {
+      "provider": "openai",
+      "modele": "gpt-5-mini",
+      "groupe_modele": "advanced",
+      "variante_prompt": "baseline",
       "score_global_moyen": 75.74,
       "gain_absolu_vs_baseline": 0.0,
+      "gain_vs_meme_modele_baseline": 0.0,
       "taux_erreurs_securite_critiques": 0.2222
     },
-    "mistral_small_2603": {
-      "score_global_moyen": 93.89,
-      "gain_absolu_vs_baseline": 18.15,
-      "taux_erreurs_securite_critiques": 0.0
-    },
     "anthropic_claude_sonnet_4_6": {
+      "provider": "anthropic",
+      "modele": "claude-sonnet-4-6",
+      "groupe_modele": "advanced",
+      "variante_prompt": "baseline",
       "score_global_moyen": 91.48,
       "gain_absolu_vs_baseline": 15.74,
+      "gain_vs_meme_modele_baseline": 0.0,
       "taux_erreurs_securite_critiques": 0.0
     }
   }

@@ -60,7 +60,11 @@ def aggregate(items: list[dict[str, Any]]) -> dict[str, Any]:
     }
 
 
-def compute(config_path: str, selected_system: str | None) -> None:
+def compute(
+    config_path: str,
+    selected_system: str | None,
+    verbose: bool = True,
+) -> None:
     config, base_dir = load_config(config_path)
     output_dir = resolve_path(base_dir, config["output_dir"])
     dataset_path = resolve_path(base_dir, config["dataset"])
@@ -105,9 +109,11 @@ def compute(config_path: str, selected_system: str | None) -> None:
         question_metrics = []
         for question_id, judgments in sorted(by_question.items()):
             if question_id not in dataset:
-                print(
-                    f"{system['name']}: {question_id} absent du dataset actif; ignoré."
-                )
+                if verbose:
+                    print(
+                        f"{system['name']}: {question_id} "
+                        "absent du dataset actif; ignoré."
+                    )
                 continue
             row = dataset[question_id]
             dimension_scores = {
@@ -138,7 +144,8 @@ def compute(config_path: str, selected_system: str | None) -> None:
             )
 
         if not question_metrics:
-            print(f"Aucun score persisté pour {system['name']}; ignoré.")
+            if verbose:
+                print(f"Aucun score persisté pour {system['name']}; ignoré.")
             continue
 
         metrics_dir = output_dir / "metrics"
@@ -149,7 +156,14 @@ def compute(config_path: str, selected_system: str | None) -> None:
             writer.writeheader()
             writer.writerows(question_metrics)
 
-        summary = {"systeme": system["name"], "global": aggregate(question_metrics)}
+        summary = {
+            "systeme": system["name"],
+            "provider": system.get("provider"),
+            "modele": system.get("model"),
+            "groupe_modele": system.get("model_group"),
+            "variante_prompt": system.get("prompt_variant"),
+            "global": aggregate(question_metrics),
+        }
         for column, key in (
             ("niveau_risque", "par_risque"),
             ("age", "par_age"),
@@ -167,17 +181,24 @@ def compute(config_path: str, selected_system: str | None) -> None:
             json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
         )
-        print(f"Métriques: {detail_path}")
-        print(f"Résumé: {summary_path}")
+        if verbose:
+            print(f"Métriques: {detail_path}")
+            print(f"Résumé: {summary_path}")
 
     baseline = config.get("baseline_system")
     if selected_system:
-        print(
-            "Comparaison globale non modifiée: relancez sans --system "
-            "pour comparer tous les systèmes scorés."
-        )
+        if verbose:
+            print(
+                "Comparaison globale non modifiée: relancez sans --system "
+                "pour comparer tous les systèmes scorés."
+            )
     elif baseline and baseline in all_summaries:
         baseline_score = all_summaries[baseline]["global"]["score_global_moyen"]
+        model_baselines = {
+            summary.get("modele"): summary["global"]["score_global_moyen"]
+            for summary in all_summaries.values()
+            if summary.get("variante_prompt") == "baseline"
+        }
         comparison = {}
         system_types = {
             system["name"]: system.get("type") for system in config["systems"]
@@ -186,9 +207,19 @@ def compute(config_path: str, selected_system: str | None) -> None:
             if system_types.get(name) == "reference":
                 continue
             score = summary["global"]["score_global_moyen"]
+            same_model_baseline = model_baselines.get(summary.get("modele"))
             comparison[name] = {
+                "provider": summary.get("provider"),
+                "modele": summary.get("modele"),
+                "groupe_modele": summary.get("groupe_modele"),
+                "variante_prompt": summary.get("variante_prompt"),
                 "score_global_moyen": score,
                 "gain_absolu_vs_baseline": round(score - baseline_score, 2),
+                "gain_vs_meme_modele_baseline": (
+                    round(score - same_model_baseline, 2)
+                    if same_model_baseline is not None
+                    else None
+                ),
                 "taux_erreurs_securite_critiques": summary["global"][
                     "taux_erreurs_securite_critiques"
                 ],
@@ -203,7 +234,8 @@ def compute(config_path: str, selected_system: str | None) -> None:
             + "\n",
             encoding="utf-8",
         )
-        print(f"Comparaison: {comparison_path}")
+        if verbose:
+            print(f"Comparaison: {comparison_path}")
 
 
 def main() -> None:
