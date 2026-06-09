@@ -6,6 +6,7 @@ import argparse
 import csv
 import json
 import sys
+import threading
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -48,6 +49,18 @@ def count_questions(path: Path) -> int:
         return sum(1 for _ in csv.DictReader(handle))
 
 
+def describe_dataset(path: Path) -> dict[str, int]:
+    with path.open(encoding="utf-8-sig", newline="") as handle:
+        rows = list(csv.DictReader(handle))
+    return {
+        "questions": len(rows),
+        "themes": len({row["theme"] for row in rows}),
+        "reponses_attendues_uniques": len(
+            {row["réponse_attendue"] for row in rows}
+        ),
+    }
+
+
 def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
     if mode == "baseline":
         variants = {"baseline"}
@@ -79,8 +92,10 @@ class ProgressTracker:
         mode: str,
         systems: list[dict[str, Any]],
         question_count: int,
+        concurrency: int,
     ):
         self.path = path
+        self.lock = threading.Lock()
         self.state = {
             "status": "running",
             "started_at": utc_now(),
@@ -89,6 +104,7 @@ class ProgressTracker:
             "mode": mode,
             "systems": [system["name"] for system in systems],
             "question_count": question_count,
+            "concurrency": concurrency,
             "total_steps": question_count * len(systems) * 2 + 1,
             "completed_steps": 0,
             "current_stage": "initialization",
@@ -106,35 +122,38 @@ class ProgressTracker:
         atomic_write_json(self.path, self.state)
 
     def update(self, event: dict[str, Any]) -> None:
-        self.state["completed_steps"] += 1
-        self.state["current_stage"] = event["stage"]
-        self.state["current_system"] = event.get("system")
-        self.state["current_question_id"] = event.get("question_id")
-        source = event.get("source")
-        if source == "cache":
-            self.state["cache_hits"] += 1
-        elif source == "api":
-            self.state["api_calls"] += 1
-        elif source == "local":
-            self.state["local_calls"] += 1
-        self._save()
-        self._render()
+        with self.lock:
+            self.state["completed_steps"] += 1
+            self.state["current_stage"] = event["stage"]
+            self.state["current_system"] = event.get("system")
+            self.state["current_question_id"] = event.get("question_id")
+            source = event.get("source")
+            if source == "cache":
+                self.state["cache_hits"] += 1
+            elif source == "api":
+                self.state["api_calls"] += 1
+            elif source == "local":
+                self.state["local_calls"] += 1
+            self._save()
+            self._render()
 
     def metrics_done(self) -> None:
         self.update({"stage": "metrics", "source": "local"})
 
     def complete(self) -> None:
-        self.state["status"] = "completed"
-        self.state["completed_at"] = utc_now()
-        self.state["current_stage"] = "completed"
-        self._save()
-        self._render(final=True)
+        with self.lock:
+            self.state["status"] = "completed"
+            self.state["completed_at"] = utc_now()
+            self.state["current_stage"] = "completed"
+            self._save()
+            self._render(final=True)
 
     def fail(self, error: Exception) -> None:
-        self.state["status"] = "failed"
-        self.state["failed_at"] = utc_now()
-        self.state["error"] = str(error)
-        self._save()
+        with self.lock:
+            self.state["status"] = "failed"
+            self.state["failed_at"] = utc_now()
+            self.state["error"] = str(error)
+            self._save()
         print(file=sys.stderr)
         print(f"Échec. Progression sauvegardée dans {self.path}", file=sys.stderr)
 
@@ -188,6 +207,10 @@ def build_run_config(
             "mode": mode,
             "systems": derived["systems"],
             "judge": judges[0],
+            "judge_prompt_file": derived["judge_prompt_file"],
+            "judge_prompt_hash": stable_hash(
+                Path(derived["judge_prompt_file"]).read_text(encoding="utf-8")
+            ),
         }
     )[:12]
     config_path = output_dir / "run_configs" / f"{dataset_path.stem}_{mode}_{run_key}.json"
@@ -195,7 +218,15 @@ def build_run_config(
     return config_path, derived, systems
 
 
-def run(dataset_value: str, mode: str, base_config_value: str) -> None:
+def run(
+    dataset_value: str,
+    mode: str,
+    base_config_value: str,
+    concurrency: int = 1,
+) -> None:
+    if concurrency < 1:
+        raise ValueError("concurrency doit être supérieur ou égal à 1")
+
     evaluation_dir = Path(__file__).resolve().parent
     base_config_path = Path(base_config_value).resolve()
     dataset_path = resolve_dataset_path(dataset_value, evaluation_dir)
@@ -203,6 +234,16 @@ def run(dataset_value: str, mode: str, base_config_value: str) -> None:
         base_config_path, dataset_path, mode
     )
     question_count = count_questions(dataset_path)
+    dataset_scope = describe_dataset(dataset_path)
+    if dataset_scope["questions"] < 30 or dataset_scope["themes"] < 3:
+        print(
+            "Attention: périmètre d'évaluation limité "
+            f"({dataset_scope['questions']} questions, "
+            f"{dataset_scope['themes']} thème(s), "
+            f"{dataset_scope['reponses_attendues_uniques']} réponses attendues "
+            "uniques). Les écarts entre systèmes peuvent être instables.",
+            file=sys.stderr,
+        )
     output_dir = Path(run_config["output_dir"])
     progress_path = (
         output_dir
@@ -215,6 +256,7 @@ def run(dataset_value: str, mode: str, base_config_value: str) -> None:
         mode,
         systems,
         question_count,
+        concurrency,
     )
 
     try:
@@ -225,6 +267,7 @@ def run(dataset_value: str, mode: str, base_config_value: str) -> None:
                 None,
                 progress_callback=tracker.update,
                 verbose=False,
+                concurrency=concurrency,
             )
         judge_name = run_config["judges"][0]["name"]
         for system in systems:
@@ -235,6 +278,7 @@ def run(dataset_value: str, mode: str, base_config_value: str) -> None:
                 None,
                 progress_callback=tracker.update,
                 verbose=False,
+                concurrency=concurrency,
             )
         compute(str(run_config_path), None, verbose=False)
         tracker.metrics_done()
@@ -257,9 +301,15 @@ def main() -> None:
         "--config",
         default=str(Path(__file__).with_name("config.example.json")),
     )
+    parser.add_argument(
+        "--concurrency",
+        type=int,
+        default=1,
+        help="Nombre maximal d'appels API simultanés par système",
+    )
     args = parser.parse_args()
     try:
-        run(args.dataset, args.mode, args.config)
+        run(args.dataset, args.mode, args.config, args.concurrency)
     except NotImplementedError as error:
         parser.error(str(error))
 

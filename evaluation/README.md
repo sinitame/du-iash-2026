@@ -31,7 +31,8 @@ python3 evaluation/run_evaluation.py \
 
 python3 evaluation/run_evaluation.py \
   evaluation/data/dataset_test.csv \
-  prompt
+  prompt \
+  --concurrency 4
 ```
 
 Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
@@ -53,6 +54,18 @@ evaluation/outputs/progress/<dataset>_<mode>.json
 
 En cas d'interruption, relancer la même commande reprend les réponses et scores
 déjà sauvegardés grâce au cache.
+
+`--concurrency` définit le nombre maximal d'appels API simultanés pour un système.
+La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
+peut provoquer des erreurs de rate limit chez les fournisseurs.
+
+Si certains appels parallèles échouent, les appels réussis sont tout de même
+persistés. Une relance reprend uniquement les éléments manquants.
+
+Les modèles de raisonnement peuvent consommer une partie de la limite de sortie
+avant de produire le texte visible. Une limite `max_tokens` peut être définie par
+système; une réponse vide est considérée comme un échec de génération et n'est
+plus persistée.
 
 ## Structure des résultats
 
@@ -87,11 +100,39 @@ Chaque système associe un modèle à un fichier `prompt_file`. Deux variantes s
 disponibles:
 
 - `evaluation/prompts/chatbot_baseline.txt`: consignes minimales;
-- `evaluation/prompts/chatbot_step_by_step.txt`: réponse structurée en étapes,
-  adaptée au patient et attentive à la sécurité.
+- `evaluation/prompts/chatbot_step_by_step.txt`: méthode de construction interne
+  calibrée sur le style ETP du CSV V1: réponse directe, 2 à 4 phrases, nuance
+  clinique et orientation uniquement lorsqu'elle est pertinente.
 
 Le prompt fait partie du hash de cache. Modifier son contenu crée donc une nouvelle
 requête, tandis qu'une relance sans modification réutilise les réponses persistées.
+
+## Pouvoir discriminant du scoring
+
+Le juge `judge_v2.txt` réserve le score maximal aux réponses qui couvrent tous les
+points clés et signaux de sécurité applicables. Il ne pénalise pas une
+reformulation et n'exige pas de mentionner une précaution hors contexte.
+
+Le score global historique est conservé. Les résumés ajoutent aussi:
+
+- le taux de couverture complète en exactitude et sécurité;
+- le taux de réponses excellentes sur les quatre critères;
+- le taux de réponses vides et d'échecs techniques;
+- le score minimum, le percentile 10 et la dispersion des scores.
+
+Une réponse vide reçoit automatiquement un score global nul sans appel au juge.
+Elle est classée comme échec technique plutôt que comme erreur médicale critique,
+ce qui évite qu'un juge reconstruise involontairement la réponse depuis la
+référence.
+
+Si la baseline globale contient un échec technique, les gains absolus contre cette
+baseline ne sont pas calculés. Cela évite de présenter comme amélioration de
+contenu la simple correction d'un problème de génération.
+
+Ces indicateurs évitent qu'une moyenne élevée masque quelques réponses faibles.
+Pour comparer sérieusement les systèmes, utiliser un jeu de test couvrant
+plusieurs thèmes et suffisamment de questions. Le fichier `dataset_test.csv`
+contient seulement 9 questions d'un seul thème et sert surtout de smoke test.
 
 Test sans API:
 
@@ -160,7 +201,8 @@ présentes.
 
 ## 2. Scorer avec les juges
 
-Le prompt versionné du juge est `evaluation/prompts/judge_v1.txt`. C'est un template utilisant
+Le prompt actif du juge est `evaluation/prompts/judge_v2.txt`. La version V1 reste
+disponible pour reproduire les anciens résultats. Le prompt est un template utilisant
 des variables comme:
 
 ```text

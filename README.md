@@ -12,7 +12,7 @@ Les instructions d'utilisation sont disponibles dans
 Commande principale:
 
 ```bash
-python3 evaluation/run_evaluation.py <dataset.csv> baseline
+python3 evaluation/run_evaluation.py <dataset.csv> baseline --concurrency 4
 ```
 
 ## Chatbot

@@ -25,6 +25,17 @@ def mean(values: list[float]) -> float:
     return statistics.fmean(values) if values else 0.0
 
 
+def percentile(values: list[float], proportion: float) -> float:
+    if not values:
+        return 0.0
+    ordered = sorted(values)
+    position = (len(ordered) - 1) * proportion
+    lower = int(position)
+    upper = min(lower + 1, len(ordered) - 1)
+    fraction = position - lower
+    return ordered[lower] + (ordered[upper] - ordered[lower]) * fraction
+
+
 def score_global(scores: dict[str, float], blocked: bool) -> float:
     if blocked:
         return 0.0
@@ -39,9 +50,16 @@ def score_global(scores: dict[str, float], blocked: bool) -> float:
 def aggregate(items: list[dict[str, Any]]) -> dict[str, Any]:
     if not items:
         return {"nombre_questions": 0}
+    global_scores = [item["score_global"] for item in items]
     return {
         "nombre_questions": len(items),
-        "score_global_moyen": round(mean([item["score_global"] for item in items]), 2),
+        "score_global_moyen": round(mean(global_scores), 2),
+        "score_global_p10": round(percentile(global_scores, 0.10), 2),
+        "score_global_minimum": round(min(global_scores), 2),
+        "ecart_type_score_global": round(
+            statistics.pstdev(global_scores) if len(global_scores) > 1 else 0.0,
+            2,
+        ),
         "exactitude_moyenne": round(
             mean([item["exactitude_metier"] for item in items]), 3
         ),
@@ -57,6 +75,45 @@ def aggregate(items: list[dict[str, Any]]) -> dict[str, Any]:
         "taux_erreurs_securite_critiques": round(
             mean([float(item["erreur_securite_critique"]) for item in items]), 4
         ),
+        "taux_reponses_vides": round(
+            mean([float(item["reponse_vide"]) for item in items]), 4
+        ),
+        "taux_echecs_techniques": round(
+            mean([float(item["echec_technique"]) for item in items]), 4
+        ),
+        "taux_exactitude_complete": round(
+            mean([float(item["exactitude_metier"] == 3) for item in items]), 4
+        ),
+        "taux_securite_complete": round(
+            mean([float(item["securite_medicale"] == 3) for item in items]), 4
+        ),
+        "taux_couverture_metier_securite_complete": round(
+            mean(
+                [
+                    float(
+                        item["exactitude_metier"] == 3
+                        and item["securite_medicale"] == 3
+                    )
+                    for item in items
+                ]
+            ),
+            4,
+        ),
+        "taux_reponses_excellentes": round(
+            mean(
+                [
+                    float(
+                        item["exactitude_metier"] == 3
+                        and item["securite_medicale"] == 3
+                        and item["adaptation_profil"] == 2
+                        and item["qualite_conversationnelle"] == 2
+                        and not item["erreur_securite_critique"]
+                    )
+                    for item in items
+                ]
+            ),
+            4,
+        ),
     }
 
 
@@ -70,6 +127,15 @@ def compute(
     dataset_path = resolve_path(base_dir, config["dataset"])
     with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
         dataset = {row["id"]: row for row in csv.DictReader(handle)}
+    dataset_scope = {
+        "fichier": str(dataset_path),
+        "nombre_questions": len(dataset),
+        "nombre_themes": len({row["theme"] for row in dataset.values()}),
+        "themes": sorted({row["theme"] for row in dataset.values()}),
+        "nombre_reponses_attendues_uniques": len(
+            {row["réponse_attendue"] for row in dataset.values()}
+        ),
+    }
 
     systems = [
         system
@@ -127,7 +193,14 @@ def compute(
                 dimension: mean(values)
                 for dimension, values in dimension_scores.items()
             }
-            critical = any(
+            response_empty = not latest_responses[question_id]["response"].strip()
+            technical_failure = response_empty or any(
+                record["judgment"].get("echec_technique", False)
+                for record in judgments
+            )
+            if technical_failure:
+                averaged = {dimension: 0.0 for dimension in DIMENSIONS}
+            critical = not technical_failure and any(
                 record["judgment"]["erreur_securite_critique"]
                 for record in judgments
             )
@@ -137,9 +210,17 @@ def compute(
                     "age": row["age"],
                     "theme": row["theme"],
                     "niveau_risque": row["niveau_risque"],
+                    "reponse_vide": response_empty,
+                    "echec_technique": technical_failure,
                     **{key: round(value, 3) for key, value in averaged.items()},
                     "erreur_securite_critique": critical,
-                    "score_global": round(score_global(averaged, critical), 2),
+                    "score_global": round(
+                        score_global(
+                            averaged,
+                            critical or technical_failure,
+                        ),
+                        2,
+                    ),
                 }
             )
 
@@ -193,11 +274,16 @@ def compute(
                 "pour comparer tous les systèmes scorés."
             )
     elif baseline and baseline in all_summaries:
-        baseline_score = all_summaries[baseline]["global"]["score_global_moyen"]
+        baseline_global = all_summaries[baseline]["global"]
+        baseline_valid = baseline_global["taux_echecs_techniques"] == 0
+        baseline_score = (
+            baseline_global["score_global_moyen"] if baseline_valid else None
+        )
         model_baselines = {
             summary.get("modele"): summary["global"]["score_global_moyen"]
             for summary in all_summaries.values()
             if summary.get("variante_prompt") == "baseline"
+            and summary["global"]["taux_echecs_techniques"] == 0
         }
         comparison = {}
         system_types = {
@@ -214,7 +300,11 @@ def compute(
                 "groupe_modele": summary.get("groupe_modele"),
                 "variante_prompt": summary.get("variante_prompt"),
                 "score_global_moyen": score,
-                "gain_absolu_vs_baseline": round(score - baseline_score, 2),
+                "gain_absolu_vs_baseline": (
+                    round(score - baseline_score, 2)
+                    if baseline_score is not None
+                    else None
+                ),
                 "gain_vs_meme_modele_baseline": (
                     round(score - same_model_baseline, 2)
                     if same_model_baseline is not None
@@ -223,19 +313,67 @@ def compute(
                 "taux_erreurs_securite_critiques": summary["global"][
                     "taux_erreurs_securite_critiques"
                 ],
+                "taux_reponses_vides": summary["global"][
+                    "taux_reponses_vides"
+                ],
+                "taux_echecs_techniques": summary["global"][
+                    "taux_echecs_techniques"
+                ],
+                "score_global_p10": summary["global"]["score_global_p10"],
+                "score_global_minimum": summary["global"][
+                    "score_global_minimum"
+                ],
+                "ecart_type_score_global": summary["global"][
+                    "ecart_type_score_global"
+                ],
+                "taux_couverture_metier_securite_complete": summary["global"][
+                    "taux_couverture_metier_securite_complete"
+                ],
+                "taux_reponses_excellentes": summary["global"][
+                    "taux_reponses_excellentes"
+                ],
             }
         comparison_path = output_dir / "metrics" / "comparison.json"
         comparison_path.write_text(
             json.dumps(
-                {"baseline": baseline, "systemes": comparison},
+                {
+                    "baseline": baseline,
+                    "baseline_valide": baseline_valid,
+                    "avertissement_baseline": (
+                        None
+                        if baseline_valid
+                        else (
+                            "La baseline contient des échecs techniques; "
+                            "les gains absolus ne sont pas calculés."
+                        )
+                    ),
+                    "perimetre_evaluation": dataset_scope,
+                    "systemes": comparison,
+                },
                 ensure_ascii=False,
                 indent=2,
             )
             + "\n",
             encoding="utf-8",
         )
+        comparison_csv_path = output_dir / "metrics" / "comparison.csv"
+        comparison_rows = [
+            {"systeme": name, **values}
+            for name, values in comparison.items()
+        ]
+        if comparison_rows:
+            with comparison_csv_path.open(
+                "w", encoding="utf-8-sig", newline=""
+            ) as handle:
+                writer = csv.DictWriter(
+                    handle,
+                    fieldnames=list(comparison_rows[0].keys()),
+                )
+                writer.writeheader()
+                writer.writerows(comparison_rows)
         if verbose:
             print(f"Comparaison: {comparison_path}")
+            print(f"Comparaison CSV: {comparison_csv_path}")
 
 
 def main() -> None:

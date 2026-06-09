@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import argparse
 import csv
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
@@ -33,7 +34,11 @@ def generate(
     limit: int | None,
     progress_callback: ProgressCallback | None = None,
     verbose: bool = True,
+    concurrency: int = 1,
 ) -> None:
+    if concurrency < 1:
+        raise ValueError("concurrency doit être supérieur ou égal à 1")
+
     config, base_dir = load_config(config_path)
     dataset_path = resolve_path(base_dir, config["dataset"])
     output_dir = resolve_path(base_dir, config["output_dir"]) / "responses"
@@ -62,16 +67,33 @@ def generate(
             prompt_path.read_text(encoding="utf-8").strip() if prompt_path else ""
         )
         prompt_hash = stable_hash(system_prompt)
+        max_tokens = system.get(
+            "max_tokens",
+            config.get("max_tokens", 500),
+        )
+        system_request_config = {
+            key: value for key, value in system.items() if key != "prompt_file"
+        }
+        request_config_hash = stable_hash(
+            {
+                "system": system_request_config,
+                "temperature": config.get("temperature", 0),
+                "max_tokens": max_tokens,
+            }
+        )
         output_path = output_dir / f"{system['name']}.jsonl"
         existing_records = load_jsonl(output_path)
         cached_hashes = {record["request_hash"] for record in existing_records}
         latest_by_question = {
             record["question_id"]: record for record in existing_records
         }
+        pending = []
         for index, row in enumerate(dataset, start=1):
             user_prompt = (
                 f"Public concerné: {row['age']}\n"
                 f"Langue: {row['langue']}\n"
+                f"Thème: {row['theme']}\n"
+                f"Niveau de risque interne: {row['niveau_risque']}\n"
                 f"Question: {row['question_patient']}"
             )
             messages = [
@@ -80,10 +102,11 @@ def generate(
             ]
             request_hash = stable_hash(
                 {
-                    "system": system,
+                    "system": system_request_config,
+                    "prompt_hash": prompt_hash,
                     "messages": messages,
                     "temperature": config.get("temperature", 0),
-                    "max_tokens": config.get("max_tokens", 500),
+                    "max_tokens": max_tokens,
                 }
             )
             if request_hash in cached_hashes:
@@ -103,19 +126,19 @@ def generate(
                     )
                 continue
             legacy_record = latest_by_question.get(row["id"])
-            same_semantic_request = (
+            if (
                 legacy_record
+                and "request_config_hash" not in legacy_record
                 and legacy_record.get("prompt_hash") == prompt_hash
                 and legacy_record.get("model")
                 == system.get("model", system.get("type"))
                 and legacy_record.get("question") == row["question_patient"]
                 and legacy_record.get("age") == row["age"]
                 and legacy_record.get("langue") == row["langue"]
-            )
-            if same_semantic_request:
+            ):
                 if verbose:
                     print(
-                        f"[{system['name']}] cache prompt "
+                        f"[{system['name']}] cache migration "
                         f"{index}/{len(dataset)} {row['id']}"
                     )
                 if progress_callback:
@@ -151,6 +174,17 @@ def generate(
                     )
                 continue
 
+            pending.append(
+                {
+                    "index": index,
+                    "row": row,
+                    "messages": messages,
+                    "request_hash": request_hash,
+                }
+            )
+
+        def generate_one(job: dict[str, Any]) -> tuple[dict[str, Any], str]:
+            row = job["row"]
             if system.get("type") == "reference":
                 generation = {
                     "text": row["réponse_attendue"],
@@ -162,57 +196,86 @@ def generate(
             else:
                 generation = call_chat_api(
                     system,
-                    messages,
+                    job["messages"],
                     temperature=config.get("temperature", 0),
-                    max_tokens=config.get("max_tokens", 500),
+                    max_tokens=max_tokens,
                 )
+                if not generation["text"].strip():
+                    raise RuntimeError(
+                        "Le modèle a renvoyé une réponse vide. "
+                        f"Usage: {generation.get('usage', {})}"
+                    )
                 source = "api"
+            return generation, source
 
-            append_jsonl(
-                output_path,
-                {
-                    "request_hash": request_hash,
-                    "created_at": datetime.now(timezone.utc).isoformat(),
-                    "system_name": system["name"],
-                    "model": system.get("model", system.get("type")),
-                    "provider": system.get("provider"),
-                    "model_group": system.get("model_group"),
-                    "prompt_variant": system.get("prompt_variant"),
-                    "prompt_file": prompt_file,
-                    "prompt_hash": prompt_hash,
-                    "question_id": row["id"],
-                    "question": row["question_patient"],
-                    "age": row["age"],
-                    "langue": row["langue"],
-                    "theme": row["theme"],
-                    "niveau_risque": row["niveau_risque"],
-                    "response": generation["text"],
-                    "latency_seconds": generation["latency_seconds"],
-                    "usage": generation["usage"],
-                    "raw_api_response": generation["raw_api_response"],
-                },
-            )
-            cached_hashes.add(request_hash)
-            latest_by_question[row["id"]] = {
-                "request_hash": request_hash,
-                "question_id": row["id"],
-                "model": system.get("model", system.get("type")),
-                "prompt_hash": prompt_hash,
+        with ThreadPoolExecutor(max_workers=concurrency) as executor:
+            futures = {
+                executor.submit(generate_one, job): job for job in pending
             }
-            if verbose:
-                print(
-                    f"[{system['name']}] {source} "
-                    f"{index}/{len(dataset)} {row['id']}"
-                )
-            if progress_callback:
-                progress_callback(
+            errors = []
+            for future in as_completed(futures):
+                job = futures[future]
+                row = job["row"]
+                try:
+                    generation, source = future.result()
+                except Exception as error:
+                    errors.append((row["id"], error))
+                    if verbose:
+                        print(f"[{system['name']}] erreur {row['id']}: {error}")
+                    continue
+                append_jsonl(
+                    output_path,
                     {
-                        "stage": "generation",
-                        "system": system["name"],
+                        "request_hash": job["request_hash"],
+                        "created_at": datetime.now(timezone.utc).isoformat(),
+                        "system_name": system["name"],
+                        "model": system.get("model", system.get("type")),
+                        "provider": system.get("provider"),
+                        "model_group": system.get("model_group"),
+                        "prompt_variant": system.get("prompt_variant"),
+                        "prompt_file": prompt_file,
+                        "prompt_hash": prompt_hash,
+                        "request_config_hash": request_config_hash,
                         "question_id": row["id"],
-                        "source": source,
-                    }
+                        "question": row["question_patient"],
+                        "age": row["age"],
+                        "langue": row["langue"],
+                        "theme": row["theme"],
+                        "niveau_risque": row["niveau_risque"],
+                        "response": generation["text"],
+                        "latency_seconds": generation["latency_seconds"],
+                        "usage": generation["usage"],
+                        "raw_api_response": generation["raw_api_response"],
+                    },
                 )
+                cached_hashes.add(job["request_hash"])
+                latest_by_question[row["id"]] = {
+                    "request_hash": job["request_hash"],
+                    "question_id": row["id"],
+                    "model": system.get("model", system.get("type")),
+                    "prompt_hash": prompt_hash,
+                }
+                if verbose:
+                    print(
+                        f"[{system['name']}] {source} "
+                        f"{job['index']}/{len(dataset)} {row['id']}"
+                    )
+                if progress_callback:
+                    progress_callback(
+                        {
+                            "stage": "generation",
+                            "system": system["name"],
+                            "question_id": row["id"],
+                            "source": source,
+                        }
+                    )
+            if errors:
+                question_id, error = errors[0]
+                raise RuntimeError(
+                    f"{len(errors)} génération(s) ont échoué pour "
+                    f"{system['name']}. Première erreur ({question_id}): {error}. "
+                    "Les réponses réussies ont été persistées."
+                ) from error
         if verbose:
             print(f"Réponses persistées: {output_path}")
 
@@ -225,8 +288,14 @@ def main() -> None:
     )
     parser.add_argument("--system", help="Nom d'un seul système")
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--concurrency", type=int, default=1)
     args = parser.parse_args()
-    generate(args.config, args.system, args.limit)
+    generate(
+        args.config,
+        args.system,
+        args.limit,
+        concurrency=args.concurrency,
+    )
 
 
 if __name__ == "__main__":

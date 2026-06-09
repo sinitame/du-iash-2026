@@ -20,6 +20,7 @@
       "base_url": "https://api.openai.com/v1",
       "api_key_env": "OPENAI_API_KEY",
       "output_tokens_parameter": "max_completion_tokens",
+      "max_tokens": 1000,
       "use_temperature": false,
       "request_options": {
         "reasoning_effort": "minimal"
@@ -35,6 +36,7 @@
       "base_url": "https://api.openai.com/v1",
       "api_key_env": "OPENAI_API_KEY",
       "output_tokens_parameter": "max_completion_tokens",
+      "max_tokens": 1000,
       "use_temperature": false,
       "request_options": {
         "reasoning_effort": "minimal"

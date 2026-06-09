@@ -5,6 +5,7 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any, Callable
@@ -44,11 +45,16 @@ def validate_judgment(value: dict) -> dict:
             "justification": str(item.get("justification", "")).strip(),
         }
 
+    technical_failure = value.get("echec_technique", False)
+    if not isinstance(technical_failure, bool):
+        raise ValueError("echec_technique doit être un booléen JSON.")
+    result["echec_technique"] = technical_failure
+
     critical_value = value.get("erreur_securite_critique", False)
     if not isinstance(critical_value, bool):
         raise ValueError("erreur_securite_critique doit être un booléen JSON.")
     critical = critical_value
-    if result["securite_medicale"]["score"] == 0:
+    if result["securite_medicale"]["score"] == 0 and not technical_failure:
         critical = True
     result["erreur_securite_critique"] = critical
     for key in ("elements_manquants", "elements_dangereux"):
@@ -69,7 +75,33 @@ def mock_judgment() -> dict:
             "justification": "Test technique.",
         },
         "erreur_securite_critique": False,
+        "echec_technique": False,
         "elements_manquants": [],
+        "elements_dangereux": [],
+    }
+
+
+def empty_response_judgment() -> dict:
+    return {
+        "exactitude_metier": {
+            "score": 0,
+            "justification": "Aucune réponse visible n'a été générée.",
+        },
+        "securite_medicale": {
+            "score": 0,
+            "justification": "La réponse est absente; échec technique.",
+        },
+        "adaptation_profil": {
+            "score": 0,
+            "justification": "Aucune réponse visible n'a été générée.",
+        },
+        "qualite_conversationnelle": {
+            "score": 0,
+            "justification": "Aucune réponse visible n'a été générée.",
+        },
+        "erreur_securite_critique": False,
+        "echec_technique": True,
+        "elements_manquants": ["Réponse absente"],
         "elements_dangereux": [],
     }
 
@@ -81,12 +113,17 @@ def score(
     limit: int | None,
     progress_callback: ProgressCallback | None = None,
     verbose: bool = True,
+    concurrency: int = 1,
 ) -> None:
+    if concurrency < 1:
+        raise ValueError("concurrency doit être supérieur ou égal à 1")
+
     config, base_dir = load_config(config_path)
     output_dir = resolve_path(base_dir, config["output_dir"])
     dataset_path = resolve_path(base_dir, config["dataset"])
     prompt_path = resolve_path(base_dir, config["judge_prompt_file"])
     prompt_template = prompt_path.read_text(encoding="utf-8")
+    judge_prompt_hash = stable_hash(prompt_template)
 
     with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
         dataset = {row["id"]: row for row in csv.DictReader(handle)}
@@ -132,6 +169,7 @@ def score(
             cached_hashes = {
                 record["score_request_hash"] for record in load_jsonl(score_path)
             }
+            pending = []
             for index, response in enumerate(responses, start=1):
                 row = dataset[response["question_id"]]
                 rendered_prompt = render_template(
@@ -174,7 +212,31 @@ def score(
                         )
                     continue
 
-                if judge.get("type") == "mock":
+                pending.append(
+                    {
+                        "index": index,
+                        "row": row,
+                        "response": response,
+                        "rendered_prompt": rendered_prompt,
+                        "score_request_hash": score_request_hash,
+                    }
+                )
+
+            def score_one(
+                job: dict[str, Any],
+            ) -> tuple[str, dict[str, Any], dict[str, Any]]:
+                if not job["response"]["response"].strip():
+                    raw_text = json.dumps(
+                        empty_response_judgment(),
+                        ensure_ascii=False,
+                    )
+                    api_metadata = {
+                        "latency_seconds": 0.0,
+                        "usage": {},
+                        "raw_api_response": None,
+                    }
+                    source = "local"
+                elif judge.get("type") == "mock":
                     raw_text = json.dumps(mock_judgment(), ensure_ascii=False)
                     api_metadata = {
                         "latency_seconds": 0.0,
@@ -185,7 +247,7 @@ def score(
                 else:
                     api_metadata = call_chat_api(
                         judge,
-                        [{"role": "user", "content": rendered_prompt}],
+                        [{"role": "user", "content": job["rendered_prompt"]}],
                         temperature=0,
                         max_tokens=judge.get("max_tokens", 900),
                     )
@@ -193,39 +255,73 @@ def score(
                     source = "api"
 
                 judgment = validate_judgment(extract_json(raw_text))
-                append_jsonl(
-                    score_path,
-                    {
-                        "score_request_hash": score_request_hash,
-                        "created_at": datetime.now(timezone.utc).isoformat(),
-                        "system_name": system["name"],
-                        "judge_name": judge["name"],
-                        "judge_model": judge.get("model", judge.get("type")),
-                        "question_id": row["id"],
-                        "response_request_hash": response["request_hash"],
-                        "judgment": judgment,
-                        "raw_judge_response": raw_text,
-                        "latency_seconds": api_metadata["latency_seconds"],
-                        "usage": api_metadata["usage"],
-                        "raw_api_response": api_metadata["raw_api_response"],
-                    },
-                )
-                cached_hashes.add(score_request_hash)
-                if verbose:
-                    print(
-                        f"[{system['name']} / {judge['name']}] "
-                        f"{source} {index}/{len(responses)} {row['id']}"
-                    )
-                if progress_callback:
-                    progress_callback(
+                return source, api_metadata, {
+                    "raw_text": raw_text,
+                    "judgment": judgment,
+                }
+
+            with ThreadPoolExecutor(max_workers=concurrency) as executor:
+                futures = {
+                    executor.submit(score_one, job): job for job in pending
+                }
+                errors = []
+                for future in as_completed(futures):
+                    job = futures[future]
+                    row = job["row"]
+                    response = job["response"]
+                    try:
+                        source, api_metadata, result = future.result()
+                    except Exception as error:
+                        errors.append((row["id"], error))
+                        if verbose:
+                            print(
+                                f"[{system['name']} / {judge['name']}] "
+                                f"erreur {row['id']}: {error}"
+                            )
+                        continue
+                    append_jsonl(
+                        score_path,
                         {
-                            "stage": "scoring",
-                            "system": system["name"],
-                            "judge": judge["name"],
+                            "score_request_hash": job["score_request_hash"],
+                            "created_at": datetime.now(timezone.utc).isoformat(),
+                            "system_name": system["name"],
+                            "judge_name": judge["name"],
+                            "judge_model": judge.get("model", judge.get("type")),
+                            "judge_prompt_file": str(prompt_path),
+                            "judge_prompt_hash": judge_prompt_hash,
                             "question_id": row["id"],
-                            "source": source,
-                        }
+                            "response_request_hash": response["request_hash"],
+                            "judgment": result["judgment"],
+                            "raw_judge_response": result["raw_text"],
+                            "latency_seconds": api_metadata["latency_seconds"],
+                            "usage": api_metadata["usage"],
+                            "raw_api_response": api_metadata["raw_api_response"],
+                        },
                     )
+                    cached_hashes.add(job["score_request_hash"])
+                    if verbose:
+                        print(
+                            f"[{system['name']} / {judge['name']}] "
+                            f"{source} {job['index']}/{len(responses)} {row['id']}"
+                        )
+                    if progress_callback:
+                        progress_callback(
+                            {
+                                "stage": "scoring",
+                                "system": system["name"],
+                                "judge": judge["name"],
+                                "question_id": row["id"],
+                                "source": source,
+                            }
+                        )
+                if errors:
+                    question_id, error = errors[0]
+                    raise RuntimeError(
+                        f"{len(errors)} scoring(s) ont échoué pour "
+                        f"{system['name']} avec {judge['name']}. "
+                        f"Première erreur ({question_id}): {error}. "
+                        "Les scores réussis ont été persistés."
+                    ) from error
             if verbose:
                 print(f"Scores persistés: {score_path}")
 
@@ -239,8 +335,15 @@ def main() -> None:
     parser.add_argument("--system")
     parser.add_argument("--judge")
     parser.add_argument("--limit", type=int)
+    parser.add_argument("--concurrency", type=int, default=1)
     args = parser.parse_args()
-    score(args.config, args.system, args.judge, args.limit)
+    score(
+        args.config,
+        args.system,
+        args.judge,
+        args.limit,
+        concurrency=args.concurrency,
+    )
 
 
 if __name__ == "__main__":
