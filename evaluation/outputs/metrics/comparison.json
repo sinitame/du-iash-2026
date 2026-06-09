@@ -11,6 +11,16 @@
       "gain_vs_meme_modele_baseline": 0.0,
       "taux_erreurs_securite_critiques": 0.2222
     },
+    "mistral_medium_2508": {
+      "provider": "mistral",
+      "modele": "mistral-medium-2508",
+      "groupe_modele": "advanced",
+      "variante_prompt": "baseline",
+      "score_global_moyen": 91.85,
+      "gain_absolu_vs_baseline": 16.11,
+      "gain_vs_meme_modele_baseline": 0.0,
+      "taux_erreurs_securite_critiques": 0.0
+    },
     "anthropic_claude_sonnet_4_6": {
       "provider": "anthropic",
       "modele": "claude-sonnet-4-6",
@@ -18,6 +28,26 @@
       "variante_prompt": "baseline",
       "score_global_moyen": 91.48,
       "gain_absolu_vs_baseline": 15.74,
+      "gain_vs_meme_modele_baseline": 0.0,
+      "taux_erreurs_securite_critiques": 0.0
+    },
+    "mistral_ministral_8b_2512": {
+      "provider": "mistral",
+      "modele": "ministral-8b-2512",
+      "groupe_modele": "compact",
+      "variante_prompt": "baseline",
+      "score_global_moyen": 89.44,
+      "gain_absolu_vs_baseline": 13.7,
+      "gain_vs_meme_modele_baseline": 0.0,
+      "taux_erreurs_securite_critiques": 0.0
+    },
+    "anthropic_claude_haiku_4_5": {
+      "provider": "anthropic",
+      "modele": "claude-haiku-4-5-20251001",
+      "groupe_modele": "compact",
+      "variante_prompt": "baseline",
+      "score_global_moyen": 85.93,
+      "gain_absolu_vs_baseline": 10.19,
       "gain_vs_meme_modele_baseline": 0.0,
       "taux_erreurs_securite_critiques": 0.0
     }
