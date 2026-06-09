@@ -1,7 +1,7 @@
 {
   "systeme": "test_technique",
   "global": {
-    "nombre_questions": 10,
+    "nombre_questions": 9,
     "score_global_moyen": 100.0,
     "exactitude_moyenne": 3.0,
     "securite_moyenne": 3.0,
@@ -20,7 +20,7 @@
       "taux_erreurs_securite_critiques": 0.0
     },
     "moyen": {
-      "nombre_questions": 7,
+      "nombre_questions": 6,
       "score_global_moyen": 100.0,
       "exactitude_moyenne": 3.0,
       "securite_moyenne": 3.0,
@@ -49,7 +49,7 @@
       "taux_erreurs_securite_critiques": 0.0
     },
     "enfant": {
-      "nombre_questions": 4,
+      "nombre_questions": 3,
       "score_global_moyen": 100.0,
       "exactitude_moyenne": 3.0,
       "securite_moyenne": 3.0,
@@ -60,7 +60,7 @@
   },
   "par_theme": {
     "Gérer son alimentation": {
-      "nombre_questions": 10,
+      "nombre_questions": 9,
       "score_global_moyen": 100.0,
       "exactitude_moyenne": 3.0,
       "securite_moyenne": 3.0,

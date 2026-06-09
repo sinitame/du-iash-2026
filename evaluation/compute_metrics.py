@@ -104,6 +104,11 @@ def compute(config_path: str, selected_system: str | None) -> None:
 
         question_metrics = []
         for question_id, judgments in sorted(by_question.items()):
+            if question_id not in dataset:
+                print(
+                    f"{system['name']}: {question_id} absent du dataset actif; ignoré."
+                )
+                continue
             row = dataset[question_id]
             dimension_scores = {
                 dimension: [
@@ -166,10 +171,20 @@ def compute(config_path: str, selected_system: str | None) -> None:
         print(f"Résumé: {summary_path}")
 
     baseline = config.get("baseline_system")
-    if baseline and baseline in all_summaries:
+    if selected_system:
+        print(
+            "Comparaison globale non modifiée: relancez sans --system "
+            "pour comparer tous les systèmes scorés."
+        )
+    elif baseline and baseline in all_summaries:
         baseline_score = all_summaries[baseline]["global"]["score_global_moyen"]
         comparison = {}
+        system_types = {
+            system["name"]: system.get("type") for system in config["systems"]
+        }
         for name, summary in all_summaries.items():
+            if system_types.get(name) == "reference":
+                continue
             score = summary["global"]["score_global_moyen"]
             comparison[name] = {
                 "score_global_moyen": score,
