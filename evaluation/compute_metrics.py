@@ -127,6 +127,7 @@ def compute(
     config_path: str,
     selected_system: str | None,
     verbose: bool = True,
+    partial: bool = False,
 ) -> None:
     config, base_dir = load_config(config_path)
     output_dir = resolve_path(base_dir, config["output_dir"])
@@ -159,7 +160,9 @@ def compute(
         for response in load_jsonl(
             output_dir / "responses" / f"{system['name']}.jsonl"
         ):
-            latest_responses[response["question_id"]] = response
+            row = dataset.get(response["question_id"])
+            if row and response.get("question") == row["question_patient"]:
+                latest_responses[response["question_id"]] = response
         active_response_hashes = {
             question_id: response["request_hash"]
             for question_id, response in latest_responses.items()
@@ -255,7 +258,8 @@ def compute(
 
         metrics_dir = output_dir / judge_version / "metrics"
         metrics_dir.mkdir(parents=True, exist_ok=True)
-        detail_path = metrics_dir / f"{system['name']}.csv"
+        file_suffix = "_partial" if partial else ""
+        detail_path = metrics_dir / f"{system['name']}{file_suffix}.csv"
         with detail_path.open("w", encoding="utf-8-sig", newline="") as handle:
             writer = csv.DictWriter(handle, fieldnames=question_metrics[0].keys())
             writer.writeheader()
@@ -269,6 +273,14 @@ def compute(
             "modele": system.get("model"),
             "groupe_modele": system.get("model_group"),
             "variante_prompt": system.get("prompt_variant"),
+            "evaluation_partielle": len(question_metrics) < len(dataset),
+            "questions_dataset": len(dataset),
+            "reponses_disponibles": len(latest_responses),
+            "questions_scorees": len(question_metrics),
+            "taux_couverture_questions": round(
+                len(question_metrics) / len(dataset) if dataset else 0.0,
+                4,
+            ),
             "global": aggregate(question_metrics),
         }
         for column, key in (
@@ -283,7 +295,10 @@ def compute(
                 group: aggregate(items) for group, items in sorted(groups.items())
             }
         all_summaries[system["name"]] = summary
-        summary_path = metrics_dir / f"{system['name']}.summary.json"
+        summary_path = (
+            metrics_dir
+            / f"{system['name']}{file_suffix}.summary.json"
+        )
         summary_path.write_text(
             json.dumps(summary, ensure_ascii=False, indent=2) + "\n",
             encoding="utf-8",
@@ -325,6 +340,13 @@ def compute(
                 "modele": summary.get("modele"),
                 "groupe_modele": summary.get("groupe_modele"),
                 "variante_prompt": summary.get("variante_prompt"),
+                "evaluation_partielle": summary["evaluation_partielle"],
+                "questions_dataset": summary["questions_dataset"],
+                "reponses_disponibles": summary["reponses_disponibles"],
+                "questions_scorees": summary["questions_scorees"],
+                "taux_couverture_questions": summary[
+                    "taux_couverture_questions"
+                ],
                 "score_global_moyen": score,
                 "gain_absolu_vs_baseline": (
                     round(score - baseline_score, 2)
@@ -359,12 +381,18 @@ def compute(
                     "taux_reponses_excellentes"
                 ],
             }
-        comparison_path = metrics_dir / "comparison.json"
+        comparison_name = "comparison_partial" if partial else "comparison"
+        comparison_path = metrics_dir / f"{comparison_name}.json"
         comparison_path.write_text(
             json.dumps(
                 {
                     "version_juge": judge_version,
                     "hash_prompt_juge": judge_prompt_hash,
+                    "evaluation_partielle": partial
+                    or any(
+                        summary["evaluation_partielle"]
+                        for summary in all_summaries.values()
+                    ),
                     "baseline": baseline,
                     "baseline_valide": baseline_valid,
                     "avertissement_baseline": (
@@ -384,7 +412,9 @@ def compute(
             + "\n",
             encoding="utf-8",
         )
-        comparison_detailed_csv_path = metrics_dir / "comparison_detailed.csv"
+        comparison_detailed_csv_path = (
+            metrics_dir / f"{comparison_name}_detailed.csv"
+        )
         comparison_rows = [
             {"systeme": name, **values}
             for name, values in comparison.items()
@@ -401,6 +431,7 @@ def compute(
                 writer.writerows(comparison_rows)
 
         scores_by_model: defaultdict[str, dict[str, float]] = defaultdict(dict)
+        coverage_by_model: defaultdict[str, dict[str, int]] = defaultdict(dict)
         model_order = []
         for system in config["systems"]:
             name = system["name"]
@@ -414,22 +445,39 @@ def compute(
             if model not in scores_by_model:
                 model_order.append(model)
             scores_by_model[model][variant] = values["score_global_moyen"]
+            coverage_by_model[model][variant] = values["questions_scorees"]
 
-        comparison_csv_path = metrics_dir / "comparison.csv"
+        comparison_csv_path = metrics_dir / f"{comparison_name}.csv"
         with comparison_csv_path.open(
             "w", encoding="utf-8-sig", newline=""
         ) as handle:
             writer = csv.writer(handle, delimiter=";")
-            writer.writerow(["model", "Baseline", "Baseline + prompt"])
-            for model in model_order:
-                scores = scores_by_model[model]
+            if partial:
                 writer.writerow(
                     [
-                        model,
-                        format_french_number(scores.get("baseline")),
-                        format_french_number(scores.get("step_by_step")),
+                        "model",
+                        "Baseline",
+                        "Baseline questions",
+                        "Baseline + prompt",
+                        "Baseline + prompt questions",
                     ]
                 )
+            else:
+                writer.writerow(["model", "Baseline", "Baseline + prompt"])
+            for model in model_order:
+                scores = scores_by_model[model]
+                row = [
+                    model,
+                    format_french_number(scores.get("baseline")),
+                ]
+                if partial:
+                    row.append(coverage_by_model[model].get("baseline", 0))
+                row.append(format_french_number(scores.get("step_by_step")))
+                if partial:
+                    row.append(
+                        coverage_by_model[model].get("step_by_step", 0)
+                    )
+                writer.writerow(row)
 
         if verbose:
             print(f"Comparaison: {comparison_path}")
@@ -447,8 +495,13 @@ def main() -> None:
         default=str(Path(__file__).with_name("config.example.json")),
     )
     parser.add_argument("--system")
+    parser.add_argument(
+        "--partial",
+        action="store_true",
+        help="Écrire des fichiers *_partial sans remplacer les métriques complètes",
+    )
     args = parser.parse_args()
-    compute(args.config, args.system)
+    compute(args.config, args.system, partial=args.partial)
 
 
 if __name__ == "__main__":

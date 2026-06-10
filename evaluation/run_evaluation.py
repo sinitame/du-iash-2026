@@ -12,7 +12,7 @@ from pathlib import Path
 from typing import Any
 
 from compute_metrics import compute
-from evaluation_common import load_config, resolve_path, stable_hash
+from evaluation_common import load_config, load_jsonl, resolve_path, stable_hash
 from generate_responses import generate
 from score_responses import score
 
@@ -54,6 +54,7 @@ def describe_dataset(path: Path) -> dict[str, int]:
         rows = list(csv.DictReader(handle))
     return {
         "questions": len(rows),
+        "identifiants_vides": sum(not row.get("id", "").strip() for row in rows),
         "themes": len({row["theme"] for row in rows}),
         "reponses_attendues_uniques": len(
             {row["réponse_attendue"] for row in rows}
@@ -93,6 +94,7 @@ class ProgressTracker:
         systems: list[dict[str, Any]],
         question_count: int,
         concurrency: int,
+        total_steps: int | None = None,
     ):
         self.path = path
         self.lock = threading.Lock()
@@ -105,7 +107,11 @@ class ProgressTracker:
             "systems": [system["name"] for system in systems],
             "question_count": question_count,
             "concurrency": concurrency,
-            "total_steps": question_count * len(systems) * 2 + 1,
+            "total_steps": (
+                total_steps
+                if total_steps is not None
+                else question_count * len(systems) * 2 + 1
+            ),
             "completed_steps": 0,
             "current_stage": "initialization",
             "current_system": None,
@@ -223,9 +229,17 @@ def run(
     mode: str,
     base_config_value: str,
     concurrency: int = 1,
+    partial_summary: bool = False,
 ) -> None:
     if concurrency < 1:
         raise ValueError("concurrency doit être supérieur ou égal à 1")
+    if concurrency > 10:
+        print(
+            f"Attention: concurrency={concurrency} est élevée. "
+            "Les APIs peuvent renvoyer davantage d'erreurs transitoires; "
+            "une valeur entre 4 et 8 est généralement plus stable.",
+            file=sys.stderr,
+        )
 
     evaluation_dir = Path(__file__).resolve().parent
     base_config_path = Path(base_config_value).resolve()
@@ -233,6 +247,18 @@ def run(
     run_config_path, run_config, systems = build_run_config(
         base_config_path, dataset_path, mode
     )
+    active_providers = {system.get("provider") for system in systems}
+    for provider, transport in run_config.get(
+        "provider_transport",
+        {},
+    ).items():
+        provider_limit = int(transport.get("max_concurrency", concurrency))
+        if provider in active_providers and provider_limit < concurrency:
+            print(
+                f"Concurrence {provider}: {provider_limit} "
+                f"(limite générale demandée: {concurrency}).",
+                file=sys.stderr,
+            )
     question_count = count_questions(dataset_path)
     dataset_scope = describe_dataset(dataset_path)
     if dataset_scope["questions"] < 30 or dataset_scope["themes"] < 3:
@@ -244,12 +270,35 @@ def run(
             "uniques). Les écarts entre systèmes peuvent être instables.",
             file=sys.stderr,
         )
+    if dataset_scope["identifiants_vides"]:
+        print(
+            "Attention: le dataset contient "
+            f"{dataset_scope['identifiants_vides']} identifiant(s) vide(s). "
+            "Ces lignes ne peuvent pas être suivies fiablement dans le cache.",
+            file=sys.stderr,
+        )
     output_dir = Path(run_config["output_dir"])
+    progress_suffix = "_partial_summary" if partial_summary else ""
     progress_path = (
         output_dir
         / "progress"
-        / f"{dataset_path.stem}_{mode}.json"
+        / f"{dataset_path.stem}_{mode}{progress_suffix}.json"
     )
+    partial_response_count = None
+    if partial_summary:
+        with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
+            dataset = {row["id"]: row for row in csv.DictReader(handle)}
+        partial_response_count = 0
+        for system in systems:
+            latest_responses = {}
+            response_path = (
+                output_dir / "responses" / f"{system['name']}.jsonl"
+            )
+            for response in load_jsonl(response_path):
+                row = dataset.get(response["question_id"])
+                if row and response.get("question") == row["question_patient"]:
+                    latest_responses[response["question_id"]] = response
+            partial_response_count += len(latest_responses)
     tracker = ProgressTracker(
         progress_path,
         dataset_path,
@@ -257,18 +306,24 @@ def run(
         systems,
         question_count,
         concurrency,
+        total_steps=(
+            partial_response_count + 1
+            if partial_response_count is not None
+            else None
+        ),
     )
 
     try:
-        for system in systems:
-            generate(
-                str(run_config_path),
-                system["name"],
-                None,
-                progress_callback=tracker.update,
-                verbose=False,
-                concurrency=concurrency,
-            )
+        if not partial_summary:
+            for system in systems:
+                generate(
+                    str(run_config_path),
+                    system["name"],
+                    None,
+                    progress_callback=tracker.update,
+                    verbose=False,
+                    concurrency=concurrency,
+                )
         judge_name = run_config["judges"][0]["name"]
         for system in systems:
             score(
@@ -280,7 +335,12 @@ def run(
                 verbose=False,
                 concurrency=concurrency,
             )
-        compute(str(run_config_path), None, verbose=False)
+        compute(
+            str(run_config_path),
+            None,
+            verbose=False,
+            partial=partial_summary,
+        )
         tracker.metrics_done()
         tracker.complete()
     except Exception as error:
@@ -293,9 +353,14 @@ def run(
         judge_prompt_path.read_text(encoding="utf-8")
     )
     judge_version = f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
+    comparison_filename = (
+        "comparison_partial.json"
+        if partial_summary
+        else "comparison.json"
+    )
     print(
         "Comparaison: "
-        f"{output_dir / judge_version / 'metrics' / 'comparison.json'}"
+        f"{output_dir / judge_version / 'metrics' / comparison_filename}"
     )
     print(
         "Exécution: "
@@ -321,9 +386,23 @@ def main() -> None:
         default=1,
         help="Nombre maximal d'appels API simultanés par système",
     )
+    parser.add_argument(
+        "--partial-summary",
+        action="store_true",
+        help=(
+            "Sauter la génération, scorer les réponses disponibles et produire "
+            "des métriques partielles séparées"
+        ),
+    )
     args = parser.parse_args()
     try:
-        run(args.dataset, args.mode, args.config, args.concurrency)
+        run(
+            args.dataset,
+            args.mode,
+            args.config,
+            args.concurrency,
+            args.partial_summary,
+        )
     except NotImplementedError as error:
         parser.error(str(error))
 

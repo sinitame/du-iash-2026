@@ -57,6 +57,15 @@ def generate(
         raise ValueError(f"Système absent de la configuration: {selected_system}")
 
     for system in selected:
+        provider_transport = config.get("provider_transport", {}).get(
+            system.get("provider"),
+            {},
+        )
+        api_system = {**system, **provider_transport}
+        effective_concurrency = min(
+            concurrency,
+            int(provider_transport.get("max_concurrency", concurrency)),
+        )
         prompt_file = system.get("prompt_file")
         if not prompt_file and system.get("type") != "reference":
             raise ValueError(f"prompt_file absent pour le système {system['name']}")
@@ -195,7 +204,7 @@ def generate(
                 source = "local"
             else:
                 generation = call_chat_api(
-                    system,
+                    api_system,
                     job["messages"],
                     temperature=config.get("temperature", 0),
                     max_tokens=max_tokens,
@@ -208,7 +217,7 @@ def generate(
                 source = "api"
             return generation, source
 
-        with ThreadPoolExecutor(max_workers=concurrency) as executor:
+        with ThreadPoolExecutor(max_workers=effective_concurrency) as executor:
             futures = {
                 executor.submit(generate_one, job): job for job in pending
             }
@@ -244,6 +253,11 @@ def generate(
                         "niveau_risque": row["niveau_risque"],
                         "response": generation["text"],
                         "latency_seconds": generation["latency_seconds"],
+                        "api_attempts": generation.get("api_attempts", 1),
+                        "api_max_tokens": generation.get(
+                            "api_max_tokens",
+                            max_tokens,
+                        ),
                         "usage": generation["usage"],
                         "raw_api_response": generation["raw_api_response"],
                     },

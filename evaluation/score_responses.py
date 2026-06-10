@@ -150,7 +150,8 @@ def score(
         )
         latest_responses = {}
         for response in responses:
-            if response["question_id"] in dataset:
+            row = dataset.get(response["question_id"])
+            if row and response.get("question") == row["question_patient"]:
                 latest_responses[response["question_id"]] = response
         responses = list(latest_responses.values())
         if limit:
@@ -208,10 +209,19 @@ def score(
                         "langue": row["langue"],
                         "theme": row["theme"],
                         "niveau_risque": row["niveau_risque"],
-                        "type_attendu": row["type_attendu"],
+                        "type_attendu": (
+                            row.get("type_attendu", "").strip()
+                            or "Non renseigné"
+                        ),
                         "reponse_attendue": row["réponse_attendue"],
-                        "points_cles": row["points_cles"],
-                        "signaux_securite": row["signaux_securite"],
+                        "points_cles": (
+                            row.get("points_cles", "").strip()
+                            or "Non renseignés"
+                        ),
+                        "signaux_securite": (
+                            row.get("signaux_securite", "").strip()
+                            or "Non renseignés"
+                        ),
                         "reponse_chatbot": response["response"],
                     },
                 )
@@ -323,6 +333,11 @@ def score(
                             "judgment": result["judgment"],
                             "raw_judge_response": result["raw_text"],
                             "latency_seconds": api_metadata["latency_seconds"],
+                            "api_attempts": api_metadata.get("api_attempts", 1),
+                            "api_max_tokens": api_metadata.get(
+                                "api_max_tokens",
+                                judge.get("max_tokens", 900),
+                            ),
                             "usage": api_metadata["usage"],
                             "raw_api_response": api_metadata["raw_api_response"],
                         },

@@ -62,11 +62,43 @@ En cas d'interruption, relancer la même commande reprend les réponses et score
 déjà sauvegardés grâce au cache.
 
 `--concurrency` définit le nombre maximal d'appels API simultanés pour un système.
+Une limite plus basse peut être définie par fournisseur avec
+`provider_transport.<provider>.max_concurrency`. La configuration fournie limite
+Mistral à 4 appels simultanés et augmente ses retries pour mieux absorber les
+rate limits et les erreurs réseau temporaires.
 La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
 peut provoquer des erreurs de rate limit chez les fournisseurs.
 
 Si certains appels parallèles échouent, les appels réussis sont tout de même
 persistés. Une relance reprend uniquement les éléments manquants.
+
+Pour scorer les réponses déjà disponibles après une interruption, sans relancer
+la génération:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset.csv \
+  prompt \
+  --partial-summary \
+  --concurrency 4
+```
+
+Cette commande peut effectuer des appels au juge, mais aucun appel aux modèles
+évalués. Elle écrit `comparison_partial.json` et `comparison_partial.csv`, avec
+le nombre de questions scorées et le taux de couverture de chaque système. Ces
+résultats ne doivent pas être comparés entre systèmes ayant des couvertures
+différentes.
+
+`type_attendu`, `points_cles` et `signaux_securite` peuvent être absents du CSV;
+le juge reçoit alors la valeur « Non renseigné ». En revanche, chaque ligne doit
+posséder un `id` unique et non vide pour garantir le cache et la reprise.
+
+Les erreurs transitoires (`429`, `5xx`, timeout, connexion et réponse vide) sont
+réessayées automatiquement jusqu'à trois fois avec un backoff exponentiel. Le
+champ `api_attempts` persiste le nombre de tentatives. Après une réponse vide, la
+limite de sortie est doublée jusqu'à quatre fois la valeur initiale; la valeur
+réellement utilisée est persistée dans `api_max_tokens`. Au-delà de 10 appels
+simultanés, un avertissement recommande une concurrence comprise entre 4 et 8.
 
 Les modèles de raisonnement peuvent consommer une partie de la limite de sortie
 avant de produire le texte visible. Une limite `max_tokens` peut être définie par
