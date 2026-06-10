@@ -8,19 +8,127 @@ Le pipeline sépare strictement trois opérations:
 
 Cette séparation évite de rappeler les APIs lorsqu'on modifie les métriques.
 
+## Commande complète
+
+Le script principal prend exactement deux entrées:
+
+```bash
+python3 evaluation/run_evaluation.py <dataset.csv> <mode>
+```
+
+Modes:
+
+- `baseline`: évalue les cinq modèles avec le prompt minimal;
+- `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
+- `rag`: réservé pour la prochaine étape, pas encore implémenté.
+
+Exemples:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  baseline
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  prompt \
+  --concurrency 4
+```
+
+Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
+calcul des métriques.
+
+Le mode `prompt` exécute les variantes `baseline` et `step_by_step` afin de
+permettre leur comparaison dans un seul run. Il n'est donc pas nécessaire de
+lancer ensuite le mode `baseline`: ses réponses et scores auront déjà été
+produits. Le récapitulatif final indique le nombre d'appels API et de résultats
+réutilisés depuis le cache.
+
+Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
+
+```bash
+export OPENAI_API_KEY="..."
+export MISTRAL_API_KEY="..."
+export ANTHROPIC_API_KEY="..."
+```
+
+La progression est affichée dans le terminal et persistée dans:
+
+```text
+evaluation/outputs/progress/<dataset>_<mode>.json
+```
+
+En cas d'interruption, relancer la même commande reprend les réponses et scores
+déjà sauvegardés grâce au cache.
+
+`--concurrency` définit le nombre maximal d'appels API simultanés pour un système.
+Une limite plus basse peut être définie par fournisseur avec
+`provider_transport.<provider>.max_concurrency`. La configuration fournie limite
+Mistral à 4 appels simultanés et augmente ses retries pour mieux absorber les
+rate limits et les erreurs réseau temporaires.
+La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
+peut provoquer des erreurs de rate limit chez les fournisseurs.
+
+Si certains appels parallèles échouent, les appels réussis sont tout de même
+persistés. Une relance reprend uniquement les éléments manquants.
+
+Pour scorer les réponses déjà disponibles après une interruption, sans relancer
+la génération:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset.csv \
+  prompt \
+  --partial-summary \
+  --concurrency 4
+```
+
+Cette commande peut effectuer des appels au juge, mais aucun appel aux modèles
+évalués. Elle écrit `comparison_partial.json` et `comparison_partial.csv`, avec
+le nombre de questions scorées et le taux de couverture de chaque système. Ces
+résultats ne doivent pas être comparés entre systèmes ayant des couvertures
+différentes.
+
+`type_attendu`, `points_cles` et `signaux_securite` peuvent être absents du CSV;
+le juge reçoit alors la valeur « Non renseigné ». En revanche, chaque ligne doit
+posséder un `id` unique et non vide pour garantir le cache et la reprise.
+
+Les erreurs transitoires (`429`, `5xx`, timeout, connexion et réponse vide) sont
+réessayées automatiquement jusqu'à trois fois avec un backoff exponentiel. Le
+champ `api_attempts` persiste le nombre de tentatives. Après une réponse vide, la
+limite de sortie est doublée jusqu'à quatre fois la valeur initiale; la valeur
+réellement utilisée est persistée dans `api_max_tokens`. Au-delà de 10 appels
+simultanés, un avertissement recommande une concurrence comprise entre 4 et 8.
+
+Les modèles de raisonnement peuvent consommer une partie de la limite de sortie
+avant de produire le texte visible. Une limite `max_tokens` peut être définie par
+système; une réponse vide est considérée comme un échec de génération et n'est
+plus persistée.
+
 ## Structure des résultats
 
 ```text
 evaluation/outputs/
 ├── responses/
 │   └── <systeme>.jsonl
-├── scores/
-│   └── <systeme>/<juge>.jsonl
-└── metrics/
-    ├── <systeme>.csv
-    ├── <systeme>.summary.json
-    └── comparison.json
+├── <version_juge>/
+│   ├── scores/
+│   │   └── <systeme>/<juge>.jsonl
+│   └── metrics/
+│       ├── <systeme>.csv
+│       ├── <systeme>.summary.json
+│       ├── comparison.json
+│       └── comparison.csv
+├── progress/
+│   └── <dataset>_<mode>.json
+└── run_configs/
+    └── <configuration utilisée>.json
 ```
+
+`<version_juge>` combine le nom du template et le début de son hash, par exemple
+`judge_v2_f9de70a0`. Les scores et métriques d'une calibration sont regroupés
+dans ce répertoire. Supprimer une version revient donc à supprimer un seul
+répertoire.
 
 Les fichiers JSONL sont append-only. Chaque requête possède un hash calculé à
 partir du modèle, du prompt, des paramètres et de l'entrée.
@@ -33,7 +141,50 @@ partir du modèle, du prompt, des paramètres et de l'entrée.
 
 ## 1. Générer les réponses
 
-Le prompt du chatbot est dans `evaluation/prompts/chatbot_baseline.txt`.
+Chaque système associe un modèle à un fichier `prompt_file`. Deux variantes sont
+disponibles:
+
+- `evaluation/prompts/chatbot_baseline.txt`: consignes minimales;
+- `evaluation/prompts/chatbot_step_by_step.txt`: méthode de construction interne
+  calibrée sur le style ETP du CSV V1: réponse directe, 2 à 4 phrases, nuance
+  clinique et orientation uniquement lorsqu'elle est pertinente.
+
+Le prompt fait partie du hash de cache. Modifier son contenu crée donc une nouvelle
+requête, tandis qu'une relance sans modification réutilise les réponses persistées.
+
+## Pouvoir discriminant du scoring
+
+Le juge `judge_v2.txt` réserve le score maximal aux réponses qui couvrent tous les
+points clés et signaux de sécurité applicables. Il ne pénalise pas une
+reformulation et n'exige pas de mentionner une précaution hors contexte.
+
+Le score global historique est conservé. Les résumés ajoutent aussi:
+
+- le taux de couverture complète en exactitude et sécurité;
+- le taux de réponses excellentes sur les quatre critères;
+- le taux de réponses vides et d'échecs techniques;
+- le score minimum, le percentile 10 et la dispersion des scores.
+
+Une réponse vide reçoit automatiquement un score global nul sans appel au juge.
+Elle est classée comme échec technique plutôt que comme erreur médicale critique,
+ce qui évite qu'un juge reconstruise involontairement la réponse depuis la
+référence.
+
+Si la baseline globale contient un échec technique, les gains absolus contre cette
+baseline ne sont pas calculés. Cela évite de présenter comme amélioration de
+contenu la simple correction d'un problème de génération.
+
+Ces indicateurs évitent qu'une moyenne élevée masque quelques réponses faibles.
+Pour comparer sérieusement les systèmes, utiliser un jeu de test couvrant
+plusieurs thèmes et suffisamment de questions. Le fichier `dataset_test.csv`
+contient seulement 9 questions d'un seul thème et sert surtout de smoke test.
+
+Le calcul produit trois fichiers de comparaison:
+
+- `comparison.json`: résultats complets structurés;
+- `comparison.csv`: tableau synthétique `model`, `Baseline`,
+  `Baseline + prompt`, avec séparateur `;` et décimales françaises;
+- `comparison_detailed.csv`: toutes les métriques disponibles par système.
 
 Test sans API:
 
@@ -51,48 +202,47 @@ python3 evaluation/generate_responses.py \
   --system openai_gpt_5_mini
 ```
 
-Les modèles répondants configurés sont:
+Le panel est limité à cinq modèles, répartis en deux groupes indicatifs:
 
-- `openai_gpt_5_mini` (`gpt-5-mini`), utilisé comme baseline;
-- `openai_gpt_4_1_mini` (`gpt-4.1-mini`);
-- `openai_gpt_4_turbo` (`gpt-4-turbo`);
-- `openai_gpt_3_5_turbo` (`gpt-3.5-turbo`).
+Modèles généralistes avancés:
 
-Les modèles Mistral configurés sont:
+- OpenAI: `gpt-5-mini`;
+- Mistral: `mistral-medium-2508`;
+- Anthropic: `claude-sonnet-4-6`.
 
-- `mistral_large_2512` (`mistral-large-2512`);
-- `mistral_medium_2508` (`mistral-medium-2508`);
-- `mistral_small_2603` (`mistral-small-2603`);
-- `mistral_ministral_8b_2512` (`ministral-8b-2512`);
-- `mistral_nemo_2407` (`open-mistral-nemo-2407`).
+Modèles compacts:
 
-Les IDs sont figés plutôt que d'utiliser les alias `latest`, afin de rendre les
-résultats reproductibles.
+- Mistral: `ministral-8b-2512`;
+- Anthropic: `claude-haiku-4-5-20251001`.
 
-Pour générer les réponses d'un modèle Mistral:
+Les groupes servent à éviter les comparaisons manifestement déséquilibrées. Ils
+restent indicatifs, car les fournisseurs ne publient pas tous des caractéristiques
+directement comparables.
 
-```bash
-export MISTRAL_API_KEY="votre-cle"
-python3 evaluation/generate_responses.py \
-  --system mistral_small_2603
-```
-
-Les modèles Anthropic configurés sont:
-
-- `anthropic_claude_fable_5` (`claude-fable-5`);
-- `anthropic_claude_opus_4_8` (`claude-opus-4-8`);
-- `anthropic_claude_sonnet_4_6` (`claude-sonnet-4-6`);
-- `anthropic_claude_haiku_4_5` (`claude-haiku-4-5-20251001`).
-
-Pour générer les réponses d'un modèle Anthropic:
+Chaque modèle possède une baseline et une variante step-by-step:
 
 ```bash
-export ANTHROPIC_API_KEY="votre-cle"
 python3 evaluation/generate_responses.py \
-  --system anthropic_claude_sonnet_4_6
+  --system openai_gpt_5_mini_step_by_step
 ```
 
-Pour générer les réponses de tous les systèmes configurés:
+Pour essayer une nouvelle variante:
+
+1. Créer un fichier, par exemple `evaluation/prompts/chatbot_v2.txt`.
+2. Ajouter une entrée dans `systems` avec un nom unique et:
+
+```json
+{
+  "name": "openai_gpt_5_mini_v2",
+  "model": "gpt-5-mini",
+  "prompt_file": "prompts/chatbot_v2.txt"
+}
+```
+
+Les autres paramètres fournisseur doivent être repris depuis l'entrée du même
+modèle. Le nom unique sépare les réponses, scores et métriques de chaque variante.
+
+Pour générer toutes les variantes configurées:
 
 ```bash
 python3 evaluation/generate_responses.py
@@ -103,7 +253,8 @@ présentes.
 
 ## 2. Scorer avec les juges
 
-Le prompt versionné du juge est `evaluation/prompts/judge_v1.txt`. C'est un template utilisant
+Le prompt actif du juge est `evaluation/prompts/judge_v2.txt`. La version V1 reste
+disponible pour reproduire les anciens résultats. Le prompt est un template utilisant
 des variables comme:
 
 ```text
@@ -147,19 +298,11 @@ Le juge utilise `gpt-4.1-mini` et le mode de sortie JSON.
 Le même juge doit être utilisé pour tous les modèles répondants afin de préserver
 la comparabilité.
 
-Les réponses Mistral sont donc également évaluées par le juge OpenAI fixe:
+Exemple avec une variante de prompt:
 
 ```bash
 python3 evaluation/score_responses.py \
-  --system mistral_small_2603 \
-  --judge openai_gpt_4_1_mini_judge
-```
-
-Il en va de même pour les réponses Anthropic:
-
-```bash
-python3 evaluation/score_responses.py \
-  --system anthropic_claude_sonnet_4_6 \
+  --system mistral_small_2603_step_by_step \
   --judge openai_gpt_4_1_mini_judge
 ```
 
@@ -226,6 +369,7 @@ Les rapports contiennent:
 - le taux d'erreurs critiques;
 - les résultats par âge, thème et niveau de risque;
 - le gain absolu par rapport à la baseline.
+- le gain de chaque variante par rapport au prompt baseline du même modèle.
 
 Le CSV détaillé reste volontairement simple:
 
@@ -247,3 +391,8 @@ jugement reste disponible dans `scores/`, sans alourdir le rapport de métriques
 
 Le code de `compute_metrics.py` peut être modifié et relancé autant de fois que
 nécessaire sans régénérer les réponses ni rappeler les juges.
+
+## Étape suivante
+
+Le RAG n'est pas encore implémenté. Il sera ajouté comme une variante distincte
+après la comparaison des prompts baseline et step-by-step.

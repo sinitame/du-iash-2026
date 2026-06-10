@@ -9,6 +9,12 @@ calculer les métriques de comparaison.
 Les instructions d'utilisation sont disponibles dans
 [`evaluation/README.md`](evaluation/README.md).
 
+Commande principale:
+
+```bash
+python3 evaluation/run_evaluation.py <dataset.csv> baseline --concurrency 4
+```
+
 ## Chatbot
 
 Cette partie contiendra le code du chatbot ETP spécialisé dans les MICI.

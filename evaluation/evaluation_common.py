@@ -5,6 +5,7 @@ from __future__ import annotations
 import hashlib
 import json
 import os
+import random
 import re
 import time
 import urllib.error
@@ -78,6 +79,7 @@ def call_chat_api(
 
     api_format = provider.get("api_format", "openai_chat")
     if api_format == "anthropic_messages":
+        output_tokens_parameter = "max_tokens"
         system_parts = [
             message["content"] for message in messages if message["role"] == "system"
         ]
@@ -102,10 +104,14 @@ def call_chat_api(
             **provider.get("headers", {}),
         }
     elif api_format == "openai_chat":
+        output_tokens_parameter = provider.get(
+            "output_tokens_parameter",
+            "max_tokens",
+        )
         payload = {
             "model": provider["model"],
             "messages": messages,
-            provider.get("output_tokens_parameter", "max_tokens"): max_tokens,
+            output_tokens_parameter: max_tokens,
             **provider.get("request_options", {}),
         }
         if provider.get("use_temperature", True):
@@ -119,70 +125,145 @@ def call_chat_api(
     else:
         raise ValueError(f"Format API inconnu: {api_format}")
 
-    request = urllib.request.Request(
-        endpoint,
-        data=json.dumps(payload).encode("utf-8"),
-        headers=headers,
-        method="POST",
-    )
     started = time.perf_counter()
-    try:
-        with urllib.request.urlopen(
-            request, timeout=provider.get("timeout_seconds", 120)
-        ) as response:
-            body = json.loads(response.read().decode("utf-8"))
-    except urllib.error.HTTPError as error:
-        response_text = error.read().decode("utf-8", errors="replace")
-        try:
-            error_body = json.loads(response_text)
-            api_error = error_body.get("error", {})
-            message = api_error.get("message", response_text)
-            error_type = api_error.get("type")
-            error_code = api_error.get("code")
-        except json.JSONDecodeError:
-            message = response_text or error.reason
-            error_type = None
-            error_code = None
+    max_retries = int(provider.get("max_retries", 3))
+    retry_base_seconds = float(provider.get("retry_base_seconds", 1.0))
+    retry_max_seconds = float(provider.get("retry_max_seconds", 8.0))
 
-        details = [f"HTTP {error.code}", str(message)]
-        if error_type:
-            details.append(f"type={error_type}")
-        if error_code:
-            details.append(f"code={error_code}")
-        request_id = error.headers.get("x-request-id") or error.headers.get("request-id")
-        if request_id:
-            details.append(f"request_id={request_id}")
-        if (
-            api_format == "openai_chat"
-            and error.code == 403
-            and error_code == "model_not_found"
-        ):
-            details.append(
-                "Vérifiez que la clé autorise Chat completions en écriture "
-                "et que le projet a accès au modèle."
+    def wait_before_retry(attempt: int, retry_after: str | None = None) -> None:
+        if retry_after:
+            try:
+                delay = float(retry_after)
+            except ValueError:
+                delay = 0.0
+        else:
+            delay = 0.0
+        if delay <= 0:
+            delay = min(
+                retry_max_seconds,
+                retry_base_seconds * (2**attempt),
             )
-        raise RuntimeError("Erreur API: " + " | ".join(details)) from None
-    except urllib.error.URLError as error:
-        raise RuntimeError(f"Connexion à l'API impossible: {error.reason}") from None
-    if api_format == "anthropic_messages":
-        text = "".join(
-            block.get("text", "")
-            for block in body.get("content", [])
-            if block.get("type") == "text"
-        ).strip()
-        usage = body.get("usage", {})
-    else:
-        text = body["choices"][0]["message"]["content"].strip()
-        usage = body.get("usage", {})
-    if not text:
-        raise RuntimeError("L'API a retourné une réponse sans contenu texte.")
+            delay *= random.uniform(0.8, 1.2)
+        time.sleep(delay)
 
-    return {
-        "text": text,
-        "latency_seconds": round(time.perf_counter() - started, 4),
-        "usage": usage,
-        "raw_api_response": body,
-    }
+    for attempt in range(max_retries + 1):
+        request = urllib.request.Request(
+            endpoint,
+            data=json.dumps(payload).encode("utf-8"),
+            headers=headers,
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(
+                request, timeout=provider.get("timeout_seconds", 120)
+            ) as response:
+                body = json.loads(response.read().decode("utf-8"))
+        except urllib.error.HTTPError as error:
+            response_text = error.read().decode("utf-8", errors="replace")
+            try:
+                error_body = json.loads(response_text)
+                api_error = error_body.get("error", {})
+                message = api_error.get("message", response_text)
+                error_type = api_error.get("type")
+                error_code = api_error.get("code")
+            except json.JSONDecodeError:
+                message = response_text or error.reason
+                error_type = None
+                error_code = None
+
+            retryable = (
+                error.code in {408, 409, 429}
+                or 500 <= error.code <= 599
+            )
+            if retryable and attempt < max_retries:
+                wait_before_retry(attempt, error.headers.get("retry-after"))
+                continue
+
+            details = [f"HTTP {error.code}", str(message)]
+            if error_type:
+                details.append(f"type={error_type}")
+            if error_code:
+                details.append(f"code={error_code}")
+            request_id = error.headers.get("x-request-id") or error.headers.get(
+                "request-id"
+            )
+            if request_id:
+                details.append(f"request_id={request_id}")
+            if (
+                api_format == "openai_chat"
+                and error.code == 403
+                and error_code == "model_not_found"
+            ):
+                details.append(
+                    "Vérifiez que la clé autorise Chat completions en écriture "
+                    "et que le projet a accès au modèle."
+                )
+            details.append(f"tentatives={attempt + 1}")
+            raise RuntimeError("Erreur API: " + " | ".join(details)) from None
+        except (urllib.error.URLError, TimeoutError) as error:
+            if attempt < max_retries:
+                wait_before_retry(attempt)
+                continue
+            reason = getattr(error, "reason", str(error))
+            raise RuntimeError(
+                "Connexion à l'API impossible après "
+                f"{attempt + 1} tentative(s): {reason}"
+            ) from None
+
+        if api_format == "anthropic_messages":
+            text = "".join(
+                block.get("text", "")
+                for block in body.get("content", [])
+                if block.get("type") == "text"
+            ).strip()
+            usage = body.get("usage", {})
+            finish_reason = body.get("stop_reason")
+        else:
+            choice = body.get("choices", [{}])[0]
+            message = choice.get("message", {})
+            text = (message.get("content") or "").strip()
+            usage = body.get("usage", {})
+            finish_reason = choice.get("finish_reason")
+
+        if text:
+            return {
+                "text": text,
+                "latency_seconds": round(time.perf_counter() - started, 4),
+                "usage": usage,
+                "raw_api_response": body,
+                "api_attempts": attempt + 1,
+                "api_max_tokens": payload[output_tokens_parameter],
+            }
+
+        if attempt < max_retries:
+            empty_response_max_tokens = int(
+                provider.get(
+                    "empty_response_max_tokens",
+                    max_tokens * 4,
+                )
+            )
+            payload[output_tokens_parameter] = min(
+                empty_response_max_tokens,
+                max(
+                    payload[output_tokens_parameter] * 2,
+                    payload[output_tokens_parameter] + 256,
+                ),
+            )
+            wait_before_retry(attempt)
+            continue
+
+        request_id = body.get("id")
+        details = [
+            "L'API a retourné une réponse sans contenu texte",
+            f"tentatives={attempt + 1}",
+            f"finish_reason={finish_reason}",
+            f"usage={json.dumps(usage, ensure_ascii=False)}",
+        ]
+        if request_id:
+            details.append(f"response_id={request_id}")
+        raise RuntimeError(" | ".join(details))
+
+    raise AssertionError("Boucle de retry API terminée sans résultat.")
 
 
 def extract_json(text: str) -> dict[str, Any]:
