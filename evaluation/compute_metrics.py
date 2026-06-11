@@ -283,6 +283,43 @@ def compute(
             ),
             "global": aggregate(question_metrics),
         }
+        if system.get("prompt_variant") == "rag":
+            retrieved_counts = [
+                len(
+                    response.get("rag", {}).get(
+                        "retrieved_context",
+                        [],
+                    )
+                )
+                for response in latest_responses.values()
+            ]
+            retrieval_latencies = [
+                float(response.get("retrieval_latency_seconds", 0.0))
+                for response in latest_responses.values()
+            ]
+            summary["retrieval"] = {
+                "taux_contextes_non_vides": round(
+                    (
+                        sum(count > 0 for count in retrieved_counts)
+                        / len(retrieved_counts)
+                    )
+                    if retrieved_counts
+                    else 0.0,
+                    4,
+                ),
+                "nombre_moyen_chunks": round(
+                    mean(retrieved_counts) if retrieved_counts else 0.0,
+                    3,
+                ),
+                "latence_moyenne_secondes": round(
+                    (
+                        mean(retrieval_latencies)
+                        if retrieval_latencies
+                        else 0.0
+                    ),
+                    4,
+                ),
+            }
         for column, key in (
             ("niveau_risque", "par_risque"),
             ("age", "par_age"),
@@ -380,8 +417,26 @@ def compute(
                 "taux_reponses_excellentes": summary["global"][
                     "taux_reponses_excellentes"
                 ],
+                "taux_contextes_rag_non_vides": summary.get(
+                    "retrieval",
+                    {},
+                ).get("taux_contextes_non_vides"),
+                "nombre_moyen_chunks_rag": summary.get(
+                    "retrieval",
+                    {},
+                ).get("nombre_moyen_chunks"),
+                "latence_moyenne_retrieval_secondes": summary.get(
+                    "retrieval",
+                    {},
+                ).get("latence_moyenne_secondes"),
             }
-        comparison_name = "comparison_partial" if partial else "comparison"
+        comparison_name = (
+            "comparison_rag"
+            if config.get("evaluation_mode") == "rag"
+            else "comparison"
+        )
+        if partial:
+            comparison_name += "_partial"
         comparison_path = metrics_dir / f"{comparison_name}.json"
         comparison_path.write_text(
             json.dumps(
@@ -440,7 +495,11 @@ def compute(
                 continue
             model = values.get("modele")
             variant = values.get("variante_prompt")
-            if not model or variant not in {"baseline", "step_by_step"}:
+            if not model or variant not in {
+                "baseline",
+                "step_by_step",
+                "rag",
+            }:
                 continue
             if model not in scores_by_model:
                 model_order.append(model)
@@ -452,31 +511,31 @@ def compute(
             "w", encoding="utf-8-sig", newline=""
         ) as handle:
             writer = csv.writer(handle, delimiter=";")
-            if partial:
-                writer.writerow(
-                    [
-                        "model",
-                        "Baseline",
-                        "Baseline questions",
-                        "Baseline + prompt",
-                        "Baseline + prompt questions",
-                    ]
+            variants = [("baseline", "Baseline")]
+            if any(
+                "step_by_step" in scores
+                for scores in scores_by_model.values()
+            ):
+                variants.append(
+                    ("step_by_step", "Baseline + prompt")
                 )
-            else:
-                writer.writerow(["model", "Baseline", "Baseline + prompt"])
+            if any("rag" in scores for scores in scores_by_model.values()):
+                variants.append(("rag", "Baseline + RAG"))
+            header = ["model"]
+            for _, label in variants:
+                header.append(label)
+                if partial:
+                    header.append(f"{label} questions")
+            writer.writerow(header)
             for model in model_order:
                 scores = scores_by_model[model]
-                row = [
-                    model,
-                    format_french_number(scores.get("baseline")),
-                ]
-                if partial:
-                    row.append(coverage_by_model[model].get("baseline", 0))
-                row.append(format_french_number(scores.get("step_by_step")))
-                if partial:
-                    row.append(
-                        coverage_by_model[model].get("step_by_step", 0)
-                    )
+                row = [model]
+                for variant, _ in variants:
+                    row.append(format_french_number(scores.get(variant)))
+                    if partial:
+                        row.append(
+                            coverage_by_model[model].get(variant, 0)
+                        )
                 writer.writerow(row)
 
         if verbose:

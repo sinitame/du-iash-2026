@@ -806,6 +806,13 @@ def chunk_text(text: str, chunk_size: int = 1200, overlap: int = 200) -> list[st
     Découpage simple pour RAG.
     Les paragraphes sont conservés autant que possible.
     """
+    if chunk_size <= 0:
+        raise ValueError("chunk_size doit être strictement positif.")
+    if overlap < 0 or overlap >= chunk_size:
+        raise ValueError(
+            "overlap doit être positif ou nul et inférieur à chunk_size."
+        )
+
     text = re.sub(r"\n{3,}", "\n\n", text.strip())
 
     if not text:

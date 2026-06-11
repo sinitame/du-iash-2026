@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from __future__ import annotations
+
 """
 build_faiss_rag_db.py
 
@@ -20,7 +22,7 @@ Installation :
 pip install -U langchain langchain-community langchain-huggingface sentence-transformers faiss-cpu tqdm
 
 Exemple :
-python build_faiss_rag_db.py \
+python rag/indexation.py \
   --chunks-files ./corpus/chunks.jsonl ./corpus_translated/chunks_en.jsonl ./corpus_translated/chunks_gcf.jsonl \
   --output-dir ./vectorstore_mici \
   --embedding-model sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2 \
@@ -29,6 +31,7 @@ python build_faiss_rag_db.py \
 """
 
 import argparse
+import hashlib
 import json
 import os
 import shutil
@@ -36,6 +39,14 @@ import tempfile
 from pathlib import Path
 
 from tqdm import tqdm
+
+
+def sha256_file(path: Path) -> str:
+    digest = hashlib.sha256()
+    with path.open("rb") as handle:
+        for block in iter(lambda: handle.read(1024 * 1024), b""):
+            digest.update(block)
+    return digest.hexdigest()
 
 
 def load_jsonl(path: Path) -> list[dict]:
@@ -180,9 +191,12 @@ def build_faiss_index(
     device: str,
     normalize_embeddings: bool,
     overwrite: bool,
+    source_files: list[Path] | None = None,
 ) -> None:
     if not documents:
         raise ValueError("Aucun document à indexer.")
+    if batch_size < 1:
+        raise ValueError("batch_size doit être supérieur ou égal à 1.")
 
     if output_dir.exists() and not overwrite:
         raise FileExistsError(
@@ -233,6 +247,13 @@ def build_faiss_index(
             "device": device,
             "batch_size": batch_size,
             "normalize_embeddings": normalize_embeddings,
+            "source_files": [
+                {
+                    "path": str(path.resolve()),
+                    "sha256": sha256_file(path),
+                }
+                for path in (source_files or [])
+            ],
         }
 
         (tmp_dir / "manifest.json").write_text(
@@ -372,6 +393,7 @@ def main():
         device=args.device,
         normalize_embeddings=not args.no_normalize_embeddings,
         overwrite=args.overwrite,
+        source_files=args.chunks_files,
     )
 
     if args.test_query:

@@ -68,10 +68,7 @@ def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
     elif mode == "prompt":
         variants = {"baseline", "step_by_step"}
     elif mode == "rag":
-        raise NotImplementedError(
-            "Le mode RAG n'est pas encore implémenté. "
-            "Utilisez baseline ou prompt."
-        )
+        variants = {"baseline"}
     else:
         raise ValueError(f"Mode inconnu: {mode}")
 
@@ -83,6 +80,16 @@ def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
     if not systems:
         raise ValueError(f"Aucun système configuré pour le mode {mode}")
     return systems
+
+
+def build_rag_system(system: dict[str, Any]) -> dict[str, Any]:
+    return {
+        **system,
+        "name": f"{system['name']}__rag",
+        "prompt_variant": "rag",
+        "base_system_name": system["name"],
+        "generated_variant": True,
+    }
 
 
 class ProgressTracker:
@@ -185,7 +192,17 @@ def build_run_config(
     mode: str,
 ) -> tuple[Path, dict[str, Any], list[dict[str, Any]]]:
     config, base_dir = load_config(base_config_path)
-    systems = select_systems(config, mode)
+    generation_systems = select_systems(config, mode)
+    if mode == "rag" and "rag" not in config:
+        raise ValueError(
+            "Le mode rag nécessite une section 'rag' dans la configuration."
+        )
+    systems = (
+        generation_systems
+        + [build_rag_system(system) for system in generation_systems]
+        if mode == "rag"
+        else generation_systems
+    )
     judges = [judge for judge in config["judges"] if judge.get("type") != "mock"]
     if len(judges) != 1:
         raise ValueError("La configuration doit contenir exactement un juge réel.")
@@ -193,11 +210,25 @@ def build_run_config(
     output_dir = resolve_path(base_dir, config["output_dir"])
     derived = {
         **config,
+        "evaluation_mode": mode,
         "dataset": str(dataset_path),
         "output_dir": str(output_dir),
         "judge_prompt_file": str(
             resolve_path(base_dir, config["judge_prompt_file"])
         ),
+        "rag": (
+            {
+                **config["rag"],
+                "vectorstore_path": str(
+                    resolve_path(base_dir, config["rag"]["vectorstore_path"])
+                ),
+            }
+            if mode == "rag"
+            else config.get("rag")
+        ),
+        "generation_systems": [
+            system["name"] for system in generation_systems
+        ],
         "systems": [
             {
                 **system,
@@ -217,6 +248,7 @@ def build_run_config(
             "judge_prompt_hash": stable_hash(
                 Path(derived["judge_prompt_file"]).read_text(encoding="utf-8")
             ),
+            "rag": derived.get("rag") if mode == "rag" else None,
         }
     )[:12]
     config_path = output_dir / "run_configs" / f"{dataset_path.stem}_{mode}_{run_key}.json"
@@ -315,15 +347,26 @@ def run(
 
     try:
         if not partial_summary:
-            for system in systems:
+            if mode == "rag":
                 generate(
                     str(run_config_path),
-                    system["name"],
+                    None,
                     None,
                     progress_callback=tracker.update,
                     verbose=False,
                     concurrency=concurrency,
+                    rag=True,
                 )
+            else:
+                for system in systems:
+                    generate(
+                        str(run_config_path),
+                        system["name"],
+                        None,
+                        progress_callback=tracker.update,
+                        verbose=False,
+                        concurrency=concurrency,
+                    )
         judge_name = run_config["judges"][0]["name"]
         for system in systems:
             score(
@@ -353,11 +396,10 @@ def run(
         judge_prompt_path.read_text(encoding="utf-8")
     )
     judge_version = f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
-    comparison_filename = (
-        "comparison_partial.json"
-        if partial_summary
-        else "comparison.json"
-    )
+    comparison_name = "comparison_rag" if mode == "rag" else "comparison"
+    if partial_summary:
+        comparison_name += "_partial"
+    comparison_filename = f"{comparison_name}.json"
     print(
         "Comparaison: "
         f"{output_dir / judge_version / 'metrics' / comparison_filename}"

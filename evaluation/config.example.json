@@ -5,12 +5,35 @@
   "temperature": 0,
   "max_tokens": 500,
   "provider_transport": {
+    "openai": {
+      "max_concurrency": 4,
+      "max_retries": 5,
+      "retry_base_seconds": 2,
+      "retry_max_seconds": 20
+    },
     "mistral": {
       "max_concurrency": 4,
       "max_retries": 5,
       "retry_base_seconds": 2,
       "retry_max_seconds": 20
+    },
+    "anthropic": {
+      "max_concurrency": 4,
+      "max_retries": 5,
+      "retry_base_seconds": 2,
+      "retry_max_seconds": 20
     }
+  },
+  "rag": {
+    "vectorstore_path": "../rag/vectorstore_mici",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "device": "cpu",
+    "normalize_embeddings": true,
+    "k": 5,
+    "fetch_k": 20,
+    "max_context_chars": 6000,
+    "max_chunk_chars": 1200,
+    "filter_by_language": true
   },
   "baseline_system": "openai_gpt_5_mini",
   "systems": [

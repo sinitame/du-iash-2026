@@ -80,10 +80,10 @@ def clean_text_for_context(text: str, max_chars: int) -> str:
     return text[:max_chars].rstrip() + "\n[...]"
 
 
-def load_rag_db(rag_config: dict[str, Any], base_dir: Path):
-    from langchain_huggingface import HuggingFaceEmbeddings
-    from langchain_community.vectorstores import FAISS
-
+def load_rag_db(
+    rag_config: dict[str, Any],
+    base_dir: Path,
+) -> tuple[Any, dict[str, Any]]:
     vectorstore_path = resolve_path(base_dir, rag_config["vectorstore_path"])
     embedding_model = rag_config.get(
         "embedding_model",
@@ -91,6 +91,45 @@ def load_rag_db(rag_config: dict[str, Any], base_dir: Path):
     )
     device = rag_config.get("device", "cpu")
     normalize_embeddings = rag_config.get("normalize_embeddings", True)
+    manifest_path = vectorstore_path / "manifest.json"
+
+    if not vectorstore_path.is_dir():
+        raise FileNotFoundError(
+            f"Base vectorielle RAG introuvable: {vectorstore_path}"
+        )
+    if not manifest_path.is_file():
+        raise FileNotFoundError(
+            f"Manifest RAG introuvable: {manifest_path}. "
+            "Reconstruisez l'index avec rag/indexation.py."
+        )
+
+    import json
+
+    try:
+        from langchain_huggingface import HuggingFaceEmbeddings
+        from langchain_community.vectorstores import FAISS
+    except ModuleNotFoundError as error:
+        raise RuntimeError(
+            "Dépendances RAG absentes. Installez "
+            "evaluation/requirements-rag.txt."
+        ) from error
+
+    manifest = json.loads(manifest_path.read_text(encoding="utf-8"))
+    indexed_model = manifest.get("embedding_model")
+    if indexed_model and indexed_model != embedding_model:
+        raise ValueError(
+            "Le modèle d'embeddings configuré ne correspond pas à l'index: "
+            f"{embedding_model} != {indexed_model}"
+        )
+    indexed_normalization = manifest.get("normalize_embeddings")
+    if (
+        indexed_normalization is not None
+        and bool(indexed_normalization) != bool(normalize_embeddings)
+    ):
+        raise ValueError(
+            "La normalisation des embeddings configurée ne correspond pas "
+            "à celle utilisée pour construire l'index."
+        )
 
     print(f"Chargement embeddings : {embedding_model}")
     embeddings = HuggingFaceEmbeddings(
@@ -100,11 +139,16 @@ def load_rag_db(rag_config: dict[str, Any], base_dir: Path):
     )
 
     print(f"Chargement FAISS : {vectorstore_path}")
-    return FAISS.load_local(
+    db = FAISS.load_local(
         str(vectorstore_path),
         embeddings,
         allow_dangerous_deserialization=True,
     )
+    return db, {
+        "path": str(vectorstore_path),
+        "manifest": manifest,
+        "fingerprint": stable_hash(manifest),
+    }
 
 
 def retrieve_context(
@@ -120,23 +164,33 @@ def retrieve_context(
     filter_by_language = bool(rag_config.get("filter_by_language", True))
 
     normalized_lang = normalize_language(language)
-    results = db.similarity_search_with_score(question, k=fetch_k)
+    search_filter = (
+        {"language": normalized_lang}
+        if filter_by_language and normalized_lang
+        else None
+    )
+    results = db.similarity_search_with_score(
+        question,
+        k=fetch_k,
+        filter=search_filter,
+    )
 
     selected = []
     for doc, score in results:
         metadata = dict(doc.metadata or {})
         doc_lang = normalize_language(metadata.get("language"))
 
-        if filter_by_language and normalized_lang and doc_lang and doc_lang != normalized_lang:
+        if (
+            filter_by_language
+            and normalized_lang
+            and doc_lang != normalized_lang
+        ):
             continue
 
         selected.append((doc, score))
 
         if len(selected) >= k:
             break
-
-    if not selected:
-        selected = results[:k]
 
     blocks = []
     audit_records = []
@@ -274,6 +328,7 @@ def generate_one_variant(
     output_dir: Path,
     variant: str,
     rag_db=None,
+    rag_index: dict[str, Any] | None = None,
     progress_callback: ProgressCallback | None = None,
     verbose: bool = True,
     concurrency: int = 1,
@@ -315,15 +370,22 @@ def generate_one_variant(
         system_request_config = {
             key: value for key, value in system.items() if key != "prompt_file"
         }
-        request_config_hash = stable_hash(
-            {
-                "system": system_request_config,
-                "temperature": config.get("temperature", 0),
-                "max_tokens": max_tokens,
-                "variant": variant,
-                "rag": rag_config if use_rag else None,
-            }
-        )
+        request_config = {
+            "system": system_request_config,
+            "temperature": config.get("temperature", 0),
+            "max_tokens": max_tokens,
+        }
+        if use_rag:
+            request_config.update(
+                {
+                    "variant": "rag",
+                    "rag": rag_config,
+                    "rag_index_fingerprint": (
+                        rag_index.get("fingerprint") if rag_index else None
+                    ),
+                }
+            )
+        request_config_hash = stable_hash(request_config)
 
         output_path = output_dir / f"{output_system_name}.jsonl"
         existing_records = load_jsonl(output_path)
@@ -337,15 +399,21 @@ def generate_one_variant(
         for index, row in enumerate(dataset, start=1):
             retrieved_context = []
             context_text = ""
+            retrieval_latency = 0.0
 
             if use_rag:
                 if rag_db is None:
                     raise RuntimeError("La base RAG n'a pas été chargée.")
+                retrieval_started = time.perf_counter()
                 context_text, retrieved_context = retrieve_context(
                     db=rag_db,
                     question=row["question_patient"],
                     language=row.get("langue"),
                     rag_config=rag_config,
+                )
+                retrieval_latency = round(
+                    time.perf_counter() - retrieval_started,
+                    4,
                 )
                 user_prompt = build_rag_user_prompt(row, context_text, rag_config)
             else:
@@ -356,17 +424,26 @@ def generate_one_variant(
                 {"role": "user", "content": user_prompt},
             ]
 
-            request_hash = stable_hash(
-                {
-                    "system": system_request_config,
-                    "prompt_hash": prompt_hash,
-                    "messages": messages,
-                    "temperature": config.get("temperature", 0),
-                    "max_tokens": max_tokens,
-                    "variant": variant,
-                    "rag": rag_config if use_rag else None,
-                }
-            )
+            request = {
+                "system": system_request_config,
+                "prompt_hash": prompt_hash,
+                "messages": messages,
+                "temperature": config.get("temperature", 0),
+                "max_tokens": max_tokens,
+            }
+            if use_rag:
+                request.update(
+                    {
+                        "variant": "rag",
+                        "rag": rag_config,
+                        "rag_index_fingerprint": (
+                            rag_index.get("fingerprint")
+                            if rag_index
+                            else None
+                        ),
+                    }
+                )
+            request_hash = stable_hash(request)
 
             if request_hash in cached_hashes:
                 if verbose:
@@ -442,6 +519,7 @@ def generate_one_variant(
                     "request_hash": request_hash,
                     "retrieved_context": retrieved_context,
                     "context_text": context_text,
+                    "retrieval_latency_seconds": retrieval_latency,
                 }
             )
 
@@ -471,8 +549,8 @@ def generate_one_variant(
                     )
                 source = "api"
 
-            total_latency = round(time.perf_counter() - started, 4)
-            return generation, source, total_latency
+            generation_latency = round(time.perf_counter() - started, 4)
+            return generation, source, generation_latency
 
         with ThreadPoolExecutor(max_workers=effective_concurrency) as executor:
             futures = {
@@ -485,7 +563,7 @@ def generate_one_variant(
                 row = job["row"]
 
                 try:
-                    generation, source, total_latency = future.result()
+                    generation, source, generation_latency = future.result()
                 except Exception as error:
                     errors.append((row["id"], error))
                     if verbose:
@@ -499,7 +577,9 @@ def generate_one_variant(
                     "model": system.get("model", system.get("type")),
                     "provider": system.get("provider"),
                     "model_group": system.get("model_group"),
-                    "prompt_variant": system.get("prompt_variant"),
+                    "prompt_variant": (
+                        "rag" if use_rag else system.get("prompt_variant")
+                    ),
                     "prompt_file": prompt_file,
                     "prompt_hash": prompt_hash,
                     "request_config_hash": request_config_hash,
@@ -522,11 +602,19 @@ def generate_one_variant(
                     record.update(
                         {
                             "base_system_name": system_name,
-                            "total_latency_seconds": total_latency,
+                            "retrieval_latency_seconds": job[
+                                "retrieval_latency_seconds"
+                            ],
+                            "total_latency_seconds": round(
+                                job["retrieval_latency_seconds"]
+                                + generation_latency,
+                                4,
+                            ),
                             "rag": {
                                 "k": rag_config.get("k", 5),
                                 "fetch_k": rag_config.get("fetch_k"),
                                 "filter_by_language": rag_config.get("filter_by_language", True),
+                                "index": rag_index,
                                 "retrieved_context": job["retrieved_context"],
                             },
                         }
@@ -596,7 +684,16 @@ def generate(
     selected = [
         system
         for system in config["systems"]
-        if not selected_system or system["name"] == selected_system
+        if (
+            (
+                selected_system
+                and system["name"] == selected_system
+            )
+            or (
+                not selected_system
+                and not system.get("generated_variant", False)
+            )
+        )
     ]
 
     if not selected:
@@ -610,34 +707,65 @@ def generate(
             "La génération RAG est activée mais la config ne contient pas de section 'rag'."
         )
 
-    rag_db = load_rag_db(config["rag"], base_dir) if generate_rag else None
-
-    if generate_baseline:
-        generate_one_variant(
-            config=config,
-            base_dir=base_dir,
-            dataset=dataset,
-            selected_systems=selected,
-            output_dir=output_dir,
-            variant="baseline",
-            progress_callback=progress_callback,
-            verbose=verbose,
-            concurrency=concurrency,
-        )
-
+    rag_db = None
+    rag_index = None
     if generate_rag:
-        generate_one_variant(
-            config=config,
-            base_dir=base_dir,
-            dataset=dataset,
-            selected_systems=selected,
-            output_dir=output_dir,
-            variant="rag",
-            rag_db=rag_db,
-            progress_callback=progress_callback,
-            verbose=verbose,
-            concurrency=concurrency,
-        )
+        rag_db, rag_index = load_rag_db(config["rag"], base_dir)
+
+    if generate_baseline and generate_rag:
+        for system in selected:
+            generate_one_variant(
+                config=config,
+                base_dir=base_dir,
+                dataset=dataset,
+                selected_systems=[system],
+                output_dir=output_dir,
+                variant="baseline",
+                progress_callback=progress_callback,
+                verbose=verbose,
+                concurrency=concurrency,
+            )
+            generate_one_variant(
+                config=config,
+                base_dir=base_dir,
+                dataset=dataset,
+                selected_systems=[system],
+                output_dir=output_dir,
+                variant="rag",
+                rag_db=rag_db,
+                rag_index=rag_index,
+                progress_callback=progress_callback,
+                verbose=verbose,
+                concurrency=concurrency,
+            )
+    else:
+        if generate_baseline:
+            generate_one_variant(
+                config=config,
+                base_dir=base_dir,
+                dataset=dataset,
+                selected_systems=selected,
+                output_dir=output_dir,
+                variant="baseline",
+                progress_callback=progress_callback,
+                verbose=verbose,
+                concurrency=concurrency,
+            )
+
+        if generate_rag:
+            generate_one_variant(
+                config=config,
+                base_dir=base_dir,
+                dataset=dataset,
+                selected_systems=selected,
+                output_dir=output_dir,
+                variant="rag",
+                rag_db=rag_db,
+                rag_index=rag_index,
+                progress_callback=progress_callback,
+                verbose=verbose,
+                concurrency=concurrency,
+            )
 
 
 def main() -> None:

@@ -20,7 +20,7 @@ Modes:
 
 - `baseline`: évalue les cinq modèles avec le prompt minimal;
 - `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
-- `rag`: réservé pour la prochaine étape, pas encore implémenté.
+- `rag`: compare la baseline et la variante RAG pour les cinq modèles.
 
 Exemples:
 
@@ -33,6 +33,11 @@ python3 evaluation/run_evaluation.py \
   evaluation/data/dataset_test.csv \
   prompt \
   --concurrency 4
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  rag \
+  --concurrency 4
 ```
 
 Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
@@ -43,6 +48,12 @@ permettre leur comparaison dans un seul run. Il n'est donc pas nécessaire de
 lancer ensuite le mode `baseline`: ses réponses et scores auront déjà été
 produits. Le récapitulatif final indique le nombre d'appels API et de résultats
 réutilisés depuis le cache.
+
+Le mode `rag` réutilise les mêmes baselines et génère des systèmes séparés
+nommés `<systeme>__rag`. Le scoring compare donc le même modèle avec et sans
+contexte documentaire. Ses comparaisons sont écrites dans
+`comparison_rag.json`, `comparison_rag.csv` et
+`comparison_rag_detailed.csv`, sans remplacer les comparaisons du mode prompt.
 
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 
@@ -183,8 +194,12 @@ Le calcul produit trois fichiers de comparaison:
 
 - `comparison.json`: résultats complets structurés;
 - `comparison.csv`: tableau synthétique `model`, `Baseline`,
-  `Baseline + prompt`, avec séparateur `;` et décimales françaises;
+  `Baseline + prompt` ou `Baseline + RAG`, avec séparateur `;` et décimales
+  françaises;
 - `comparison_detailed.csv`: toutes les métriques disponibles par système.
+
+Pour les systèmes RAG, le résumé contient aussi le taux de contextes non vides,
+le nombre moyen de chunks et la latence moyenne du retrieval.
 
 Test sans API:
 
@@ -392,7 +407,62 @@ jugement reste disponible dans `scores/`, sans alourdir le rapport de métriques
 Le code de `compute_metrics.py` peut être modifié et relancé autant de fois que
 nécessaire sans régénérer les réponses ni rappeler les juges.
 
-## Étape suivante
+## 4. Évaluer le RAG
 
-Le RAG n'est pas encore implémenté. Il sera ajouté comme une variante distincte
-après la comparaison des prompts baseline et step-by-step.
+Installer les dépendances dans l'environnement Python utilisé pour l'évaluation:
+
+```bash
+python3 -m pip install -r evaluation/requirements-rag.txt
+```
+
+Préparer les chunks à partir des PDF, images ou vidéos:
+
+```bash
+python3 -m pip install -r pre-processing/requirements.txt
+
+python3 pre-processing/prepare.py \
+  --pdfs-dir chemin/vers/pdfs \
+  --output-dir rag/corpus
+```
+
+L'extraction OCR nécessite également les exécutables système `tesseract` et
+`ffmpeg`.
+
+La traduction est optionnelle. Elle est utile si le dataset contient des
+questions en anglais ou en créole:
+
+```bash
+python3 pre-processing/traduction.py \
+  --input-dir rag/corpus \
+  --output-dir rag/corpus_translated \
+  --model gpt-5-mini
+```
+
+Construire ensuite l'index FAISS:
+
+```bash
+python3 rag/indexation.py \
+  --chunks-files \
+    rag/corpus/chunks.jsonl \
+    rag/corpus_translated/chunks_en.jsonl \
+    rag/corpus_translated/chunks_gcf.jsonl \
+  --output-dir rag/vectorstore_mici \
+  --overwrite \
+  --test-query "Que faire en cas de fatigue avec une MICI ?"
+```
+
+Si seules les sources françaises existent, fournir uniquement
+`rag/corpus/chunks.jsonl`. Le chemin de l'index et le modèle d'embeddings sont
+configurés dans la section `rag` de `evaluation/config.example.json`.
+
+Lancer enfin l'évaluation:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_questions_mici_270_V1_checked.csv \
+  rag \
+  --concurrency 4
+```
+
+Le manifest de l'index fait partie du hash du cache. Reconstruire le corpus crée
+donc de nouvelles réponses RAG sans invalider les réponses baseline.
