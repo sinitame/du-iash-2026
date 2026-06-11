@@ -35,6 +35,7 @@
     "max_chunk_chars": 1200,
     "filter_by_language": true
   },
+  "rag_generate_baseline": false,
   "baseline_system": "openai_gpt_5_mini",
   "systems": [
     {

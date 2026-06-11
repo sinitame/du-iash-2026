@@ -12,7 +12,13 @@ from pathlib import Path
 from typing import Any
 
 from compute_metrics import compute
-from evaluation_common import load_config, load_jsonl, resolve_path, stable_hash
+from evaluation_common import (
+    get_api_key,
+    load_config,
+    load_jsonl,
+    resolve_path,
+    stable_hash,
+)
 from generate_responses import generate
 from score_responses import score
 
@@ -279,6 +285,15 @@ def run(
     run_config_path, run_config, systems = build_run_config(
         base_config_path, dataset_path, mode
     )
+    checked_credentials = set()
+    for provider_config in [*systems, *run_config["judges"]]:
+        if provider_config.get("type") in {"mock", "reference"}:
+            continue
+        api_key_env = provider_config.get("api_key_env", "LLM_API_KEY")
+        if api_key_env in checked_credentials:
+            continue
+        get_api_key(provider_config)
+        checked_credentials.add(api_key_env)
     active_providers = {system.get("provider") for system in systems}
     for provider, transport in run_config.get(
         "provider_transport",
@@ -341,7 +356,17 @@ def run(
         total_steps=(
             partial_response_count + 1
             if partial_response_count is not None
-            else None
+            else (
+                question_count
+                * (
+                    len(systems)
+                    + len(run_config["generation_systems"])
+                )
+                + 1
+                if mode == "rag"
+                and not run_config.get("rag_generate_baseline", False)
+                else None
+            )
         ),
     )
 
@@ -356,6 +381,10 @@ def run(
                     verbose=False,
                     concurrency=concurrency,
                     rag=True,
+                    only_rag=not run_config.get(
+                        "rag_generate_baseline",
+                        False,
+                    ),
                 )
             else:
                 for system in systems:

@@ -66,6 +66,39 @@ def render_template(template: str, values: dict[str, Any]) -> str:
     return rendered
 
 
+def get_api_key(provider: dict[str, Any]) -> str:
+    api_key_env = provider.get("api_key_env", "LLM_API_KEY")
+    raw_api_key = os.environ.get(api_key_env)
+    if not raw_api_key:
+        raise ValueError(f"Variable d'environnement absente: {api_key_env}")
+
+    api_key = raw_api_key.strip()
+    if api_key.lower().startswith("bearer "):
+        api_key = api_key[7:].strip()
+    if "\n" in api_key or "\r" in api_key:
+        raise ValueError(
+            f"{api_key_env} contient plusieurs lignes. "
+            "La variable doit contenir uniquement la clé API."
+        )
+
+    provider_name = provider.get("provider")
+    if not provider_name and "api.openai.com" in provider.get("base_url", ""):
+        provider_name = "openai"
+    max_length = 1024 if provider_name == "openai" else 4096
+    if len(api_key) > max_length:
+        raise ValueError(
+            f"{api_key_env} est anormalement longue ({len(api_key)} caractères). "
+            "Vérifiez que la variable ne contient pas un fichier JSON, une "
+            "commande export ou plusieurs clés."
+        )
+    if provider_name == "openai" and not api_key.startswith("sk-"):
+        raise ValueError(
+            f"{api_key_env} ne ressemble pas à une clé OpenAI: "
+            "elle doit commencer par 'sk-'."
+        )
+    return api_key
+
+
 def call_chat_api(
     provider: dict[str, Any],
     messages: list[dict[str, str]],
@@ -73,9 +106,7 @@ def call_chat_api(
     max_tokens: int,
 ) -> dict[str, Any]:
     api_key_env = provider.get("api_key_env", "LLM_API_KEY")
-    api_key = os.environ.get(api_key_env)
-    if not api_key:
-        raise ValueError(f"Variable d'environnement absente: {api_key_env}")
+    api_key = get_api_key(provider)
 
     api_format = provider.get("api_format", "openai_chat")
     if api_format == "anthropic_messages":
@@ -197,6 +228,12 @@ def call_chat_api(
                 details.append(
                     "Vérifiez que la clé autorise Chat completions en écriture "
                     "et que le projet a accès au modèle."
+                )
+            if error.code == 431:
+                details.append(
+                    f"Vérifiez {api_key_env}: longueur détectée={len(api_key)}. "
+                    "La variable doit contenir uniquement la clé, sans "
+                    "'Bearer ', commande export ou contenu JSON."
                 )
             details.append(f"tentatives={attempt + 1}")
             raise RuntimeError("Erreur API: " + " | ".join(details)) from None

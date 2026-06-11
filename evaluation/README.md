@@ -54,6 +54,10 @@ nommés `<systeme>__rag`. Le scoring compare donc le même modèle avec et sans
 contexte documentaire. Ses comparaisons sont écrites dans
 `comparison_rag.json`, `comparison_rag.csv` et
 `comparison_rag_detailed.csv`, sans remplacer les comparaisons du mode prompt.
+Par défaut, les baselines existantes sont uniquement lues depuis le cache:
+`rag_generate_baseline` vaut `false`. Passez cette option à `true` dans la
+configuration uniquement pour générer aussi les baselines manquantes pendant le
+run RAG.
 
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 
