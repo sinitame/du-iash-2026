@@ -181,9 +181,11 @@ def score(
                 / f"{judge['name']}.jsonl",
             )
             versioned_records = load_jsonl(score_path)
-            cached_hashes = {
-                record["score_request_hash"] for record in versioned_records
+            cached_by_hash = {
+                record["score_request_hash"]: record
+                for record in versioned_records
             }
+            cached_hashes = set(cached_by_hash)
             for legacy_score_path in legacy_score_paths:
                 for record in load_jsonl(legacy_score_path):
                     if record.get("judge_prompt_hash") != judge_prompt_hash:
@@ -197,6 +199,10 @@ def score(
                                 "judge_version": judge_version,
                             },
                         )
+                        cached_by_hash[score_request_hash] = {
+                            **record,
+                            "judge_version": judge_version,
+                        }
                     cached_hashes.add(score_request_hash)
             pending = []
             for index, response in enumerate(responses, start=1):
@@ -233,6 +239,20 @@ def score(
                     }
                 )
                 if score_request_hash in cached_hashes:
+                    cached_record = cached_by_hash[score_request_hash]
+                    if cached_record.get("question_id") != row["id"]:
+                        migrated_record = {
+                            **cached_record,
+                            "created_at": datetime.now(
+                                timezone.utc
+                            ).isoformat(),
+                            "question_id": row["id"],
+                            "cache_migrated_from_question_id": (
+                                cached_record.get("question_id")
+                            ),
+                        }
+                        append_jsonl(score_path, migrated_record)
+                        cached_by_hash[score_request_hash] = migrated_record
                     if verbose:
                         print(
                             f"[{system['name']} / {judge['name']}] "

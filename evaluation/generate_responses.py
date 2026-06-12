@@ -389,7 +389,10 @@ def generate_one_variant(
 
         output_path = output_dir / f"{output_system_name}.jsonl"
         existing_records = load_jsonl(output_path)
-        cached_hashes = {record["request_hash"] for record in existing_records}
+        cached_by_hash = {
+            record["request_hash"]: record for record in existing_records
+        }
+        cached_hashes = set(cached_by_hash)
         latest_by_question = {
             record["question_id"]: record for record in existing_records
         }
@@ -446,6 +449,24 @@ def generate_one_variant(
             request_hash = stable_hash(request)
 
             if request_hash in cached_hashes:
+                cached_record = cached_by_hash[request_hash]
+                if cached_record.get("question_id") != row["id"]:
+                    migrated_record = {
+                        **cached_record,
+                        "created_at": datetime.now(timezone.utc).isoformat(),
+                        "question_id": row["id"],
+                        "question": row["question_patient"],
+                        "age": row["age"],
+                        "langue": row["langue"],
+                        "theme": row["theme"],
+                        "niveau_risque": row["niveau_risque"],
+                        "cache_migrated_from_question_id": (
+                            cached_record.get("question_id")
+                        ),
+                    }
+                    append_jsonl(output_path, migrated_record)
+                    cached_by_hash[request_hash] = migrated_record
+                    latest_by_question[row["id"]] = migrated_record
                 if verbose:
                     print(
                         f"[{output_system_name}] cache "
