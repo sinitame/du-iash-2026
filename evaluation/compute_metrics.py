@@ -320,28 +320,44 @@ def compute(
                     4,
                 ),
             }
-        if system.get("provider") == "anthropic":
-            usages = [
-                response.get("usage", {})
-                for response in latest_responses.values()
-            ]
-            cache_creation_tokens = sum(
+        usages = [
+            response.get("usage", {})
+            for response in latest_responses.values()
+        ]
+        cached_input_tokens = []
+        cache_creation_tokens = []
+        for usage in usages:
+            prompt_details = usage.get("prompt_tokens_details", {}) or {}
+            cached_input_tokens.append(
+                int(
+                    usage.get(
+                        "cache_read_input_tokens",
+                        prompt_details.get("cached_tokens", 0),
+                    )
+                    or 0
+                )
+            )
+            cache_creation_tokens.append(
                 int(usage.get("cache_creation_input_tokens", 0) or 0)
-                for usage in usages
             )
-            cache_read_tokens = sum(
-                int(usage.get("cache_read_input_tokens", 0) or 0)
-                for usage in usages
-            )
-            summary["prompt_cache"] = {
-                "cache_creation_input_tokens": cache_creation_tokens,
-                "cache_read_input_tokens": cache_read_tokens,
-                "requetes_avec_cache_read": sum(
-                    int(usage.get("cache_read_input_tokens", 0) or 0) > 0
-                    for usage in usages
-                ),
-                "requetes_total": len(usages),
-            }
+        summary["prompt_cache"] = {
+            "provider": system.get("provider"),
+            "cached_input_tokens": sum(cached_input_tokens),
+            "cache_creation_input_tokens": sum(cache_creation_tokens),
+            "requetes_avec_cache_hit": sum(
+                tokens > 0 for tokens in cached_input_tokens
+            ),
+            "requetes_total": len(usages),
+            "taux_requetes_avec_cache_hit": round(
+                (
+                    sum(tokens > 0 for tokens in cached_input_tokens)
+                    / len(usages)
+                )
+                if usages
+                else 0.0,
+                4,
+            ),
+        }
         for column, key in (
             ("niveau_risque", "par_risque"),
             ("age", "par_age"),
@@ -451,18 +467,22 @@ def compute(
                     "retrieval",
                     {},
                 ).get("latence_moyenne_secondes"),
-                "anthropic_cache_creation_input_tokens": summary.get(
+                "prompt_cache_cached_input_tokens": summary.get(
+                    "prompt_cache",
+                    {},
+                ).get("cached_input_tokens"),
+                "prompt_cache_creation_input_tokens": summary.get(
                     "prompt_cache",
                     {},
                 ).get("cache_creation_input_tokens"),
-                "anthropic_cache_read_input_tokens": summary.get(
+                "prompt_cache_requetes_avec_hit": summary.get(
                     "prompt_cache",
                     {},
-                ).get("cache_read_input_tokens"),
-                "anthropic_requetes_avec_cache_read": summary.get(
+                ).get("requetes_avec_cache_hit"),
+                "prompt_cache_taux_requetes_avec_hit": summary.get(
                     "prompt_cache",
                     {},
-                ).get("requetes_avec_cache_read"),
+                ).get("taux_requetes_avec_cache_hit"),
             }
         comparison_name = (
             "comparison_rag"

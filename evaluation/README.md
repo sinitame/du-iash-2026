@@ -107,6 +107,20 @@ Anthropic impose toutefois une longueur minimale au préfixe mis en cache:
 actuels sont plus courts; Anthropic acceptera `cache_control`, mais les compteurs
 peuvent rester à zéro. Il ne faut pas allonger artificiellement les prompts
 uniquement pour atteindre ce seuil.
+
+OpenAI active automatiquement son prompt caching à partir de 1 024 tokens; aucun
+paramètre supplémentaire n'est nécessaire. Mistral peut également retourner
+`prompt_tokens_details.cached_tokens`. Le pipeline agrège pour tous les
+fournisseurs les champs réellement retournés dans `prompt_cache`:
+
+- `cached_input_tokens`;
+- `requetes_avec_cache_hit`;
+- `taux_requetes_avec_cache_hit`;
+- `cache_creation_input_tokens` pour Anthropic.
+
+Baseline et step-by-step ont des prompts système différents: leur cache
+fournisseur n'est donc pas partagé entre les deux variantes. Chaque variante
+peut seulement réutiliser son propre préfixe sur les questions suivantes.
 La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
 peut provoquer des erreurs de rate limit chez les fournisseurs.
 
