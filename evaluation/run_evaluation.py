@@ -58,9 +58,12 @@ def count_questions(path: Path) -> int:
 def describe_dataset(path: Path) -> dict[str, int]:
     with path.open(encoding="utf-8-sig", newline="") as handle:
         rows = list(csv.DictReader(handle))
+    identifiers = [row.get("id", "").strip() for row in rows]
     return {
         "questions": len(rows),
-        "identifiants_vides": sum(not row.get("id", "").strip() for row in rows),
+        "identifiants_vides": sum(not identifier for identifier in identifiers),
+        "identifiants_dupliques": len(identifiers)
+        - len(set(identifiers)),
         "themes": len({row["theme"] for row in rows}),
         "reponses_attendues_uniques": len(
             {row["réponse_attendue"] for row in rows}
@@ -74,7 +77,7 @@ def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
     elif mode == "prompt":
         variants = {"baseline", "step_by_step"}
     elif mode == "rag":
-        variants = {"baseline"}
+        variants = {"baseline", "step_by_step"}
     else:
         raise ValueError(f"Mode inconnu: {mode}")
 
@@ -164,6 +167,8 @@ class ProgressTracker:
             self.state["status"] = "completed"
             self.state["completed_at"] = utc_now()
             self.state["current_stage"] = "completed"
+            self.state["estimated_total_steps"] = self.state["total_steps"]
+            self.state["total_steps"] = self.state["completed_steps"]
             self._save()
             self._render(final=True)
 
@@ -196,18 +201,24 @@ def build_run_config(
     base_config_path: Path,
     dataset_path: Path,
     mode: str,
+    complete: bool = False,
 ) -> tuple[Path, dict[str, Any], list[dict[str, Any]]]:
     config, base_dir = load_config(base_config_path)
-    generation_systems = select_systems(config, mode)
+    non_rag_systems = select_systems(config, mode)
+    rag_source_systems = [
+        system
+        for system in non_rag_systems
+        if system.get("prompt_variant") == "baseline"
+    ]
     if mode == "rag" and "rag" not in config:
         raise ValueError(
             "Le mode rag nécessite une section 'rag' dans la configuration."
         )
     systems = (
-        generation_systems
-        + [build_rag_system(system) for system in generation_systems]
+        non_rag_systems
+        + [build_rag_system(system) for system in rag_source_systems]
         if mode == "rag"
-        else generation_systems
+        else non_rag_systems
     )
     judges = [judge for judge in config["judges"] if judge.get("type") != "mock"]
     if len(judges) != 1:
@@ -217,6 +228,11 @@ def build_run_config(
     derived = {
         **config,
         "evaluation_mode": mode,
+        "rag_generate_baseline": (
+            True
+            if mode == "rag" and complete
+            else config.get("rag_generate_baseline", False)
+        ),
         "dataset": str(dataset_path),
         "output_dir": str(output_dir),
         "judge_prompt_file": str(
@@ -233,7 +249,10 @@ def build_run_config(
             else config.get("rag")
         ),
         "generation_systems": [
-            system["name"] for system in generation_systems
+            system["name"] for system in non_rag_systems
+        ],
+        "rag_source_systems": [
+            system["name"] for system in rag_source_systems
         ],
         "systems": [
             {
@@ -255,6 +274,7 @@ def build_run_config(
                 Path(derived["judge_prompt_file"]).read_text(encoding="utf-8")
             ),
             "rag": derived.get("rag") if mode == "rag" else None,
+            "rag_generate_baseline": derived["rag_generate_baseline"],
         }
     )[:12]
     config_path = output_dir / "run_configs" / f"{dataset_path.stem}_{mode}_{run_key}.json"
@@ -268,9 +288,15 @@ def run(
     base_config_value: str,
     concurrency: int = 1,
     partial_summary: bool = False,
+    complete: bool = False,
 ) -> None:
     if concurrency < 1:
         raise ValueError("concurrency doit être supérieur ou égal à 1")
+    if complete and partial_summary:
+        raise ValueError(
+            "--complete et --partial-summary ne peuvent pas être utilisés "
+            "ensemble."
+        )
     if concurrency > 10:
         print(
             f"Attention: concurrency={concurrency} est élevée. "
@@ -283,7 +309,10 @@ def run(
     base_config_path = Path(base_config_value).resolve()
     dataset_path = resolve_dataset_path(dataset_value, evaluation_dir)
     run_config_path, run_config, systems = build_run_config(
-        base_config_path, dataset_path, mode
+        base_config_path,
+        dataset_path,
+        mode,
+        complete=complete,
     )
     checked_credentials = set()
     for provider_config in [*systems, *run_config["judges"]]:
@@ -324,6 +353,21 @@ def run(
             "Ces lignes ne peuvent pas être suivies fiablement dans le cache.",
             file=sys.stderr,
         )
+    if dataset_scope["identifiants_dupliques"]:
+        print(
+            "Attention: le dataset contient "
+            f"{dataset_scope['identifiants_dupliques']} identifiant(s) "
+            "dupliqué(s).",
+            file=sys.stderr,
+        )
+    if complete and (
+        dataset_scope["identifiants_vides"]
+        or dataset_scope["identifiants_dupliques"]
+    ):
+        raise ValueError(
+            "Un run complet exige un identifiant non vide et unique pour "
+            "chaque ligne du dataset."
+        )
     output_dir = Path(run_config["output_dir"])
     progress_suffix = "_partial_summary" if partial_summary else ""
     progress_path = (
@@ -332,6 +376,7 @@ def run(
         / f"{dataset_path.stem}_{mode}{progress_suffix}.json"
     )
     partial_response_count = None
+    rag_total_steps = None
     if partial_summary:
         with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
             dataset = {row["id"]: row for row in csv.DictReader(handle)}
@@ -346,6 +391,27 @@ def run(
                 if row and response.get("question") == row["question_patient"]:
                     latest_responses[response["question_id"]] = response
             partial_response_count += len(latest_responses)
+    elif mode == "rag" and not run_config.get("rag_generate_baseline", False):
+        with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
+            dataset = {row["id"]: row for row in csv.DictReader(handle)}
+        baseline_response_count = 0
+        for system_name in run_config["generation_systems"]:
+            latest_responses = {}
+            response_path = (
+                output_dir / "responses" / f"{system_name}.jsonl"
+            )
+            for response in load_jsonl(response_path):
+                row = dataset.get(response["question_id"])
+                if row and response.get("question") == row["question_patient"]:
+                    latest_responses[response["question_id"]] = response
+            baseline_response_count += len(latest_responses)
+        rag_system_count = len(run_config["rag_source_systems"])
+        rag_total_steps = (
+            question_count * rag_system_count
+            + question_count * rag_system_count
+            + baseline_response_count
+            + 1
+        )
     tracker = ProgressTracker(
         progress_path,
         dataset_path,
@@ -356,36 +422,35 @@ def run(
         total_steps=(
             partial_response_count + 1
             if partial_response_count is not None
-            else (
-                question_count
-                * (
-                    len(systems)
-                    + len(run_config["generation_systems"])
-                )
-                + 1
-                if mode == "rag"
-                and not run_config.get("rag_generate_baseline", False)
-                else None
-            )
+            else rag_total_steps
         ),
     )
 
     try:
         if not partial_summary:
             if mode == "rag":
-                generate(
-                    str(run_config_path),
-                    None,
-                    None,
-                    progress_callback=tracker.update,
-                    verbose=False,
-                    concurrency=concurrency,
-                    rag=True,
-                    only_rag=not run_config.get(
-                        "rag_generate_baseline",
-                        False,
-                    ),
-                )
+                if run_config.get("rag_generate_baseline", False):
+                    for system_name in run_config["generation_systems"]:
+                        generate(
+                            str(run_config_path),
+                            system_name,
+                            None,
+                            progress_callback=tracker.update,
+                            verbose=False,
+                            concurrency=concurrency,
+                            no_rag=True,
+                        )
+                for system_name in run_config["rag_source_systems"]:
+                    generate(
+                        str(run_config_path),
+                        system_name,
+                        None,
+                        progress_callback=tracker.update,
+                        verbose=False,
+                        concurrency=concurrency,
+                        rag=True,
+                        only_rag=True,
+                    )
             else:
                 for system in systems:
                     generate(
@@ -396,6 +461,42 @@ def run(
                         verbose=False,
                         concurrency=concurrency,
                     )
+        if complete:
+            with dataset_path.open(
+                encoding="utf-8-sig",
+                newline="",
+            ) as handle:
+                dataset = {
+                    row["id"]: row for row in csv.DictReader(handle)
+                }
+            incomplete = []
+            for system in systems:
+                latest_responses = {}
+                response_path = (
+                    output_dir
+                    / "responses"
+                    / f"{system['name']}.jsonl"
+                )
+                for response in load_jsonl(response_path):
+                    row = dataset.get(response["question_id"])
+                    if (
+                        row
+                        and response.get("question")
+                        == row["question_patient"]
+                    ):
+                        latest_responses[response["question_id"]] = response
+                if len(latest_responses) != len(dataset):
+                    incomplete.append(
+                        f"{system['name']}="
+                        f"{len(latest_responses)}/{len(dataset)}"
+                    )
+            if incomplete:
+                raise RuntimeError(
+                    "Couverture incomplète après génération: "
+                    + ", ".join(incomplete)
+                    + ". Relancez la même commande; les résultats réussis "
+                    "sont déjà persistés."
+                )
         judge_name = run_config["judges"][0]["name"]
         for system in systems:
             score(
@@ -407,6 +508,62 @@ def run(
                 verbose=False,
                 concurrency=concurrency,
             )
+        if complete:
+            judge_prompt_path = Path(run_config["judge_prompt_file"])
+            judge_prompt_hash = stable_hash(
+                judge_prompt_path.read_text(encoding="utf-8")
+            )
+            judge_version = (
+                f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
+            )
+            judge_name = run_config["judges"][0]["name"]
+            incomplete_scores = []
+            for system in systems:
+                active_responses = {}
+                response_path = (
+                    output_dir
+                    / "responses"
+                    / f"{system['name']}.jsonl"
+                )
+                for response in load_jsonl(response_path):
+                    row = dataset.get(response["question_id"])
+                    if (
+                        row
+                        and response.get("question")
+                        == row["question_patient"]
+                    ):
+                        active_responses[
+                            response["question_id"]
+                        ] = response["request_hash"]
+                scored_questions = set()
+                score_path = (
+                    output_dir
+                    / judge_version
+                    / "scores"
+                    / system["name"]
+                    / f"{judge_name}.jsonl"
+                )
+                for record in load_jsonl(score_path):
+                    question_id = record.get("question_id")
+                    if (
+                        record.get("judge_prompt_hash")
+                        == judge_prompt_hash
+                        and active_responses.get(question_id)
+                        == record.get("response_request_hash")
+                    ):
+                        scored_questions.add(question_id)
+                if len(scored_questions) != len(dataset):
+                    incomplete_scores.append(
+                        f"{system['name']}="
+                        f"{len(scored_questions)}/{len(dataset)}"
+                    )
+            if incomplete_scores:
+                raise RuntimeError(
+                    "Couverture de scoring incomplète: "
+                    + ", ".join(incomplete_scores)
+                    + ". Relancez la même commande; les scores réussis "
+                    "sont déjà persistés."
+                )
         compute(
             str(run_config_path),
             None,
@@ -465,6 +622,14 @@ def main() -> None:
             "des métriques partielles séparées"
         ),
     )
+    parser.add_argument(
+        "--complete",
+        action="store_true",
+        help=(
+            "Exiger une couverture complète; en mode rag, générer aussi les "
+            "baselines manquantes avant le scoring"
+        ),
+    )
     args = parser.parse_args()
     try:
         run(
@@ -473,6 +638,7 @@ def main() -> None:
             args.config,
             args.concurrency,
             args.partial_summary,
+            args.complete,
         )
     except NotImplementedError as error:
         parser.error(str(error))

@@ -320,6 +320,28 @@ def compute(
                     4,
                 ),
             }
+        if system.get("provider") == "anthropic":
+            usages = [
+                response.get("usage", {})
+                for response in latest_responses.values()
+            ]
+            cache_creation_tokens = sum(
+                int(usage.get("cache_creation_input_tokens", 0) or 0)
+                for usage in usages
+            )
+            cache_read_tokens = sum(
+                int(usage.get("cache_read_input_tokens", 0) or 0)
+                for usage in usages
+            )
+            summary["prompt_cache"] = {
+                "cache_creation_input_tokens": cache_creation_tokens,
+                "cache_read_input_tokens": cache_read_tokens,
+                "requetes_avec_cache_read": sum(
+                    int(usage.get("cache_read_input_tokens", 0) or 0) > 0
+                    for usage in usages
+                ),
+                "requetes_total": len(usages),
+            }
         for column, key in (
             ("niveau_risque", "par_risque"),
             ("age", "par_age"),
@@ -429,6 +451,18 @@ def compute(
                     "retrieval",
                     {},
                 ).get("latence_moyenne_secondes"),
+                "anthropic_cache_creation_input_tokens": summary.get(
+                    "prompt_cache",
+                    {},
+                ).get("cache_creation_input_tokens"),
+                "anthropic_cache_read_input_tokens": summary.get(
+                    "prompt_cache",
+                    {},
+                ).get("cache_read_input_tokens"),
+                "anthropic_requetes_avec_cache_read": summary.get(
+                    "prompt_cache",
+                    {},
+                ).get("requetes_avec_cache_read"),
             }
         comparison_name = (
             "comparison_rag"

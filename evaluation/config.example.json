@@ -21,7 +21,11 @@
       "max_concurrency": 4,
       "max_retries": 5,
       "retry_base_seconds": 2,
-      "retry_max_seconds": 20
+      "retry_max_seconds": 20,
+      "prompt_cache": {
+        "enabled": true,
+        "ttl": "5m"
+      }
     }
   },
   "rag": {

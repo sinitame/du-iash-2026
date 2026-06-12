@@ -114,6 +114,7 @@ def call_chat_api(
         system_parts = [
             message["content"] for message in messages if message["role"] == "system"
         ]
+        prompt_cache = provider.get("prompt_cache", {})
         api_messages = [
             message for message in messages if message["role"] in {"user", "assistant"}
         ]
@@ -124,7 +125,21 @@ def call_chat_api(
             **provider.get("request_options", {}),
         }
         if system_parts:
-            payload["system"] = "\n\n".join(system_parts)
+            system_text = "\n\n".join(system_parts)
+            if prompt_cache.get("enabled", False):
+                cache_control = {"type": "ephemeral"}
+                ttl = prompt_cache.get("ttl")
+                if ttl and ttl != "5m":
+                    cache_control["ttl"] = ttl
+                payload["system"] = [
+                    {
+                        "type": "text",
+                        "text": system_text,
+                        "cache_control": cache_control,
+                    }
+                ]
+            else:
+                payload["system"] = system_text
         if provider.get("use_temperature", True):
             payload["temperature"] = temperature
         endpoint = provider["base_url"].rstrip("/") + "/messages"

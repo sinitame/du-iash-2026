@@ -20,7 +20,8 @@ Modes:
 
 - `baseline`: évalue les cinq modèles avec le prompt minimal;
 - `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
-- `rag`: compare la baseline et la variante RAG pour les cinq modèles.
+- `rag`: compare baseline, baseline + prompt et baseline + RAG pour les cinq
+  modèles.
 
 Exemples:
 
@@ -49,15 +50,30 @@ lancer ensuite le mode `baseline`: ses réponses et scores auront déjà été
 produits. Le récapitulatif final indique le nombre d'appels API et de résultats
 réutilisés depuis le cache.
 
-Le mode `rag` réutilise les mêmes baselines et génère des systèmes séparés
-nommés `<systeme>__rag`. Le scoring compare donc le même modèle avec et sans
-contexte documentaire. Ses comparaisons sont écrites dans
+Le mode `rag` inclut les variantes baseline et step-by-step existantes, puis
+génère des systèmes RAG séparés nommés `<systeme_baseline>__rag`. Il ne crée pas
+de variante combinant prompt step-by-step et RAG. Le scoring compare donc, pour
+chaque modèle, `Baseline`, `Baseline + prompt` et `Baseline + RAG`. Ses
+comparaisons sont écrites dans
 `comparison_rag.json`, `comparison_rag.csv` et
 `comparison_rag_detailed.csv`, sans remplacer les comparaisons du mode prompt.
 Par défaut, les baselines existantes sont uniquement lues depuis le cache:
 `rag_generate_baseline` vaut `false`. Passez cette option à `true` dans la
 configuration uniquement pour générer aussi les baselines manquantes pendant le
 run RAG.
+
+Pour produire un résultat final avec les 5 baselines, les 5 variantes prompt et
+les 5 variantes RAG, utiliser `--complete`. La commande génère uniquement les
+réponses et scores manquants grâce au cache, puis refuse de produire un résultat
+final si un des 15 systèmes reste incomplet:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_questions_mici_270_V1_checked.csv \
+  rag \
+  --complete \
+  --concurrency 4
+```
 
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 
@@ -81,6 +97,16 @@ Une limite plus basse peut être définie par fournisseur avec
 `provider_transport.<provider>.max_concurrency`. La configuration fournie limite
 Mistral à 4 appels simultanés et augmente ses retries pour mieux absorber les
 rate limits et les erreurs réseau temporaires.
+Le même bloc active le prompt caching Anthropic sur le prompt système avec un
+TTL de 5 minutes. Les compteurs `cache_creation_input_tokens` et
+`cache_read_input_tokens` sont conservés dans `usage` puis agrégés dans les
+métriques.
+
+Anthropic impose toutefois une longueur minimale au préfixe mis en cache:
+1 024 tokens pour Sonnet 4.6 et 4 096 tokens pour Haiku 4.5. Les prompts chatbot
+actuels sont plus courts; Anthropic acceptera `cache_control`, mais les compteurs
+peuvent rester à zéro. Il ne faut pas allonger artificiellement les prompts
+uniquement pour atteindre ce seuil.
 La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
 peut provoquer des erreurs de rate limit chez les fournisseurs.
 
