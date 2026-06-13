@@ -1,0 +1,6 @@
+﻿model;Baseline;Baseline + prompt;Baseline + RAG sélectif
+gpt-5-mini;97,48;97,11;98,76
+mistral-medium-2508;86,55;95,83;92,48
+claude-sonnet-4-6;90,25;88,34;92,04
+ministral-8b-2512;78,22;86,38;86,72
+claude-haiku-4-5-20251001;89,33;90,45;89,54

@@ -1,0 +1,263 @@
+﻿question_id,age,theme,niveau_risque,reponse_vide,echec_technique,exactitude_metier,securite_medicale,adaptation_profil,qualite_conversationnelle,erreur_securite_critique,score_global
+Q001,enfant,Gérer son alimentation,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q002,adolescent,Gérer son alimentation,faible,False,False,1.0,1.0,1.0,1.0,False,36.67
+Q003,adulte,Gérer son alimentation,faible,False,False,1.0,3.0,2.0,1.0,False,68.33
+Q004,enfant,Gérer son alimentation,moyen,False,False,2.0,1.0,2.0,2.0,False,60.0
+Q005,adolescent,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q006,adulte,Gérer son alimentation,moyen,False,False,1.0,2.0,2.0,1.0,False,55.0
+Q007,enfant,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q008,adolescent,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q009,adulte,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q010,enfant,Gérer son alimentation,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q011,adolescent,Gérer son alimentation,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q012,adulte,Gérer son alimentation,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q013,enfant,Gérer son alimentation,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q014,adolescent,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q015,adulte,Gérer son alimentation,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q016,enfant,Gérer son alimentation,moyen,False,False,2.0,1.0,2.0,2.0,False,60.0
+Q017,adolescent,Gérer son alimentation,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q018,adulte,Gérer son alimentation,moyen,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q019,enfant,Gérer son alimentation,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q020,adolescent,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q021,adulte,Gérer son alimentation,moyen,False,False,1.0,2.0,1.0,2.0,False,55.0
+Q022,enfant,Gérer son alimentation,faible,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q023,adolescent,Gérer son alimentation,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q024,adulte,Gérer son alimentation,faible,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q025,enfant,Gérer son alimentation,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q026,adolescent,Gérer son alimentation,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q027,adulte,Gérer son alimentation,fort,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q028,enfant,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q029,adolescent,Gérer son alimentation,moyen,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q030,adulte,Gérer son alimentation,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q031,enfant,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q032,adolescent,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q033,adulte,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q034,enfant,Connaitre sa pathologie,faible,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q035,adolescent,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q036,adulte,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q037,enfant,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q038,adolescent,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q039,adulte,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q040,enfant,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q041,adolescent,Connaitre sa pathologie,faible,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q042,adulte,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q043,enfant,Connaitre sa pathologie,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q044,adolescent,Connaitre sa pathologie,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q045,adulte,Connaitre sa pathologie,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q046,enfant,Connaitre sa pathologie,moyen,False,False,1.0,3.0,2.0,2.0,False,73.33
+Q047,adolescent,Connaitre sa pathologie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q048,adulte,Connaitre sa pathologie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q049,enfant,Connaitre sa pathologie,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q050,adolescent,Connaitre sa pathologie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q051,adulte,Connaitre sa pathologie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q052,enfant,Connaitre sa pathologie,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q053,adolescent,Connaitre sa pathologie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q054,adulte,Connaitre sa pathologie,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q055,enfant,Connaitre sa pathologie,faible,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q056,adolescent,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q057,adulte,Connaitre sa pathologie,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q058,enfant,Connaitre sa pathologie,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q059,adolescent,Connaitre sa pathologie,fort,False,False,0.0,0.0,2.0,2.0,True,0.0
+Q060,adulte,Connaitre sa pathologie,fort,False,False,1.0,2.0,1.0,2.0,False,55.0
+Q061,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q062,adolescent,Connaitre son traitement,fort,False,False,2.0,3.0,2.0,1.0,False,81.67
+Q063,adulte,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q064,enfant,Connaitre son traitement,moyen,False,False,1.0,3.0,2.0,1.0,False,68.33
+Q065,adolescent,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q066,adulte,Connaitre son traitement,moyen,False,False,1.0,3.0,0.0,1.0,False,58.33
+Q067,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q068,adolescent,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q069,adulte,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q070,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q071,adolescent,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q072,adulte,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q073,enfant,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q074,adolescent,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q075,adulte,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q076,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q077,adolescent,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q078,adulte,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q079,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q080,adolescent,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q081,adulte,Connaitre son traitement,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q082,enfant,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q083,adolescent,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q084,adulte,Connaitre son traitement,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q085,enfant,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q086,adolescent,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q087,adulte,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q088,enfant,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q089,adolescent,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q090,adulte,Connaitre son traitement,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q091,enfant,Auto-injection,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q092,adolescent,Auto-injection,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q093,adulte,Auto-injection,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q094,enfant,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q095,adolescent,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q096,adulte,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q097,enfant,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q098,adolescent,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q099,adulte,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q100,enfant,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q101,adolescent,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q102,adulte,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q103,enfant,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q104,adolescent,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q105,adulte,Auto-injection,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q106,enfant,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q107,adolescent,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q108,adulte,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q109,enfant,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q110,adolescent,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q111,adulte,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q112,enfant,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q113,adolescent,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q114,adulte,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q115,enfant,Auto-injection,fort,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q116,adolescent,Auto-injection,fort,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q117,adulte,Auto-injection,fort,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q118,enfant,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q119,adolescent,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q120,adulte,Auto-injection,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q121,enfant,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q122,adolescent,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q123,adulte,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q124,enfant,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q125,adolescent,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q126,adulte,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q127,enfant,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q128,adolescent,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q129,adulte,Gestion du stress,moyen,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q130,enfant,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q131,adolescent,Gestion du stress,faible,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q132,adulte,Gestion du stress,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q133,enfant,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q134,adolescent,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q135,adulte,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q136,enfant,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q137,adolescent,Gestion du stress,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q138,adulte,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q139,enfant,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q140,adolescent,Gestion du stress,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q141,adulte,Gestion du stress,moyen,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q142,enfant,Gestion du stress,faible,False,False,2.0,1.0,2.0,2.0,False,60.0
+Q143,adolescent,Gestion du stress,faible,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q144,adulte,Gestion du stress,faible,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q145,enfant,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q146,adolescent,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q147,adulte,Gestion du stress,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q148,enfant,Gestion du stress,fort,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q149,adolescent,Gestion du stress,fort,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q150,adulte,Gestion du stress,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q151,enfant,Gestion de la fatigue,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q152,adolescent,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q153,adulte,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q154,enfant,Gestion de la fatigue,faible,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q155,adolescent,Gestion de la fatigue,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q156,adulte,Gestion de la fatigue,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q157,enfant,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q158,adolescent,Gestion de la fatigue,moyen,False,False,2.0,1.0,2.0,1.0,False,55.0
+Q159,adulte,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q160,enfant,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q161,adolescent,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q162,adulte,Gestion de la fatigue,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q163,enfant,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q164,adolescent,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q165,adulte,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q166,enfant,Gestion de la fatigue,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q167,adolescent,Gestion de la fatigue,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q168,adulte,Gestion de la fatigue,moyen,False,False,1.0,2.0,2.0,2.0,False,60.0
+Q169,enfant,Gestion de la fatigue,fort,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q170,adolescent,Gestion de la fatigue,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q171,adulte,Gestion de la fatigue,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q172,enfant,Gestion de la fatigue,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q173,adolescent,Gestion de la fatigue,moyen,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q174,adulte,Gestion de la fatigue,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q178,enfant,Gestion de la fatigue,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q179,adolescent,Gestion de la fatigue,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q180,adulte,Gestion de la fatigue,fort,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q181,enfant,Retrouver confiance en soi,faible,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q182,adolescent,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q183,adulte,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q184,enfant,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q185,adolescent,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q186,adulte,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q187,enfant,Retrouver confiance en soi,moyen,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q188,adolescent,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q189,adulte,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q190,enfant,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q191,adolescent,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q192,adulte,Retrouver confiance en soi,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q193,enfant,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q194,adolescent,Retrouver confiance en soi,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q195,adulte,Retrouver confiance en soi,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q196,enfant,Retrouver confiance en soi,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q197,adolescent,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q198,adulte,Retrouver confiance en soi,moyen,False,False,1.0,1.0,2.0,2.0,False,46.67
+Q201,adulte,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q202,enfant,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q203,adolescent,Retrouver confiance en soi,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q204,adulte,Retrouver confiance en soi,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q205,enfant,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q206,adolescent,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q207,adulte,Retrouver confiance en soi,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q208,enfant,Retrouver confiance en soi,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q209,adolescent,Retrouver confiance en soi,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q210,adulte,Retrouver confiance en soi,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q211,enfant,Gestion d'une stomie,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q212,adolescent,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q213,adulte,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q214,enfant,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q215,adolescent,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q216,adulte,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q217,enfant,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q218,adolescent,Gestion d'une stomie,moyen,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q219,adulte,Gestion d'une stomie,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q220,enfant,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q221,adolescent,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q222,adulte,Gestion d'une stomie,fort,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q223,enfant,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q224,adolescent,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q225,adulte,Gestion d'une stomie,fort,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q226,enfant,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q227,adolescent,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q228,adulte,Gestion d'une stomie,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q229,enfant,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q230,adolescent,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q231,adulte,Gestion d'une stomie,moyen,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q232,enfant,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q233,adolescent,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q234,adulte,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q235,enfant,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q236,adolescent,Gestion d'une stomie,moyen,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q237,adulte,Gestion d'une stomie,moyen,False,False,2.0,1.0,2.0,1.0,False,55.0
+Q238,enfant,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q239,adolescent,Gestion d'une stomie,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q240,adulte,Gestion d'une stomie,moyen,False,False,3.0,2.0,2.0,1.0,False,81.67
+Q241,enfant,Activité physique,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q242,adolescent,Activité physique,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q243,adulte,Activité physique,faible,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q244,enfant,Activité physique,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q245,adolescent,Activité physique,faible,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q246,adulte,Activité physique,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q247,enfant,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q248,adolescent,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q249,adulte,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q250,enfant,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q251,adolescent,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q252,adulte,Activité physique,moyen,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q253,enfant,Activité physique,faible,False,False,2.0,2.0,2.0,2.0,False,73.33
+Q254,adolescent,Activité physique,faible,False,False,1.0,1.0,2.0,1.0,False,41.67
+Q255,adulte,Activité physique,faible,False,False,1.0,1.0,1.0,2.0,False,41.67
+Q256,enfant,Activité physique,moyen,False,False,2.0,3.0,2.0,2.0,False,86.67
+Q257,adolescent,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q258,adulte,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q262,enfant,Activité physique,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q263,adolescent,Activité physique,fort,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q264,adulte,Activité physique,fort,False,False,2.0,2.0,2.0,1.0,False,68.33
+Q265,enfant,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q266,adolescent,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q267,adulte,Activité physique,moyen,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q268,enfant,Activité physique,faible,False,False,3.0,3.0,2.0,2.0,False,100.0
+Q269,adolescent,Activité physique,faible,False,False,3.0,2.0,2.0,2.0,False,86.67
+Q270,adulte,Activité physique,faible,False,False,3.0,2.0,2.0,2.0,False,86.67
