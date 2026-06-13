@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:10",
+  "target_language": "gcf",
+  "source_text_sha256": "1b2057a3a18bb26b68de688d55cde7abd262589b49f14d5b3f238d8a9e47c02f",
+  "translated_at": "2026-06-10T21:11:54.047824+00:00",
+  "model": "gpt-5-mini",
+  "text": "Evalyasyon dijetetik : antwopométri é abitid alimantè.\n•  Edikasyon asou rejim faz 1 CDED-la, enkli manjé ki obligatwa épi sa ki otorisé.  \n•  Evalyasyon klinik é préskripsyon pa gastwoantéwològ la. \nKòmansman  \nDELA FAZ 1\n7\n«  Adan kòmansman rejim-la, man té ni on apréasyon pou pran solisyon-an paskè man pa abityé bwé lèt. Man fin mété mwen adan depi lè man konsantre-y ouswa aròmatisé-y épi on pòm ouswa on bannann é kèk frèz, an smoothie. \nÉ byento, adan faz 2, man ké pé mété kakaow. Donk man pansé man ké pé kontinyé-y an lon tèm, a plis man ké diminnyé kantite-a an dé. »\nPasyent 61 an : té pè pou bizwen pran solisyon nitrisyon entéral la\n« Nou wè byenvit bénèf : doulè yo diminye, sa ki motivé pitit gason nou pou kontinyé !\nI pa té vini a tab épi nou lè i té an nitrisyon entéral éksklizif.\nÉpi i palé sa touswit ba zanmi-y; yo konprann é fè efò a, pa egzanp lè yo té sòti ant zanmi yo té pòté on salad.\nLè i té lè pou réintégré manjé ki otorisé yo, tout fanmi-an mété yo adan. Nou pa janmen ankò achté repas tr",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:10:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 10,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Evalyasyon dijetetik : antwopométri é abitid alimantè.\n•  Edikasyon asou rejim faz 1 CDED-la, enkli manjé ki obligatwa épi sa ki otorisé.  \n•  Evalyasyon klinik é préskripsyon pa gastwoantéwològ la. \nKòmansman  \nDELA FAZ 1\n7\n«  Adan kòmansman rejim-la, man té ni on apréasyon pou pran solisyon-an paskè man pa abityé bwé lèt. Man fin mété mwen adan depi lè man konsantre-y ouswa aròmatisé-y épi on pòm ouswa on bannann é kèk frèz, an smoothie. \nÉ byento, adan faz 2, man ké pé mété kakaow. Donk man pansé man ké pé kontinyé-y an lon tèm, a plis man ké diminnyé kantite-a an dé. »\nPasyent 61 an : té pè pou bizwen pran solisyon nitrisyon entéral la\n« Nou wè byenvit bénèf : doulè yo diminye, sa ki motivé pitit gason nou pou kontinyé !\nI pa té vini a tab épi nou lè i té an nitrisyon entéral éksklizif.\nÉpi i palé sa touswit ba zanmi-y; yo konprann é fè efò a, pa egzanp lè yo té sòti ant zanmi yo té pòté on salad.\nLè i té lè pou réintégré manjé ki otorisé yo, tout fanmi-an mété yo adan. Nou pa janmen ankò achté repas tr",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:10",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:54.047824+00:00",
+    "source_text_sha256": "1b2057a3a18bb26b68de688d55cde7abd262589b49f14d5b3f238d8a9e47c02f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "851d1efa867f262cffd140048b6a99553fcb3b7eefcc32cf03469e09fb2d8c73",
+  "translated_at": "2026-06-10T20:39:34.224933+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\n177\nIBD\nFMC HGE: Qualiopi-certified organization for the category \"training actions\"\nPOST'U 2026\nIBD in the pediatric population:\nwhat are the specifics?\n\t Olivier COURBETTE\n\t Specialized Medicine Department, Pediatric Hospitals of Nice CHU-Lenval, 57 avenue de la Californie - 06200 NICE (France)\n\t olivier.courbette@hpu.lenval.com\nEDUCATIONAL OBJECTIVES\n•\t Know the epidemiology and clinical presentations of IBD in the pediatric population\n•\t Know when to use biological, endoscopic and radiological examinations\n•\t Know the relevance of the child-to-adult transition consultation\n•\t Know the specific aspects of therapeutic management\nCONFLICT OF INTEREST\nThe author declares no conflicts of interest related to this presentation.\nKEYWORDS\nCrohn's disease; Ulcerative colitis; Pediatrics\nABBREVIATIONS\n5-ASA: 5-aminosalicylic acid\n6-MMP: 6-methyl mercaptopurine\n6-TGN: 6-thioguanine\nADA: adalimumab\nAMM: marketing authorization\nCAG: acute severe colitis\nASCA: anti-Saccharomyces cerevisiae antibodies\nAZA: azathioprine\nCRP: C-reactive protein\nCSP: primary sclerosing cholangitis\nEBV: Epstein-Barr virus\nNEE: nutr",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:0:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 0,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 1 ---\n177\nIBD\nFMC HGE: Qualiopi-certified organization for the category \"training actions\"\nPOST'U 2026\nIBD in the pediatric population:\nwhat are the specifics?\n\t Olivier COURBETTE\n\t Specialized Medicine Department, Pediatric Hospitals of Nice CHU-Lenval, 57 avenue de la Californie - 06200 NICE (France)\n\t olivier.courbette@hpu.lenval.com\nEDUCATIONAL OBJECTIVES\n•\t Know the epidemiology and clinical presentations of IBD in the pediatric population\n•\t Know when to use biological, endoscopic and radiological examinations\n•\t Know the relevance of the child-to-adult transition consultation\n•\t Know the specific aspects of therapeutic management\nCONFLICT OF INTEREST\nThe author declares no conflicts of interest related to this presentation.\nKEYWORDS\nCrohn's disease; Ulcerative colitis; Pediatrics\nABBREVIATIONS\n5-ASA: 5-aminosalicylic acid\n6-MMP: 6-methyl mercaptopurine\n6-TGN: 6-thioguanine\nADA: adalimumab\nAMM: marketing authorization\nCAG: acute severe colitis\nASCA: anti-Saccharomyces cerevisiae antibodies\nAZA: azathioprine\nCRP: C-reactive protein\nCSP: primary sclerosing cholangitis\nEBV: Epstein-Barr virus\nNEE: nutr",
+    "source_id": "pdf:398e12446d466067:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:34.224933+00:00",
+    "source_text_sha256": "851d1efa867f262cffd140048b6a99553fcb3b7eefcc32cf03469e09fb2d8c73"
+  }
+}

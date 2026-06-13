@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "14a48353d0a7152f47720c5dc080973c8e04872f77a7af4255c1325ac6f3ff5a",
+  "translated_at": "2026-06-10T21:17:23.206739+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sa ka fèt pandan lété san paran, mé ou pé mennen zanmi ou vlé. Sé on bèl moman pou aprann jéré maladi a-w é pou fè nouvo zanmi. Pou édé-w pli byen konprann é jéré maladi a-w, adan sèten lopital i ni pwogram édikasyon thérapeutik pou pasyan, yo ka appelé ETP. La faf pwopoze osi pwogram Micado, atelye anlè entènèt ki òganizé pandan vakans colères. Atelye sa yo an ti gwoup ka pèmèt ou échanjé épi lòt ados ki ka viv èvè maladi a, jwenn enfòmasyon é triks é astis pou santi-w miyò. Finalman, i pé rivé ou manké klas. La faf pwopoze alòs brochir Ma Miki au Baï, koté ou pé donné pwofésè yo pou espliké maladi a é pou rattrapé kour-la pli fasil. La faf la pou édé-w : si ou ni kèsyon, si ou santi-w sèl, ou si ou vlé rankontwé lòt timoun ki ni on Miki. Ou ka toujou ka poze kèsyon asou maladi a-w ? Alò, gadé lòt vidyo an séri Les Modes Vintres pou édé-w pli byen konprann Miki yo é difikilté ou ka rankontwé chak jou. Konprann maladi a-w sé tretman a-w, sé pli bon mwayen pou gard",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:1:gcf",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 1,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Sa ka fèt pandan lété san paran, mé ou pé mennen zanmi ou vlé. Sé on bèl moman pou aprann jéré maladi a-w é pou fè nouvo zanmi. Pou édé-w pli byen konprann é jéré maladi a-w, adan sèten lopital i ni pwogram édikasyon thérapeutik pou pasyan, yo ka appelé ETP. La faf pwopoze osi pwogram Micado, atelye anlè entènèt ki òganizé pandan vakans colères. Atelye sa yo an ti gwoup ka pèmèt ou échanjé épi lòt ados ki ka viv èvè maladi a, jwenn enfòmasyon é triks é astis pou santi-w miyò. Finalman, i pé rivé ou manké klas. La faf pwopoze alòs brochir Ma Miki au Baï, koté ou pé donné pwofésè yo pou espliké maladi a é pou rattrapé kour-la pli fasil. La faf la pou édé-w : si ou ni kèsyon, si ou santi-w sèl, ou si ou vlé rankontwé lòt timoun ki ni on Miki. Ou ka toujou ka poze kèsyon asou maladi a-w ? Alò, gadé lòt vidyo an séri Les Modes Vintres pou édé-w pli byen konprann Miki yo é difikilté ou ka rankontwé chak jou. Konprann maladi a-w sé tretman a-w, sé pli bon mwayen pou gard",
+    "source_id": "video:9f17032ca0f984f3:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:23.206739+00:00",
+    "source_text_sha256": "14a48353d0a7152f47720c5dc080973c8e04872f77a7af4255c1325ac6f3ff5a"
+  }
+}

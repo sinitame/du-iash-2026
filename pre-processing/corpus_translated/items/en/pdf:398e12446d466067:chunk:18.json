@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:18",
+  "target_language": "en",
+  "source_text_sha256": "53dcaeba4d6c5ae161e804ecfe814ec8c980987bdc0c89741b7b70af45e1bb75",
+  "translated_at": "2026-06-10T20:40:08.353473+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 5 ---\n181\nIBD\nClassifications (location\nand evolving phenotype)\nCrohn's disease\nIn pediatric CD, the ileo-colic location is the most\nfrequent (42).\nThe PCDAI (Pediatric Crohn Disease Activity\nIndex) is a modification of the CDAI (Crohn Disease Activity\nIndex), which incorporates data specific to growth\nand biological parameters (table 4).\nIn children, CD generally progresses more\nrapidly and aggressively than in adults. An American\nstudy of 276 pediatric patients found that disease\nextension was observed in nearly 40%\nof children within the first two years after\ndiagnosis. In addition, complicated phenotypes (B2:\nstricturing, B3: fistulizing) affected 24% of cases\nafter four years, compared with only 9% at the\ntime of diagnosis (9). These phenotypic changes occur\nmostly within five years of disease onset.\nTable 2: pediatric forms of CD at diagnosis (41)\nCategory\nTypical features\nNon-specific features\nMacroscopic\n-\tUlcerative aphthous lesions of the mucosa\n-\tLinear ulcers or",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:18:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 18,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 5 ---\n181\nIBD\nClassifications (location\nand evolving phenotype)\nCrohn's disease\nIn pediatric CD, the ileo-colic location is the most\nfrequent (42).\nThe PCDAI (Pediatric Crohn Disease Activity\nIndex) is a modification of the CDAI (Crohn Disease Activity\nIndex), which incorporates data specific to growth\nand biological parameters (table 4).\nIn children, CD generally progresses more\nrapidly and aggressively than in adults. An American\nstudy of 276 pediatric patients found that disease\nextension was observed in nearly 40%\nof children within the first two years after\ndiagnosis. In addition, complicated phenotypes (B2:\nstricturing, B3: fistulizing) affected 24% of cases\nafter four years, compared with only 9% at the\ntime of diagnosis (9). These phenotypic changes occur\nmostly within five years of disease onset.\nTable 2: pediatric forms of CD at diagnosis (41)\nCategory\nTypical features\nNon-specific features\nMacroscopic\n-\tUlcerative aphthous lesions of the mucosa\n-\tLinear ulcers or",
+    "source_id": "pdf:398e12446d466067:chunk:18",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:08.353473+00:00",
+    "source_text_sha256": "53dcaeba4d6c5ae161e804ecfe814ec8c980987bdc0c89741b7b70af45e1bb75"
+  }
+}

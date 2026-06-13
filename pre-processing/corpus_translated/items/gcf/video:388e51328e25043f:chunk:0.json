@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:388e51328e25043f:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "739022f6a7a73f2582937cb414dc0f662e633e749ea989d787cf4b9e0a62f79e",
+  "translated_at": "2026-06-10T21:20:05.681423+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Bah, ès nou ké préparé-y, man pa préparé-y, osnon ? Wi, fò préparé-y, paskè an vré, gynéko-a ké mandé onlo kèsyon ki vré enpòtan. Donk fò vini évréman èk nòm sa yo nou ni pa jou, sav si ni san, si sé san-la, si i mou. I ni on kèsyon ki souvan tabou kot zòt ka jwenn difikilté pou réponn, sé kèsyon ijans. Mé an nou pa pé divené gès ki fèt avan, nou pa pé divené si ou ni ijans, impériosités, osnon aksidan. Sa sé vréman anpòtan, paskè adan pa akseptab. É si sa egziste, fò di nou pou nou pé ajisté tretman-an. Donk wi, fò préparé sa.",
+  "row": {
+    "id": "video:388e51328e25043f:chunk:0:gcf",
+    "document_id": "video:388e51328e25043f",
+    "chunk_index": 0,
+    "source_file": "d439d9cb3b962283f7b61b627ea09f50319a59cb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/d439d9cb3b962283f7b61b627ea09f50319a59cb.mp4",
+    "text_path": "corpus/texts/videos/d439d9cb3b962283f7b61b627ea09f50319a59cb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Bah, ès nou ké préparé-y, man pa préparé-y, osnon ? Wi, fò préparé-y, paskè an vré, gynéko-a ké mandé onlo kèsyon ki vré enpòtan. Donk fò vini évréman èk nòm sa yo nou ni pa jou, sav si ni san, si sé san-la, si i mou. I ni on kèsyon ki souvan tabou kot zòt ka jwenn difikilté pou réponn, sé kèsyon ijans. Mé an nou pa pé divené gès ki fèt avan, nou pa pé divené si ou ni ijans, impériosités, osnon aksidan. Sa sé vréman anpòtan, paskè adan pa akseptab. É si sa egziste, fò di nou pou nou pé ajisté tretman-an. Donk wi, fò préparé sa.",
+    "source_id": "video:388e51328e25043f:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:05.681423+00:00",
+    "source_text_sha256": "739022f6a7a73f2582937cb414dc0f662e633e749ea989d787cf4b9e0a62f79e"
+  }
+}

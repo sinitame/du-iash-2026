@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "ec1feaabeb8d26efe8449f24b57371c662c1274853ee77332d9bb0d331bd183e",
+  "translated_at": "2026-06-10T21:11:05.746225+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 3 ---\nPAWÒL EKSPÈ YO\nPou ba manjé gou é divèsifié repa zòt, anpil kondiman konmsi zèb frè (mant, origan, koriand, romarin, saj, tim), epis (sèl, pwav, paprika, kannèl, kurkumin, cumin), zonyon frè, lay, lwil dòlèv é lwil kolza, jenjanm, myèl ki pa endistriyèl é sik pé sèvi !\nTout sa ki pa adan lis-la FÓK ÉSKLI, sitou pwodui ki gra, siké é/oswa transformé, konjélé oswa an konzèv.\nDépi faz 2, bikabonat soda, levè chimik, puré sésam é kèk nwaz ou amand (6 a 8 pa jou) osi otorisé.\nAnfen, pa hésité pou varié fason pou kwiyé, yo tout otorisé SÒF fri (éksèp fri ki fèt èk lwil dòlèv é Air Fryer) !\nDyètétisyen zòt é gastroantérolog la la pou akonpagné zòt !\n4\nTòn adan lwil dòlèv ouswa lwil kolza\nAnana\nTout légim\nVyann wòj mèg\nMang\nPatat dous\nOranj\nTi tranch pen konplè atizanal fèt èk levè chimik\nSÒF chou kalé, poireo, séléri, asperj, artichaud\nLentiy, pwa, pwa chich, pwa sèk\nKinoa",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:5:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 5,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 3 ---\nPAWÒL EKSPÈ YO\nPou ba manjé gou é divèsifié repa zòt, anpil kondiman konmsi zèb frè (mant, origan, koriand, romarin, saj, tim), epis (sèl, pwav, paprika, kannèl, kurkumin, cumin), zonyon frè, lay, lwil dòlèv é lwil kolza, jenjanm, myèl ki pa endistriyèl é sik pé sèvi !\nTout sa ki pa adan lis-la FÓK ÉSKLI, sitou pwodui ki gra, siké é/oswa transformé, konjélé oswa an konzèv.\nDépi faz 2, bikabonat soda, levè chimik, puré sésam é kèk nwaz ou amand (6 a 8 pa jou) osi otorisé.\nAnfen, pa hésité pou varié fason pou kwiyé, yo tout otorisé SÒF fri (éksèp fri ki fèt èk lwil dòlèv é Air Fryer) !\nDyètétisyen zòt é gastroantérolog la la pou akonpagné zòt !\n4\nTòn adan lwil dòlèv ouswa lwil kolza\nAnana\nTout légim\nVyann wòj mèg\nMang\nPatat dous\nOranj\nTi tranch pen konplè atizanal fèt èk levè chimik\nSÒF chou kalé, poireo, séléri, asperj, artichaud\nLentiy, pwa, pwa chich, pwa sèk\nKinoa",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:05.746225+00:00",
+    "source_text_sha256": "ec1feaabeb8d26efe8449f24b57371c662c1274853ee77332d9bb0d331bd183e"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "pdf:398e12446d466067",
+  "status": "done",
+  "source_file": "postu-2026-COURBETTE.pdf",
+  "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+  "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+  "modality": "pdf",
+  "language": "fr",
+  "source_sha256": "398e12446d46606782a505949e3d37b339e8c1283922172dbcecaf34ab0c6a84",
+  "created_at": "2026-06-10T16:11:55.205180+00:00"
+}

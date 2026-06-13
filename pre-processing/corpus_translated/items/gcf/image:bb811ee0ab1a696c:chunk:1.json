@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "eafb698440f88c0926e46896514f00bc446310d152bb2f9c7016f25101b731dc",
+  "translated_at": "2026-06-10T20:50:13.143866+00:00",
+  "model": "gpt-5-mini",
+  "text": "An jeneral, pou tout sa fo savé\nasou vaksen, espesyalman vaksen vivan, vwè\nfich « Vaksen » ki ka vini épi fim « Ekspliké mwen vaksinasyon » (jen 2016)\n\nFè on dosié\n\nPansé pòté’y swa asou on klé USB\n= adan not ou asou smartphone\nou ranpli’y asou aplikasyon MICI Connect\n(dosié an téléchajman an séptanm 2016), My-\nMICI (mas 2016) osinon Carmélia\n\nDosié-a dwé genyen tout dènnyé kont-rendu opérasyon, osi byen sa ki dènnyé endoskopi yo épi rézilta biyopsi, scanner oubyen IRM, épi dokiman ospitalizasyon.\n\nPran asirans ki apwoprié\n\nToujou pati épi on asirans ki kouvé frè médikal asou plas-la épi rapatriyman si ni on pwoblèm ki lié èvè maladi-a ;\nAn jeneral, asirans yo ka pran an chaj réchut on maladi kwonik si i stabilizé\n(pa té gen ospitalizasyon adan 6 mwa avan dépar), byen fè yo konfimé sa.\n\nPréparé trous-la pou",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:1:gcf",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "An jeneral, pou tout sa fo savé\nasou vaksen, espesyalman vaksen vivan, vwè\nfich « Vaksen » ki ka vini épi fim « Ekspliké mwen vaksinasyon » (jen 2016)\n\nFè on dosié\n\nPansé pòté’y swa asou on klé USB\n= adan not ou asou smartphone\nou ranpli’y asou aplikasyon MICI Connect\n(dosié an téléchajman an séptanm 2016), My-\nMICI (mas 2016) osinon Carmélia\n\nDosié-a dwé genyen tout dènnyé kont-rendu opérasyon, osi byen sa ki dènnyé endoskopi yo épi rézilta biyopsi, scanner oubyen IRM, épi dokiman ospitalizasyon.\n\nPran asirans ki apwoprié\n\nToujou pati épi on asirans ki kouvé frè médikal asou plas-la épi rapatriyman si ni on pwoblèm ki lié èvè maladi-a ;\nAn jeneral, asirans yo ka pran an chaj réchut on maladi kwonik si i stabilizé\n(pa té gen ospitalizasyon adan 6 mwa avan dépar), byen fè yo konfimé sa.\n\nPréparé trous-la pou",
+    "source_id": "image:bb811ee0ab1a696c:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:13.143866+00:00",
+    "source_text_sha256": "eafb698440f88c0926e46896514f00bc446310d152bb2f9c7016f25101b731dc"
+  }
+}

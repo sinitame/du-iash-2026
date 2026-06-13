@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "5275a0c05e0607f9e7b8a422412be22f3b01c99fb11a7372241a857d29734ac4",
+  "translated_at": "2026-06-10T21:20:35.608674+00:00",
+  "model": "gpt-5-mini",
+  "text": "Adan sé émossyon-la, mwen pwopoze'w vizyalisé on léchèl entansité ant zewo é zis. Ou ké eséyé wè a ki nivo ou santi-l andidan kò'w. Èske i pli prè dé 2 osnon pli prè dé 10? Èske i andidan sant?\n\nLè ou fin meziré entansité santiman an, mwen pwopoze'w, trankilman, douman, vini apiyé zòtèy ou. Ou ké déroulé pye a, apiyé talon yo, épi mété pye a byen plat asou latè. Aster, ou ké apiyé bò déor pye'w, déroulé pye a, épi apiyé bò andidan pye'w. Épi ou ké relaché trankilman, tou dousman.\n\nOu ké pran konsyans osi dé rasinn-w ki anfonse andidan chès ou osnon andidan fòtèy ou. Epi pran konsyans dé do'w. Byen, ou pé relaché pou sa. Ou pé reculè on ti jan tèt ou an dèyè, konsité pou ou santi'w byen relaché é do a byen dwat. Épi ou akèyé trankilman sa k ka pasé pou ou.\n\nDetann kò'w; kounyéla, douman osi, obsèvé respirasiyon'w. Souf-la ka pasé, jis obsèvé...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:1:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 1,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Adan sé émossyon-la, mwen pwopoze'w vizyalisé on léchèl entansité ant zewo é zis. Ou ké eséyé wè a ki nivo ou santi-l andidan kò'w. Èske i pli prè dé 2 osnon pli prè dé 10? Èske i andidan sant?\n\nLè ou fin meziré entansité santiman an, mwen pwopoze'w, trankilman, douman, vini apiyé zòtèy ou. Ou ké déroulé pye a, apiyé talon yo, épi mété pye a byen plat asou latè. Aster, ou ké apiyé bò déor pye'w, déroulé pye a, épi apiyé bò andidan pye'w. Épi ou ké relaché trankilman, tou dousman.\n\nOu ké pran konsyans osi dé rasinn-w ki anfonse andidan chès ou osnon andidan fòtèy ou. Epi pran konsyans dé do'w. Byen, ou pé relaché pou sa. Ou pé reculè on ti jan tèt ou an dèyè, konsité pou ou santi'w byen relaché é do a byen dwat. Épi ou akèyé trankilman sa k ka pasé pou ou.\n\nDetann kò'w; kounyéla, douman osi, obsèvé respirasiyon'w. Souf-la ka pasé, jis obsèvé...",
+    "source_id": "video:161efbc66394dfb2:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:35.608674+00:00",
+    "source_text_sha256": "5275a0c05e0607f9e7b8a422412be22f3b01c99fb11a7372241a857d29734ac4"
+  }
+}

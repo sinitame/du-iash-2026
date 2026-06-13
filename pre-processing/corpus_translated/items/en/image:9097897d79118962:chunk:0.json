@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:9097897d79118962:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "3f51810cd18f39d917d1b0f664c9af6354cb3a42e65a5f5668d126f360818ab0",
+  "translated_at": "2026-06-10T20:37:36.993329+00:00",
+  "model": "gpt-5-mini",
+  "text": "PREVENTION\n\nPREVENTION\n\nFATIGUE\n\nFACT SHEET\n\n#09\n\nAND TREATMENTS\n\nIMPACT OF CORTICOSTEROIDS\nON FATIGUE\n\nCorticosteroids usually have an initial stimulating effect that combats fatigue. But in cases of prolonged use or when adrenal insufficiency is revealed upon their discontinuation, the phenomenon is reversed with marked fatigue often associated with muscle pains that reinforce this feeling of tiredness.\n\nIMPACT OF\nIMMUNOSUPPRESSANTS ON\nFATIGUE\n\nSimilarly, azathioprine and Purinethol can cause fatigue at the start of treatment. But this effect disappears in the vast majority of cases within a few weeks, generally not requiring stopping the treatment. It is important to warn the patient of this and thus help them get through the first weeks. This fatigue is sometimes associated with fairly bothersome muscle pains which can, in some cases, lead to treatment interruption.\n\nThis is a cause frequently reported by patients and that practitioners sometimes find hard to hear. It is nevertheless clear that some medications can favour fatigue. However, these medications are often essential to the treatment.",
+  "row": {
+    "id": "image:9097897d79118962:chunk:0:en",
+    "document_id": "image:9097897d79118962",
+    "chunk_index": 0,
+    "source_file": "fatigue_traitement.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_traitement.png",
+    "text_path": "corpus/texts/images/fatigue_traitement.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "PREVENTION\n\nPREVENTION\n\nFATIGUE\n\nFACT SHEET\n\n#09\n\nAND TREATMENTS\n\nIMPACT OF CORTICOSTEROIDS\nON FATIGUE\n\nCorticosteroids usually have an initial stimulating effect that combats fatigue. But in cases of prolonged use or when adrenal insufficiency is revealed upon their discontinuation, the phenomenon is reversed with marked fatigue often associated with muscle pains that reinforce this feeling of tiredness.\n\nIMPACT OF\nIMMUNOSUPPRESSANTS ON\nFATIGUE\n\nSimilarly, azathioprine and Purinethol can cause fatigue at the start of treatment. But this effect disappears in the vast majority of cases within a few weeks, generally not requiring stopping the treatment. It is important to warn the patient of this and thus help them get through the first weeks. This fatigue is sometimes associated with fairly bothersome muscle pains which can, in some cases, lead to treatment interruption.\n\nThis is a cause frequently reported by patients and that practitioners sometimes find hard to hear. It is nevertheless clear that some medications can favour fatigue. However, these medications are often essential to the treatment.",
+    "source_id": "image:9097897d79118962:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:36.993329+00:00",
+    "source_text_sha256": "3f51810cd18f39d917d1b0f664c9af6354cb3a42e65a5f5668d126f360818ab0"
+  }
+}

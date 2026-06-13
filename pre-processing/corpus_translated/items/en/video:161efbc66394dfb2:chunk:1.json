@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "5275a0c05e0607f9e7b8a422412be22f3b01c99fb11a7372241a857d29734ac4",
+  "translated_at": "2026-06-10T20:47:26.852338+00:00",
+  "model": "gpt-5-mini",
+  "text": "on these emotions and I suggest you visualize a scale of intensities between zero and ten. Try to see this emotion and how strongly you feel it inside your body. Is it closer to 2 or is it closer to 10, is it in the middle? Once you have measured the intensity of your emotion, I calmly and gently invite you to press on your toes. You will roll out your foot, press on your heels and then put your foot flat on the floor. Now, press on the outer edges of your feet, roll the foot, then press on the inner edges of your feet. And you will slowly, gently release. You will also become aware of your points of contact that are pressed into your chair or armchair. And then become aware of your back. Good, you can relax for that. You can tilt your head back a little bit so that it feels relaxed and your back stays straight. And you calmly welcome what is happening for you. Relax fully; you can now, also gently, observe your breathing. Let it just be and simply observe.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:1:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 1,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "on these emotions and I suggest you visualize a scale of intensities between zero and ten. Try to see this emotion and how strongly you feel it inside your body. Is it closer to 2 or is it closer to 10, is it in the middle? Once you have measured the intensity of your emotion, I calmly and gently invite you to press on your toes. You will roll out your foot, press on your heels and then put your foot flat on the floor. Now, press on the outer edges of your feet, roll the foot, then press on the inner edges of your feet. And you will slowly, gently release. You will also become aware of your points of contact that are pressed into your chair or armchair. And then become aware of your back. Good, you can relax for that. You can tilt your head back a little bit so that it feels relaxed and your back stays straight. And you calmly welcome what is happening for you. Relax fully; you can now, also gently, observe your breathing. Let it just be and simply observe.",
+    "source_id": "video:161efbc66394dfb2:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:26.852338+00:00",
+    "source_text_sha256": "5275a0c05e0607f9e7b8a422412be22f3b01c99fb11a7372241a857d29734ac4"
+  }
+}

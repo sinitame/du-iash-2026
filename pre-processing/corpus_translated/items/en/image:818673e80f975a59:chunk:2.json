@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "adb4024ca05df76448f7220c7b09afdab97d1b0a010db5642b2a5b6e32ae8f98",
+  "translated_at": "2026-06-10T20:37:44.539117+00:00",
+  "model": "gpt-5-mini",
+  "text": "+ chronic leading to poor use of iron by the body\nDefect in the absorption of iron or certain vitamins\n(vitamin B12, vitamin B9) in diseases of the\nsmall intestine (severe and/or extensive and/or operated)\nor in case of associated celiac disease\n= Lack of iron or vitamin B9 (or folic acid) intake when diet is insufficient\næ Consumption of vitamin B12 by an excess of\nbacteria in the small intestine in cases of strictures\nor small intestine surgery\n+ Excess consumption of folic acid during\ncertain treatments such as Methotrexate\nToxicity of certain drugs (Azathioprine,\nPurinethol, Methotrexate) at the level of the bone\nmarrow (which makes blood cells).\n\nIron deficiency is defined almost exclusively\nby the serum ferritin level, which varies according to\ngeneral inflammation. It is accepted that levels should be\nmaintained > 30 µg/L in the absence of serum inflammation and >\n100 µg/L in case of inflammation. It is estimated that 45% of\nIBD patients suffer from iron deficiency (notably\nduring the first year after diagnosis).",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:2:en",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 2,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "+ chronic leading to poor use of iron by the body\nDefect in the absorption of iron or certain vitamins\n(vitamin B12, vitamin B9) in diseases of the\nsmall intestine (severe and/or extensive and/or operated)\nor in case of associated celiac disease\n= Lack of iron or vitamin B9 (or folic acid) intake when diet is insufficient\næ Consumption of vitamin B12 by an excess of\nbacteria in the small intestine in cases of strictures\nor small intestine surgery\n+ Excess consumption of folic acid during\ncertain treatments such as Methotrexate\nToxicity of certain drugs (Azathioprine,\nPurinethol, Methotrexate) at the level of the bone\nmarrow (which makes blood cells).\n\nIron deficiency is defined almost exclusively\nby the serum ferritin level, which varies according to\ngeneral inflammation. It is accepted that levels should be\nmaintained > 30 µg/L in the absence of serum inflammation and >\n100 µg/L in case of inflammation. It is estimated that 45% of\nIBD patients suffer from iron deficiency (notably\nduring the first year after diagnosis).",
+    "source_id": "image:818673e80f975a59:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:44.539117+00:00",
+    "source_text_sha256": "adb4024ca05df76448f7220c7b09afdab97d1b0a010db5642b2a5b6e32ae8f98"
+  }
+}

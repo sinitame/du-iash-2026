@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "e7d21292efa3a4a96998d90b3b7b27674cccbe535c3f28d7531779ee14d43a67",
+  "translated_at": "2026-06-10T20:50:49.672636+00:00",
+  "model": "gpt-5-mini",
+  "text": "https//www france-assos-sante.org/\npublication _document/a-6-la-personne-de-confiance/\n\n= Avètir mutyèl ou é asiré si yo ké pran an\nchaj osinon pa dé frè siplemantè lopital : chanm indi-\nvidyèl, télé, swen osinon ekzamen konplemantè, trans-\npò, pran an chaj frè gad timoun …\n= Avètir medsen tratant ou é gastroentérolog libéral ou\n= Byen préparé dósé médikal ou, ordonans\né egzamen resan\n> Si ou ka pran lòt tretman, avètir\nékip lopital-la\n\nDWA OU É DÉVWA OU\nA LOPITAL\n\nTout itilizatè lopital piblik ni on kantite dwa. Yo té sensibman ranforsi pa lalwa 4 mas 2002 ki konsèné dwa malad-la é qualité sistèm lasanté-a, é osi pa «Charte de la personne hospitalisée». Dwa malad-la (dwa pasyan-an) ka al depi garanti qualité swen jiska aksè a informasyon, an pasé pa respé entimité a-w é vi privé a-w.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:3:gcf",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 3,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "https//www france-assos-sante.org/\npublication _document/a-6-la-personne-de-confiance/\n\n= Avètir mutyèl ou é asiré si yo ké pran an\nchaj osinon pa dé frè siplemantè lopital : chanm indi-\nvidyèl, télé, swen osinon ekzamen konplemantè, trans-\npò, pran an chaj frè gad timoun …\n= Avètir medsen tratant ou é gastroentérolog libéral ou\n= Byen préparé dósé médikal ou, ordonans\né egzamen resan\n> Si ou ka pran lòt tretman, avètir\nékip lopital-la\n\nDWA OU É DÉVWA OU\nA LOPITAL\n\nTout itilizatè lopital piblik ni on kantite dwa. Yo té sensibman ranforsi pa lalwa 4 mas 2002 ki konsèné dwa malad-la é qualité sistèm lasanté-a, é osi pa «Charte de la personne hospitalisée». Dwa malad-la (dwa pasyan-an) ka al depi garanti qualité swen jiska aksè a informasyon, an pasé pa respé entimité a-w é vi privé a-w.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:49.672636+00:00",
+    "source_text_sha256": "e7d21292efa3a4a96998d90b3b7b27674cccbe535c3f28d7531779ee14d43a67"
+  }
+}

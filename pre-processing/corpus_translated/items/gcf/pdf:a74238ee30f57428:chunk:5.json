@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "d0cced9ef752689a815ced387469dad8b885d4104269d50bec5845499d72d385",
+  "translated_at": "2026-06-10T21:08:40.162834+00:00",
+  "model": "gpt-5-mini",
+  "text": "kutané, okulè\noswa ki ka afè fwa. Tou manifestasyon-tala an jénéral pa grav.\n\nÈS ANFAN KA GÉRI ADAN MALADI-A ?\nSé maladi kwochonik ki pé pèsisté lontan, mé a nivo ki pa menm. Anfan é granmoun ka ni long péyod rémission san siy maladi-a. Pifò pasyan an gen atak modéré ki byen kontwolé pa tretman an. Maladi-sa pa menas lavi. Adan maladi Crohn, si on anfan fò on jou pasé anba on entèvansyon chirijikal, sa pé mennen on rémission ki dire, mé sé pa tretman définitif maladi-a. An kontrè, adan RCH, chiriji pé ka guéri [coloprotectomie (abasyon kolon é rèktòm)].\n\nÈS ANFAN MWEN PÉ SWIV PA MÉDSEN FANMI-MWEN OUBYEN PA ON SPÉSIALIS ?\nI rézonab pou konsilté on pédyat ki espesyalizé an gastroentérologie (spésialis an lestomin). Spésialis-la fòmé pou pran swen pwoblèm tala é i an kontak épi on ekip ki kapab asiré tout swen é tout ekzamen (endoskopi, chiriji). Pifò sèvis Pedyatri pé kapab swa pran chaj-li, swa",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:5:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 5,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "kutané, okulè\noswa ki ka afè fwa. Tou manifestasyon-tala an jénéral pa grav.\n\nÈS ANFAN KA GÉRI ADAN MALADI-A ?\nSé maladi kwochonik ki pé pèsisté lontan, mé a nivo ki pa menm. Anfan é granmoun ka ni long péyod rémission san siy maladi-a. Pifò pasyan an gen atak modéré ki byen kontwolé pa tretman an. Maladi-sa pa menas lavi. Adan maladi Crohn, si on anfan fò on jou pasé anba on entèvansyon chirijikal, sa pé mennen on rémission ki dire, mé sé pa tretman définitif maladi-a. An kontrè, adan RCH, chiriji pé ka guéri [coloprotectomie (abasyon kolon é rèktòm)].\n\nÈS ANFAN MWEN PÉ SWIV PA MÉDSEN FANMI-MWEN OUBYEN PA ON SPÉSIALIS ?\nI rézonab pou konsilté on pédyat ki espesyalizé an gastroentérologie (spésialis an lestomin). Spésialis-la fòmé pou pran swen pwoblèm tala é i an kontak épi on ekip ki kapab asiré tout swen é tout ekzamen (endoskopi, chiriji). Pifò sèvis Pedyatri pé kapab swa pran chaj-li, swa",
+    "source_id": "pdf:a74238ee30f57428:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:40.162834+00:00",
+    "source_text_sha256": "d0cced9ef752689a815ced387469dad8b885d4104269d50bec5845499d72d385"
+  }
+}

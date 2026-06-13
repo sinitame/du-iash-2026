@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:84e4c5ee89a4d55a:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "4cec9dab5f08cab00e658bd4fb7dc414b394f0dadb3ac7454a7b50d87a0284ec",
+  "translated_at": "2026-06-10T21:19:34.173196+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ché an timoun oswè an adilt, nou pé vwè doulè adan zo. Maladi inflamatuwar, an vréyé sé an déminéralizasyion, é i pé bay frakti é tassatman vèrtébral. Donk si ou ni doulè adan zo, sa pa toujou sé paskè yo té porté an chay twòp. Fò palé asi-y, fò fè an radiografi pou asiré si maladi-a pa fè on frakti/tassatman vèrtébral. Épi i pé ni lòt manifestasion asi sén, machwè, sternòm, klavikil. Sa yo ka apelé « ostéit kronik multifokal récidivant ». Si janmen i ni doulè an plizé plas kon sa, fò palé osi épi on gastroentérolog, i ké fè on egzamen konplémentè pou vérifié sa k ka pasé. An jénéral, mesaz-la sé palé, di, pa di sé pa anyen, pa di sé ti bagay, sé sa, sé sa.",
+  "row": {
+    "id": "video:84e4c5ee89a4d55a:chunk:1:gcf",
+    "document_id": "video:84e4c5ee89a4d55a",
+    "chunk_index": 1,
+    "source_file": "cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "text_path": "corpus/texts/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ché an timoun oswè an adilt, nou pé vwè doulè adan zo. Maladi inflamatuwar, an vréyé sé an déminéralizasyion, é i pé bay frakti é tassatman vèrtébral. Donk si ou ni doulè adan zo, sa pa toujou sé paskè yo té porté an chay twòp. Fò palé asi-y, fò fè an radiografi pou asiré si maladi-a pa fè on frakti/tassatman vèrtébral. Épi i pé ni lòt manifestasion asi sén, machwè, sternòm, klavikil. Sa yo ka apelé « ostéit kronik multifokal récidivant ». Si janmen i ni doulè an plizé plas kon sa, fò palé osi épi on gastroentérolog, i ké fè on egzamen konplémentè pou vérifié sa k ka pasé. An jénéral, mesaz-la sé palé, di, pa di sé pa anyen, pa di sé ti bagay, sé sa, sé sa.",
+    "source_id": "video:84e4c5ee89a4d55a:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:34.173196+00:00",
+    "source_text_sha256": "4cec9dab5f08cab00e658bd4fb7dc414b394f0dadb3ac7454a7b50d87a0284ec"
+  }
+}

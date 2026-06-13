@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:17",
+  "target_language": "gcf",
+  "source_text_sha256": "ef45a61bea2bc108b180d7debd8ffc799d9302331f7c5a680f0f8018c9e3d7a3",
+  "translated_at": "2026-06-10T20:52:36.530163+00:00",
+  "model": "gpt-5-mini",
+  "text": "ue, sitou adan segment-la\nki afété\npi anlè zòn ki té pa afété\n2.\t Fòm pasanjé\nMaladi ka kontinyé depi réktòm, i pé osi montré on épargnaj an réktòm\nBiyopsi pafwa fokal, siy krónisite osinon déformasyon nan l’architektir pé pa la.\nAn jénéral chimen lakay timoun piti épi on kout tan sentòm.\n3.\t Atènt cækal\nMaladi bò gòch sòti depi réktòm épi enflamasyon an cæcum é on segment sèn ant dé zòn-la\nTipik ; biyopsi zòn afété-a pé montré on enflamasyon pa spécifik\n4.\t Atènt a TD sipéryè\nÉrosion osinon ti ulcération adan lestoma, ki pa ni serpigineuz ni linéé\nGastrit difiz ou fokal, san granulom (sauf péri-kriptik)\n5.\t Kolit aji grav\nMaladi ka kontinyé depi réktòm\nI pé montré enflamasyon transmural osinon ulcè fon ; lòt karakteristik tipik.\nPa ni aggrégat limfoid, ulcè an fissir an V.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:17:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 17,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ue, sitou adan segment-la\nki afété\npi anlè zòn ki té pa afété\n2.\t Fòm pasanjé\nMaladi ka kontinyé depi réktòm, i pé osi montré on épargnaj an réktòm\nBiyopsi pafwa fokal, siy krónisite osinon déformasyon nan l’architektir pé pa la.\nAn jénéral chimen lakay timoun piti épi on kout tan sentòm.\n3.\t Atènt cækal\nMaladi bò gòch sòti depi réktòm épi enflamasyon an cæcum é on segment sèn ant dé zòn-la\nTipik ; biyopsi zòn afété-a pé montré on enflamasyon pa spécifik\n4.\t Atènt a TD sipéryè\nÉrosion osinon ti ulcération adan lestoma, ki pa ni serpigineuz ni linéé\nGastrit difiz ou fokal, san granulom (sauf péri-kriptik)\n5.\t Kolit aji grav\nMaladi ka kontinyé depi réktòm\nI pé montré enflamasyon transmural osinon ulcè fon ; lòt karakteristik tipik.\nPa ni aggrégat limfoid, ulcè an fissir an V.",
+    "source_id": "pdf:398e12446d466067:chunk:17",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:36.530163+00:00",
+    "source_text_sha256": "ef45a61bea2bc108b180d7debd8ffc799d9302331f7c5a680f0f8018c9e3d7a3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "abdfeb6157f0e1d4d684f6e6155e20e4f5b155fffdd4fbbbe7b75e32ecbb4fdf",
+  "translated_at": "2026-06-10T20:49:00.845318+00:00",
+  "model": "gpt-5-mini",
+  "text": "On senp mank fè san anemi pé fè moun vin santi fatig ? Débat-la pa vréman tranché définitivman. Travo ki fèt adan MICI pa pèmèt di sa, mé on méta-analiz (on regroupman atifisyèl pliziè etid pou amelyoré pèfòmans statistik) resaman fèt adan pasyan ki pa gen MICI ka moutwé sa pou la pwemiyé fwa.",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:3:gcf",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 3,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "On senp mank fè san anemi pé fè moun vin santi fatig ? Débat-la pa vréman tranché définitivman. Travo ki fèt adan MICI pa pèmèt di sa, mé on méta-analiz (on regroupman atifisyèl pliziè etid pou amelyoré pèfòmans statistik) resaman fèt adan pasyan ki pa gen MICI ka moutwé sa pou la pwemiyé fwa.",
+    "source_id": "image:818673e80f975a59:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:00.845318+00:00",
+    "source_text_sha256": "abdfeb6157f0e1d4d684f6e6155e20e4f5b155fffdd4fbbbe7b75e32ecbb4fdf"
+  }
+}

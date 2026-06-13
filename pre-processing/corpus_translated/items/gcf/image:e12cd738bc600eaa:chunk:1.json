@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "cd502d1565e9ffe2977b2205cfc8034350274415dcb11ea0c66e936e425d7ea6",
+  "translated_at": "2026-06-10T20:49:32.663679+00:00",
+  "model": "gpt-5-mini",
+  "text": "Tretman maladi-a pi souvan ka kontinyé lè yo fè konsèpsyon é pandan gwosès pou menm bi-a.\nSèl chiriji ki ka afekte fètilité sé koloprotectomi épi anastomoz iléo-anal pa laparotomi, mé sé on sitiasyon ki ra é la vo laparoskopik depi plizyé lane chanjé efè-a asou fètilité.\n\nakouchman prématiré é avòtman spontanés.\n\nTRETMAN LÈ YO FÈ KONSÈPSYON\nÉ PANDAN GWOSÈS\n\nKONTINYÉ / KA ITILIZÉ LÈ KONSÈPSYON\n\nKONTINYÉ / KA ITILIZÉ PANDAN GWOSÈS\n\nMÉSALAZINE\n\nwi\n\nwi, dòz <3g/\n\nSULFASAKAZINE\n\nwi, bay sipleman asid folik\n\nwi, bay sipleman asid folik\n\nCORTICOIDES\nwi\nwi\n\nTHIOPURINES\nwi\nwi\nAzathioprine / 6Mercaptopurine\n\nMETHOTREXATE\nnon. konsèpsyon posib 24 èdtan apré dènye pran kot fanm nan, omwen 3 mwa apré dènye pran kot gason an\n\nANTITNF\nInfliximab, Adalimumab\nGolimumab* Certolizumab*\n\nwi\n\nwi, on arè tretman pé diskité chak ka an patikilyé\n\nVEDOLIZUMAB\n\nwi\n\nendikasyon pou kontinyé tretman-la bizwen diskité chak ka an patikilyé paskè donn syantifik limit\n\nUSTEKINUMAB",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:1:gcf",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 1,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Tretman maladi-a pi souvan ka kontinyé lè yo fè konsèpsyon é pandan gwosès pou menm bi-a.\nSèl chiriji ki ka afekte fètilité sé koloprotectomi épi anastomoz iléo-anal pa laparotomi, mé sé on sitiasyon ki ra é la vo laparoskopik depi plizyé lane chanjé efè-a asou fètilité.\n\nakouchman prématiré é avòtman spontanés.\n\nTRETMAN LÈ YO FÈ KONSÈPSYON\nÉ PANDAN GWOSÈS\n\nKONTINYÉ / KA ITILIZÉ LÈ KONSÈPSYON\n\nKONTINYÉ / KA ITILIZÉ PANDAN GWOSÈS\n\nMÉSALAZINE\n\nwi\n\nwi, dòz <3g/\n\nSULFASAKAZINE\n\nwi, bay sipleman asid folik\n\nwi, bay sipleman asid folik\n\nCORTICOIDES\nwi\nwi\n\nTHIOPURINES\nwi\nwi\nAzathioprine / 6Mercaptopurine\n\nMETHOTREXATE\nnon. konsèpsyon posib 24 èdtan apré dènye pran kot fanm nan, omwen 3 mwa apré dènye pran kot gason an\n\nANTITNF\nInfliximab, Adalimumab\nGolimumab* Certolizumab*\n\nwi\n\nwi, on arè tretman pé diskité chak ka an patikilyé\n\nVEDOLIZUMAB\n\nwi\n\nendikasyon pou kontinyé tretman-la bizwen diskité chak ka an patikilyé paskè donn syantifik limit\n\nUSTEKINUMAB",
+    "source_id": "image:e12cd738bc600eaa:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:32.663679+00:00",
+    "source_text_sha256": "cd502d1565e9ffe2977b2205cfc8034350274415dcb11ea0c66e936e425d7ea6"
+  }
+}

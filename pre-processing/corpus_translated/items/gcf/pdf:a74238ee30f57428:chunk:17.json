@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:17",
+  "target_language": "gcf",
+  "source_text_sha256": "f37a9982f1a2c69737254a653f319f962e172535da170e2f772118eb3152aa0c",
+  "translated_at": "2026-06-10T21:10:22.400394+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sa pa asé, é i egzisté faktè anvironman ki endispansab mé ki poko idantifié ; kounyé a i enposib pou prédi kiyès ki pé jwenn li, é paské risk-la ba, pèsonn medsen pa dékonseiyé paran fè lòt timoun lè ni déja on moun ki atenn MICI.\n\nAN RÉZIMÉ\nSA KI FO PA FÈ :\n1/ Twòp pwotéjé-y (lévé adan koton) é entèdi-y san nésesité aktivité oswè pwojé anba préteks ké sa pé agravé maladi a : sa pa vré é gran majorité timoun ki atenn MICI pé é dwèt viv on lavi nòmal. Pèsòn karyè, menm sé ki gen responsabilit é \"strès\", pa entèdi pou yo, é dé zétid prézis montwé ké nivô pwofesyonèl timoun ki atenn MICI lé nòmal. Eksperyans an plis montwé onlo pasyan ki atenn MICI sé \"batan\".\n2/ Entèdi-y san nésesité sèten aktivité oswè manjé, sòf si on medsen di otreman.\n3/ Okontré, fè kon si maladi a pa egzisté é reta konsiltasyon médikal-la.\n\nAtitid ki pli adapté :\nOn latansyon disrèt mè vijilan.\nOn disponibilite",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:17:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 17,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Sa pa asé, é i egzisté faktè anvironman ki endispansab mé ki poko idantifié ; kounyé a i enposib pou prédi kiyès ki pé jwenn li, é paské risk-la ba, pèsonn medsen pa dékonseiyé paran fè lòt timoun lè ni déja on moun ki atenn MICI.\n\nAN RÉZIMÉ\nSA KI FO PA FÈ :\n1/ Twòp pwotéjé-y (lévé adan koton) é entèdi-y san nésesité aktivité oswè pwojé anba préteks ké sa pé agravé maladi a : sa pa vré é gran majorité timoun ki atenn MICI pé é dwèt viv on lavi nòmal. Pèsòn karyè, menm sé ki gen responsabilit é \"strès\", pa entèdi pou yo, é dé zétid prézis montwé ké nivô pwofesyonèl timoun ki atenn MICI lé nòmal. Eksperyans an plis montwé onlo pasyan ki atenn MICI sé \"batan\".\n2/ Entèdi-y san nésesité sèten aktivité oswè manjé, sòf si on medsen di otreman.\n3/ Okontré, fè kon si maladi a pa egzisté é reta konsiltasyon médikal-la.\n\nAtitid ki pli adapté :\nOn latansyon disrèt mè vijilan.\nOn disponibilite",
+    "source_id": "pdf:a74238ee30f57428:chunk:17",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:22.400394+00:00",
+    "source_text_sha256": "f37a9982f1a2c69737254a653f319f962e172535da170e2f772118eb3152aa0c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:21",
+  "target_language": "en",
+  "source_text_sha256": "bd28c4e8efecfcdabd7b0ae0e371b1363536915a98a36899d84e98a95135a4ef",
+  "translated_at": "2026-06-10T20:40:15.348119+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 6 ---\n182\nTable 4: Pediatric Crohn’s Disease Activity Index (PCDAI) (44)\nStools per day\n-\t none\n-\t < 5 ± blood\n-\t ≥ 5 and large amounts of blood\n0\n5\n10\nAbdominal pain\n-\t absent\n-\t moderate\n-\t severe\n0\n5\n10\nGeneral well-being\n-\t good\n-\t fair (limited activity)\n-\t poor (school absence or bedridden)\n0\n5\n10\nWeight\n-\t normal gain\n-\t no gain (unintentional)\n-\t weight loss ≥ 10%\n0\n5\n10\nHeight/Growth velocity\n-\t ≥ -1 SD (standard deviation)\n-\t < -1 SD and > -2 SD\n-\t ≤ -2 SD\n0\n5\n10\nAbdominal mass\n-\t absent\n-\t questionable\n-\t definite\n0\n5\n10\nAnal lesions\n-\t absent\n-\t fissures\n-\t fistulae/abscess\n0\n5\n10\nExtra-intestinal manifestations, joint, skin, fever > 38°C, uveitis\n-\t absent\n-\t 1\n-\t ≥ 2\n0\n5\n10\nHematocrit (%) (11-19 years)\n-\t ≥ 34\n-\t 29-33\n-\t < 29\n0\n2.5\n5\nErythrocyte sedimentation rate (mm in the 1st hour)\n-\t < 20\n-\t 20-50\n-\t > 50\n0\n2.5\n5\nAlbumin (g/L)\n-\t ≥ 35\n-\t 31-34\n-\t ≤ 30\n0\n2.5\n5\nTotal:\t Remission < 20; \n\t\nModerate flare: 30-50; \n\t\nSevere flare: > 50\nUlcerative colitis\nIn UC, the distribution of lesions is different from that in adults: isolated proctitis is less common and",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:21:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 21,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 6 ---\n182\nTable 4: Pediatric Crohn’s Disease Activity Index (PCDAI) (44)\nStools per day\n-\t none\n-\t < 5 ± blood\n-\t ≥ 5 and large amounts of blood\n0\n5\n10\nAbdominal pain\n-\t absent\n-\t moderate\n-\t severe\n0\n5\n10\nGeneral well-being\n-\t good\n-\t fair (limited activity)\n-\t poor (school absence or bedridden)\n0\n5\n10\nWeight\n-\t normal gain\n-\t no gain (unintentional)\n-\t weight loss ≥ 10%\n0\n5\n10\nHeight/Growth velocity\n-\t ≥ -1 SD (standard deviation)\n-\t < -1 SD and > -2 SD\n-\t ≤ -2 SD\n0\n5\n10\nAbdominal mass\n-\t absent\n-\t questionable\n-\t definite\n0\n5\n10\nAnal lesions\n-\t absent\n-\t fissures\n-\t fistulae/abscess\n0\n5\n10\nExtra-intestinal manifestations, joint, skin, fever > 38°C, uveitis\n-\t absent\n-\t 1\n-\t ≥ 2\n0\n5\n10\nHematocrit (%) (11-19 years)\n-\t ≥ 34\n-\t 29-33\n-\t < 29\n0\n2.5\n5\nErythrocyte sedimentation rate (mm in the 1st hour)\n-\t < 20\n-\t 20-50\n-\t > 50\n0\n2.5\n5\nAlbumin (g/L)\n-\t ≥ 35\n-\t 31-34\n-\t ≤ 30\n0\n2.5\n5\nTotal:\t Remission < 20; \n\t\nModerate flare: 30-50; \n\t\nSevere flare: > 50\nUlcerative colitis\nIn UC, the distribution of lesions is different from that in adults: isolated proctitis is less common and",
+    "source_id": "pdf:398e12446d466067:chunk:21",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:15.348119+00:00",
+    "source_text_sha256": "bd28c4e8efecfcdabd7b0ae0e371b1363536915a98a36899d84e98a95135a4ef"
+  }
+}

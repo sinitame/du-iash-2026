@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:67",
+  "target_language": "gcf",
+  "source_text_sha256": "be8c5dfbc66e4de94ab4a1f0829bd7ea6849c97b767d696bc2503815309cc713",
+  "translated_at": "2026-06-10T20:55:24.125495+00:00",
+  "model": "gpt-5-mini",
+  "text": "Gwoup Porto IBD pou ESPGHAN. Inflamm Bowel Dis. 2016; 22:1908-1914.\n37.\tKoninckx CR, Donat E, Benninga M, et al. Itlizasyon tès calprotectin adan kaka pou pwoblèm pédiatrique: On papyé pozisyon Sosyété Éwopeyèn pou Gastroenteroloji é Nitrisyon Pédiatrique, Komité Gastroenteroloji. J Pediatr Gastroenterol Nutr. 2021;72:617-640.\n38.\tKellar A, Dolinger M, Novak KL, et al. Ultrason entesten pou gastroenterològ pédiatrique: On gid pou suiv maladi entesten enflamatwa adan timoun. Konsansis ekspè an non Gwoup Entènasional Ultrason Entesten (IBUS), Komité Pédiatrique. J Pediatr Gastroenterol Nutr. 2022;176:142-148.\n39.\tHoerning A, Jüngert J, Siebenlist G, et al. Ultrason adan maladi entesten enflamatwa pédiatrique – On revizyon sou léta kouran é perspektiv pou lavni. Children. 2024;11:156.\n40.\tOliva S, Thomson M, de Ridder L, et al. Endoskopi adan maladi entesten enflamatwa pédiatrique: On papyé pozisyon an non Gwoup Porto IBD dé Sosyété Éwopeyèn pou Gastroenteroloji, Epatoloji é Nitrisyon Pédiatrique. J Pediatr Gastroenterol Nutr. 2018; 67:414-430.\n41.\tLevine A, Koletzko S, Turner D, et al. ESPGHAN révizé Por",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:67:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 67,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Gwoup Porto IBD pou ESPGHAN. Inflamm Bowel Dis. 2016; 22:1908-1914.\n37.\tKoninckx CR, Donat E, Benninga M, et al. Itlizasyon tès calprotectin adan kaka pou pwoblèm pédiatrique: On papyé pozisyon Sosyété Éwopeyèn pou Gastroenteroloji é Nitrisyon Pédiatrique, Komité Gastroenteroloji. J Pediatr Gastroenterol Nutr. 2021;72:617-640.\n38.\tKellar A, Dolinger M, Novak KL, et al. Ultrason entesten pou gastroenterològ pédiatrique: On gid pou suiv maladi entesten enflamatwa adan timoun. Konsansis ekspè an non Gwoup Entènasional Ultrason Entesten (IBUS), Komité Pédiatrique. J Pediatr Gastroenterol Nutr. 2022;176:142-148.\n39.\tHoerning A, Jüngert J, Siebenlist G, et al. Ultrason adan maladi entesten enflamatwa pédiatrique – On revizyon sou léta kouran é perspektiv pou lavni. Children. 2024;11:156.\n40.\tOliva S, Thomson M, de Ridder L, et al. Endoskopi adan maladi entesten enflamatwa pédiatrique: On papyé pozisyon an non Gwoup Porto IBD dé Sosyété Éwopeyèn pou Gastroenteroloji, Epatoloji é Nitrisyon Pédiatrique. J Pediatr Gastroenterol Nutr. 2018; 67:414-430.\n41.\tLevine A, Koletzko S, Turner D, et al. ESPGHAN révizé Por",
+    "source_id": "pdf:398e12446d466067:chunk:67",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:24.125495+00:00",
+    "source_text_sha256": "be8c5dfbc66e4de94ab4a1f0829bd7ea6849c97b767d696bc2503815309cc713"
+  }
+}

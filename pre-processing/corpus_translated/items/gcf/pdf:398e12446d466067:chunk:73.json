@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:73",
+  "target_language": "gcf",
+  "source_text_sha256": "3f7b00a93444349ce7b525262511ed0a27820b5c3b72ed04f3060157b0c7601f",
+  "translated_at": "2026-06-10T21:06:33.246181+00:00",
+  "model": "gpt-5-mini",
+  "text": "67.\t Rubío A, Pigneur B, Garnier-Lengliné H, et al. Efikasité terapi nitrisyonèl éksklizif adan maladi Crohn pédyatrik, konparé manje oral fraksioné vs. alimantasyon entéral kontini. Aliment Pharmacol Ther. 2011;33:1332-9.\n68.\t Catto S, Dugelay E, Viala J, et al. Nitrisyon entéral éksklizif pou indiksyon rémisyon adan maladi Crohn pédyatrik: tolerans é akseptasyon kout-tèm épi long-tèm. JPGN Rep. 2024;6:11-18.\n69.\t Levine A, Kori M, Dinari G, et al. Israeli Pediatric Budesonide Study Group. Konparé dé méthòd dòzaj pou indiksyon répons é rémisyon èvèk budesonid oral adan maladi Crohn pédyatrik aktif: on esè randomizé kontrolé pa placebo. Inflamm Bowel Dis. 2009;15:1055-61.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:73:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 73,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "67.\t Rubío A, Pigneur B, Garnier-Lengliné H, et al. Efikasité terapi nitrisyonèl éksklizif adan maladi Crohn pédyatrik, konparé manje oral fraksioné vs. alimantasyon entéral kontini. Aliment Pharmacol Ther. 2011;33:1332-9.\n68.\t Catto S, Dugelay E, Viala J, et al. Nitrisyon entéral éksklizif pou indiksyon rémisyon adan maladi Crohn pédyatrik: tolerans é akseptasyon kout-tèm épi long-tèm. JPGN Rep. 2024;6:11-18.\n69.\t Levine A, Kori M, Dinari G, et al. Israeli Pediatric Budesonide Study Group. Konparé dé méthòd dòzaj pou indiksyon répons é rémisyon èvèk budesonid oral adan maladi Crohn pédyatrik aktif: on esè randomizé kontrolé pa placebo. Inflamm Bowel Dis. 2009;15:1055-61.",
+    "source_id": "pdf:398e12446d466067:chunk:73",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:33.246181+00:00",
+    "source_text_sha256": "3f7b00a93444349ce7b525262511ed0a27820b5c3b72ed04f3060157b0c7601f"
+  }
+}

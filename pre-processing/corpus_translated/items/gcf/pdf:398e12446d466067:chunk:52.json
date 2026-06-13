@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:52",
+  "target_language": "gcf",
+  "source_text_sha256": "3b719e1f44cff65a44366476eab5aaba3b121d833260155d2dbe0c9e18ed9d98",
+  "translated_at": "2026-06-10T20:54:36.675581+00:00",
+  "model": "gpt-5-mini",
+  "text": "amelyorasyon (bès nòt PUCAI ki mwens ki 20 pwen) apré 7 a 10 jou, osnon si PUCAI ogmante pa 20 pwen a okenn moman, konsidé on entansifikasyon tretman-an. Fò évité dépendans adan stéroïd.\n\n5\t\n\u0007Wè pati 2 adan rékomandasyon sa yo.\n6\t\n\u0007Répons-la défini kon on bès nòt PUCAI omwens 20 pwen. Men, bi tretman induksyon-an sé rivé ad on rémisyon konplè an bout.\n7\t\n\u0007Pa egzamp, si i ni entolérans ou byen rézistans avan a stéroïd, osnon lè infliximab endiké dépi tout fason pou tretman antretyen apré on ékéch thiopurines.\n8\t\n\u0007Mézire TPMT (génotipaj ouswa aktivité anzimatik) lè yo enkli pasyan-an, ansanm é menm tan mézire to 6‑TG é 6‑MMP apré 2 a 3 mwa, pé édé optimizé dòz thiopurines.\n9\t\n\u0007Si infliximab té itilizé an on maladi ki té naïf pou thiopurines, yo pé ajouté thiopurines é arrété infliximab apré 4 a 8 mwa an ka rémisyon konplè. Pasé a 5‑ASA pé konsidéré adan sèten ka, si 5‑ASA pa té fè echèk avan é apré on périòd rémisyon pwofondé soutni.\nKòmantè : Tretman yo",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:52:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 52,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "amelyorasyon (bès nòt PUCAI ki mwens ki 20 pwen) apré 7 a 10 jou, osnon si PUCAI ogmante pa 20 pwen a okenn moman, konsidé on entansifikasyon tretman-an. Fò évité dépendans adan stéroïd.\n\n5\t\n\u0007Wè pati 2 adan rékomandasyon sa yo.\n6\t\n\u0007Répons-la défini kon on bès nòt PUCAI omwens 20 pwen. Men, bi tretman induksyon-an sé rivé ad on rémisyon konplè an bout.\n7\t\n\u0007Pa egzamp, si i ni entolérans ou byen rézistans avan a stéroïd, osnon lè infliximab endiké dépi tout fason pou tretman antretyen apré on ékéch thiopurines.\n8\t\n\u0007Mézire TPMT (génotipaj ouswa aktivité anzimatik) lè yo enkli pasyan-an, ansanm é menm tan mézire to 6‑TG é 6‑MMP apré 2 a 3 mwa, pé édé optimizé dòz thiopurines.\n9\t\n\u0007Si infliximab té itilizé an on maladi ki té naïf pou thiopurines, yo pé ajouté thiopurines é arrété infliximab apré 4 a 8 mwa an ka rémisyon konplè. Pasé a 5‑ASA pé konsidéré adan sèten ka, si 5‑ASA pa té fè echèk avan é apré on périòd rémisyon pwofondé soutni.\nKòmantè : Tretman yo",
+    "source_id": "pdf:398e12446d466067:chunk:52",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:36.675581+00:00",
+    "source_text_sha256": "3b719e1f44cff65a44366476eab5aaba3b121d833260155d2dbe0c9e18ed9d98"
+  }
+}

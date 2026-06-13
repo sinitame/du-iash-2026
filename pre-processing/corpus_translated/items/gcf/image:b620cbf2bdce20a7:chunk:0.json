@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "5e59cac51eb264452e327de51e15e03c091a05708f6e512b336631c9d7cd05a5",
+  "translated_at": "2026-06-10T20:49:01.210437+00:00",
+  "model": "gpt-5-mini",
+  "text": "| FICH\n\nDRWA É ASIRANS #9\n\nan\nui\nZz\n<\nœ\na\na\n<\n=\nui\nun\nO\nœ\n\nABSANS POU\nSWEN MÉDIKAL\n\nLè on ni RCH ousa on maladi Crohn, on pé bizwen absé di travay pou allé a konsiltasyon, fè egzamen oswa pou swen (perfizyon an patikilyé) é sa pé difisil pou jéré épi patwon-an. Ki sa nou pé fè ?\n\nKA JÉNÉRAL\n\nPatwon pa pé refizé ou pou alé vwè wendezvou médikal si ou prévyé-y an avans (sauf ijans, bien sir). Mé lalwa pa oblijé peye-w pandan tan wendezvou sa yo.\n\nGénèralman gen patwon ki konprann, koumans an expliké sitiasyon-w ba manadjè-w oswa on responsab RH, ou pé rivé jwenn pou fè wendezvou yo adan lè travay.",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:0:gcf",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 0,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "| FICH\n\nDRWA É ASIRANS #9\n\nan\nui\nZz\n<\nœ\na\na\n<\n=\nui\nun\nO\nœ\n\nABSANS POU\nSWEN MÉDIKAL\n\nLè on ni RCH ousa on maladi Crohn, on pé bizwen absé di travay pou allé a konsiltasyon, fè egzamen oswa pou swen (perfizyon an patikilyé) é sa pé difisil pou jéré épi patwon-an. Ki sa nou pé fè ?\n\nKA JÉNÉRAL\n\nPatwon pa pé refizé ou pou alé vwè wendezvou médikal si ou prévyé-y an avans (sauf ijans, bien sir). Mé lalwa pa oblijé peye-w pandan tan wendezvou sa yo.\n\nGénèralman gen patwon ki konprann, koumans an expliké sitiasyon-w ba manadjè-w oswa on responsab RH, ou pé rivé jwenn pou fè wendezvou yo adan lè travay.",
+    "source_id": "image:b620cbf2bdce20a7:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:01.210437+00:00",
+    "source_text_sha256": "5e59cac51eb264452e327de51e15e03c091a05708f6e512b336631c9d7cd05a5"
+  }
+}

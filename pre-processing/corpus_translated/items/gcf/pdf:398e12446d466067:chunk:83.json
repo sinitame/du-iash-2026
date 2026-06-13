@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:83",
+  "target_language": "gcf",
+  "source_text_sha256": "1ba8018816d27f7ab853e93c517c75835c02dec573579a2b7258a3e4726523e9",
+  "translated_at": "2026-06-10T21:07:56.545340+00:00",
+  "model": "gpt-5-mini",
+  "text": "et al. Eksperyans an lavi réyèl épi ustekinumab adan timoun é jenn adilt adan on sant swen twazyèm nivo pou maladi entesten anflamatwa pédiatrik. J Pediatr Gastro-enterol Nutr. 2019;69:61-67.\n112. Hyams JS, Turner D, Cohen SA, et al. Farmakokinetik, sékirité é efikasité vedolizumab administré adan venn adan paséyan pédiatrik ki ni kolit ulcérativ osinon maladi Crohn: rézilta sòti an étid faz 2 HUBBLE. J Crohn’s Colitis 2022;16:1243-1254.\n113. Attia O, Shavit-Brunschwig Z, Mould DR, et al. Rézilta, dozaj, é prédiktè tretman vedolizumab adan timoun ki ni maladi entesten anflamatwa (VEDOKIDs): on étid kohòt prospéktiv, miltisantre. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n114. Klomberg RCW, de Ridder L. Vedolizumab adan IBD pédiatrik: on gwo pa an avans, mé pa la ankò. Lancet Gastroenterol Hepatol. 2023;8:3-4.\n115. Atia O, Shavit-Brunschwig Z, Mould DR, et al. Rézilta, dozaj, é prédiktè tretman vedolizumab adan timoun ki ni maladi entesten anflamatwa (VEDOKIDS): on étid kohòt prospéktiv, miltisantre. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116. Wlazlo M, Kierkus J. Terapé biyolojik doub pou tretman maladi entesten anflamatwa pédiatrik",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:83:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 83,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "et al. Eksperyans an lavi réyèl épi ustekinumab adan timoun é jenn adilt adan on sant swen twazyèm nivo pou maladi entesten anflamatwa pédiatrik. J Pediatr Gastro-enterol Nutr. 2019;69:61-67.\n112. Hyams JS, Turner D, Cohen SA, et al. Farmakokinetik, sékirité é efikasité vedolizumab administré adan venn adan paséyan pédiatrik ki ni kolit ulcérativ osinon maladi Crohn: rézilta sòti an étid faz 2 HUBBLE. J Crohn’s Colitis 2022;16:1243-1254.\n113. Attia O, Shavit-Brunschwig Z, Mould DR, et al. Rézilta, dozaj, é prédiktè tretman vedolizumab adan timoun ki ni maladi entesten anflamatwa (VEDOKIDs): on étid kohòt prospéktiv, miltisantre. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n114. Klomberg RCW, de Ridder L. Vedolizumab adan IBD pédiatrik: on gwo pa an avans, mé pa la ankò. Lancet Gastroenterol Hepatol. 2023;8:3-4.\n115. Atia O, Shavit-Brunschwig Z, Mould DR, et al. Rézilta, dozaj, é prédiktè tretman vedolizumab adan timoun ki ni maladi entesten anflamatwa (VEDOKIDS): on étid kohòt prospéktiv, miltisantre. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116. Wlazlo M, Kierkus J. Terapé biyolojik doub pou tretman maladi entesten anflamatwa pédiatrik",
+    "source_id": "pdf:398e12446d466067:chunk:83",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:56.545340+00:00",
+    "source_text_sha256": "1ba8018816d27f7ab853e93c517c75835c02dec573579a2b7258a3e4726523e9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:23fe501751699a9e:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "175b23e58b5c5ddd55933534dac9d276b83073fde8959665d8e3625dddc7f3cd",
+  "translated_at": "2026-06-10T20:45:55.126844+00:00",
+  "model": "gpt-5-mini",
+  "text": "... My gastro and I, how do I position myself? So I'm going to tell you how I see myself in relation to my patients. I think my role is to walk beside you. It's not to walk in front of you and treat you. It's not to be behind you; it's to walk beside you and accompany you. For that, I think the relationship has to be built on trust. And kindness. I think that's how it's going to work. ... ... ...",
+  "row": {
+    "id": "video:23fe501751699a9e:chunk:0:en",
+    "document_id": "video:23fe501751699a9e",
+    "chunk_index": 0,
+    "source_file": "6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.mp4",
+    "text_path": "corpus/texts/videos/6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... My gastro and I, how do I position myself? So I'm going to tell you how I see myself in relation to my patients. I think my role is to walk beside you. It's not to walk in front of you and treat you. It's not to be behind you; it's to walk beside you and accompany you. For that, I think the relationship has to be built on trust. And kindness. I think that's how it's going to work. ... ... ...",
+    "source_id": "video:23fe501751699a9e:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:55.126844+00:00",
+    "source_text_sha256": "175b23e58b5c5ddd55933534dac9d276b83073fde8959665d8e3625dddc7f3cd"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:81870f2890d0333a:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "3c47eb3719ab670d22265b09ff2c21a0b72678d6ce74c687dc15e13bf8020ff4",
+  "translated_at": "2026-06-10T20:46:09.545282+00:00",
+  "model": "gpt-5-mini",
+  "text": "... I would say it's how you feel and how you want it. But your parents exist too, meaning that before you turn 18, in pediatric services you have to be accompanied by your parents, but ideally there should be a time for consultations alone so that you can actually get a feel for your upcoming life in adult care and so that you can get to know your care team and talk with them, to ask questions so that it's you who takes your place with the gastroenterologists. And then in adult care, often for the first consultation we say it's good for the parents to be there—for the parents—because they have taken care of you for so many years that if suddenly they are not there, I think they would feel deprived of something, they would feel stressed. So for the first consultation it's good that they are there so they can meet the next team they're handing you over to. And little by little, well you can come alone and maybe you'll even want to come alone. So there you go. ...",
+  "row": {
+    "id": "video:81870f2890d0333a:chunk:0:en",
+    "document_id": "video:81870f2890d0333a",
+    "chunk_index": 0,
+    "source_file": "8417b11ab0eb57d01607a358cab7d277a1174609.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8417b11ab0eb57d01607a358cab7d277a1174609.mp4",
+    "text_path": "corpus/texts/videos/8417b11ab0eb57d01607a358cab7d277a1174609.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... I would say it's how you feel and how you want it. But your parents exist too, meaning that before you turn 18, in pediatric services you have to be accompanied by your parents, but ideally there should be a time for consultations alone so that you can actually get a feel for your upcoming life in adult care and so that you can get to know your care team and talk with them, to ask questions so that it's you who takes your place with the gastroenterologists. And then in adult care, often for the first consultation we say it's good for the parents to be there—for the parents—because they have taken care of you for so many years that if suddenly they are not there, I think they would feel deprived of something, they would feel stressed. So for the first consultation it's good that they are there so they can meet the next team they're handing you over to. And little by little, well you can come alone and maybe you'll even want to come alone. So there you go. ...",
+    "source_id": "video:81870f2890d0333a:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:09.545282+00:00",
+    "source_text_sha256": "3c47eb3719ab670d22265b09ff2c21a0b72678d6ce74c687dc15e13bf8020ff4"
+  }
+}

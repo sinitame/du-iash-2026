@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "3c778de6482eb919e19121b96cd9b944c15fa313927864cf3b9a9d60e81b039b",
+  "translated_at": "2026-06-10T20:45:20.800380+00:00",
+  "model": "gpt-5-mini",
+  "text": "Now, contract each part of your body.\n\nIf you feel that, very gently, calmly at your own pace, perhaps, breathe in fully, maybe through your nose. And you will come to notice all the areas of your face to avoid clenching. For this anger, you might have a gentle contraction so as not to hurt yourself, and when you release it, as gently as possible, you will exhale, feel it, be aware; you will notice that you are able to ease the tightness at the base. You let go well. You bring back awareness to other areas, you calmly explore your sensations, and your face relaxes, your head unwinds. And so, a little more, I invite you to bring this feeling to yourself — of the anger you may have in this moment. Take a deep breath in, breathe in again. Through your nose, you will hold your breath for a short time, and you will bring your chin very close to your chest. And very gently, calmly in this position, you will contract the muscles of your neck and the nape. Without lifting your shoulders if possible. A very gentle, calm contraction and at your own pace when you feel like it, you",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:5:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 5,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Now, contract each part of your body.\n\nIf you feel that, very gently, calmly at your own pace, perhaps, breathe in fully, maybe through your nose. And you will come to notice all the areas of your face to avoid clenching. For this anger, you might have a gentle contraction so as not to hurt yourself, and when you release it, as gently as possible, you will exhale, feel it, be aware; you will notice that you are able to ease the tightness at the base. You let go well. You bring back awareness to other areas, you calmly explore your sensations, and your face relaxes, your head unwinds. And so, a little more, I invite you to bring this feeling to yourself — of the anger you may have in this moment. Take a deep breath in, breathe in again. Through your nose, you will hold your breath for a short time, and you will bring your chin very close to your chest. And very gently, calmly in this position, you will contract the muscles of your neck and the nape. Without lifting your shoulders if possible. A very gentle, calm contraction and at your own pace when you feel like it, you",
+    "source_id": "video:05807ec7742bc2af:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:20.800380+00:00",
+    "source_text_sha256": "3c778de6482eb919e19121b96cd9b944c15fa313927864cf3b9a9d60e81b039b"
+  }
+}

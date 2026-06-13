@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "8ec168cafe612718d729755b83529f595f3a3b8ce038fd77079ce41f873e9ea8",
+  "translated_at": "2026-06-10T20:50:59.205722+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nPi koni émulsifyan sé : lécithin soya (E322), karajenan (E407), polisòbat (E432-E436) é karboksimétilseliloz (E466).\nNou jwenn yo sitou adan :\n• Sos indistriyèl (mayonèz, ketchòp…)\n• Glàs, désè lakté\n• Kèk pen dé mie é biskwit\n• Plat préparé\n\nSA MWEN PÉ FÈ ?\n• Gadé é analizé lé etikèt. Ki mwens aditif ki ni, sé pli bon. Retrouvé adan parcours Mikado-w la fich « Dékripte lé etikèt » pou vini incollable.\n• Konsèy : On aplikasyon kon Open Food Facts ka pèmèt ou eskann pwodui-yo, wè konpozisyon yo é idantifié aditif yo é zot potansyèl enpak asou lasanté. Aplikasyon-an ka osi pèmèt konparé pwodui ki sanm.\n• Priyorisé fè lakay é manjé fre (mwens aditif pase adan plat indistriyèl). Kwiziné lakay osi fè manjé yo retrouv on gou pli otantik.\n\nAn rezimen, tout aditif pa menm bagay. Kèk aditif pa fè okenn mal. Pou lòt-la, gen étid ki an kour ou ki ja pwouvé zot enpak négatif asou lasanté nou. Pwodui ki ni aditif",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:3:gcf",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 3,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 2 ---\nPi koni émulsifyan sé : lécithin soya (E322), karajenan (E407), polisòbat (E432-E436) é karboksimétilseliloz (E466).\nNou jwenn yo sitou adan :\n• Sos indistriyèl (mayonèz, ketchòp…)\n• Glàs, désè lakté\n• Kèk pen dé mie é biskwit\n• Plat préparé\n\nSA MWEN PÉ FÈ ?\n• Gadé é analizé lé etikèt. Ki mwens aditif ki ni, sé pli bon. Retrouvé adan parcours Mikado-w la fich « Dékripte lé etikèt » pou vini incollable.\n• Konsèy : On aplikasyon kon Open Food Facts ka pèmèt ou eskann pwodui-yo, wè konpozisyon yo é idantifié aditif yo é zot potansyèl enpak asou lasanté. Aplikasyon-an ka osi pèmèt konparé pwodui ki sanm.\n• Priyorisé fè lakay é manjé fre (mwens aditif pase adan plat indistriyèl). Kwiziné lakay osi fè manjé yo retrouv on gou pli otantik.\n\nAn rezimen, tout aditif pa menm bagay. Kèk aditif pa fè okenn mal. Pou lòt-la, gen étid ki an kour ou ki ja pwouvé zot enpak négatif asou lasanté nou. Pwodui ki ni aditif",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:59.205722+00:00",
+    "source_text_sha256": "8ec168cafe612718d729755b83529f595f3a3b8ce038fd77079ce41f873e9ea8"
+  }
+}

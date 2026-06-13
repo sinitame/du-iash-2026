@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5a07de54f9241a3:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "cc4e40c132554912a93120252205b6eabdea4ec1faed4945e74a2cc061aa9a62",
+  "translated_at": "2026-06-10T20:50:10.588826+00:00",
+  "model": "gpt-5-mini",
+  "text": "VIV AVÈK MICI-A,\n\nVèsyon AIS ki pli pati konpagni yo :\n\n« Ou otorizé pou mété médikaman vital anlè avyon-an, mé ou dwé kontakte nou é prévin nou dépi avan vwayaj-la pou di nou entansyon-w fè sa. Médikaman-an dwé toujou resté an posésyon-w adan kabin-an, é ou bizwen ni on sètifika médical ouswa on ordonans ki konfimé ou bizwen médikaman sila yo.\nEkipaj kabin pa ka jété siring ki sèvi, alò ou bizwen poté on résipyan pou ranmasé yo adan bagaj a men-w.\nPasajé yo dwé kapab jéré prop médikaman yo é fè swen yo menm paské ekipaj kabin pa otorisé pou édé zòt fè sa. Ekipaj kabin pa kapab estoké médikaman adan frijidè pou zòt. »\n\nRIDE\n\nin\n\nAn ka si\nAn ka pèd ouswa ni reta adan bagaj-la, sa ké mété-w an difikilté pandan séjou-a.",
+  "row": {
+    "id": "image:c5a07de54f9241a3:chunk:0:gcf",
+    "document_id": "image:c5a07de54f9241a3",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_avion.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_avion.png",
+    "text_path": "corpus/texts/images/vivre_mici_avion.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "VIV AVÈK MICI-A,\n\nVèsyon AIS ki pli pati konpagni yo :\n\n« Ou otorizé pou mété médikaman vital anlè avyon-an, mé ou dwé kontakte nou é prévin nou dépi avan vwayaj-la pou di nou entansyon-w fè sa. Médikaman-an dwé toujou resté an posésyon-w adan kabin-an, é ou bizwen ni on sètifika médical ouswa on ordonans ki konfimé ou bizwen médikaman sila yo.\nEkipaj kabin pa ka jété siring ki sèvi, alò ou bizwen poté on résipyan pou ranmasé yo adan bagaj a men-w.\nPasajé yo dwé kapab jéré prop médikaman yo é fè swen yo menm paské ekipaj kabin pa otorisé pou édé zòt fè sa. Ekipaj kabin pa kapab estoké médikaman adan frijidè pou zòt. »\n\nRIDE\n\nin\n\nAn ka si\nAn ka pèd ouswa ni reta adan bagaj-la, sa ké mété-w an difikilté pandan séjou-a.",
+    "source_id": "image:c5a07de54f9241a3:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:10.588826+00:00",
+    "source_text_sha256": "cc4e40c132554912a93120252205b6eabdea4ec1faed4945e74a2cc061aa9a62"
+  }
+}

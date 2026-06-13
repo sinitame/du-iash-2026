@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "90c0d334a3c3b069d42b64a3162309be7493f227dee8ff813f6dea71b4481355",
+  "translated_at": "2026-06-10T20:51:54.672212+00:00",
+  "model": "gpt-5-mini",
+  "text": "diagnostiké pandan tout lavi. \nCépendan, ni spécificité ki pwòp a fòm pédia-\ntrik. Pa egzanp, maladi Crohn la plis souvan \ndiagnostiké an staj anflamatwa, avan aparisyon \nkonplikasyon sténozan ou fistulizan. Réktokolit \némorajik ka karakterizé souvan pa on atak \nkolik ki étann depi diagnos. An pédiatri, MICI yo \nasosyé épi on reta an kwasans é pwa é an puberté, mé \nosi épi on bès nan estim pwòp tèt, on dégradasyon de \nimaj kò é on pousantaj absans lékol ki wo, \nsa ka konpwomèt kalite vi a é entégrasyon sosyo-\nprofésyonèl lavni. Kout pran an chaj maladi sa yo \nadan laj pédiatrik pli wo pase sa pou adilt (1). On miyò \nkonésans spécificité fòm pédiatrik-la endispansab pou \ntout aktè ki an chaj swen médikal é paramédikal.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:2:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 2,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "diagnostiké pandan tout lavi. \nCépendan, ni spécificité ki pwòp a fòm pédia-\ntrik. Pa egzanp, maladi Crohn la plis souvan \ndiagnostiké an staj anflamatwa, avan aparisyon \nkonplikasyon sténozan ou fistulizan. Réktokolit \némorajik ka karakterizé souvan pa on atak \nkolik ki étann depi diagnos. An pédiatri, MICI yo \nasosyé épi on reta an kwasans é pwa é an puberté, mé \nosi épi on bès nan estim pwòp tèt, on dégradasyon de \nimaj kò é on pousantaj absans lékol ki wo, \nsa ka konpwomèt kalite vi a é entégrasyon sosyo-\nprofésyonèl lavni. Kout pran an chaj maladi sa yo \nadan laj pédiatrik pli wo pase sa pou adilt (1). On miyò \nkonésans spécificité fòm pédiatrik-la endispansab pou \ntout aktè ki an chaj swen médikal é paramédikal.",
+    "source_id": "pdf:398e12446d466067:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:54.672212+00:00",
+    "source_text_sha256": "90c0d334a3c3b069d42b64a3162309be7493f227dee8ff813f6dea71b4481355"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:45",
+  "target_language": "en",
+  "source_text_sha256": "c43b5133d0a803497ccd73d8f7f9e5827f466d1bb70b5506819e241572cb6a55",
+  "translated_at": "2026-06-10T20:41:17.390629+00:00",
+  "model": "gpt-5-mini",
+  "text": "Some centers prescribe oral corticosteroids as a \"bridging treatment\" while waiting for the effects of vedolizumab to appear (114,115).\nCombination therapy\nThe use of combination therapy as first-line treatment or in the case of therapeutic failure is not recommended in children. A recent literature review and a multicenter study conducted under the aegis of ESPGHAN do not allow conclusions on its use (116,117). Its exceptional use in pediatrics should result from a favorable opinion in a multidisciplinary consultation meeting.\nJanus Kinase inhibitor\nOral Janus kinase inhibitors do not have marketing authorization for pediatric Crohn's disease. However, a recent clinical study shows that upadacitinib is effective, without new safety signals, in a small subgroup of patients with IBD (aged 9 to 20 years) (118). Its exceptional use in pediatrics should result from a favorable opinion in a multidisciplinary consultation meeting.\nTherapeutic strategy decision tree (62)\n(Figure 4)\nSurgical treatment (119)\nSurgery is indicated only in cases of complications such as strictures, abscesses, fistulas",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:45:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 45,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Some centers prescribe oral corticosteroids as a \"bridging treatment\" while waiting for the effects of vedolizumab to appear (114,115).\nCombination therapy\nThe use of combination therapy as first-line treatment or in the case of therapeutic failure is not recommended in children. A recent literature review and a multicenter study conducted under the aegis of ESPGHAN do not allow conclusions on its use (116,117). Its exceptional use in pediatrics should result from a favorable opinion in a multidisciplinary consultation meeting.\nJanus Kinase inhibitor\nOral Janus kinase inhibitors do not have marketing authorization for pediatric Crohn's disease. However, a recent clinical study shows that upadacitinib is effective, without new safety signals, in a small subgroup of patients with IBD (aged 9 to 20 years) (118). Its exceptional use in pediatrics should result from a favorable opinion in a multidisciplinary consultation meeting.\nTherapeutic strategy decision tree (62)\n(Figure 4)\nSurgical treatment (119)\nSurgery is indicated only in cases of complications such as strictures, abscesses, fistulas",
+    "source_id": "pdf:398e12446d466067:chunk:45",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:17.390629+00:00",
+    "source_text_sha256": "c43b5133d0a803497ccd73d8f7f9e5827f466d1bb70b5506819e241572cb6a55"
+  }
+}

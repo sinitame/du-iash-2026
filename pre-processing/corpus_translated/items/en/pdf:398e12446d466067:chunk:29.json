@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:29",
+  "target_language": "en",
+  "source_text_sha256": "2a76a94c52a5d143221da3e3fb9674f871f5b3b9100cde074965275ed0ed9739",
+  "translated_at": "2026-06-10T20:40:31.976773+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 8 ---\n184\nloss to follow-up, poor treatment adherence and an increased rate of surgical complications (60).\nIn 2022, a Canadian consensus issued fifteen recommendations, including nine strong ones, to guide this transition. It is recommended that all young people with IBD enter a structured, multidisciplinary and individualized transition program, developed with the participation of patients, parents and healthcare providers. These programs should include clear goals, flexibility in the timing of the transfer and post-transition follow-up. Education plays a central role, focusing on understanding the disease, the use of treatments, risks related to substances and navigating the healthcare system (61). However, it has been shown that adolescents have poor knowledge of their medical history, their treatments or their side effects, and still frequently delegate to parents the management of appointments, prescription renewals, the dispensing of medications or communication with physicians and care teams (59,61). Tools such as the Transition Readiness Assessment Questionnaire (TRAQ)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:29:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 29,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 8 ---\n184\nloss to follow-up, poor treatment adherence and an increased rate of surgical complications (60).\nIn 2022, a Canadian consensus issued fifteen recommendations, including nine strong ones, to guide this transition. It is recommended that all young people with IBD enter a structured, multidisciplinary and individualized transition program, developed with the participation of patients, parents and healthcare providers. These programs should include clear goals, flexibility in the timing of the transfer and post-transition follow-up. Education plays a central role, focusing on understanding the disease, the use of treatments, risks related to substances and navigating the healthcare system (61). However, it has been shown that adolescents have poor knowledge of their medical history, their treatments or their side effects, and still frequently delegate to parents the management of appointments, prescription renewals, the dispensing of medications or communication with physicians and care teams (59,61). Tools such as the Transition Readiness Assessment Questionnaire (TRAQ)",
+    "source_id": "pdf:398e12446d466067:chunk:29",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:31.976773+00:00",
+    "source_text_sha256": "2a76a94c52a5d143221da3e3fb9674f871f5b3b9100cde074965275ed0ed9739"
+  }
+}

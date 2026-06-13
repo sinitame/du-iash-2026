@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "afc1943698ed4536ecc606f7a96e93227b6a755fbd288426df349f9ccf330d34",
+  "translated_at": "2026-06-10T20:44:34.075099+00:00",
+  "model": "gpt-5-mini",
+  "text": "Problem. You must, however, take certain precautions. For example, you should stop doing sports during a flare-up. And above all, never push yourself when you feel tired. You are not alone. La facrone RCH France regularly offers opportunities to meet and talk with other teenagers who have a Mickey. It’s a great chance to ask your questions and, among young people, share your tips and tricks for having a stress-free school life. You can, for example, take part in the teen camps that take place every summer in Brittany. Or sign up for online workshops to get information and discuss with other young people. Finally, on Lafha’s website you will find the brochure Mamiki au Baï, which your parents can give to your teachers. This will help them understand what a Mickey is and, together with you and your parents, find the most suitable solutions.",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:5:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 5,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Problem. You must, however, take certain precautions. For example, you should stop doing sports during a flare-up. And above all, never push yourself when you feel tired. You are not alone. La facrone RCH France regularly offers opportunities to meet and talk with other teenagers who have a Mickey. It’s a great chance to ask your questions and, among young people, share your tips and tricks for having a stress-free school life. You can, for example, take part in the teen camps that take place every summer in Brittany. Or sign up for online workshops to get information and discuss with other young people. Finally, on Lafha’s website you will find the brochure Mamiki au Baï, which your parents can give to your teachers. This will help them understand what a Mickey is and, together with you and your parents, find the most suitable solutions.",
+    "source_id": "video:ceebd17c1f9860a9:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:34.075099+00:00",
+    "source_text_sha256": "afc1943698ed4536ecc606f7a96e93227b6a755fbd288426df349f9ccf330d34"
+  }
+}

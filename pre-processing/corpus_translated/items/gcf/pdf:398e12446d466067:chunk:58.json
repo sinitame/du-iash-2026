@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:58",
+  "target_language": "gcf",
+  "source_text_sha256": "678ac4a696e665f6925b0c6075fa1f377799d6fbeb0b17717dbd2efad554ab9f",
+  "translated_at": "2026-06-10T20:54:46.254659+00:00",
+  "model": "gpt-5-mini",
+  "text": "atriques \nlimitées)\nMal tèt, fatig, \nenfeksyon ORL, réyaksyon lè yo fè perfizyon\nSuvèyans tolerans, \nenfeksyon\nProbiyotik \n(VSL#3)\nAdjuvan\nVSL#3 : dòz dapré létid.\nGonflman, malèz \ndijestif\nSuvèyans klinik\nKurkumin\nKonpléman anti-\nenflamatwa\n2-4 g/j an endiksion, 1-2 g/j \nan mantennans\nTrè byen toléré, pwoblèm \ndijestif ra\nPa ni swivi spécifik nésésè",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:58:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 58,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "atriques \nlimitées)\nMal tèt, fatig, \nenfeksyon ORL, réyaksyon lè yo fè perfizyon\nSuvèyans tolerans, \nenfeksyon\nProbiyotik \n(VSL#3)\nAdjuvan\nVSL#3 : dòz dapré létid.\nGonflman, malèz \ndijestif\nSuvèyans klinik\nKurkumin\nKonpléman anti-\nenflamatwa\n2-4 g/j an endiksion, 1-2 g/j \nan mantennans\nTrè byen toléré, pwoblèm \ndijestif ra\nPa ni swivi spécifik nésésè",
+    "source_id": "pdf:398e12446d466067:chunk:58",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:46.254659+00:00",
+    "source_text_sha256": "678ac4a696e665f6925b0c6075fa1f377799d6fbeb0b17717dbd2efad554ab9f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:10b4464f19434b45:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "71854d5e01105c7f66c53eb07cf3478ae2f2a28a24555f1ce235a6cefb29a699",
+  "translated_at": "2026-06-10T21:18:58.142246+00:00",
+  "model": "gpt-5-mini",
+  "text": "é, ki i pou nou. Mé la, ké ni on déséquilib ant mikwobyot-la : i ké an pé dézoryanté é sa ké indwi on réyaksyon imun ki pa twò adapté. Alò, tout sa ké fè on permeyabilite entesten pli ogmanté, sa fè selil imun vini é yo ké rékrité an on plas kot yo pa té dwé vini. Épi yo ké ataké ti moso andidan sistèm dijestif-la, kon mwen ka di-w, an mannyè segmanté é fokal. Épi sé on maladi ki ka évolyé an poussé antékoupé é rémisyon, sa vlé di i ni moman kot bagay pa kay allé ditou, é moman kot i pli kalm.",
+  "row": {
+    "id": "video:10b4464f19434b45:chunk:1:gcf",
+    "document_id": "video:10b4464f19434b45",
+    "chunk_index": 1,
+    "source_file": "a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "text_path": "corpus/texts/videos/a4257febb53401388f4c2156925cbd114de775e3.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "é, ki i pou nou. Mé la, ké ni on déséquilib ant mikwobyot-la : i ké an pé dézoryanté é sa ké indwi on réyaksyon imun ki pa twò adapté. Alò, tout sa ké fè on permeyabilite entesten pli ogmanté, sa fè selil imun vini é yo ké rékrité an on plas kot yo pa té dwé vini. Épi yo ké ataké ti moso andidan sistèm dijestif-la, kon mwen ka di-w, an mannyè segmanté é fokal. Épi sé on maladi ki ka évolyé an poussé antékoupé é rémisyon, sa vlé di i ni moman kot bagay pa kay allé ditou, é moman kot i pli kalm.",
+    "source_id": "video:10b4464f19434b45:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:58.142246+00:00",
+    "source_text_sha256": "71854d5e01105c7f66c53eb07cf3478ae2f2a28a24555f1ce235a6cefb29a699"
+  }
+}

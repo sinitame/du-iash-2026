@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "f1948d1b4ae1d3d331ee9b52c60eb2f0c81b542f3f0741aa1c637a4f7ac9eb84",
+  "translated_at": "2026-06-10T20:51:15.674339+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\nENKET 2 :\nAnn konparé maketing é lis angrédyan asou on anbalaj krèm frèch :\nCHALLENGE : VIN ON PRO ASOU ETIKÈT !\nSé pwochen fwa ou ké al fè makèt, analizé on etikèt an eseyant wè angrédyan ki ni non dwòl, aditif-la, pièj maketing-la. Ou ké wè, sé on vré jé ankèt !\n• 9 ANGRÉDYAN !\nOn krèm « klasik » ni 2 oswè 3 an màksimòm (krèm + ferment laktik)\n• 5 ADITIF ! Koté 2 émulsifyan : pektin, sélulòz, gum sélulòz, E471, E472\nKONKLIZYON ANKÈT LA :\nSé san mank ki bon an gou paskè i ni anlo aditif, mé sé tip pwodui-tala fò konsomé épi modération, espesyalman an ka MICI. Anlo enfòmasyon ka vant kalité pwodui-a. Mèyè chwazi on krèm klasik.\nFèt épi soutyen dé",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:6:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 6,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 4 ---\nENKET 2 :\nAnn konparé maketing é lis angrédyan asou on anbalaj krèm frèch :\nCHALLENGE : VIN ON PRO ASOU ETIKÈT !\nSé pwochen fwa ou ké al fè makèt, analizé on etikèt an eseyant wè angrédyan ki ni non dwòl, aditif-la, pièj maketing-la. Ou ké wè, sé on vré jé ankèt !\n• 9 ANGRÉDYAN !\nOn krèm « klasik » ni 2 oswè 3 an màksimòm (krèm + ferment laktik)\n• 5 ADITIF ! Koté 2 émulsifyan : pektin, sélulòz, gum sélulòz, E471, E472\nKONKLIZYON ANKÈT LA :\nSé san mank ki bon an gou paskè i ni anlo aditif, mé sé tip pwodui-tala fò konsomé épi modération, espesyalman an ka MICI. Anlo enfòmasyon ka vant kalité pwodui-a. Mèyè chwazi on krèm klasik.\nFèt épi soutyen dé",
+    "source_id": "pdf:2499a50038a1326f:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:15.674339+00:00",
+    "source_text_sha256": "f1948d1b4ae1d3d331ee9b52c60eb2f0c81b542f3f0741aa1c637a4f7ac9eb84"
+  }
+}

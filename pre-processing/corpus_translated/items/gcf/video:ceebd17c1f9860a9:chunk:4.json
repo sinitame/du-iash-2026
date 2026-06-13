@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "78f170465bb87f92bcb3268a56d694d62cde5686079cde13c923e12acc771ffd",
+  "translated_at": "2026-06-10T21:13:27.390416+00:00",
+  "model": "gpt-5-mini",
+  "text": "sé diréktman épi klas-a'w. Sa dispozitif la ka kriyé TED-I. É paran-w ké jwenn tout lenfòmasyon asi sit education.gov.fr. A pati laj 16 an, ou pé fè on demann RQTH, sé-a-di on rekonesans kalité travayè andikapé. Sé on vré kout dé men si ou ka fè létid supéryè, si ou ka chaché on staj ouswa on altènans anantrepriz. É pli ta, lè ou ké chaché on travay. Sa pé pèmèt pa ègzanp jwenn amanjman pou fè lavi-w pli fasil, ouswa on aksè fasilé adan fòmasyon épi anplwa. Pou pwofité dé Z sa yo, i enpòtan pou palé asi sa épi paran-w, pwofesè-w épi dòktè-w. An pil lélèv ka pwofité chak lanné dé dispozitif sa yo ki pèmèt yo ni on skolèti ki pli nor mal posib. É menm chans pou réisi kon kamarad klas yo. Ou pé fè espò, kon tout adolesan, espò bon pou fè ou pli konsantwé. Épi ou pé suiv kours san pwoblèm. Ou dwé, toufwa, pran sèten prékosyon. Pa ègzànp, fo arèté espò lè gen on poussé. Épi supratout, pa janmen fòsé tèt ou lè ou santi fatig. Ou pa sèl",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:4:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 4,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "sé diréktman épi klas-a'w. Sa dispozitif la ka kriyé TED-I. É paran-w ké jwenn tout lenfòmasyon asi sit education.gov.fr. A pati laj 16 an, ou pé fè on demann RQTH, sé-a-di on rekonesans kalité travayè andikapé. Sé on vré kout dé men si ou ka fè létid supéryè, si ou ka chaché on staj ouswa on altènans anantrepriz. É pli ta, lè ou ké chaché on travay. Sa pé pèmèt pa ègzanp jwenn amanjman pou fè lavi-w pli fasil, ouswa on aksè fasilé adan fòmasyon épi anplwa. Pou pwofité dé Z sa yo, i enpòtan pou palé asi sa épi paran-w, pwofesè-w épi dòktè-w. An pil lélèv ka pwofité chak lanné dé dispozitif sa yo ki pèmèt yo ni on skolèti ki pli nor mal posib. É menm chans pou réisi kon kamarad klas yo. Ou pé fè espò, kon tout adolesan, espò bon pou fè ou pli konsantwé. Épi ou pé suiv kours san pwoblèm. Ou dwé, toufwa, pran sèten prékosyon. Pa ègzànp, fo arèté espò lè gen on poussé. Épi supratout, pa janmen fòsé tèt ou lè ou santi fatig. Ou pa sèl",
+    "source_id": "video:ceebd17c1f9860a9:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:27.390416+00:00",
+    "source_text_sha256": "78f170465bb87f92bcb3268a56d694d62cde5686079cde13c923e12acc771ffd"
+  }
+}

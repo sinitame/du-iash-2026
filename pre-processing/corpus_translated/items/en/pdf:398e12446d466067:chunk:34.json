@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:34",
+  "target_language": "en",
+  "source_text_sha256": "762f6f745c8b22aa0e953ddd439a600d83963af9c414849fce4b4ac6c2c18318",
+  "translated_at": "2026-06-10T20:40:57.958421+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 9 ---\n185\nIBD\ngrowth failure, but also quality of life and the risk of complications. Early identification of patients at high risk of severe progression is essential.\nInduction therapy\nExclusive enteral nutrition (EEN)\nEEN, consisting of exclusive feeding with a liquid nutrition formula for 6 to 8 weeks, is recommended as first-line therapy in children with active luminal Crohn’s disease at low or moderate risk. Meta-analyses have shown similar efficacy to corticosteroids for achieving clinical remission (63,64). However, two pediatric randomized trials demonstrated a superior benefit for mucosal healing (89% with EEN versus 17% with corticosteroids, p<0.01) (65,66). The main limitations lie in acceptability (taste of the formula and/or tolerance of the nasogastric tube) and the risk of discontinuation.\nIn practice, efficacy is independent of the type of formula (elemental vs. polymeric) or the route of administration (oral vs. nasogastric tube) (63,67). In practice, psychological and dietary support is strongly recommended (68).\nCorticosteroids",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:34:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 34,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 9 ---\n185\nIBD\ngrowth failure, but also quality of life and the risk of complications. Early identification of patients at high risk of severe progression is essential.\nInduction therapy\nExclusive enteral nutrition (EEN)\nEEN, consisting of exclusive feeding with a liquid nutrition formula for 6 to 8 weeks, is recommended as first-line therapy in children with active luminal Crohn’s disease at low or moderate risk. Meta-analyses have shown similar efficacy to corticosteroids for achieving clinical remission (63,64). However, two pediatric randomized trials demonstrated a superior benefit for mucosal healing (89% with EEN versus 17% with corticosteroids, p<0.01) (65,66). The main limitations lie in acceptability (taste of the formula and/or tolerance of the nasogastric tube) and the risk of discontinuation.\nIn practice, efficacy is independent of the type of formula (elemental vs. polymeric) or the route of administration (oral vs. nasogastric tube) (63,67). In practice, psychological and dietary support is strongly recommended (68).\nCorticosteroids",
+    "source_id": "pdf:398e12446d466067:chunk:34",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:57.958421+00:00",
+    "source_text_sha256": "762f6f745c8b22aa0e953ddd439a600d83963af9c414849fce4b4ac6c2c18318"
+  }
+}

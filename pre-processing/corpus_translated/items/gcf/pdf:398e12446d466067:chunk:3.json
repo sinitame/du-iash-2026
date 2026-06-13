@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "5da87a254f8670967a0dddc7b704e166b01248887f60102814f7b0552fd249c7",
+  "translated_at": "2026-06-10T20:51:44.844984+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\n178\nEpidémioloji MICI pédiatrik\nMICI mété plis timoun apré laj 10 an, adan périòd péri-puberté. Yo ra avan 5 an é yo éksepsyonèl avan 1 an (mwens ki 1% ka pédiatrik). Nou fè distenksyon ant \"pediatric-onset\" IBD ki komansé apré 10 an, \"EO (early onset – IBD)\" ki komansé avan 10 an é \"VEO (very early onset) – IBD\" ki komansé avan 6 an.\nByen ki jenetik entèvni adan patojéni MICI adan tout laj, létiyoloji monogénik pli souvan jwenn lakay pasyan ki ni VEO-IBD konparé a form ki jwenn diagnostik pli ta. On kantite ka ogmante variants monogénik causal ki idantifié (é ka kontinyé été) koté pasyan VEO-IBD, anpartikyé adan form ki komansé adan tibébé (avan laj 2 an) (2-4). On pwopòsyon siyifikatif létiyoloji monogénik obsèvè adan VEO-IBD tonbé anba défisi iminitè primitif (2,5,6).\nJiskounyé, létiyoloji monogénik idantifié adan VEO-IBD pé klasé an sis gran kategori (pafwa kouvwè yonn anlòt) : déréglaj imunitè",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:3:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 3,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 2 ---\n178\nEpidémioloji MICI pédiatrik\nMICI mété plis timoun apré laj 10 an, adan périòd péri-puberté. Yo ra avan 5 an é yo éksepsyonèl avan 1 an (mwens ki 1% ka pédiatrik). Nou fè distenksyon ant \"pediatric-onset\" IBD ki komansé apré 10 an, \"EO (early onset – IBD)\" ki komansé avan 10 an é \"VEO (very early onset) – IBD\" ki komansé avan 6 an.\nByen ki jenetik entèvni adan patojéni MICI adan tout laj, létiyoloji monogénik pli souvan jwenn lakay pasyan ki ni VEO-IBD konparé a form ki jwenn diagnostik pli ta. On kantite ka ogmante variants monogénik causal ki idantifié (é ka kontinyé été) koté pasyan VEO-IBD, anpartikyé adan form ki komansé adan tibébé (avan laj 2 an) (2-4). On pwopòsyon siyifikatif létiyoloji monogénik obsèvè adan VEO-IBD tonbé anba défisi iminitè primitif (2,5,6).\nJiskounyé, létiyoloji monogénik idantifié adan VEO-IBD pé klasé an sis gran kategori (pafwa kouvwè yonn anlòt) : déréglaj imunitè",
+    "source_id": "pdf:398e12446d466067:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:44.844984+00:00",
+    "source_text_sha256": "5da87a254f8670967a0dddc7b704e166b01248887f60102814f7b0552fd249c7"
+  }
+}

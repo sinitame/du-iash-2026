@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:eb3be299db0846af:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "c1d964c3807478adfcdaa5d986c5d311eee99a11825be0220fd1f89503577f09",
+  "translated_at": "2026-06-10T20:44:46.072408+00:00",
+  "model": "gpt-5-mini",
+  "text": "In an adult, we maintain their weight. And then once all those riches, all those nutrients, have arrived to feed us, there will be waste that will be pushed into the colon. And with water — and the colon — it will serve to reabsorb the water so that in the end a little poop comes out, like the story of the little top.",
+  "row": {
+    "id": "video:eb3be299db0846af:chunk:1:en",
+    "document_id": "video:eb3be299db0846af",
+    "chunk_index": 1,
+    "source_file": "314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "text_path": "corpus/texts/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "In an adult, we maintain their weight. And then once all those riches, all those nutrients, have arrived to feed us, there will be waste that will be pushed into the colon. And with water — and the colon — it will serve to reabsorb the water so that in the end a little poop comes out, like the story of the little top.",
+    "source_id": "video:eb3be299db0846af:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:46.072408+00:00",
+    "source_text_sha256": "c1d964c3807478adfcdaa5d986c5d311eee99a11825be0220fd1f89503577f09"
+  }
+}

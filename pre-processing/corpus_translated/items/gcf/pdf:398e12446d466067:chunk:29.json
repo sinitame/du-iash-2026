@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:29",
+  "target_language": "gcf",
+  "source_text_sha256": "2a76a94c52a5d143221da3e3fb9674f871f5b3b9100cde074965275ed0ed9739",
+  "translated_at": "2026-06-10T20:53:05.365961+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 8 ---\n184\npèd swivi, on ti adhésion pou tretman é plis konplikasyon chirijikal (60).\nAn 2022, on konsansis Kanada té bay kenz rekomandasyon, koté nèf té fò, pou enkadé pasé-a. Yo ka rekòmandé ki tout jenn ki atenn MICI entégwé an pwogram transisyon striktiré, multidisiplinè é personnalisé, fèt épi patisipasyon pasyan-an, paran yo é soignant yo. Pwogram-la dwé genyen objektif klè, fleksibilité an kalandrié transfè-a é on swivi apré transisyon. Lédikasyon ni on wòl santral, i palé asou konpwann maladi-a, igilizasion tretman yo, risk ki lye a sibstans é konman navige adan sistèm lasanté (61). Mé, yo montré ki adolésan pa konn byen istwa medikal yo, tretman yo ouswa efè segondè yo, é yo ka toujou délégué ankò ba paran jesyon randevou, renouvèlman preskripsyon, dispansman médikaman yo osnon kominikasyon épi doktè épi ekip soignant (59,61). Zouti konmsa kon Transition Readiness Assessment Questionnaire (TRAQ)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:29:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 29,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 8 ---\n184\npèd swivi, on ti adhésion pou tretman é plis konplikasyon chirijikal (60).\nAn 2022, on konsansis Kanada té bay kenz rekomandasyon, koté nèf té fò, pou enkadé pasé-a. Yo ka rekòmandé ki tout jenn ki atenn MICI entégwé an pwogram transisyon striktiré, multidisiplinè é personnalisé, fèt épi patisipasyon pasyan-an, paran yo é soignant yo. Pwogram-la dwé genyen objektif klè, fleksibilité an kalandrié transfè-a é on swivi apré transisyon. Lédikasyon ni on wòl santral, i palé asou konpwann maladi-a, igilizasion tretman yo, risk ki lye a sibstans é konman navige adan sistèm lasanté (61). Mé, yo montré ki adolésan pa konn byen istwa medikal yo, tretman yo ouswa efè segondè yo, é yo ka toujou délégué ankò ba paran jesyon randevou, renouvèlman preskripsyon, dispansman médikaman yo osnon kominikasyon épi doktè épi ekip soignant (59,61). Zouti konmsa kon Transition Readiness Assessment Questionnaire (TRAQ)",
+    "source_id": "pdf:398e12446d466067:chunk:29",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:05.365961+00:00",
+    "source_text_sha256": "2a76a94c52a5d143221da3e3fb9674f871f5b3b9100cde074965275ed0ed9739"
+  }
+}

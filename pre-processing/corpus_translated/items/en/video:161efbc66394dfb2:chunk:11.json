@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:11",
+  "target_language": "en",
+  "source_text_sha256": "cef34f15c186d67ab49b3dd38357296fedf64f226170e731b90fda3a1bc6b878",
+  "translated_at": "2026-06-10T20:47:55.459061+00:00",
+  "model": "gpt-5-mini",
+  "text": "along the body. And observe the breathing as if pulleys were turning to breathe. We do this once more. And again a third and last time.\n\nNow I suggest a new placement on your chest. Place it there, you will inhale and feel the ribs rise from the lower part up to the top. You hold the breath for a short moment and become aware of each of your ribs. As if you can feel each rib. And as you exhale as slowly as possible you may even notice a slight relaxation in the chest. A gentle loosening in the ribcage. Quietly, very gently.\n\nThen you will place your arms along the sides of your body to gather the sensations. And be with your hands wherever feels natural, listening to what is happening for you. We will welcome the sensations without judgment. Just what is there for you.\n\nNow I will offer you a breathing exercise to help you put some distance between you and your fear. Before practicing these exercises I invite you to place your hands at your sternum, one against the other, to make you aware of your heartbeat. For that, calmly, very gently, I invite you to take an inhale through the nose. And you will exhale...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:11:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 11,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "along the body. And observe the breathing as if pulleys were turning to breathe. We do this once more. And again a third and last time.\n\nNow I suggest a new placement on your chest. Place it there, you will inhale and feel the ribs rise from the lower part up to the top. You hold the breath for a short moment and become aware of each of your ribs. As if you can feel each rib. And as you exhale as slowly as possible you may even notice a slight relaxation in the chest. A gentle loosening in the ribcage. Quietly, very gently.\n\nThen you will place your arms along the sides of your body to gather the sensations. And be with your hands wherever feels natural, listening to what is happening for you. We will welcome the sensations without judgment. Just what is there for you.\n\nNow I will offer you a breathing exercise to help you put some distance between you and your fear. Before practicing these exercises I invite you to place your hands at your sternum, one against the other, to make you aware of your heartbeat. For that, calmly, very gently, I invite you to take an inhale through the nose. And you will exhale...",
+    "source_id": "video:161efbc66394dfb2:chunk:11",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:55.459061+00:00",
+    "source_text_sha256": "cef34f15c186d67ab49b3dd38357296fedf64f226170e731b90fda3a1bc6b878"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "64f7a389a1e11a4e2c8670b9b7c815fe1da32ed47f562ff0f01525c71838fc7e",
+  "translated_at": "2026-06-10T20:49:23.792361+00:00",
+  "model": "gpt-5-mini",
+  "text": "Desizyon pou kontinyé tratman-an bizwen\ndiskité kaz pa kaz paské doné syantifik yo limité\n\nTOFACITINIB\n\nnon, pa ni doné é tératogèn adan kèk zanimo\n\nnon, pa ni doné\n\nCICLOSPORINE\n\nwi\n\nwi, adan konteks on kolit aji grav\n\nANTIBIOTIK Métronidazole\nCiprofloxacine\n\nwi si tratman-la kout\n\nwi si tratman-la kout\n\nFERINJECT\n\nwi\n\nwi",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:2:gcf",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 2,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Desizyon pou kontinyé tratman-an bizwen\ndiskité kaz pa kaz paské doné syantifik yo limité\n\nTOFACITINIB\n\nnon, pa ni doné é tératogèn adan kèk zanimo\n\nnon, pa ni doné\n\nCICLOSPORINE\n\nwi\n\nwi, adan konteks on kolit aji grav\n\nANTIBIOTIK Métronidazole\nCiprofloxacine\n\nwi si tratman-la kout\n\nwi si tratman-la kout\n\nFERINJECT\n\nwi\n\nwi",
+    "source_id": "image:e12cd738bc600eaa:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:23.792361+00:00",
+    "source_text_sha256": "64f7a389a1e11a4e2c8670b9b7c815fe1da32ed47f562ff0f01525c71838fc7e"
+  }
+}

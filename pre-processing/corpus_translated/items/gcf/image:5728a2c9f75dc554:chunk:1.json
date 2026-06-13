@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:5728a2c9f75dc554:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "11775ce810921f9270b76a00deb6a9ab1d5527a24a773a0a2d0e72abea5b9ef0",
+  "translated_at": "2026-06-10T20:50:04.025640+00:00",
+  "model": "gpt-5-mini",
+  "text": "demann. Sé sa ki kréyé dépendans.\nFimen vini alò on bezwen konm\nmanjé, bwé, respirá, dòmi. Nou alò\nsanti kon si nou bizwen fimen pou\nsanti nou byen osnon évité santi nou mal.\n\nKan on moun adolesan, sé patikilyèman\ndanjéré paskè sèvo nou ka toujou an dévlopman. Nikotin pé\nafèkté pati ki jéré atansyon,\naprantisaj, imè é kontwòl enpilsyon.\n\nI ni osi monoksid kabòn:\nsé on gaz san odè é san koulè ki sòti adan nenpot konbisyon (i ké osi la si ou fumé fèy\nmant osnon kanabis...) é ki fiksé plis fasilman asou globil wouj ou pase oksijèn. Oksijèn sé\nkarburant pou tout sèlil kò’w, sé sa ki permet yo fonksyonné.",
+  "row": {
+    "id": "image:5728a2c9f75dc554:chunk:1:gcf",
+    "document_id": "image:5728a2c9f75dc554",
+    "chunk_index": 1,
+    "source_file": "tabac.png",
+    "source_path": "/data/equipes/equipe-04/images/tabac.png",
+    "text_path": "corpus/texts/images/tabac.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "demann. Sé sa ki kréyé dépendans.\nFimen vini alò on bezwen konm\nmanjé, bwé, respirá, dòmi. Nou alò\nsanti kon si nou bizwen fimen pou\nsanti nou byen osnon évité santi nou mal.\n\nKan on moun adolesan, sé patikilyèman\ndanjéré paskè sèvo nou ka toujou an dévlopman. Nikotin pé\nafèkté pati ki jéré atansyon,\naprantisaj, imè é kontwòl enpilsyon.\n\nI ni osi monoksid kabòn:\nsé on gaz san odè é san koulè ki sòti adan nenpot konbisyon (i ké osi la si ou fumé fèy\nmant osnon kanabis...) é ki fiksé plis fasilman asou globil wouj ou pase oksijèn. Oksijèn sé\nkarburant pou tout sèlil kò’w, sé sa ki permet yo fonksyonné.",
+    "source_id": "image:5728a2c9f75dc554:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:04.025640+00:00",
+    "source_text_sha256": "11775ce810921f9270b76a00deb6a9ab1d5527a24a773a0a2d0e72abea5b9ef0"
+  }
+}

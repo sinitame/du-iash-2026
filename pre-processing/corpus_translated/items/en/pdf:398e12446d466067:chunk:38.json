@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:38",
+  "target_language": "en",
+  "source_text_sha256": "6592d894680ababda94f17d1839dc60ad19dc2198952932817a9869cefbce2f0",
+  "translated_at": "2026-06-10T20:40:56.939358+00:00",
+  "model": "gpt-5-mini",
+  "text": "weekly administration at a dose of 15 mg/m² (max 25 mg), it achieves clinical remission in 25–53% of cases at 12 months (83,84). Oral administration of folates [5 mg, 24 to 72 hours after methotrexate once weekly, or 1 mg once daily for 5 days per week] is recommended to reduce hepatotoxicity and gastrointestinal adverse effects (85). In terms of safety, the most frequent adverse effects included nausea and vomiting, elevation of liver tests, headaches, infections and hematologic toxicity (84,86). In 226 children with MC, no difference was observed between oral intake and the subcutaneous route of methotrexate, whether for steroid-free remission, therapeutic escalation or adverse effects (87).\n\nThiopurines (AZA, 6-MP)\nThiopurines can maintain remission (88). The recommended doses are 2.0–2.5 mg/kg/day for azathioprine and 1.0–1.5 mg/kg/day for its precursor, 6-mercaptopurine. Full dosing can be initiated from the outset, without gradual increase. The increased risk of lymphomas, including lymphoma",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:38:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 38,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "weekly administration at a dose of 15 mg/m² (max 25 mg), it achieves clinical remission in 25–53% of cases at 12 months (83,84). Oral administration of folates [5 mg, 24 to 72 hours after methotrexate once weekly, or 1 mg once daily for 5 days per week] is recommended to reduce hepatotoxicity and gastrointestinal adverse effects (85). In terms of safety, the most frequent adverse effects included nausea and vomiting, elevation of liver tests, headaches, infections and hematologic toxicity (84,86). In 226 children with MC, no difference was observed between oral intake and the subcutaneous route of methotrexate, whether for steroid-free remission, therapeutic escalation or adverse effects (87).\n\nThiopurines (AZA, 6-MP)\nThiopurines can maintain remission (88). The recommended doses are 2.0–2.5 mg/kg/day for azathioprine and 1.0–1.5 mg/kg/day for its precursor, 6-mercaptopurine. Full dosing can be initiated from the outset, without gradual increase. The increased risk of lymphomas, including lymphoma",
+    "source_id": "pdf:398e12446d466067:chunk:38",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:56.939358+00:00",
+    "source_text_sha256": "6592d894680ababda94f17d1839dc60ad19dc2198952932817a9869cefbce2f0"
+  }
+}

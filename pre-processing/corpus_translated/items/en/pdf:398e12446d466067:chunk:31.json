@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:31",
+  "target_language": "en",
+  "source_text_sha256": "9de1a8e25793453b576da98be2a86cd255f3d05cecf8b4777ef870c2abdd9a91",
+  "translated_at": "2026-06-10T20:40:58.529205+00:00",
+  "model": "gpt-5-mini",
+  "text": "processes to support their child’s growing auto-\nnomy, while a transition coordinator, if present, facilitates continuity and prevents loss of contact with medical teams (60).\nIt is strongly recommended that pediatric teams prepare comprehensive transfer documents summarizing the medical history, treatments received and future goals.\nJoint clinic models, bringing together pediatricians and adult gastroenterologists, promote trust and information exchange (59,60). Available data remain limited, but show that struc-\ntured programs improve medication adherence, reduce hospitalizations and increase patient satisfaction (59,60).\nTreatment of pediatric Crohn’s disease\nGeneral principles of management\n(Table 6)\nThe recommendations of ESPGHAN and ECCO (European Crohn’s and Colitis Organization) on the medical management of pediatric Crohn’s disease were updated in 2021 (62).\nTherapeutic strategy must be individualized taking into account age, phenotype (Paris classification), location, disease behavior,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:31:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 31,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "processes to support their child’s growing auto-\nnomy, while a transition coordinator, if present, facilitates continuity and prevents loss of contact with medical teams (60).\nIt is strongly recommended that pediatric teams prepare comprehensive transfer documents summarizing the medical history, treatments received and future goals.\nJoint clinic models, bringing together pediatricians and adult gastroenterologists, promote trust and information exchange (59,60). Available data remain limited, but show that struc-\ntured programs improve medication adherence, reduce hospitalizations and increase patient satisfaction (59,60).\nTreatment of pediatric Crohn’s disease\nGeneral principles of management\n(Table 6)\nThe recommendations of ESPGHAN and ECCO (European Crohn’s and Colitis Organization) on the medical management of pediatric Crohn’s disease were updated in 2021 (62).\nTherapeutic strategy must be individualized taking into account age, phenotype (Paris classification), location, disease behavior,",
+    "source_id": "pdf:398e12446d466067:chunk:31",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:58.529205+00:00",
+    "source_text_sha256": "9de1a8e25793453b576da98be2a86cd255f3d05cecf8b4777ef870c2abdd9a91"
+  }
+}

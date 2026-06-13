@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "d7524a43f65a31b12634acccf908df083af828e6db743688e0a2aae07bb80deb",
+  "translated_at": "2026-06-10T21:18:16.198055+00:00",
+  "model": "gpt-5-mini",
+  "text": "Si sa, sa ké antréné on ti efè peps. Lè chay-la twòp, péyèt fò aksepté fè-w édé pa on ti kout dé men, épi chaj mantal-la sé menm bagay. An lé moman, fò ou kase wout hamstè-la ki ka tourné toujou an tèt-la, paské sa ka mété-w fatige. Fè-w édé é pétèt alé chaché teknik sofrologi, yoga osinon lòt bagay ki ké kase sé sék panse-la. Alò, ni on ijyèn lavi pou adopte, épi anlo ti bagay adan bò.",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:2:gcf",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 2,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Si sa, sa ké antréné on ti efè peps. Lè chay-la twòp, péyèt fò aksepté fè-w édé pa on ti kout dé men, épi chaj mantal-la sé menm bagay. An lé moman, fò ou kase wout hamstè-la ki ka tourné toujou an tèt-la, paské sa ka mété-w fatige. Fè-w édé é pétèt alé chaché teknik sofrologi, yoga osinon lòt bagay ki ké kase sé sék panse-la. Alò, ni on ijyèn lavi pou adopte, épi anlo ti bagay adan bò.",
+    "source_id": "video:89dd5c053905ca94:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:16.198055+00:00",
+    "source_text_sha256": "d7524a43f65a31b12634acccf908df083af828e6db743688e0a2aae07bb80deb"
+  }
+}

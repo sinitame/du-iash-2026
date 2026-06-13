@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:56",
+  "target_language": "en",
+  "source_text_sha256": "371f62d7df70dc04102d80334d19247f7f5bc0aa477ba0458ec7c00d7359955a",
+  "translated_at": "2026-06-10T20:41:52.002628+00:00",
+  "model": "gpt-5-mini",
+  "text": "ares\nnephrotoxicity or\npancreatitis\nCBC, creatinine, urinalysis\nperiodically; clinical monitoring of tolerance\nSulfasalazine\n5-ASA linked to\nsulfapyridine\n40–70 mg/kg/day (max\n4 g/day)\nDigestive disturbances,\nheadache, rash,\noligospermia, allergic\nreactions\nCBC, liver and renal tests;\nmonitor digestive effects\nCorticosteroids\n(Prednisone)\nSystemic\ncorticosteroid\n1 mg/kg/day (max 40 mg/day)\noral (p.o.) for 2–3 weeks,\nthen gradual taper\nHyperglycemia, weight gain,\nhypertension, osteoporosis,\nmood disorders, growth\nretardation\nClinical monitoring, blood\npressure, weight, blood\nglucose, BMD if prolonged\ntreatment\nBudesonide LM\nTopical colonic\ncorticosteroid\nAccording to adult regimen\n(left-sided colitis only)\nFewer systemic effects\nthan prednisone, possible\nheadache, dyspepsia\nClinical monitoring\nAzathioprine\n(AZA)\nImmunomodulator\n(thiopurines)\n2–2.5 mg/kg/day\nMyelosuppression,\nhepatitis, pancreatitis,\nnausea, rare risk of\nlymphoma\nTPMT before treatment,\nCBC + ALT/AST every\n1–2 weeks then every 3 months,\nsun protection\n6-Mercaptopurine\n(6-MP)\nImmunomodulator\n(thiopurines)\n1–1.5 mg/kg/day\nSame as azathioprine\nSame as AZA, measurement\nof 6-TGN/6-MMP if\nineffective or toxic",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:56:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 56,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "ares\nnephrotoxicity or\npancreatitis\nCBC, creatinine, urinalysis\nperiodically; clinical monitoring of tolerance\nSulfasalazine\n5-ASA linked to\nsulfapyridine\n40–70 mg/kg/day (max\n4 g/day)\nDigestive disturbances,\nheadache, rash,\noligospermia, allergic\nreactions\nCBC, liver and renal tests;\nmonitor digestive effects\nCorticosteroids\n(Prednisone)\nSystemic\ncorticosteroid\n1 mg/kg/day (max 40 mg/day)\noral (p.o.) for 2–3 weeks,\nthen gradual taper\nHyperglycemia, weight gain,\nhypertension, osteoporosis,\nmood disorders, growth\nretardation\nClinical monitoring, blood\npressure, weight, blood\nglucose, BMD if prolonged\ntreatment\nBudesonide LM\nTopical colonic\ncorticosteroid\nAccording to adult regimen\n(left-sided colitis only)\nFewer systemic effects\nthan prednisone, possible\nheadache, dyspepsia\nClinical monitoring\nAzathioprine\n(AZA)\nImmunomodulator\n(thiopurines)\n2–2.5 mg/kg/day\nMyelosuppression,\nhepatitis, pancreatitis,\nnausea, rare risk of\nlymphoma\nTPMT before treatment,\nCBC + ALT/AST every\n1–2 weeks then every 3 months,\nsun protection\n6-Mercaptopurine\n(6-MP)\nImmunomodulator\n(thiopurines)\n1–1.5 mg/kg/day\nSame as azathioprine\nSame as AZA, measurement\nof 6-TGN/6-MMP if\nineffective or toxic",
+    "source_id": "pdf:398e12446d466067:chunk:56",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:52.002628+00:00",
+    "source_text_sha256": "371f62d7df70dc04102d80334d19247f7f5bc0aa477ba0458ec7c00d7359955a"
+  }
+}

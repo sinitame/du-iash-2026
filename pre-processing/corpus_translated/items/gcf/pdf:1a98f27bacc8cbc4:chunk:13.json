@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:13",
+  "target_language": "gcf",
+  "source_text_sha256": "29bdb90b40d56e3536ba965e1fcd46116cc66edf3bf51f83dfd1715746431752",
+  "translated_at": "2026-06-10T21:11:45.077573+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 5 ---\nCrohn • RCH • France\nRéfèrans : \n1. Correia I, et al. Is There Evidence of Crohn’s Disease Exclusion Diet (CDED) in Remission of Active \nDisease in Children and Adults ? A Systematic Review. Nutrients. 2024 Mar 28;16(7):987. \n2. Sigall Boneh R, et al. The Crohn’s Disease Exclusion Diet: A Comprehensive Review of Evidence, \nImplementation Strategies, Practical Guidance, and Future Directions. Inflamm Bowel Dis. 2024 Oct \n3;30(10):1888-1902. \n3. Levine A, et al. Crohn’s Disease Exclusion Diet Plus Partial Enteral Nutrition Induces Sustained Remission \nin a Randomized Controlled Trial. Gastroenterology. 2019;157:440–450.\n4. Zhu Z, et al. Effects of Crohn’s Disease Exclusion Diet on Remission: A Systematic Review. Ther Adv \nGastroenterol. 2023;16.\n5. Douglas G, et al. Prolonged Maintenance of Remission with Crohn Disease Exclusion Diet (CDED) in Two \nSiblings with Crohn Disease. Recent Progress in Nutrition. 2024;4(4).\n6. Matuszczyk, M.; Kierkus, J. Nutritional Therapy in Pediatric Crohn’s Disease—Are We Going to Change the \nGuidelines ? J. Clin. Med. 2021, 10, 3027.\n7. Russell EE, et al. Practical application of the Crohn’s disease exclusion diet as therapy in",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:13:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 13,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 5 ---\nCrohn • RCH • France\nRéfèrans : \n1. Correia I, et al. Is There Evidence of Crohn’s Disease Exclusion Diet (CDED) in Remission of Active \nDisease in Children and Adults ? A Systematic Review. Nutrients. 2024 Mar 28;16(7):987. \n2. Sigall Boneh R, et al. The Crohn’s Disease Exclusion Diet: A Comprehensive Review of Evidence, \nImplementation Strategies, Practical Guidance, and Future Directions. Inflamm Bowel Dis. 2024 Oct \n3;30(10):1888-1902. \n3. Levine A, et al. Crohn’s Disease Exclusion Diet Plus Partial Enteral Nutrition Induces Sustained Remission \nin a Randomized Controlled Trial. Gastroenterology. 2019;157:440–450.\n4. Zhu Z, et al. Effects of Crohn’s Disease Exclusion Diet on Remission: A Systematic Review. Ther Adv \nGastroenterol. 2023;16.\n5. Douglas G, et al. Prolonged Maintenance of Remission with Crohn Disease Exclusion Diet (CDED) in Two \nSiblings with Crohn Disease. Recent Progress in Nutrition. 2024;4(4).\n6. Matuszczyk, M.; Kierkus, J. Nutritional Therapy in Pediatric Crohn’s Disease—Are We Going to Change the \nGuidelines ? J. Clin. Med. 2021, 10, 3027.\n7. Russell EE, et al. Practical application of the Crohn’s disease exclusion diet as therapy in",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:13",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:45.077573+00:00",
+    "source_text_sha256": "29bdb90b40d56e3536ba965e1fcd46116cc66edf3bf51f83dfd1715746431752"
+  }
+}

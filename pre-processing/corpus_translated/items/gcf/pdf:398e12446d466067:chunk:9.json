@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:9",
+  "target_language": "gcf",
+  "source_text_sha256": "9ef5e93e275fec46895cd88805770ca263d66f9bc27ec1fa7a46e28b6c60cec6",
+  "translated_at": "2026-06-10T20:52:09.252682+00:00",
+  "model": "gpt-5-mini",
+  "text": "Gras polyinsaturé oméga-3 té montré on efè pwoteksyon kont RCH (22). On méta-analiz té montré on asosiyasyon pwotektris ant konsomasyon légim é risk RCH (OR 0,71) (23). On etid de cohort mené adan 21 péyi té montré ké konsomasyon manjé ultra-transfomé té asosyé èvè on risk ogmante pou MICI (24). On méta-analiz té montré ké pasyan ki ni MICI té plis souvan ni on karans vitamin D (25).\nKlinik, biyoloji,\nendoskopi é imajri\nKlinik\nAdan MC pédiatrik, sé sèlman 25 % pasyan ki présanté triad klasik la : doulè adan vant, dyaré é pèd pwa (9). MC pé ka manifesté pa doulè vag adan vant, on anemi ki pa esplike, on fièv ki ka retounen, on pèd pwa ouswa on reta dan kwasans. RCH pédiatrik souvan vini épi symtom enpòtan : dyaré profiz é lannwit, souvan ak glè é san, é on pèd pwa. Adan plis ki 10 % ka pédiatrik, différans ant MC é RCH difisil. Yo ka idantifié maladi-a kon on kolit indetèmine. Adan pwogrésyon maladi-a, sèten ka",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:9:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 9,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Gras polyinsaturé oméga-3 té montré on efè pwoteksyon kont RCH (22). On méta-analiz té montré on asosiyasyon pwotektris ant konsomasyon légim é risk RCH (OR 0,71) (23). On etid de cohort mené adan 21 péyi té montré ké konsomasyon manjé ultra-transfomé té asosyé èvè on risk ogmante pou MICI (24). On méta-analiz té montré ké pasyan ki ni MICI té plis souvan ni on karans vitamin D (25).\nKlinik, biyoloji,\nendoskopi é imajri\nKlinik\nAdan MC pédiatrik, sé sèlman 25 % pasyan ki présanté triad klasik la : doulè adan vant, dyaré é pèd pwa (9). MC pé ka manifesté pa doulè vag adan vant, on anemi ki pa esplike, on fièv ki ka retounen, on pèd pwa ouswa on reta dan kwasans. RCH pédiatrik souvan vini épi symtom enpòtan : dyaré profiz é lannwit, souvan ak glè é san, é on pèd pwa. Adan plis ki 10 % ka pédiatrik, différans ant MC é RCH difisil. Yo ka idantifié maladi-a kon on kolit indetèmine. Adan pwogrésyon maladi-a, sèten ka",
+    "source_id": "pdf:398e12446d466067:chunk:9",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:09.252682+00:00",
+    "source_text_sha256": "9ef5e93e275fec46895cd88805770ca263d66f9bc27ec1fa7a46e28b6c60cec6"
+  }
+}

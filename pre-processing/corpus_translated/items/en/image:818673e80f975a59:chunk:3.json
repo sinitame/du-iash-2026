@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "abdfeb6157f0e1d4d684f6e6155e20e4f5b155fffdd4fbbbe7b75e32ecbb4fdf",
+  "translated_at": "2026-06-10T20:37:22.312850+00:00",
+  "model": "gpt-5-mini",
+  "text": "Can simple iron deficiency without anemia\ncause fatigue? This debate is not definitively\nsettled. Research in IBD does not allow\nus to affirm this, but a recent meta-analysis (artificial pooling\nof several studies to improve statistical power) conducted in\nnon-IBD patients tends to prove it for the first time.",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:3:en",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 3,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Can simple iron deficiency without anemia\ncause fatigue? This debate is not definitively\nsettled. Research in IBD does not allow\nus to affirm this, but a recent meta-analysis (artificial pooling\nof several studies to improve statistical power) conducted in\nnon-IBD patients tends to prove it for the first time.",
+    "source_id": "image:818673e80f975a59:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:22.312850+00:00",
+    "source_text_sha256": "abdfeb6157f0e1d4d684f6e6155e20e4f5b155fffdd4fbbbe7b75e32ecbb4fdf"
+  }
+}

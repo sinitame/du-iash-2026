@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "63da33e06c8803161a52c5b6a4b55e98b25b9979e119d04d2e7162e81df705c4",
+  "translated_at": "2026-06-10T20:44:44.032995+00:00",
+  "model": "gpt-5-mini",
+  "text": "When talking to your classmates, here are some tips. For example, a trusted adult who can help you manage the situation: a teacher, a school counselor, or your parents. If you have to be absent often, prepare simple excuses, like \"I'm not feeling very well today.\" And above all, take care of yourself by resting when you need to and by following your doctor's advice.\n\nWhat are my rights and the possible supports?\nIf you have a medical condition, you have the right to an individualized care plan, or PAI. This plan makes it possible to put special accommodations in place for you, such as access to the toilet when needed; having spare clothes at the school nurse's office; having a private space to take your medication; or having meals adapted to your allergies. It also allows certain activities to be adapted if necessary, for example in PE. The PAI is a valuable support, and it is important to request it even if you feel well. If symptoms return, it will then be easier to put solutions in place quickly to make your daily life easier. You can also benefit from extra time (one-third more time) during exams. This means that you have more time",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:2:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 2,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "When talking to your classmates, here are some tips. For example, a trusted adult who can help you manage the situation: a teacher, a school counselor, or your parents. If you have to be absent often, prepare simple excuses, like \"I'm not feeling very well today.\" And above all, take care of yourself by resting when you need to and by following your doctor's advice.\n\nWhat are my rights and the possible supports?\nIf you have a medical condition, you have the right to an individualized care plan, or PAI. This plan makes it possible to put special accommodations in place for you, such as access to the toilet when needed; having spare clothes at the school nurse's office; having a private space to take your medication; or having meals adapted to your allergies. It also allows certain activities to be adapted if necessary, for example in PE. The PAI is a valuable support, and it is important to request it even if you feel well. If symptoms return, it will then be easier to put solutions in place quickly to make your daily life easier. You can also benefit from extra time (one-third more time) during exams. This means that you have more time",
+    "source_id": "video:ceebd17c1f9860a9:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:44.032995+00:00",
+    "source_text_sha256": "63da33e06c8803161a52c5b6a4b55e98b25b9979e119d04d2e7162e81df705c4"
+  }
+}

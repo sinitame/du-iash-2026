@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:676a766599dda5e5:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "b2df1fe4fdd74ae0980f225fdfb7731fa3e09578863611178b29f51cb64ccb1e",
+  "translated_at": "2026-06-10T20:37:57.910840+00:00",
+  "model": "gpt-5-mini",
+  "text": "+ For a stay in a country of the European Union, request before departure a European Health Insurance Card (in French: Carte Européenne de Sécurité Sociale), which allows medical care in the destination country through the public health system. Depending on the situation, you may not have to pay medical costs up front, or you may pay up front and be reimbursed either in the country of stay or in France (see the links below for more details by country). The application can be made online on the AMELI website.\n\n+ The European Health Insurance Card can also be used in Iceland, Switzerland and Norway.\n\n+ French prescriptions are accepted in European countries (in English and with the generic names of the products).\n\nhttps://europa.eu/youreurope/citizens/health/prescription-medicine-abroad/prescriptions/index_fr.htm",
+  "row": {
+    "id": "image:676a766599dda5e5:chunk:1:en",
+    "document_id": "image:676a766599dda5e5",
+    "chunk_index": 1,
+    "source_file": "stage_etudes_etranger_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/stage_etudes_etranger_mici.png",
+    "text_path": "corpus/texts/images/stage_etudes_etranger_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "+ For a stay in a country of the European Union, request before departure a European Health Insurance Card (in French: Carte Européenne de Sécurité Sociale), which allows medical care in the destination country through the public health system. Depending on the situation, you may not have to pay medical costs up front, or you may pay up front and be reimbursed either in the country of stay or in France (see the links below for more details by country). The application can be made online on the AMELI website.\n\n+ The European Health Insurance Card can also be used in Iceland, Switzerland and Norway.\n\n+ French prescriptions are accepted in European countries (in English and with the generic names of the products).\n\nhttps://europa.eu/youreurope/citizens/health/prescription-medicine-abroad/prescriptions/index_fr.htm",
+    "source_id": "image:676a766599dda5e5:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:57.910840+00:00",
+    "source_text_sha256": "b2df1fe4fdd74ae0980f225fdfb7731fa3e09578863611178b29f51cb64ccb1e"
+  }
+}

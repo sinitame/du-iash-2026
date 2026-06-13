@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:74",
+  "target_language": "gcf",
+  "source_text_sha256": "ae6dcffcb93e5fba24e2eb06c071241056a937e7b52e46d04e53f30f440fab9d",
+  "translated_at": "2026-06-10T21:06:43.614673+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 16 ---\n192\n70.\tKuenzig ME, Rezaie A, Kaplan GG, et al. Budesonide pou induksyon é mantenans rémisyon adan Maladi Crohn: on revizyon sistematik é on méta-analiz pou Kolaborasyon Cochrane. J Can Assoc Gastroenterol. 2018;1:159-73.\n71.\tAgrawal A, Durrani S, Leiper K, Ellis A, Morris AI, Rhodes JM. Efè terapi kortikostewoyid sistémik asou risk absè adan vant oben pelviyen adan maladi Crohn ki pa opéré. Clin Gastroenterol Hepatol. 2005;3:1215-20.\n72.\tSingh S, Facciorusso A, Dulai PS, et al. Risk konparatif enfeksyon grav épi terapi biyolojik ek/ou immunosupresè adan pasyan ki ni maladi entesten enflamatwa: on revizyon sistematik é on méta-analiz. Clin Gastroenterol Hepatol. 2020;18:69-81.\n73.\tCostello R, Patel R, Humphreys J, et al. Kijan pasyan wè efè sékondè glukokortikoid: on sondaj kwa-seksyon adan itilizatè an on kominoté lasanté anliy. BMJ Open. 2017;7:e014603.\n74.\tHyams J, Crandall W, Kugathasan S, et al. REACH Study Group. Indiksyon é mantenans terapi infliximab pou tratman maladi Crohn modéré-a-sévè adan timoun. Gastroenterology. 2007;132:863-73.\n75.\tHyams JS, Griffiths A, M",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:74:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 74,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 16 ---\n192\n70.\tKuenzig ME, Rezaie A, Kaplan GG, et al. Budesonide pou induksyon é mantenans rémisyon adan Maladi Crohn: on revizyon sistematik é on méta-analiz pou Kolaborasyon Cochrane. J Can Assoc Gastroenterol. 2018;1:159-73.\n71.\tAgrawal A, Durrani S, Leiper K, Ellis A, Morris AI, Rhodes JM. Efè terapi kortikostewoyid sistémik asou risk absè adan vant oben pelviyen adan maladi Crohn ki pa opéré. Clin Gastroenterol Hepatol. 2005;3:1215-20.\n72.\tSingh S, Facciorusso A, Dulai PS, et al. Risk konparatif enfeksyon grav épi terapi biyolojik ek/ou immunosupresè adan pasyan ki ni maladi entesten enflamatwa: on revizyon sistematik é on méta-analiz. Clin Gastroenterol Hepatol. 2020;18:69-81.\n73.\tCostello R, Patel R, Humphreys J, et al. Kijan pasyan wè efè sékondè glukokortikoid: on sondaj kwa-seksyon adan itilizatè an on kominoté lasanté anliy. BMJ Open. 2017;7:e014603.\n74.\tHyams J, Crandall W, Kugathasan S, et al. REACH Study Group. Indiksyon é mantenans terapi infliximab pou tratman maladi Crohn modéré-a-sévè adan timoun. Gastroenterology. 2007;132:863-73.\n75.\tHyams JS, Griffiths A, M",
+    "source_id": "pdf:398e12446d466067:chunk:74",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:43.614673+00:00",
+    "source_text_sha256": "ae6dcffcb93e5fba24e2eb06c071241056a937e7b52e46d04e53f30f440fab9d"
+  }
+}

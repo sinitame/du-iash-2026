@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "ad548e5d462c36bbf772af0a367812bd0ece293fdf9079fcd15cfa8dd250a0f2",
+  "translated_at": "2026-06-10T21:21:06.839455+00:00",
+  "model": "gpt-5-mini",
+  "text": "mwen, rélaksman. Ou ka esey wè konman i ka pasé adan zòn machwè-a. Pétièt machwè-a té sere, mé an rélaksman, machwè-a ké détann on ti plis. Ou ké pé travay sa ankò dé fwa.\n\nAnkò, ou ké anspiré pa nen. Ou ké kenbé respirasyon-an. É lè ou anvi, ou largé tout kolè-a. É ou détann li dousman. Ou ké santi kò-a kalmé, ba-yé, soupir, détant.\n\nPou twazyèm é dènye fwa, ankò, ou anspiré pa nen. Ou kenbé respirasyon-an. É lè ou anvi, ou fè on gwo ekspirasyon. É ou détann tou dousman. Ou santi kò-a kalmé, ba-yé, soupir, détente. Trankilman, dousman. Analis la an plas.\n\nMwen pwopoze kounyé-a on dézyèm egzèsis pou édé-w détann kolè ki pé monte andéw. Pou sa, ou ké pran on gwo anspirasyon pa nen. Apre, ou ké levé on bra. Fè on pwen devan. Apre sa, fè on pwen dèyè. Ou ké kenbé respirasyon-an. É lè ou anvi, ou mété kolè-a a distans, é ou détann tout kò-a é déchalé pwen yo.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:5:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 5,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "mwen, rélaksman. Ou ka esey wè konman i ka pasé adan zòn machwè-a. Pétièt machwè-a té sere, mé an rélaksman, machwè-a ké détann on ti plis. Ou ké pé travay sa ankò dé fwa.\n\nAnkò, ou ké anspiré pa nen. Ou ké kenbé respirasyon-an. É lè ou anvi, ou largé tout kolè-a. É ou détann li dousman. Ou ké santi kò-a kalmé, ba-yé, soupir, détant.\n\nPou twazyèm é dènye fwa, ankò, ou anspiré pa nen. Ou kenbé respirasyon-an. É lè ou anvi, ou fè on gwo ekspirasyon. É ou détann tou dousman. Ou santi kò-a kalmé, ba-yé, soupir, détente. Trankilman, dousman. Analis la an plas.\n\nMwen pwopoze kounyé-a on dézyèm egzèsis pou édé-w détann kolè ki pé monte andéw. Pou sa, ou ké pran on gwo anspirasyon pa nen. Apre, ou ké levé on bra. Fè on pwen devan. Apre sa, fè on pwen dèyè. Ou ké kenbé respirasyon-an. É lè ou anvi, ou mété kolè-a a distans, é ou détann tout kò-a é déchalé pwen yo.",
+    "source_id": "video:161efbc66394dfb2:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:06.839455+00:00",
+    "source_text_sha256": "ad548e5d462c36bbf772af0a367812bd0ece293fdf9079fcd15cfa8dd250a0f2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:10",
+  "target_language": "en",
+  "source_text_sha256": "669a4689e3b91359045d82e8027401298c8c1a231a66890476be7ed99a803b0c",
+  "translated_at": "2026-06-10T20:43:11.846830+00:00",
+  "model": "gpt-5-mini",
+  "text": "If there are stomach problems or diarrhea, it will be necessary to find a replacement food because it is a useful source of calories and calcium. There are supplemental foods that are flavored, nutritionally balanced liquids. They are better tolerated.\n\nIn Crohn’s disease your doctor may also use a continuous tube-feeding method: the food is delivered through a small tube that passes through the nose into the stomach. This can be done at home without stopping school after a hospital stay to learn. This treatment (enteral nutrition) helps control disease flares and supports growth.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:10:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 10,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "If there are stomach problems or diarrhea, it will be necessary to find a replacement food because it is a useful source of calories and calcium. There are supplemental foods that are flavored, nutritionally balanced liquids. They are better tolerated.\n\nIn Crohn’s disease your doctor may also use a continuous tube-feeding method: the food is delivered through a small tube that passes through the nose into the stomach. This can be done at home without stopping school after a hospital stay to learn. This treatment (enteral nutrition) helps control disease flares and supports growth.",
+    "source_id": "pdf:a74238ee30f57428:chunk:10",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:11.846830+00:00",
+    "source_text_sha256": "669a4689e3b91359045d82e8027401298c8c1a231a66890476be7ed99a803b0c"
+  }
+}

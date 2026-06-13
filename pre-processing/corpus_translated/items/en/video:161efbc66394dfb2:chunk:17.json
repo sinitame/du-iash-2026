@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:17",
+  "target_language": "en",
+  "source_text_sha256": "f02d0dda7ddb06f6822f067bed345f7ea784d2856471b734b619f87998072690",
+  "translated_at": "2026-06-10T20:48:18.487826+00:00",
+  "model": "gpt-5-mini",
+  "text": "fair. You were finding the size of the occalme. It is inside you. Three capacities. Three gentlenesses. I invited you to the armament. It's starting to rebouchir your ears a little. By moving your fingers a little again. You'll be able to if you can put it on. Imagine as if you were playing the pien au with your ears and with your fingers, minouteau. You'll be able to protect your fingers. Absolutely, you can protect them. But when you put it on, you might get it wrong. You're courtex. You still have it. I can do it calmly. You're gentle. You're all around your number. We dose freshness. You tapped. You're powerful. You tapped the moulet. And now you'll be able to go to your grey. You're pulled. You need it to take up the whole space. You're in need. You're very calm. You will be able to rest your feet on the floor. You rest your hands on your thighs. You will be able to bring yourself to life to your grey. I was habitually no. Goodbye your eyes and smile at life.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:17:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 17,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "fair. You were finding the size of the occalme. It is inside you. Three capacities. Three gentlenesses. I invited you to the armament. It's starting to rebouchir your ears a little. By moving your fingers a little again. You'll be able to if you can put it on. Imagine as if you were playing the pien au with your ears and with your fingers, minouteau. You'll be able to protect your fingers. Absolutely, you can protect them. But when you put it on, you might get it wrong. You're courtex. You still have it. I can do it calmly. You're gentle. You're all around your number. We dose freshness. You tapped. You're powerful. You tapped the moulet. And now you'll be able to go to your grey. You're pulled. You need it to take up the whole space. You're in need. You're very calm. You will be able to rest your feet on the floor. You rest your hands on your thighs. You will be able to bring yourself to life to your grey. I was habitually no. Goodbye your eyes and smile at life.",
+    "source_id": "video:161efbc66394dfb2:chunk:17",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:18.487826+00:00",
+    "source_text_sha256": "f02d0dda7ddb06f6822f067bed345f7ea784d2856471b734b619f87998072690"
+  }
+}

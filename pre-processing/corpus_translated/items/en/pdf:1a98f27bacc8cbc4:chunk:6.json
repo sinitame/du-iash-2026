@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "d02c2e34fad7171b7fc4e4681454071a8c754bbd39b05860aac05dd5731f7476",
+  "translated_at": "2026-06-10T20:43:57.465507+00:00",
+  "model": "gpt-5-mini",
+  "text": "sweet\nOrange\nThin slice of artisan wholemeal bread\nmade with baking powder\nEXCEPT kale,\nleeks, celery,\nasparagus, artichokes\nLentils, peas,\nchickpeas,\ndried beans\nQuinoa\nOat flakes\n+\nChicken breast\nWhite fish\n(as a replacement and\nequivalent to chicken,\nonce a week)\n2 eggs\n2 fresh potatoes,\npeeled, cooked and cooled\n1 apple (peeled if\nobstructive symptoms are present)\n2 bananas\nRegardless of the phase,\n5 foods are mandatory\nTo be consumed every day to ensure proper nutritional intake\nas well as the right substrates for the gut microbiota.\nMelon\nWhite rice, in all its forms\n(flour, noodles, pancakes, …)\nwithout preservatives\nStrawberries\nAvocado\nFresh spinach leaves\nuncooked\nStill or sparkling water\nPeeled cucumber\nLettuce\nHerbal tea\nCarrot\nTomato or\ncherry tomatoes\n1 glass of freshly squeezed\norange juice\nExpanded list to all foods allowed in phase 1 +\nFrom week 6:\nFrom week 10:\nPear\nKiwi\nPeach\nBlueberries\nZucchini\nCauliflower or broccoli\nMushrooms\nSweet bell pepper\nPHASE 1\nPHASE 2\nWhich foods MUST and MAY I consume?6\nDownload this page\nas printable A4\nFood",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:6:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 6,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "sweet\nOrange\nThin slice of artisan wholemeal bread\nmade with baking powder\nEXCEPT kale,\nleeks, celery,\nasparagus, artichokes\nLentils, peas,\nchickpeas,\ndried beans\nQuinoa\nOat flakes\n+\nChicken breast\nWhite fish\n(as a replacement and\nequivalent to chicken,\nonce a week)\n2 eggs\n2 fresh potatoes,\npeeled, cooked and cooled\n1 apple (peeled if\nobstructive symptoms are present)\n2 bananas\nRegardless of the phase,\n5 foods are mandatory\nTo be consumed every day to ensure proper nutritional intake\nas well as the right substrates for the gut microbiota.\nMelon\nWhite rice, in all its forms\n(flour, noodles, pancakes, …)\nwithout preservatives\nStrawberries\nAvocado\nFresh spinach leaves\nuncooked\nStill or sparkling water\nPeeled cucumber\nLettuce\nHerbal tea\nCarrot\nTomato or\ncherry tomatoes\n1 glass of freshly squeezed\norange juice\nExpanded list to all foods allowed in phase 1 +\nFrom week 6:\nFrom week 10:\nPear\nKiwi\nPeach\nBlueberries\nZucchini\nCauliflower or broccoli\nMushrooms\nSweet bell pepper\nPHASE 1\nPHASE 2\nWhich foods MUST and MAY I consume?6\nDownload this page\nas printable A4\nFood",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:57.465507+00:00",
+    "source_text_sha256": "d02c2e34fad7171b7fc4e4681454071a8c754bbd39b05860aac05dd5731f7476"
+  }
+}

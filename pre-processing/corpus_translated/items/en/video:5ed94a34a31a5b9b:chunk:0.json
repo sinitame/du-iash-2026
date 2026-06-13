@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "ad73dcf3e010e59522f9e155cbacafbadc4bd21df1c36d0f412d7d38ee889d4b",
+  "translated_at": "2026-06-10T20:44:13.026111+00:00",
+  "model": "gpt-5-mini",
+  "text": "I have a Mickey, but what exactly is it? To move, the body needs the energy that comes from the food we eat. But first the food must be absorbed — that is the role of the digestive system. Unfortunately, yours has a chronic inflammatory disease of the intestine that we also call a Mickey. \n\nThere are two types depending on the area affected: Crohn's disease, which can affect the whole digestive system, and ulcerative colitis, which only concerns the rectum and the colon. Because of it, you have abdominal pain, frequent diarrhea, sometimes with blood, and you lose your appetite. You can also be tired, have mouth ulcers, joint pain, a fever, or eye problems. \n\nThese are flare-up phases of the disease that alternate with quiet phases. These symptoms are caused by inflammation in your body because your immune system is too active. Indeed, when you catch a virus or a microbe called an antigen, an alarm is given and you begin to produce soldiers called antibodies. The battle starts and your army shows no mercy — it's like fire. Up to that point, everyone works in the same way. But you, your army doesn't...",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:0:en",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 0,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "I have a Mickey, but what exactly is it? To move, the body needs the energy that comes from the food we eat. But first the food must be absorbed — that is the role of the digestive system. Unfortunately, yours has a chronic inflammatory disease of the intestine that we also call a Mickey. \n\nThere are two types depending on the area affected: Crohn's disease, which can affect the whole digestive system, and ulcerative colitis, which only concerns the rectum and the colon. Because of it, you have abdominal pain, frequent diarrhea, sometimes with blood, and you lose your appetite. You can also be tired, have mouth ulcers, joint pain, a fever, or eye problems. \n\nThese are flare-up phases of the disease that alternate with quiet phases. These symptoms are caused by inflammation in your body because your immune system is too active. Indeed, when you catch a virus or a microbe called an antigen, an alarm is given and you begin to produce soldiers called antibodies. The battle starts and your army shows no mercy — it's like fire. Up to that point, everyone works in the same way. But you, your army doesn't...",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:13.026111+00:00",
+    "source_text_sha256": "ad73dcf3e010e59522f9e155cbacafbadc4bd21df1c36d0f412d7d38ee889d4b"
+  }
+}

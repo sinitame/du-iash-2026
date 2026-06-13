@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:43",
+  "target_language": "en",
+  "source_text_sha256": "f1ad303df62b8eb6de9103d96d3c4dd21738ca52632f7f605f5f3c7a83963e33",
+  "translated_at": "2026-06-10T20:41:23.341036+00:00",
+  "model": "gpt-5-mini",
+  "text": "Patients who are unable to achieve or maintain a clinical remission on anti‑TNF, despite optimization of the anti‑TNF dose and the use of immunomodulators, may be considered for ustekinumab or vedolizumab. However, most of these other biotherapies do not have marketing authorization (MA) in France for this indication. Their experience in pediatrics is limited to cases of severe IBD resistant to usual treatments, including IFX or ADA (110,111). Ustekinumab has MA only for Crohn’s disease and for children over 40 kg. Risankizumab does not have MA in pediatrics.\nFor ustekinumab, the first dose is generally administered intravenously and is 6 mg/kg. Subcutaneous administration begins at week 8; adult patients receive a 90 mg injection. Children should receive a dose adjusted according to body surface area [calculated based on a reference adult with a body surface area of 1.73 m2] every 8 weeks.\nFor vedolizumab, a study of two multicenter pediatric cohorts of 44 and 65 children with IBD showed that respectively 41% and 32% of them wer",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:43:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 43,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Patients who are unable to achieve or maintain a clinical remission on anti‑TNF, despite optimization of the anti‑TNF dose and the use of immunomodulators, may be considered for ustekinumab or vedolizumab. However, most of these other biotherapies do not have marketing authorization (MA) in France for this indication. Their experience in pediatrics is limited to cases of severe IBD resistant to usual treatments, including IFX or ADA (110,111). Ustekinumab has MA only for Crohn’s disease and for children over 40 kg. Risankizumab does not have MA in pediatrics.\nFor ustekinumab, the first dose is generally administered intravenously and is 6 mg/kg. Subcutaneous administration begins at week 8; adult patients receive a 90 mg injection. Children should receive a dose adjusted according to body surface area [calculated based on a reference adult with a body surface area of 1.73 m2] every 8 weeks.\nFor vedolizumab, a study of two multicenter pediatric cohorts of 44 and 65 children with IBD showed that respectively 41% and 32% of them wer",
+    "source_id": "pdf:398e12446d466067:chunk:43",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:23.341036+00:00",
+    "source_text_sha256": "f1ad303df62b8eb6de9103d96d3c4dd21738ca52632f7f605f5f3c7a83963e33"
+  }
+}

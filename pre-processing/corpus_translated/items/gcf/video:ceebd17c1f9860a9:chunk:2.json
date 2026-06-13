@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "63da33e06c8803161a52c5b6a4b55e98b25b9979e119d04d2e7162e81df705c4",
+  "translated_at": "2026-06-10T21:13:03.238368+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pale èvè kamarad-ou, men kèk astis. Pa egzamp, on adilt ki ou fè konfyans ki pé édé-w jéré sitiasyon-an. On pwof, on konseyié lékol ou paran-ou. Si ou bizwen abséte souvan, préparé on ti eskiz senp. Konm mwen pa santi mwen twòp byen jodi a. Épi anlè tou, pran swen-w. Repoze-w lè ou bizwen é swiv bien konsèy medsen-ou.\n\nKi drit mwen é ki sé èd posib ? Avè on miquille, ou ni drit a on pwojé dakèy individualizé. Oswa PI. Pwojé sa-a pèmèt mété an plas aménajman spécial pou ou. Konm gagn aksè adé twalèt lè ou bizwen. Gagn vètman déchang adan enfimyé, ni on espas entim pou pran médikaman ou osnon gagn manjé ki adapte a tanniquies. Sa pé osi pèmèt aménajé si bizwen sèten aktivité. Pa egzamp, an spor. PI sé on èd prézyé, ki enpòtan pou mandé, menm si ou santi-w byen. Si sentòm-la rivini, i ké pli fasil mété an plas solisyon vit pou fasilitè lavi kotidyen-ou. Ou pé osi benefisyé on tan an plis pandan egzamen. Sa vlé di ou ni pli tan",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:2:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 2,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pale èvè kamarad-ou, men kèk astis. Pa egzamp, on adilt ki ou fè konfyans ki pé édé-w jéré sitiasyon-an. On pwof, on konseyié lékol ou paran-ou. Si ou bizwen abséte souvan, préparé on ti eskiz senp. Konm mwen pa santi mwen twòp byen jodi a. Épi anlè tou, pran swen-w. Repoze-w lè ou bizwen é swiv bien konsèy medsen-ou.\n\nKi drit mwen é ki sé èd posib ? Avè on miquille, ou ni drit a on pwojé dakèy individualizé. Oswa PI. Pwojé sa-a pèmèt mété an plas aménajman spécial pou ou. Konm gagn aksè adé twalèt lè ou bizwen. Gagn vètman déchang adan enfimyé, ni on espas entim pou pran médikaman ou osnon gagn manjé ki adapte a tanniquies. Sa pé osi pèmèt aménajé si bizwen sèten aktivité. Pa egzamp, an spor. PI sé on èd prézyé, ki enpòtan pou mandé, menm si ou santi-w byen. Si sentòm-la rivini, i ké pli fasil mété an plas solisyon vit pou fasilitè lavi kotidyen-ou. Ou pé osi benefisyé on tan an plis pandan egzamen. Sa vlé di ou ni pli tan",
+    "source_id": "video:ceebd17c1f9860a9:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:03.238368+00:00",
+    "source_text_sha256": "63da33e06c8803161a52c5b6a4b55e98b25b9979e119d04d2e7162e81df705c4"
+  }
+}

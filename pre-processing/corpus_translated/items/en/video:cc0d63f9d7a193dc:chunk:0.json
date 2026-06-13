@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:cc0d63f9d7a193dc:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "aba5afa7605919ccbc1ce1da77b1a5eeaf240c4b0e3ef01cd491877e18977ad1",
+  "translated_at": "2026-06-10T20:44:57.859313+00:00",
+  "model": "gpt-5-mini",
+  "text": "... In remission, should I continue your follow-up visits or not? Yes, yes, yes, because as we said, these are chronic diseases, so of course you need to continue monitoring to check that everything is fine. In fact, we monitor blood tests and sometimes request fecal calprotectin follow-ups — it’s a test that measures inflammation in the stool. In pediatrics, we measure height and weight, and in adults the weight. And yes, in remission you can see the gastroenterologist once or twice a year to make sure everything is okay and that the disease isn’t back; sometimes it’s sneaky and returns without us realizing it, so you really need to make sure everything is fine. ... ...",
+  "row": {
+    "id": "video:cc0d63f9d7a193dc:chunk:0:en",
+    "document_id": "video:cc0d63f9d7a193dc",
+    "chunk_index": 0,
+    "source_file": "34b64b96504322d867c385eb536b91584132e7b6.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/34b64b96504322d867c385eb536b91584132e7b6.mp4",
+    "text_path": "corpus/texts/videos/34b64b96504322d867c385eb536b91584132e7b6.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... In remission, should I continue your follow-up visits or not? Yes, yes, yes, because as we said, these are chronic diseases, so of course you need to continue monitoring to check that everything is fine. In fact, we monitor blood tests and sometimes request fecal calprotectin follow-ups — it’s a test that measures inflammation in the stool. In pediatrics, we measure height and weight, and in adults the weight. And yes, in remission you can see the gastroenterologist once or twice a year to make sure everything is okay and that the disease isn’t back; sometimes it’s sneaky and returns without us realizing it, so you really need to make sure everything is fine. ... ...",
+    "source_id": "video:cc0d63f9d7a193dc:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:57.859313+00:00",
+    "source_text_sha256": "aba5afa7605919ccbc1ce1da77b1a5eeaf240c4b0e3ef01cd491877e18977ad1"
+  }
+}

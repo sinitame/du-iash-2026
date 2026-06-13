@@ -1,0 +1,11 @@
+{
+  "id": "pdf:1a98f27bacc8cbc4",
+  "status": "done",
+  "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+  "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+  "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+  "modality": "pdf",
+  "language": "fr",
+  "source_sha256": "1a98f27bacc8cbc4aaa334e055e8bae77227c302f636a557d540dce1966e9293",
+  "created_at": "2026-06-10T16:11:57.276649+00:00"
+}

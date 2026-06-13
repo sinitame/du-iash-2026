@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:8",
+  "target_language": "gcf",
+  "source_text_sha256": "3ccaa75a2d251e7449381a840c91d1b1bc2ac0b8bb5295bb0d88180a46c7040b",
+  "translated_at": "2026-06-10T20:52:05.681104+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\n179\nMICI\nItilizasyon antibyotik adan prémyé lanné lavi ogmante risk pou dévlopé pi ta on maladi Crohn (18). On méta-analiz ki enkli 11 étudi pa jwenn agiman an favè on lyen ant MICI é vaksinasyon, an patikilyé vaksinasyon kont rouzòl é BCG (19). Osentalizasyion réjim alimantè, espesyalman adan péyi ki ni ti é mwayen revni, sanblé kontribyé a ogmantasyon incidans MICI, menm si étudi obsèvasyon yo souvan limité akoz fakto konfuzyon. On gran étud prospective éwopéyèn montré on asosiasyon ant konsomasyon vyann rouj é risk pou réktokolit émorajik (HR 1,40) (20). Rézilta ki konsèné aport lipidik yo rété pa konsistan : adan étud EPIC, on konsomasyon pli wo grès animal té asosiyé èk on risk ogmanté pou RCH (21). An vèsé, on ogmantasyon konsomasyon asid gra polyinsaturé oméga-3 té moutwé on efè pwotektè kont RCH (22). On méta-analiz montré on asosiasyon pwotektè ant konsomasyon légim é risk pou RCH (OR 0,71) (23).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:8:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 8,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 3 ---\n179\nMICI\nItilizasyon antibyotik adan prémyé lanné lavi ogmante risk pou dévlopé pi ta on maladi Crohn (18). On méta-analiz ki enkli 11 étudi pa jwenn agiman an favè on lyen ant MICI é vaksinasyon, an patikilyé vaksinasyon kont rouzòl é BCG (19). Osentalizasyion réjim alimantè, espesyalman adan péyi ki ni ti é mwayen revni, sanblé kontribyé a ogmantasyon incidans MICI, menm si étudi obsèvasyon yo souvan limité akoz fakto konfuzyon. On gran étud prospective éwopéyèn montré on asosiasyon ant konsomasyon vyann rouj é risk pou réktokolit émorajik (HR 1,40) (20). Rézilta ki konsèné aport lipidik yo rété pa konsistan : adan étud EPIC, on konsomasyon pli wo grès animal té asosiyé èk on risk ogmanté pou RCH (21). An vèsé, on ogmantasyon konsomasyon asid gra polyinsaturé oméga-3 té moutwé on efè pwotektè kont RCH (22). On méta-analiz montré on asosiasyon pwotektè ant konsomasyon légim é risk pou RCH (OR 0,71) (23).",
+    "source_id": "pdf:398e12446d466067:chunk:8",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:05.681104+00:00",
+    "source_text_sha256": "3ccaa75a2d251e7449381a840c91d1b1bc2ac0b8bb5295bb0d88180a46c7040b"
+  }
+}

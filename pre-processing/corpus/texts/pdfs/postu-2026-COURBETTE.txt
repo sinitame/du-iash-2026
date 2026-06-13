@@ -1,0 +1,1843 @@
+--- Page 1 ---
+177
+MICI
+FMC HGE : Organisme certifié Qualiopi pour la catégorie actions de formation
+POST’U 2026
+MICI en population pédiatrique : 
+quelles spécificités ?
+	 Olivier COURBETTE
+	 Service de médecine spécialisée, Hôpitaux Pédiatriques de Nice CHU-Lenval, 57 avenue de la Californie - 06200 NICE (France)
+	 olivier.courbette@hpu.lenval.com
+OBJECTIFS PÉDAGOGIQUES
+•	 Connaître l’épidémiologie et les présentations cliniques des MICI en population pédiatrique
+•	 Savoir quand utiliser les examens biologiques, endoscopiques et radiologiques
+•	 Connaître l’intérêt de la consultation de transition enfant/adulte
+•	 Connaître les spécifications de la prise en charge thérapeutique
+LIEN D’INTÉRÊT
+L’auteur déclare n’avoir aucun lien d’intérêt en relation avec sa présentation.
+MOTS-CLÉS
+Maladie de Crohn; Rectocolite hémorragique; Pédiatrie
+ABRÉVIATIONS
+5-ASA : acide 5-aminosalicylique
+6-MMP : 6-methyl mercaptopurine
+6-TGN : 6-thioguanine
+ADA : adalimumab
+AMM : autorisation de mise sur le marché
+CAG : colite aiguë grave
+ASCA : anticorps anti-saccharomyces cerevisiae
+AZA : azathioprine
+CRP : C reactive protein
+CSP : cholangite sclérosante primitive
+EBV : Epstein Barr virus
+NEE : nutrition entérale exclusive
+EO-IBD : early onset inflammatory bowel disease
+IBD : inflammatory bowel disease
+IMC : indice de masse corporelle
+IFX : infliximab
+IRM : imagerie par résonance magnétique
+LM : libération modifiée
+MC : maladie de Crohn
+MICI : maladie inflammatoire chronique de l’intestin
+MTX : méthotrexate
+NFS : numération formule sanguine
+p-ANCA : anticorps dirigés contre la région périnucléaire du 
+cytoplasme des polynucléaires neutrophiles
+PCDAI : pediatric Crohn disease activity index
+PO : per os
+PUCAI : pediatric ulcerative colitis activity index
+RCH : rectocolite hémorragique
+SES-CD : simple endoscopic score for Crohn disease
+TNF : tumor necrosis factor
+TPMT : thiopurine methyltransferase
+VEO-IBD : very early onset inflammatory bowel disease
+Introduction
+Les MICI peuvent être diagnostiquées tout au long de la vie. 
+Cependant, il existe des spécificités propres à la forme pédia-
+trique. Par exemple, la maladie de Crohn est plus souvent 
+diagnostiquée au stade inflammatoire, avant l’apparition de 
+complications sténosantes ou fistulisantes. La rectocolite 
+hémorragique se caractérise fréquemment par une atteinte 
+colique étendue dès le diagnostic. En pédiatrie, les MICI sont 
+associées à un retard staturo-pondéral et pubertaire mais 
+aussi à une altération de l’estime de soi, une dégradation de 
+l’image corporelle et un taux élevé d’absentéisme scolaire, 
+compromettant ainsi la qualité de vie et l’insertion socio-­
+professionnelle future. Le coût de la prise en charge de ces 
+pathologies à l’âge pédiatrique surpasse celui des adultes 
+(1). Une meilleure connaissance des spécificités des formes 
+pédiatriques est indispensable à l’ensemble des acteurs de 
+la prise en charge médicale et paramédicale.
+
+--- Page 2 ---
+178
+Épidémiologie des MICI pédiatriques
+Les MICI atteignent surtout l’enfant après l’âge de 10 ans, 
+en période péri-pubertaire. Elles sont rares avant 5 ans et 
+exceptionnelles avant l’âge de 1 an (moins de 1 % des cas 
+pédiatriques). On distingue les « pediatric-onset » IBD qui 
+débutent après 10 ans, les « EO (early onset – IBD », qui 
+débutent avant 10 ans et les « VEO (very early onset) – IBD », 
+qui débutent avant 6 ans.
+Bien que la génétique intervienne dans la pathogénie des 
+MICI à tout âge, les étiologies monogéniques sont davan-
+tage représentées chez les patients présentant une VEO-IBD 
+comparativement aux formes diagnostiquées plus tardi-
+vement. Un nombre croissant de variants monogéniques 
+causaux ont été identifiés (et continuent de l’être) chez les 
+patients atteints de VEO-IBD, en particulier dans les formes 
+à début infantile (avant l’âge de 2 ans) (2-4). Une proportion 
+significative des étiologies monogéniques observées dans 
+la VEO-IBD relève de déficits immunitaires primitifs (2,5,6). 
+À ce jour, les étiologies monogéniques identifiées dans la 
+VEO-IBD peuvent être classées en six grandes catégories 
+(parfois chevauchantes) : dérégulation immunitaire générale, 
+déficits des lymphocytes T et B, anomalies de la fonction 
+phagocytaire, syndromes hyper-inflammatoires et auto-­
+inflammatoires, dysfonction de la barrière épithéliale et autres 
+conditions (2,5,6). Bien qu’une proportion de patients atteints 
+de VEO-IBD présente une étiologie monogénique sous-
+jacente, la majorité d’entre eux (> 70-80 %) ne présentent 
+pas de cause génétique spécifique identifiée (7).
+Dans le monde, l’incidence des MICI 
+pédiatriques est la plus importante 
+au Canada, en Europe du Nord, et 
+en Nouvelle-Zélande. Elle est la 
+plus basse en Europe du Sud, en 
+Afrique, en Asie et en Amérique du 
+Sud (8). Parmi les 37 études évaluant 
+l’incidence au fil du temps, 31 mon­
+traient une augmentation de cette 
+incidence. On retrouve également 
+une émergence des MICI pédia-
+triques dans des régions où cela 
+n’avait pas été rapporté dans le 
+passé (8).
+En France, selon les études les MICI 
+débutent dans 7 à 25 % des cas dans 
+l’enfance, avec un ratio de 3 cas de 
+MC pour 1 cas de RCH (9). La distri-
+bution des MICI pédiatriques selon 
+le sexe est l’inverse de ce qu’elle 
+est chez l’adulte, avec une prédo-
+minance de garçons pour la MC et 
+de filles pour la RCH (9). L’âge médian 
+au diagnostic des MICI pédiatriques 
+est de l’ordre de 14 ans. L’incidence 
+des MICI pédiatriques en France a 
+considérablement augmenté depuis 
+plus de 20 ans (10,11).
+Facteurs de risque des MICI pédiatriques
+Le principal facteur de risque de MICI est l’existence d’an-
+técédents familiaux de MICI chez un parent du 1er degré. 
+Cette association est plus fréquente chez l’enfant que chez 
+l’adulte, d’autant plus que l’enfant est plus jeune au moment 
+du diagnostic de MICI (12).
+Le microbiote intestinal est différent chez les enfants atteints 
+de MICI comparés à des enfants sains. Plusieurs des facteurs 
+environnementaux associés au risque de développer une 
+MICI interviendraient via leur impact sur le microbiote intes-
+tinal.
+La méthode d’accouchement influence le développement 
+du microbiote intestinal. Cependant, les méta-analyses n’ont 
+pas confirmé de lien significatif entre la césarienne et un 
+risque accru de développer une MICI (14,15). En revanche, 
+Les revues systématiques montrent que l’allaitement protège 
+contre les MICI pédiatriques, avec un effet dose-dépendant 
+(16). Vivre dans un environnement urbain et une forte pollu-
+tion de l’air environnant est associé à un risque augmenté 
+de développer une MICI de manière variable selon l’âge. Les 
+enfants qui résident proches d’un parc ou dans un environ-
+nement boisé ont un risque diminué de développer une MICI 
+(13). Malgré le fait que le tabagisme soit un facteur de risque 
+établi chez l’adulte, aucune association n’a été rapportée 
+entre le tabagisme passif ou l’exposition prénatale au tabac 
+et la survenue d’une MICI pédiatrique (17). Plusieurs études 
+ont révélé une fréquence accrue d’infections périnatales et 
+infantiles. (Figure 1)
+Figure 1 : illustration des facteurs environnementaux qui contribuent  
+à augmenter le risque (à gauche) ou à diminuer le risque (à droite)  
+de développer une MICI. D’après Khan R et al (13)
+
+--- Page 3 ---
+179
+MICI
+L’utilisation d’antibiotiques dans les premières années 
+de vie augmente le risque de développer ultérieurement 
+une maladie de Crohn (18). Une méta-analyse incluant 
+11 études n’a pas retrouvé d’arguments en faveur d’un lien 
+entre MICI et vaccinations, en particulier la vaccination 
+contre la rougeole et le BCG (19). L’occidentalisation des 
+régimes alimentaires, notamment dans les pays à revenu 
+faible et intermédiaire, semble contribuer à l’augmentation 
+de l’incidence des MICI, bien que les études d’observa-
+tion soient souvent limitées par des facteurs de confusion. 
+Une large étude prospective européenne a révélé une 
+association entre la consommation de viande rouge et 
+le risque de rectocolite hémorragique (HR 1,40) (20). Les 
+résultats concernant l’apport lipidique restent hétéro-
+gènes. Dans l’étude EPIC, une consommation plus élevée 
+de graisses animales était associée à un risque accru de 
+RCH (21). À l’inverse, une consommation accrue d’acides 
+gras polyinsaturés oméga-3 montrait un effet protecteur 
+contre la RCH (22). Une méta-analyse a montré une asso-
+ciation protectrice entre la consommation de légumes et le 
+risque de RCH (OR 0,71) (23). Une étude de cohorte menée 
+dans 21 pays a montré que la consommation d’aliments 
+ultra-transformés était associée à un risque accru de MICI 
+(24). Une méta-analyse a montré que les patients atteints 
+de MICI présentaient plus fréquemment une carence en 
+vitamine D (25).
+Clinique, biologie, 
+endoscopie et imagerie
+Clinique
+Dans la MC pédiatrique, seulement 
+25  % des patients présentent la 
+triade classique : douleurs abdo­
+minales, diarrhée et perte de poids 
+(9). La MC peut se manifester par 
+des douleurs abdominales vagues, 
+une anémie inexpliquée, de la fièvre 
+récidivante, une perte de poids ou un 
+retard de croissance. La RCH pédia-
+trique se présente souvent avec des 
+symptômes importants  : diarrhée 
+profuse et nocturne, volontiers glai-
+ro-sanglante et une perte de poids. 
+Dans plus de 10 % des cas pédia-
+triques, la distinction entre MC et 
+RCH est difficile. On identifie alors 
+la maladie comme une colite indé-
+terminée. Au cours de la progression 
+de la maladie, certains cas de colite 
+indéterminée peuvent évoluer vers 
+une MC ou une RCH (26).
+Les lésions ano-périnéales de MC 
+sont fréquentes chez l’enfant. L’exa­
+men de la marge anale doit faire 
+partie de l’examen clinique. Une 
+reconnaissance rapide des patients 
+avec forte suspicion de MICI pour 
+recours rapide à un bilan endosco-
+pique est primordiale (27), la présence de lésions périnéales 
+telles que : ulcère, fistule ou abcès peut être un signe suffi-
+sant pour réaliser un bilan endoscopique indépendamment 
+des autres marqueurs inflammatoires (28). D’autres critères 
+mineurs peuvent être présents  : douleurs abdominales 
+chroniques (> 4 semaines), diarrhée, MICI confirmée chez 
+un apparenté au premier degré, perte de poids involon-
+taire, présence de manifestations extra digestives (29-31). 
+L’évaluation des courbes de croissance et de la puberté est 
+essentielle pour évoquer le diagnostic, particulièrement dans 
+la MC (32,33). (Figure 2)
+Les manifestations extra-digestives peuvent précéder les 
+symptômes intestinaux et sont présentes au moment du 
+diagnostic dans environ 5 à 25 % des cas (34). Elles sont 
+dominées par les atteintes articulaires, suivies des atteintes 
+dermatologiques. Les atteintes oculaires sont plus rares, 
+mais doivent également être prises en compte dans l’éva-
+luation clinique initiale. Finalement les atteintes hépatiques 
+peuvent également être présentes (CSP et hépatite auto-­
+immune) (34). Souvent discrètes, un examen clinique minu-
+tieux et un bilan sanguin incluant un bilan hépatique complet 
+sont requis. Un examen ophtalmologique et un examen 
+dermatologique sont recommandés lors du diagnostic de 
+MICI pédiatrique.
+Figure 2 : Courbe de croissance d’un enfant suivi pour MC,  
+la ligne en rouge symbolise la date du diagnostic et le début  
+de la prise en charge thérapeutique
+
+--- Page 4 ---
+180
+Biologie
+Le bilan biologique initial doit inclure une NFS complète, 
+au moins deux marqueurs inflammatoires ainsi que l’albu-
+mine, les transaminases et la gamma-GT. Les données des 
+registres pédiatriques des MICI indiquent qu’au moment 
+du diagnostic, 54 % des enfants atteints de RCH légère 
+et 21 % des enfants atteints de MC légère présentent des 
+résultats normaux pour les valeurs d’hémoglobine, d’al-
+bumine, de CRP et de VS (35). Les ASCA et les p-ANCA 
+ont une bonne spécificité chez l’enfant (85 à 95 % selon 
+les études) mais une faible sensibilité (20 à 60 %) (36). 
+Ils ne sont pas systématiquement réalisés en routine. La 
+calprotectine fécale est supérieure à tout autre marqueur 
+sanguin pour la détection de l’inflammation intestinale. 
+Une méta-analyse de 8 études pédiatriques a montré une 
+sensibilité excellente (98 %) du dosage de la calprotec-
+tine fécale pour le diagnostic de MICI et une spécificité 
+plus modeste (68 %) (37). Les normes de l’adulte peuvent 
+être utilisées chez l’enfant de plus de 4 ans. Un taux de 
+calprotectine fécale supérieur à 250 μg/g de selles chez 
+un enfant suivi pour une MICI est un argument fort en 
+faveur d’une inflammation muqueuse résiduelle (37). Chez 
+l’enfant comme chez l’adulte, il convient de réaliser un 
+bilan pré-thérapeutique qui comprend le dépistage d’in-
+fection en cours notamment la tuberculose, ou d’évaluer le 
+statut d’immunisation à l’EBV. En pédiatrie, l’évaluation de 
+l’immunité contre le VZV est particulièrement importante. 
+Dans le cas des MICI d’apparition très précoce dans la vie, 
+un bilan immunitaire et un avis immunologique doivent 
+être réalisés.
+Imagerie
+L’échographie abdominale et l’entéro-IRM constituent le 
+meilleur protocole d’imagerie chez l’enfant. L’échographie 
+permet de rechercher en particulier un épaississement des 
+parois digestives, ainsi qu’une lipomatose mésentérique et/
+ou des adénopathies (38,39). L’entéro-IRM a l’intérêt d’éviter 
+l’utilisation des radiations ionisantes auxquelles les enfants 
+sont beaucoup plus sensibles. Cette imagerie peut être 
+différée en cas de RCH typique, sur la base de l’endoscopie 
+et de l’histologie. Elle reste particulièrement importante en 
+cas de suspicion de maladie de Crohn, chez les patients dont 
+l’iléon n’a pas pu être visualisé, chez les patients présentant 
+une rectocolite hémorragique apparente avec une présenta-
+tion atypique et chez les patients atteints de colite indéter-
+minée. Comme chez l’adulte, la vidéo-capsule endoscopique 
+trouve une indication élective en cas d’atteinte préférentielle 
+ou isolée de l’intestin grêle, et pour faciliter le diagnostic 
+différentiel entre MC et RCH (40). Les enfants sont le plus 
+souvent capables d’avaler la vidéo-capsule à partir de l’âge 
+de 8-10 ans. Elle peut être larguée par voie endoscopique à 
+partir de 10 kg.
+Endoscopie et lésions primaires
+Il est recommandé de réaliser systématiquement une endos-
+copie œso-gastro-duodénale et une iléo coloscopie. Même 
+en l’absence de lésions macroscopiques du tractus digestif 
+supérieur, la réalisation de biopsies multiples étagées (2 par 
+segments) permet de mettre en évidence en anatomopatho-
+logie la présence de granulome épithélioïde et giganto-cel-
+lulaire dans 10 à 20 % des cas (40).
+Les critères diagnostiques des MICI pédiatriques sont 
+analogues à ceux de l’adulte. Des recommandations pour 
+le diagnostic des MICI pédiatriques, appelées « critères de 
+Porto », ont été publiées par l’ESPGHAN (European Society for 
+Paediatric Gastroenterology and Nutrition) (41).
+(Tableaux 1 et 2)
+Tableau 1 : formes pédiatriques de RCH au diagnostic (41)
+Présentation
+Caractéristiques macroscopiques
+Caractéristiques microscopiques
+Typique
+Maladie continue à partir du rectum
+Distorsion architecturale, lymphoplasmocytose basale, 
+maladie plus sévère dans la partie distale, pas de 
+granulomes
+Atypique
+1.	 Épargne rectale
+Absence de maladie macroscopique au niveau 
+du rectum ou du rectosigmoïde
+Identique au type typique, surtout dans le segment 
+touché  
+au-dessus de la zone épargnée
+2.	 Forme fugace
+Maladie continue à partir du rectum, pouvant 
+également présenter une épargne rectale
+Biopsies parfois focales, signes de chronicité ou 
+distorsion architecturale peuvent être absents. 
+Habituellement chez les jeunes enfants avec courte 
+durée des symptômes.
+3.	 Atteinte cæcale
+Maladie du côté gauche à partir du rectum avec 
+inflammation au cæcum et segment sain entre 
+les deux zones
+Typique ; les biopsies de la zone atteinte peuvent montrer 
+une inflammation non spécifique
+4.	 Atteinte du TD 
+supérieur
+Érosions ou petites ulcérations dans l’estomac, 
+ni serpigineuses ni linéaires
+Gastrite diffuse ou focale, sans granulome (sauf péri 
+cryptique)
+5.	 Colite aiguë grave
+Maladie continue à partir du rectum
+Peut présenter une inflammation transmurale ou des 
+ulcères profonds ; autres caractéristiques typiques. 
+Absence d’agrégats lymphoïdes, ulcères en fissures en V.
+
+--- Page 5 ---
+181
+MICI
+Classifications (localisation  
+et phénotype évolutif)
+Maladie de Crohn
+Dans la MC pédiatrique, la localisation iléo-colique est la plus 
+fréquente (42).
+Le score d’activité PCDAI (Pediatric Crohn Disease Activity 
+Index) est une modification du CDAI (Crohn Disease Activity 
+Index), qui intègre des données spécifiques sur la croissance 
+et des paramètres biologiques (tableau 4).
+Chez l’enfant, la MC évolue généralement de manière plus 
+rapide et agressive que chez l’adulte. Une étude améri-
+caine portant sur 276 patients pédiatriques a révélé qu’une 
+extension des atteintes était observée chez près de 40 % 
+des enfants dans les deux premières années suivant le 
+diagnostic. De plus, les phénotypes compliqués (B2  : 
+sténosant, B3  : fistulisant) concernaient 24  % des cas 
+après quatre ans, contre seulement 9 % au moment du 
+diagnostic (9). Ces évolutions phénotypiques se produisent 
+majoritairement dans les cinq années suivant le début de la 
+maladie.
+Tableau 2 : formes pédiatriques de MC au diagnostic (41)
+Catégorie
+Caractéristiques typiques
+Caractéristiques non spécifiques
+Macroscopiques
+-	 Ulcérations aphteuses de la muqueuse
+-	 Ulcérations linéaires ou serpigineuses
+-	 Aspect en pavés
+-	 Sténose ou rétrécissement intestinal avec dilatation pré-sténotique
+-	 Épaississement pariétal intestinal avec rétrécissement luminal 
+(imagerie ou chirurgie)
+-	 Lésions périanales : fistules, abcès, sténoses anales, ulcères du canal 
+anal, grosse marisque inflammatoire
+-	 Lésions en «sauts» (skip lesions)
+-	 Ulcères jéjunaux ou iléaux
+-	 Œdème
+-	 Érythème
+-	 Friabilité
+-	 Granularité
+-	 Exsudat
+-	 Perte du dessin vasculaire
+-	 Ulcérations aphteuses isolées
+-	 Lésions périanales : fissures 
+anales médianes, petite marisque
+Microscopiques
+-	 Granulomes non caséeux (éloignés des cryptes rompues)
+-	 Inflammation chronique focale, infiltrat inflammatoire trans-mural, 
+fibrose sous-muqueuse
+-	 Granulomes adjacents à une 
+crypte rompue
+-	 Infiltrat inflammatoire léger non 
+spécifique dans la lamina propria
+-	 Ulcération/érosion de la 
+muqueuse
+-	 Signes de chronicité : altérations 
+architecturales des cryptes, 
+métaplasie à cellules de Paneth 
+dans le côlon, déplétion en 
+cellules caliciformes
+Tableau 3 : Classification de Paris pour la maladie de Crohn pédiatrique (4)
+Âge au diagnostic 
+A1a :	 0-10 ans
+A1b :	 10-17 ans
+A2 :	
+17-40 ans
+A3 :	
+> 40 ans
+Localisation (L= «location») 
+L1 :	
+tiers distal de l’iléon ± atteinte cæcale limitée
+L2 :	
+côlon seul
+L3 :	
+iléo-colique
+L4a :	
+atteinte digestive haute avant le ligament de Treitz
+L4b :	
+jéjunum et/ou 2/3 proximal de l’iléon 
+Comportement (B= «behavior») 
+B1 :	
+inflammatoire
+B2 :	
+sténosant
+B3 :	
+fistulisant
+B2B3 :	à la fois sténosant et fistulisant, soit en même temps, soit à des périodes différentes
+p :	
+malade péri-anale 
+Croissance (G= «growth») 
+G0 :	
+pas de retard de croissance
+G1 :	
+retard de croissance
+
+--- Page 6 ---
+182
+Tableau 4 : Score d’activité  
+de la maladie de Crohn pédiatrique (PCDAI) (44)
+Selles par jour
+-	 aucune
+-	 < 5 ± sang
+-	 ≥ 5 et sang abondant
+0
+5
+10
+Douleurs abdominales
+-	 absentes
+-	 modérées
+-	 sévères
+0
+5
+10
+État général
+-	 bon
+-	 moyen (activité limitée)
+-	 mauvais (arrêt de scolarité ou alitement)
+0
+5
+10
+Poids
+-	 gain normal
+-	 stagnation (involontaire)
+-	 perte de poids≥ 10 %
+0
+5
+10
+Taille/Vitesse de croissance
+-	 ≥ - 1 DS (déviation standard)
+-	 < - 1 DS et > - 2 DS
+-	 ≤ - 2 DS
+0
+5
+10
+Masse abdominale
+-	 absente
+-	 douteuse
+-	 certaine
+0
+5
+10
+Lésions anales
+-	 absentes
+-	 fissures
+-	 fistules/abcès
+0
+5
+10
+Manifestations extra-intestinales, articulaires, cutanées, 
+fièvre> 38°C, uvéite
+-	 absente
+-	 1
+-	 ≥ 2
+0
+5
+10
+Hématocrite (%) (11-19 ans) 
+-	 ≥ 34
+-	 29-33
+-	 < 29
+0
+2.5
+5
+Vitesse de sédimentation (mm à la 1re heure) 
+-	 < 20
+-	 20-50
+-	 > 50
+0
+2.5
+5
+Albumine (g/L) 
+-	 ≥ 35
+-	 31-34
+-	 ≤ 30
+0
+2.5
+5
+Total :	 Rémission< 20 ; 
+	
+Poussée moyenne : 30-50 ; 
+	
+Poussée sévère : >50
+La recto-colite hémorragique
+Dans la RCH, la topographie des lésions est différente de celle 
+de l’adulte : les rectites isolées sont plus rares et les atteintes 
+pancoliques plus fréquentes.
+Tableau 5 : Classification de Paris pour la rectocolite 
+hémorragique pédiatrique (43)
+Extension 
+E1 :	proctite
+E2 :	colite gauche (distale à l’angle splénique)
+E3 :	colite étendue (proximale à l’angle splénique)
+E4 :	pancolite (proximale à l’angle hépatique)
+Sévérité
+S0 :	jamais sévère
+S1 :	au moins une poussée sévère (PUCAI> 65)
+Le score d’activité PUCAI (Pediatric Ulcerative Colitis Activity 
+Index) est utilisé pour évaluer l’activité de la maladie au 
+diagnostic et lors du suivi (figure 3).
+Dans la RCH pédiatrique, plusieurs facteurs pronostiques ont 
+été identifiés par un consensus d’experts (45) : le risque de 
+colectomie est plus élevé en présence d’antécédents fami-
+liaux de RCH, d’une atteinte étendue au moment du diagnostic 
+ou d’une progression des lésions au fil du temps. À l’inverse, 
+la présence d’une cholangite sclérosante primitive (CSP) 
+semble être associée à un moindre recours à la chirurgie.
+Le risque de développement d’un cancer colorectal augmente 
+en cas de CSP, d’évolution prolongée de la maladie (au-delà 
+de 10 ans), de sexe masculin, et de diagnostic à un âge 
+précoce. Il est important de noter qu’une localisation initiale-
+ment limitée au rectum ne garantit pas une évolution bénigne, 
+une extension rapide des lésions peut survenir et conduire à 
+une colectomie ultérieure (46,47).
+Retentissement nutritionnel, croissance 
+staturale, développement pubertaire, 
+taille définitive et cancer
+Retentissement nutritionnel
+L’amaigrissement constitue un signe quasi constant au 
+moment du diagnostic des MICI chez l’enfant, avec un poids 
+inférieur au 3e percentile ou à -2 déviations standard (DS) 
+dans environ 50 % des cas. Une étude nord-américaine 
+portant sur 783 enfants a rapporté un indice de masse corpo-
+relle (IMC) situé sous le 5e percentile chez 23 % des patients 
+atteints de MC, contre 8 % chez ceux présentant une RCH (9).
+Croissance staturale et développement pubertaire
+Le retard statural, défini par une taille en dessous du 
+3e percentile ou -2 DS, est plus fréquent lorsque la maladie 
+débute tôt dans la vie, sans lien avec la localisation ou 
+l’étendue des atteintes inflammatoires. Dans la cohorte 
+EPIMAD de 261 enfants, 10 % présentaient une taille< -2 DS 
+au diagnostic, contre 7 % au suivi (49). Le ralentissement de 
+croissance est détectable chez près de 90 % des enfants 
+dès le diagnostic, et précède les signes digestifs dans la 
+moitié des cas.
+
+--- Page 7 ---
+183
+MICI
+Le dépistage repose sur des critères dynamiques : une crois-
+sance annuelle inférieure à 4-5 cm dès 3 ans et jusqu’à 
+la puberté, ou une chute d’une DS sur la courbe staturale. 
+L’objectif thérapeutique est d’atteindre une taille finale proche 
+de la cible génétique, calculée ainsi : Fille : [Taille père + Taille 
+mère - 13]/2, Garçon : [Taille père + Taille mère + 13]/2. La taille 
+adulte attendue se situe idéalement à ±6 cm de cette cible.
+Une radiographie du poignet gauche permet d’évaluer l’âge 
+osseux, indispensable en cas de retard de croissance. Si 
+la croissance est sévèrement impactée par une MC non 
+contrôlée, un traitement par hormone de croissance peut 
+être envisagé. L’inflammation peut altérer la minéralisation 
+osseuse dès le diagnostic. Celle-ci sera évaluée par une 
+ostéodensitométrie.
+Le développement pubertaire est évalué selon les stades de 
+Tanner (I à V). L’absence de signes à 13 ans chez les filles 
+(développement mammaire) ou à 14 ans chez les garçons 
+(augmentation du volume testiculaire) définit un retard puber-
+taire.
+Cancer
+Les patients atteints de MICI débutant 
+dans l’enfance présentent un risque 
+accru de cancer par rapport à la 
+population générale. Une méta-ana-
+lyse de 66 études regroupant plus de 
+38 000 enfants avec MICI a rapporté 
+un ratio standardisé d’incidence de 
+2,39 (p< 0,0001  ; IC 95  %  : 2,00-
+2,86)50, principalement en lien avec 
+des cancers colorectaux et des 
+hémopathies. Une autre méta-ana-
+lyse a estimé le risque relatif à 2,46 
+(IC 95 % : 2,06-2,93), avec un risque 
+de 2,03 pour la MC (IC 95 % : 1,67-
+2,46) et de 2,61 pour la RCH (IC 
+95 % : 2,00-3,40) (51). En raison de 
+ce risque accru, une surveillance 
+spécifique est recommandée à partir 
+de 10 ans d’évolution de la maladie.
+Transition
+Le transfert de soins se produit lors-
+qu’un patient, ainsi que son dossier 
+médical, passe d’un professionnel 
+de santé à un autre à un moment 
+précis. En revanche, la transition de 
+soins est un processus évolutif. Elle 
+implique le « passage intentionnel et 
+planifié d’adolescents et de jeunes 
+adultes atteints de maladies chro-
+niques physiques et médicales, d’un 
+système de soins centré sur l’enfant 
+vers un système de soins orienté vers 
+l’adulte » (52). Au cours de ce pro-
+cessus, les adolescents apprennent 
+à prendre en charge eux-mêmes tous 
+les aspects de leur santé, deviennent 
+des usagers informés du système de 
+soins pour adultes, et acquièrent des compétences pour une 
+vie autonome et l’autogestion de leur maladie (53,54). Ces 
+compétences incluent notamment la communication efficace, 
+la prise de décision, le soin de soi, l’affirmation de soi et 
+l’autodétermination (55,56).
+Pendant cette transition, la responsabilité se déplace 
+progressivement des parents vers le patient. Ainsi, la tran-
+sition de soins implique un changement progressif des 
+connaissances, des attitudes et des comportements (57). Le 
+transfert de soins, du gastro-entérologue pédiatrique vers le 
+gastro-entérologue adulte, représente souvent l’étape finale 
+du processus de transition. Le succès global de la transition 
+de soins et la réussite du transfert final sont étroitement liés 
+(58). L’implication du médecin traitant dans ce processus est 
+aussi un facteur de transition réussie. La transition implique 
+une préparation graduelle afin de développer chez les jeunes 
+la connaissance de leur maladie, des compétences d’auto-
+nomie et de communication, ainsi qu’une responsabilisation 
+face à leur prise en charge (59). Lorsqu’elle est mal conduite, 
+elle entraîne une augmentation des hospitalisations, une 
+Figure 3 : Score d’activité de la recto-colite hémorragique  
+pédiatrique (PUCAI) (48)
+
+--- Page 8 ---
+184
+perte de suivi, une faible adhésion thérapeutique et davan-
+tage de complications chirurgicales (60).
+En 2022, un consensus canadien a formulé quinze recom-
+mandations, dont neuf fortes, pour encadrer ce passage. Il est 
+recommandé que tous les jeunes atteints de MICI intègrent 
+un programme de transition structuré, multidisciplinaire et 
+personnalisé, élaboré avec la participation des patients, des 
+parents et des soignants. Ces programmes doivent inclure des 
+objectifs clairs, une flexibilité dans le calendrier du transfert 
+et un suivi post-transition. L’éducation joue un rôle central, 
+portant sur la compréhension de la maladie, l’usage des 
+traitements, les risques liés aux substances et la navigation 
+dans le système de santé (61). Cependant, il a été démontré 
+que les adolescents connaissent mal leur histoire médicale, 
+leurs traitements ou leurs effets secondaires, et délèguent 
+encore fréquemment aux parents la gestion des rendez-vous, 
+le renouvellement des prescriptions, la dispensation des 
+médicaments ou la communication avec les médecins et les 
+équipes soignantes (59,61). Des outils tels que le Transition 
+Readiness Assessment Questionnaire (TRAQ) ou le Transition 
+Care Index permettent d’évaluer et d’améliorer cette prépa-
+ration. Les soins pédiatriques se distinguent par l’attention 
+portée à la croissance, à la puberté et à la nutrition, alors que 
+les soins adultes incluent des problématiques de fertilité, de 
+grossesse, de surveillance des cancers et de gestion des 
+comorbidités (59).
+Les obstacles identifiés à une transition réussie sont multi-
+ples : attachement au pédiatre et crainte d’abandon, faible 
+estime de soi, manque de compétences d’auto-gestion, 
+difficultés organisationnelles et, dans certains contextes, 
+barrières économiques. Le moment du transfert doit rester 
+flexible, idéalement en période de rémission clinique, afin de 
+limiter les risques de rupture de suivi. Les parents doivent 
+être accompagnés dans le processus pour soutenir l’auto-
+nomie croissante de leur enfant, tandis qu’un coordinateur 
+de transition, s’il est existant, facilite la continuité et évite la 
+perte de contact avec les équipes médicales (60).
+Il est fortement recommandé que les équipes pédiatriques 
+préparent des documents de transfert complets résumant 
+l’histoire médicale, les traitements reçus et les objectifs futurs. 
+Les modèles de consultation conjointe, réunissant pédiatres 
+et gastroentérologues adultes, favorisent la confiance et 
+l’échange d’information (59,60). Les données disponibles 
+restent limitées, mais montrent que les programmes struc-
+turés améliorent l’adhésion médicamenteuse, réduisent les 
+hospitalisations et augmentent la satisfaction des patients 
+(59,60).
+Traitement de la maladie de Crohn 
+pédiatrique
+Principes généraux de prise en charge
+(Tableau 6)
+Les recommandations de l’ESPGHAN et de l’ECCO (European 
+Crohn’s and Colitis Organization) sur la prise en charge 
+médicale de la MC pédiatrique ont été actualisées en 2021 
+(62).
+La stratégie thérapeutique doit être individualisée en tenant 
+compte de l’âge, du phénotype (classification de Paris), de 
+la localisation, du comportement évolutif, de l’existence d’un 
+Tableau 6 : Facteurs prédictifs de mauvais pronostic dans la maladie de Crohn pédiatrique  
+et thérapie d’induction suggérée (62)
+Classification de Paris  
+[au diagnostic]
+Facteurs de risque additionnels
+Stratification 
+du risque
+Thérapie d’induction suggérée
+B1 (inflammatoire : non 
+sténosant, non pénétrant)
+Aucun
+Bas
+Nutrition entérale exclusive ; 
+corticostéroïdes
+B1
+Absence de rémission clinique et biochimique 
+12 semaines après le début de l’induction
+Moyen
+Considérer une escalade accélérée 
+vers l’anti-TNF
+B1 + G1 (retard de 
+croissance)
+—
+Moyen
+Nutrition entérale exclusive ; envisager 
+l’anti-TNF en première ligne
+B1 [L3 + L4] (maladie 
+extensive*)
+—
+Élevé
+Anti-TNF en première ligne
+B1 + p (atteinte périanale)
+—
+Élevé
+Anti-TNF en première ligne en 
+association avec antibiotiques, 
+chirurgie, ou les deux
+B2 (sténosante**)
+Dilatation pré-sténotique, signes/
+symptômes obstructifs (ou les deux)
+Élevé
+Anti-TNF en première ligne
+B3 (pénétrante***)
+—
+Élevé
+Résection intestinale associée à un 
+traitement postopératoire par anti-TNF
+B3 (pénétrante***)
+—
+Élevé
+Chirurgie associée à un traitement 
+postopératoire par anti-TNF
+Abréviations : TNF= facteur de nécrose tumorale
+* Maladie extensive : inflammation pan-entérique (intestin grêle proximal, iléon terminal et côlon).
+** Sténosante : rétrécissement luminal constant démontré par examen radiologique ou endoscopique.
+*** Pénétrante : perforation intestinale, fistules intra-abdominales, masses inflammatoires et/ou abcès au cours de la maladie (hors complications chirurgicales).
+
+--- Page 9 ---
+185
+MICI
+retard de croissance, mais aussi de la qualité de vie et du 
+risque de complications. L’identification précoce des patients 
+à haut risque de progression sévère est essentielle.
+Traitement d’induction
+Nutrition entérale exclusive (NEE)
+La NEE, consistant en une alimentation exclusive par formule 
+liquide de nutrition pendant 6 à 8 semaines, est recom-
+mandée en première intention chez l’enfant atteint de MC 
+luminale active à faible ou moyen risque. Les méta-analyses 
+ont montré une efficacité similaire aux corticoïdes pour 
+obtenir une rémission clinique (63,64). Toutefois, deux essais 
+randomisés pédiatriques ont démontré un avantage supérieur 
+sur la cicatrisation muqueuse (89 % avec NEE versus 17 % 
+avec corticoïdes, p< 0,01) (65,66). Les principales limites 
+résident dans l’acceptabilité (gout de la formule et/ou tolé-
+rance de la sonde nasogastrique) et le risque d’abandon. 
+Sur le plan pratique, l’efficacité est indépendante du type 
+de formule (élémentaire vs. polymérique) ou de la voie d’ad-
+ministration (orale vs. sonde nasogastrique) (63,67). Sur le 
+plan pratique, un support psychologique et diététique est 
+fortement conseillé (68).
+Corticostéroïdes
+Lorsque la NEE n’est pas envisageable ou après un échec 
+d’utilisation de cette dernière (2 à 4 semaines), les corti-
+coïdes systémiques constituent une alternative de choix. 
+La dose initiale de prednisolone dépend du poids corporel 
+(1 mg/kg, maximum 40 mg) et doit être réduite progressive-
+ment dès que la rémission clinique est atteinte, au plus tard 
+4 semaines après le début du traitement. Dans le cas d’une 
+atteinte iléo-cæcale légère [L1], si la NEE est insuffisamment 
+efficace, le traitement par budésonide à libération iléale est 
+préférable à la prednisolone. Chez les patients de plus de 
+40 kg, la dose initiale de budésonide est de 9 mg une fois 
+par jour pendant 6 semaines, puis réduite comme suit : 6 mg 
+une fois par jour pendant 2 semaines, puis 3 mg une fois par 
+jour pendant 2 semaines. Le budésonide est recommandé 
+pour les atteintes iléo-caecales localisées (69,70). L’usage 
+des corticostéroïdes doit rester limité, compte tenu des effets 
+indésirables (syndrome de cushing, retard de croissance, 
+risque infectieux) (71-73).
+Biothérapies anti-TNF
+Les anti-TNF (infliximab, adalimumab) constituent le traite-
+ment d’induction de choix chez les patients à haut risque. Ils 
+sont également indiqués après échec des immunomodula-
+teurs. Les données pédiatriques proviennent notamment des 
+essais REACH (infliximab) (74) et IMAgINE (adalimumab) (75). 
+L’étude prospective RISK a montré qu’un traitement anti-TNF 
+précoce réduisait la progression vers le phénotype pénétrant 
+(B3) (76). L’essai TISKIDS a confirmé la supériorité d’une stra-
+tégie «top-down» par infliximab : 41 % de rémission clinique 
+à 52 semaines versus 12 % avec traitement conservateur 
+(p= 0,002) (77,78).
+Infliximab : L’induction se fait à 5 mg/kg aux semaines 0, 2 et 
+6, puis entretien toutes les 8 semaines. Les enfants< 30 kg, 
+avec hypoalbuminémie ou avec maladie étendue nécessitent 
+souvent des doses plus élevées ou des intervalles plus courts 
+(79).
+Adalimumab : > 40 kg : 160 mg S0, 80 mg S2, puis 40 mg 
+toutes les 2 semaines ; < 40 kg : 80/40/20 mg toutes les 
+2 semaines. Compte tenu des données sur le sous-dosage 
+chez les jeunes enfants, des doses plus élevées peuvent être 
+nécessaires dans certains cas.
+Autres options
+Un traitement par thalidomide peut induire une rémission 
+chez des enfants réfractaires, avec des taux élevés de cica-
+trisation muqueuse à 12 mois (80,81). Toutefois, ses effets 
+indésirables (sédation, neuropathie périphérique, térato-
+génicité) limitent son usage à des situations complexes 
+(82).
+Thérapeutiques d’entretien de la rémission
+Méthotrexate (MTX)
+Le MTX est recommandé comme immunosuppresseur d’en-
+tretien de première intention ou en cas d’échec/intolé-
+rance aux thiopurines. Administré par voie sous-cutanée, 
+intra-musculaire ou orale de manière hebdomadaire à la dose 
+de 15 mg/m² (max 25 mg), il permet une rémission clinique 
+dans 25-53 % des cas à 12 mois (83,84). L’administration 
+orale de folates [5 mg, 24 à 72 heures après le méthotrexate 
+une fois par semaine, ou 1 mg une fois par jour pendant 
+5 jours par semaine] est recommandée afin de réduire l’hépa-
+totoxicité et les effets indésirables gastro-intestinaux (85). 
+Sur le plan de la sécurité, les effets indésirables les plus 
+fréquents comprenaient les nausées et vomissements, l’élé-
+vation des tests hépatiques, les céphalées, les infections et 
+la toxicité hématologique (84,86). Chez 226 enfants atteints 
+de MC, aucune différence n’a été observée entre la prise orale 
+et la voie sous-cutanée du méthotrexate, que ce soit pour la 
+rémission sans corticoïdes, l’escalade thérapeutique ou les 
+effets indésirables (87).
+Thiopurines (AZA, 6-MP)
+Les thiopurines peuvent maintenir la rémission (88). Les 
+doses recommandées sont de 2,0-2,5 mg/kg/j pour l’aza-
+thioprine et de 1,0-1,5  mg/kg/j pour son précurseur, la 
+6-mercaptopurine. La posologie complète peut être instaurée 
+d’emblée, sans augmentation progressive. Le risque accru 
+de lymphomes, y compris le lymphome T hépatosplénique 
+(HSTCL) chez les jeunes hommes, bien que rare, doit être 
+explicitement discuté (89,94). Une vigilance particulière 
+est nécessaire vis-à-vis des infections EBV primaires sous 
+thiopurines, associées à un risque de lymphoprolifération 
+(95-97).
+Nutrition entérale en traitement d’entretien
+La nutrition entérale d’entretien peut prolonger la rémission 
+après induction réussie, en particulier après EEN. L’efficacité 
+à long terme n’a pas pu être démontrée plus par manque 
+d’observance à ce traitement à moyen terme que part ineffi-
+cacité du traitement. Son utilisation en attendant la mise en 
+place d’une autre thérapeutique est à privilégier. Les alter-
+natives plus récentes, telles que le Crohn’s Disease Exclusion 
+Diet associée à une nutrition partielle, ont montré des résul-
+tats prometteurs en termes de tolérance et de maintien de 
+la rémission à 12 semaines (98). Les régimes alimentaires 
+partiels ou adaptés sont encore considérés comme expé-
+rimentaux.
+Post-chirurgie
+Après résection iléo-cæcale, une coloscopie est recom-
+mandée dans les 6-12 mois suivants la chirurgie. Les patients 
+à haut risque inflammatoire doivent recevoir une prophylaxie
+
+--- Page 10 ---
+186
+par anti-TNF (99-102). L’évaluation endoscopique (score de 
+Rutgeerts) (103,104) au moment de la première coloscopie 
+post-opératoire permet d’anticiper les récidives. Le score de 
+Rutgeerts est simple à réaliser, mais n’a pas été validé chez 
+l’enfant.
+Stratégies d’utilisation des biothérapies
+Les schémas thérapeutiques, les recommandations d’opti-
+misation et de monitoring sont identiques aux recommanda-
+tions de l’adulte. Chez les patients débutant un traitement par 
+infliximab, Il est recommandé d’utiliser une thérapie combinée 
+avec un immunosuppresseur L’association infliximab + immu-
+nosuppresseur réduit le risque de développer des anticorps 
+anti-infliximab et augmente les taux résiduels (105). La 
+gestion thérapeutique de la perte de réponse est identique 
+à chez l’adulte.
+Biosimilaires de l’infliximab et de l’adalimumab
+L’apparition des biosimilaires de l’IFX et de l’ADA a permis de 
+réduire le coût de ces thérapeutiques, avec une efficacité 
+et un profil de sécurité chez l’enfant analogues à ceux des 
+molécules princeps (106). Il n’y a pas de restriction à leur 
+utilisation chez l’enfant, que ce soit en 1re ou en 2e intention 
+chez un patient déjà traité par IFX ou ADA (107).
+Utilisation de l’infliximab SC
+L’infliximab SC n’a pas l’AMM en France chez le patient 
+de moins de 18  ans. Cependant, deux études évaluent 
+le passage de l’infliximab intraveineux à la forme sous-­
+cutanée chez des enfants. Dans la première, menée sur sept 
+patients, tous sont restés en rémission 40 semaines sans 
+effets indésirables ni nouveaux anticorps, avec des taux 
+sériques stables (108). La seconde, incluant 21 adoles-
+cents, montre une rémission maintenue à six mois, avec une 
+tolérance excellente. Ces études suggèrent que la transi-
+tion vers l’infliximab sous-cutané est sûre, efficace et bien 
+acceptée, tout en nécessitant des études supplémentaires 
+pour ajuster la dose chez les enfants de moins de 50 kg 
+(109).
+Autres biothérapies
+Chez les patients qui ne parviennent pas à obtenir ou à 
+maintenir une rémission clinique sous anti-TNF, malgré l’op-
+timisation de la dose d’anti-TNF et l’utilisation d’immuno-
+modulateurs, l’ustekinumab ou le vedolizumab peuvent être 
+envisagés. Cependant, ces autres biothérapies n’ont pour 
+la plupart pas l’AMM en France pour cette indication. Leur 
+expérience en pédiatrie se limite à des situations de MC 
+sévère, résistantes aux traitements habituels, dont l’IFX ou 
+l’ADA (110,111). L’ustekinumab à l’AMM uniquement dans la 
+maladie de Crohn et pour l’enfant de plus de 40 kg. Le risanki-
+zumab n’a pas l’AMM en pédiatrie.
+Pour l’ustekinumab, la première dose est généralement 
+administrée par voie intraveineuse et est de 6  mg/kg. 
+L’administration sous-cutanée commence à la semaine 8 ; 
+les patients adultes reçoivent une injection de 90 mg. Les 
+enfants doivent recevoir une dose ajustée en fonction de 
+la surface corporelle [calculée sur la base d’un adulte de 
+référence ayant une surface corporelle de 1.73m2] toutes 
+les 8 semaines.
+Pour le vedolizumab, l’étude de deux cohortes pédiatriques 
+multicentriques de 44 et 65 enfants ayant une MICI a montré 
+que respectivement 41 % et 32 % d’entre eux étaient en 
+rémission à la semaine 14 du traitement par vedolizumab 
+(112,113). Aucun des effets indésirables observés n’était 
+considéré comme sévère. Chez les patients≥ 40 kg, le vedo-
+lizumab doit être administré par voie intraveineuse à 300 mg, 
+en trois doses d’induction sur 6 semaines [semaines 0-2-6], 
+suivies d’un traitement d’entretien de 300 mg toutes les 
+8 semaines. Il n’existe pas de recommandations spécifiques 
+concernant la posologie pédiatrique. Les patients pédia-
+triques plus jeunes peuvent nécessiter une dose individua-
+lisée de 6 mg/kg jusqu’à un maximum de 300 mg, ou une 
+dose basée sur la surface corporelle [calculée sur la base 
+d’un adulte de référence ayant une surface corporelle de 
+1.73m2]. La réponse au vedolizumab peut prendre du temps 
+[≥ 16 semaines]. Certains centres prescrivent des corticoïdes 
+oraux comme « traitement de transition » en attendant que 
+les effets du vedolizumab se manifestent (114,115).
+Combiothérapie
+L’utilisation en première intention ou en cas d’échec théra-
+peutique de la combiothérapie n’est pas recommandée 
+chez l’enfant. Une revue récente de la littérature et une 
+étude multicentrique menée sous l’égide de l’ESPGHAN ne 
+permettent pas de conclure sur son utilisation (116,117). Son 
+utilisation exceptionnelle en pédiatrie doit résulter d’un avis 
+favorable en réunion de concertation pluridisciplinaire.
+Inhibiteur de Janus Kinase
+Les inhibiteurs de Janus Kinase oraux n’ont pas l’AMM dans 
+la MC pédiatrique. Cependant une étude clinique récente 
+démontre que l’upadacitinib est efficace, sans nouveaux 
+signaux de sécurité, chez un petit sous-groupe de patients 
+atteints de MICI (âgés de 9 à 20 ans) (118). Son utilisation 
+exceptionnelle en pédiatrie doit résulter d’un avis favorable 
+en réunion de concertation pluridisciplinaire.
+Arbre décisionnel de stratégie thérapeutique (62)
+(Figure 4)
+Traitement chirurgical (119)
+La chirurgie est indiquée uniquement en cas de complica-
+tions telles que sténoses, abcès, fistules ou perforations, 
+en cherchant toujours à limiter la longueur des segments 
+retirés (120). L’incidence des interventions chirurgicale 
+est plus élevée chez l’enfant. L’optimisation nutritionnelle 
+préopératoire, qu’elle soit entérale exclusive ou parentérale 
+est primordiale et réduit le risque de complications, favorise 
+une meilleure récupération et peut retarder ou alléger le geste 
+chirurgical. La NEE a montré une réduction de la durée de 
+séjour postopératoire.
+Traitement de la recto-colite 
+hémorragique
+En pédiatrie, La RCH se distingue de la MC par un phéno-
+type globalement moins hétérogène. La forme pédiatrique 
+représente environ 15 à 20 % de l’ensemble des cas (9). Des 
+recommandations sur la prise en charge médicale de la RCH 
+pédiatrique et de la colite aiguë sévère ont été publiées par 
+l’ESPGHAN et l’ECCO (121,122).
+(Figure 5 et Tableau 7)
+
+--- Page 11 ---
+187
+MICI
+Figure 4 : Arbre décisionnel de stratégie thérapeutique
+LÉGENDES :
+1	
+Cible thérapeutique :
+	
+Le moment optimal pour réévaluer l’activité de la maladie 
+après l’induction n’est pas clairement défini. L’évaluation de 
+la réponse thérapeutique se fait sur un faisceau d’argument 
+clinique, biologique, radiologique et endoscopique.
+2	
+Nutrition entérale exclusive (NEE) :
+	
+Une formule polymérique est préférable en NEE.  
+Voir le chapitre dédié.
+	
+Traitement d’entretien.
+3	
+Immunosuppresseurs :
+	
+Le méthotrexate peut être utilisé en première intention  
+pour maintenir la rémission ou après échec ou intolérance  
+aux thiopurines.
+4	
+Traitement nutritionnel d’entretien :
+	
+Chez les patients en rémission avec une MC à faible risque,  
+un traitement nutritionnel d’entretien (au moins 50 % des 
+besoins énergétiques journaliers) peut prolonger la rémission.
+5	
+Poursuite de l’anti-TNF en traitement d’entretien :
+	
+En monothérapie ou combothérapie, avec surveillance proactive 
+du taux résiduel pour guider l’optimisation du traitement.
+	
+Combothérapie par anti-TNF et immunomodulateur
+6	
+Un arrêt de l’immunosuppresseur doit être discuté 
+après 6 à 12 mois de combothérapie si l’infliximabémie 
+résiduelle est dans la fourchette cible et les cibles 
+thérapeutiques sont atteintes. Chez les patients naïfs 
+d’anti-TNF recevant l’adalimumab, une monothérapie  
+est une alternative à la combothérapie.
+7	
+Chez des patients préalablement immunisés contre l’IFX 
+ou chez des patients à haut risque, la combothérapie 
+paraît plus prudente. Chez les patients avec une maladie 
+active sous anti-TNF, il est recommandé de surveiller  
+de façon pro-active le taux résiduel d’IFX ou d’ADA  
+pour guider les changements thérapeutiques : 
+optimisation du traitement ou « switch ».
+8	
+Chez les patients sous anti-TNF chez lesquels  
+la rémission n’est pas obtenue ou non maintenue  
+malgré une optimisation du traitement et l’association  
+à un immunomodulateur, un traitement par ustekinumab 
+ou vedolizumab peut être envisagé.
+	
+Antibiothérapie adjuvante dans la maladie de Crohn 
+fistulisante périnéale
+9	
+Métronidazole 30 mg/kg/j, per os en 2 à 3 prises + 
+ciprofloxacine 20 mg/kg/j, per os, en 2 prises.
+
+--- Page 12 ---
+188
+Figure 5 : Organigramme récapitulatif de la prise en charge de la rectocolite hémorragique (RCH) pédiatrique
+1	
+Les éléments suivants doivent être pris en compte en cas 
+de maladie active : colite infectieuse (y compris à CMV et 
+à C. difficile), colite liée au 5-ASA, intolérance au lactose, 
+syndrome du côlon irritable, maladie cœliaque. En cas 
+de discordance entre le score PUCAI et la classification 
+endoscopique de la colite, l’endoscopie doit prévaloir.
+2	
+Le 5-ASA est dosé à 60-80 mg/kg/jour jusqu’à 4,8 grammes 
+par jour. Une dose quotidienne unique peut être aussi efficace 
+qu’une dose biquotidienne.
+3	
+Les lavements au 5-ASA (1 g par jour est aussi efficace que  
+des doses plus élevées) sont plus efficaces que les lavements 
+aux stéroïdes. Les lavements doivent être administrés en 
+décubitus gauche. Les lavements liquides sont plus difficiles  
+à tolérer que les mousses et les suppositoires, mais 
+conviennent mieux aux colites étendues.
+4	
+En l’absence d’amélioration (diminution du PUCAI inférieure 
+à 20 points) après 7 à 10 jours, ou en cas d’augmentation 
+du PUCAI de 20 points à tout moment, envisager une 
+intensification du traitement. La dépendance aux stéroïdes  
+doit être évitée.
+5	
+Voir la partie 2 des présentes recommandations.
+6	
+La réponse est définie par une baisse du score PUCAI d’au 
+moins 20 points. Cependant, l’objectif du traitement d’induction 
+est une rémission complète à terme.
+7	
+Par exemple, en cas d’intolérance ou de résistance antérieure 
+aux stéroïdes, ou lorsque l’infliximab est indiqué de toute façon 
+en traitement d’entretien après échec des thiopurines.
+8	
+La mesure du TPMT (génotypage ou activité enzymatique) à 
+l’inclusion, ainsi que des taux de 6-TG et de 6-MMP après 2 à 
+3 mois, peut contribuer à optimiser la posologie des thiopurines.
+9	
+Si l’infliximab a été utilisé dans une maladie naïve aux 
+thiopurines, des thiopurines peuvent être ajoutées et 
+l’infliximab arrêté après 4 à 8 mois en cas de rémission 
+complète. Le passage au 5-ASA peut être envisagé dans 
+certains cas, si le 5-ASA n’a pas échoué auparavant et après 
+une période de rémission profonde soutenue.
+Commentaires : Les traitements médicaux de la RCH doivent être répartis entre ceux qui induisent une rémission (5-ASA, corticoïdes, 
+traitement anti-TNF, inhibiteurs de la calcineurine et, probablement, probiotiques) et ceux qui maintiennent la rémission (5-ASA, 
+thiopurines, traitement anti-TNF, vedolizumab et certains probiotiques).
+
+--- Page 13 ---
+189
+MICI
+Inhibiteur de Janus Kinase
+Les données concernant le tofacitinib sont limitées, et ne 
+portent que sur quelques dizaines de cas (123). Son utilisa-
+tion exceptionnelle en pédiatrie doit résulter d’un avis favo-
+rable en réunion de concertation pluridisciplinaire.
+Colite aiguë grave (CAG) et place de la chirurgie
+L’ASC survient chez 10 à 15 % des enfants avec RCH et 
+représente une urgence médicale. Elle est définie par un 
+PUCAI≥ 65. La mortalité a considérablement diminué (<1 % 
+aujourd’hui), mais le risque de colectomie reste élevé. La 
+gestion médicale de la CAG en pédiatre est identique à celle 
+de l’adulte.
+Comme chez l’adulte, Lorsque la colite est diffuse et résiste 
+aux traitements médicaux, qu’elle met en jeu le pronostic vital, 
+ou encore lors de la survenue de dysplasie, de colite aiguë 
+sévère réfractaire ou de méga-côlon toxique, une colectomie 
+s’impose. Les taux pédiatriques rapportés atteignant 30 à 
+40 % après 10 ans de suivi (10). Néanmoins, certaines études 
+décrivent des fréquences plus basses, suggérant une varia-
+bilité selon les cohortes étudiées et les stratégies thérapeu-
+tiques employées (8,11,12).
+Surveillance et suivi
+Un suivi étroit est indispensable, incluant un suivi clinique 
+(croissance staturo-pondérale, puberté, activité de la 
+maladie), un suivi biologique (hémogramme, transaminases, 
+CRP, calprotectine fécale) et un suivi endoscopique. À long 
+terme, le risque accru de cancer colorectal impose une 
+surveillance endoscopique régulière après 8-10 ans d’évo-
+lution, en particulier en cas de pancolite.
+Tableau 7 : récapitulatif des différentes molécules utilisées en pédiatrie (121,122)
+Nom de la 
+molécule
+Classe 
+pharmacologique
+Posologie (enfant)
+Effets indésirables 
+principaux
+Surveillance recommandée
+Mesalazine (5-
+ASA)
+Anti-inflammatoire 
+local
+60-80 mg/kg/j (max 
+100 mg/kg/j ou 4,8 g/j) 
+per os ; rectal : 25 mg/kg 
+(max 1 g/j)
+Céphalées, nausées, 
+douleurs abdominales, 
+intolérance mimant 
+une poussée, rares 
+néphrotoxicité ou 
+pancréatite
+NFS, créatinine, urines 
+périodiquement ; surveillance 
+clinique tolérance
+Sulfasalazine
+5-ASA lié à 
+sulfapyridine
+40-70 mg/kg/j (max 
+4 g/j)
+Troubles digestifs, 
+céphalées, rash, 
+oligospermie, réactions 
+allergiques
+NFS, bilan hépatique et rénal ; 
+surveillance effets digestifs
+Corticostéroïdes 
+(Prednisone)
+Corticoïde 
+systémique
+1 mg/kg/j (max 40 mg/j) 
+p.o. pendant 2-3 sem, 
+puis décroissance 
+progressive
+Hyperglycémie, prise de 
+poids, HTA, ostéoporose, 
+troubles de l’humeur, 
+retard de croissance
+Surveillance clinique, tension, 
+poids, glycémie, DMO si 
+traitement prolongé
+Budésonide LM
+Corticoïde topique 
+colique
+Selon schéma adulte 
+(colite gauche 
+uniquement)
+Moins d’effets systémiques 
+que prednisone, possibles 
+céphalées, dyspepsie
+Surveillance clinique
+Azathioprine 
+(AZA)
+Immunomodulateur 
+(thiopurines)
+2-2,5 mg/kg/j
+Myelosuppression, 
+hépatite, pancréatite, 
+nausées, risque rare de 
+lymphome
+TPMT avant traitement, 
+NFS + ALAT/ASAT toutes les 
+1-2 sem puis tous les 3 mois, 
+protection solaire
+6-Mercaptopurine 
+(6-MP)
+Immunomodulateur 
+(thiopurines)
+1-1,5 mg/kg/j
+Idem azathioprine
+Idem AZA, dosage 6-TGN/6-
+MMP si inefficacité ou toxicité
+Méthotrexate
+Antimétabolite 
+(rarement utilisé)
+Selon protocole, voie s/c 
+hebdomadaire
+Nausées, hépatotoxicité, 
+cytopénies
+NFS, ALAT/ASAT réguliers
+Tacrolimus (FK-
+506)
+Inhibiteur de la 
+calcineurine
+Cible : 10-15 ng/mL puis 
+5-10 ng/mL 
+Néphrotoxicité, céphalées, 
+tremblements, HTA
+Dosages sanguins, créatinine, 
+PA
+Infliximab
+Anti-TNF-α 
+(biologique)
+5 mg/kg IV aux semaines 
+0, 2, 6 puis toutes les 
+8 sem
+Réactions d’infusion, 
+infections, psoriasis, 
+anticorps anti-médicament
+Surveillance clinique, 
+dépistage TB/VHB, dosage 
+taux résiduels
+Adalimumab / 
+Golimumab
+Anti-TNF-α 
+(biologique SC)
+Selon protocole 
+pédiatrique (poids-
+dépendant)
+Réactions locales, 
+infections, rashs, formation 
+d’anticorps
+Idem infliximab
+Vedolizumab
+Anti-intégrine α4β7
+300 mg IV (adultes ; 
+données pédiatriques 
+limitées)
+Céphalées, fatigue, 
+infections ORL, réactions 
+perfusionnelles
+Surveillance tolérance, 
+infections
+Probiotiques 
+(VSL#3)
+Adjuvants
+VSL#3 : doses selon 
+étude.
+Ballonnements, inconfort 
+digestif
+Surveillance clinique
+Curcumin
+Complément anti-
+inflammatoire
+2-4 g/j induction, 1-2 g/j 
+maintenance
+Très bien toléré, rares 
+troubles digestifs
+Aucun suivi spécifique requis
+
+--- Page 14 ---
+190
+Conclusion
+De façon globale, les buts et moyens thérapeutiques restent 
+comparables entre l’enfant et l’adulte. Néanmoins, il convient 
+de souligner dans la maladie de Crohn pédiatrique son impact 
+délétère sur la croissance staturale, la prise pondérale et la 
+maturation pubertaire, paramètres essentiels pour le suivi 
+de l’activité inflammatoire et l’évaluation thérapeutique. La 
+stratégie diagnostique prend donc en compte plus volontiers 
+le facteur invasif ou cumulatif des examens complémentaires. 
+D’un point de vue thérapeutique, la nutrition entérale exclu-
+sive est un traitement de choix en pédiatrie. On constate 
+également que les travaux pédiatriques en matière de trai-
+tement sont nettement moins nombreux que ceux menés 
+sur des populations adultes. De ce fait, certaines molécules 
+ne sont pas accessibles par manque d’autorisation de mise 
+sur le marché dans les indications pédiatriques. La transi-
+tion en médecine adulte est une étape majeure du parcours 
+médical de ces patients. Elle doit être préparée et réalisée 
+avec rigueur.
+Remerciements : Je remercie vivement le Dr NGWANOU (*) 
+pour la relecture attentive de ce travail et pour ses conseils 
+avisés.
+* Service de Pédiatrie. CHU de Rennes-Hôpital Sud
+Références
+1.	
+Carroll MW, Kuenzig ME, Mack DR, et al. The impact of inflam-
+matory bowel disease in Canada 2018: children and adoles-
+cents with IBD. J Can Assoc Gastroenterol 2019;2:S49–S67.
+2.	
+Uhlig HH, Schwerd T, Koletzko S, et al. COLORS in IBD Study 
+Group and NEOPICS. The diagnostic approach to monogenic 
+very early onset inflammatory bowel disease. Gastroenterology. 
+2014;147:990–1007.e3.
+3.	
+Glocker EO, Kotlarz D, Boztug K, et al. Inflammatory bowel 
+disease and mutations affecting the interleukin-10 receptor. N 
+Engl J Med. 2009;361:2033–2045.
+4.	
+Hsieh KH, Chang MH, Lee CY, et al. Wiskott-Aldrich syndrome 
+and inflammatory bowel disease. Ann Allergy. 1988;60:429–431.
+5.	
+Kelsen JR, Baldassano RN, Artis D, et al. Maintaining intestinal 
+health: the genetics and immunology of very early onset 
+inflammatory bowel disease. Cell Mol Gastroenterol Hepatol. 
+2015;1:462–476.
+6.	
+Pazmandi J, Kalinichenko A, Ardy RC, et al. Early-onset inflam-
+matory bowel disease as a model disease to identify key 
+regulators of immune homeostasis mechanisms. Immunol Rev. 
+2019;287:162–185.
+7.	
+Charbit-Henrion F, Parlato M, Hanein S, et al. Diagnostic yield 
+of next generation sequencing in very early-onset inflam-
+matory bowel diseases: a multicenter study. J Crohns Colitis 
+2018;12:1104–1112.
+8.	
+Kuenzig ME, Fung SG, Marderfeld L, et al. Twenty-first century 
+trends in the global epidemiology of pediatric onset inflam-
+matory bowel disease: Systematic review. Gastroenterology 
+2022;162: 1147-1159.
+9.	
+Turck D, Gower-Rousseau C, Dabadie A. Maladies inflam-
+matoires chroniques de l’intestin. In: F Gottrand, D Turck, éds. 
+Gastroentérologie pédiatrique. Progrès en pédiatrie 40, Doin, 
+Rueil-Malmaison, 2016:151-178.
+10.	 Ng SC, Shi HY, Hamidi N. Worldwide incidence and prevalence 
+of inflammatory bowel disease in the 21st century: a systematic 
+review of population-based studies. Lancet 2017; 390:2769-2778.
+11.	 Ghione S, Sarter H, Armengol-Debeir L, et al. Dramatic increase 
+in incidence of ulcerative colitis and Crohn’s disease (1988-
+2011): A population-based study of French adolescents. Am J 
+Gastroenterol. 2018;113:265-272.
+12.	 Borowitz SM. The epidemiology of inflammatory bowel disease: 
+Clues to pathogenesis. Front Pediatr. 2023;10:1103713.
+13.	 Khan R, Kuenzig ME, Benchimol EI. Epidemiology of Pediatric 
+Inflammatory Bowel disease. Gastroenterol Clin North Am. 
+2023;52:483-496.
+14.	 Li Y, Tian Y, Zhu W, et al. Cesarean delivery and risk of inflam-
+matory bowel disease: a systematic review and meta-analysis. 
+Scand J Gastroenterol. 2014;49:834-44.
+15.	 Bruce A, Black M, Bhattacharya S. Mode of delivery and risk of 
+inflammatory bowel disease in the offspring: systematic review 
+and meta-analysis of observational studies. Inflamm Bowel Dis. 
+2014;20:1217-26.
+16.	 Barclay AR, Russell RK, Wilson ML, et al. Systematic review: the 
+role of breast feeding in the development of pediatric inflam-
+matory bowel disease. J Pediatr. 2009;155:421-6.
+17.	 Jones DT, Ostermanı MT, Bewtra M, et al. Passive smoking and 
+inflammatory bowel disease: a meta-analysis. Am J Gastroen-
+terol. 2008;103:2382-93.
+18.	 Ungaro R, Bernstein CN, Gearry R, et al. Antibiotics associated 
+with increased risk of new-onset Crohn’s disease but not 
+ulcerative colitis: a meta-analysis. Am J Gastroenterol. 
+2014;109:1728-38.
+19.	 Pineton de Chambrun G, Dauchet L, Gower-Rousseau C, et 
+al. Vaccination and risk for developing inflammatory bowel 
+disease: a meta-analysis of case-control and cohort studies. Clin 
+Gastroenterol Hepatol. 2015;13:1405-1415.
+20.	 Dong C, Chan SSM, Jantchou P, et al. Meat Intake Is Associated 
+with a Higher Risk of Ulcerative Colitis in a Large European 
+Prospective Cohort Studyo. J Crohns Colitis 2022;16:1187-96.
+21.	 De Silva  PS, Olsen  A, Christensen  J, et al. An association 
+between dietary arachidonic acid, measured in adipose tissue, 
+and ulcerative colitis. Gastroenterology 2010;139:1912-7.
+22.	 John S, Luben R, Shrestha SS, et al. Dietary n-3 polyunsatu-
+rated fatty acids and the aetiology of ulcerative colitis: a 
+UK prospective cohort study. Eur J Gastroenterol Hepatol. 
+2010;22:602-6.
+23.	 Li F, Liu X, Wang W, et al. Consumption of vegetables and fruit 
+and the risk of inflammatory bowel disease: a meta-analysis. Eur 
+J Gastroenterol Hepatol. 2015;27:623-30.
+24.	 Narula N, Wong ECL, Dehghan M, et al. Association of ultra-pro-
+cessed food intake with risk of inflammatory bowel disease: 
+prospective cohort study. BMJ. 2021;374:n1554.
+25.	 Del Pinto R, Pietropaoli D, Chandar AK, et al. Association 
+Between Inflammatory Bowel Disease and Vitamin D Deficiency: 
+A Systematic Review and Meta-analysis. Inflamm Bowel Dis. 
+2015;21:2708-17.
+26.	 Ledder O, Sonnino M, Birimberger-Schwartz L, et al. Appraisal 
+of the PIBD-classes criteria: a multicenter validation. J Crohn’s 
+colitis. 2020;14:1672-1679.
+27.	 Ricciuto A, Mack DR, Huynh HQ, et al. Diagnostic delay is 
+associated with complicated disease and growth impairment 
+in paediatric Crohn’s disease. J Crohn’s Colitis. 2021;15:419-431.
+28.	 Franke M, Geiss A, Greiner P, et al. The role of endoscopy 
+in pediatric gastrointestinal bleeding. Endosc Int Open. 
+2016;4:E1011-E1016.
+29.	 Van de Vijver  E, Heida  A, Ioannou  S, et al. CACATU 
+Consortium. Test strategies to predict inflammatory bowel 
+disease among children with nonblooody diarrhea. Pediatrics 
+2020;146:e20192235.
+30.	 Heida A, Van de Vijver E, van Ravenzwaaij D, et al. CACATU 
+Consortium. Predicting inflammatory bowel disease in children 
+with abdominal pain and diarrhea: calgranulin-C versus calpro-
+tectin stool tests. Arch Dis Child. 2018:565-571.
+
+--- Page 15 ---
+191
+MICI
+31.	 Fiorino G, Bonovas S, Gilardi D, et al. Validation of the red flags 
+index for early diagnosis of Crohn’s disease: a prospective 
+observational IG-IBD study among general practitionners. J 
+Crohn’s Colitis. 2020;14:1777-1779.
+32.	 Oliveira SB, Monteiro IM. Diagnosis and management of inflam-
+matory bowel disease in children. BMJ. 2017;357:j2083.
+33.	 Amaro F, Chiarelli F. Growth and puberty in children with inflam-
+matory bowel diseases. Biomedicines. 2020;8:458.
+34.	 Jang HJ, Kang B, Choe BH. The difference in extraintestinal 
+manifestations of inflammatory bowel disease for children and 
+adults. Transl Pediatr. 2019;8:4-15.
+35.	 Mack DR, Langton C, Markowitz J, et al. Laboratory values for 
+children with newly diagnosed inflammatory bowel disease. 
+Pediatrics 2007;119:1113-9.
+36.	 Birimberg-Schwartz L, Wilson DC, Kolho KL, et al. pANCA and 
+ASCA in children with IBD-Unclassified, Crohn’s colitis, and ulcer-
+ative colitis-A longitudinal report from the IBD Porto Group of 
+ESPGHAN. Inflamm Bowel Dis. 2016; 22:1908-1914.
+37.	 Koninckx CR, Donat E, Benninga M, et al. The use of fecal 
+calprotectin testing in paediatric disorders: A position paper 
+of the European Society for Paediatric Gastroenterology and 
+Nutrition Gastroenterology Committee. J Pediatr Gastroenterol 
+Nutr. 2021;72:617-640.
+38.	 Kellar A, Dolinger M, Novak KL, et al. Intestinal ultrasound for the 
+pediatric gastroenterologist: a guide for inflammatory bowel 
+disease monitoring in children. Expert Consensus on behalf 
+of the International Bowel Ultrasound Group (IBUS) Pediatric 
+Committee. J Pediatr Gastroenterol Nutr. 2022;176:142-148.
+39.	 Hoerning A, Jüngert J, Siebenlist G, et al. Ultrasound in pediatric 
+inflammatory bowel disease – A review of the state of the art 
+and future perspectives. Children. 2024;11:156.
+40.	 Oliva S, Thomson M, de Ridder L, et al. Endoscopy in pediatric 
+inflammatory bowel disease: A Position Paper on behalf of the 
+Porto IBD Group of the European Society for Paediatric Gastro-
+enterology, Hepatology and Nutrition. J Pediatr Gastroenterol 
+Nutr. 2018; 67:414-430.
+41.	 Levine A, Koletzko S, Turner D, et al. ESPGHAN revised Porto 
+criteria for the diagnosis of inflammatory bowel disease 
+in children and adolescents. J Pediatr Gastroenterol Nutr. 
+2014;58:795-806.
+42.	 de Bie CI, Paerregaard A, Kolacek S, et al. Disease phenotype 
+at diagnosis in pediatric Crohn’s disease: 5 years analyses of the 
+EUROKIDS registry. Inflamm Bowel Dis. 2013;19: 378-385.
+43.	 Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of 
+the Montreal classification for inflammatory bowel disease: the 
+Paris classification. Inflamm Bowel Dis. 2011;17:1314-1321.
+44.	 Hyams  JS, Ferry  GD, Mandel  FS, et al. Development and 
+validation of a pediatric Crohn’s disease activity index. J Pediatr 
+Gastroenterol Nutr. 1991;12:439-47.
+45.	 Orlanski-Meyer E, Aardoom M, Ricciuto A, et al. Predicting 
+outcomes in pediatric ulcerative colitis for management optimi-
+zation: Systematic review and consensus statements from the 
+pediatric inflammatory bowel disease - Ahead Program. Gastro-
+enterology. 2021;160: 378-402.
+46.	 Hochart A, Gower-Rousseau C, Sarter H, et al. Ulcerative 
+proctitis is a frequent location of paediatric-onset UC and 
+not a minor disease: a population-based study. Gut 2017;66: 
+1912-1917.
+47.	 Tal N, Tzivinikos C, Gasparetto M, et al. Clinical features and 
+natural history of paediatric patients with ulcerative proctitis: 
+a multicentre study from the Paediatric IBD Porto Group of 
+ESPGHAN. J Crohns Colitis 2023;17:1939-1948.
+48.	 Turner D, Hyams J, Markowitz J, et al. Pediatric IBD Collaborative 
+Research Group. Appraisal of the pediatric ulcerative colitis 
+activity index (PUCAI). Inflamm Bowel Dis. 2009;15:1218-23.
+49.	 Vasseur F, Gower-Rousseau C, Vernier-Massouille G, et al. Nutri-
+tional status and growth in pediatric Crohn’s disease: a popula-
+tion-based study. Am J Gastroenterol. 2010;105:1893-1900.
+50.	 Komaki Y, Komaki F, Yamada A, et al. Risk of cancers in patients 
+with pediatric inflammatory bowel diseases: A systematic review 
+and meta-analysis. J Pediatr. 2021;229: 102-117.
+51.	 Elmahdi R, Lemser CE, Thomsen SB, et al. Development of 
+cancer among patients with pediatric-onset inflammatory 
+bowel disease: a meta-analysis of population-based studies. 
+JAMA Netw Open 2022;5:e220595.
+52.	 Blum RW, Garell D, Hodgman CH, et al. Transition from child-cen-
+tered to adult health-care systems for adolescents with chronic 
+conditions. A position paper of the Society for Adolescent 
+Medicine. J. Adolesc. Health 1993;14: 570-576.
+53.	 Rosen DS. Transition of young people with respiratory diseases 
+to adult health care. Paediatr. Respir. Rev. 2004;5:124-131.
+54.	 Wallis C. Transition of care in children with chronic disease. BMJ. 
+2007;334:1231-1232.
+55.	 Bennett DL, Towns SJ, Steinbeck KS. Smoothing the transition to 
+adult care. Med. J. Aust. 2005;182:373-374.
+56.	 McDonagh JE, Growing up and moving on: transition from 
+pediatric to adult care. Pediatr. Transplant. 2005;9:364-372.
+57.	 Giarelli E, Bernhardt BA, Mack R, et al. Adolescents’ transition to 
+self management of a chronic genetic disorder. Qual. Health 
+Res. 2008;18:441-457.
+58.	 Philpott JR. Transitional care in inflammatory bowel disease. 
+Gastroenterol. Hepatol. (NY) 2011;7:26-32.
+59.	 Zeisler B, Hyams JS. Transition of management in adolescents 
+with IBD. Nat Rev Gastroenterol Hepatol. 2014;11:109-15.
+60.	 Fu N, Bollegala N, Jacobson K, et al. Canadian Consensus 
+Statements on the Transition of Adolescents and Young Adults 
+with Inflammatory Bowel Disease from Pediatric to Adult Care: 
+A Collaborative Initiative Between the Canadian IBD Transition 
+Network and Crohn’s and Colitis Canada. J Can Assoc Gastro-
+enterol. 2022;5:105-15.
+61.	 Hait EJ, Arnold JH, Fishman LN. Educate, communicate, antici-
+pate-practical recommendations for transitioning adolescents 
+with IBD to adult health care. Inflamm Bowel Dis. 2006;12:70-3.
+62.	 van Rheenen  PF, Aloi  M, Assa  A, et al. The medical 
+management of paediatric Crohn’s disease: an ECCO 
+ESPGHAN guideline update. J Crohns Colitis 2021;15:171-194.
+63.	 Narula N, Dhillon A, Zhang D, et al. Enteral nutritional therapy for 
+induction of remission in Crohn’s disease. Cochrane Database 
+Syst. Rev. 2018;4:CD000542.
+64.	 Swaminath A, Feathers A, Ananthakrishnan A, et al. Systematic 
+review with meta-analysis: enteral nutrition therapy for the 
+induction of remission in paediatric Crohn’s disease. Aliment 
+Pharmacol Ther. 2017;46:645-56.
+65.	 Borrelli O, Cordischi L, Cirulli M, et al. Polymeric diet alone versus 
+cortico steroids in the treatment of active pediatric Crohn’s 
+disease: a randomized controlled open-label trial. Clin Gastro-
+enterol Hepatol. 2006;4:744-53.
+66.	 Pigneur B, Lepage P, Mondot S, et al. Mucosal healing and 
+bacterial composition in response to enteral nutrition vs steroid-
+based induction therapy-a randomised prospective clinical trial 
+in children with Crohn’s disease. J Crohns Colitis 2019;13:846-55.
+67.	 Rubio A, Pigneur B, Garnier-Lengliné H, et al. The efficacy of 
+exclusive nutritional therapy in paediatric Crohn’s disease, 
+comparing frac tionated oral vs. continuous enteral feeding. 
+Aliment Pharmacol Ther. 2011;33:1332-9.
+68.	 Catto S, Dugelay E, Viala J, et al. Exclusive enteral nutrition for 
+induction of remission in pediatric Crohn’s disease: Short- and 
+long-term tolerance and acceptance. JPGN Rep. 2024;6:11-18.
+69.	 Levine A, Kori M, Dinari G, et al. Israeli Pediatric Budesonide 
+Study Group. Comparison of two dosing methods for induction 
+of response and remission with oral budesonide in active 
+pediatric Crohn’s disease: a ran domized placebo-controlled 
+trial. Inflamm Bowel Dis. 2009;15:1055-61.
+
+--- Page 16 ---
+192
+70.	 Kuenzig ME, Rezaie A, Kaplan GG, et al. Budesonide for the 
+induction and maintenance of remission in Crohn’s Disease: 
+systematic review and meta-analysis for the Cochrane Collab-
+oration. J Can Assoc Gastroenterol. 2018;1:159-73.
+71.	 Agrawal A, Durrani S, Leiper K, Ellis A, Morris AI, Rhodes JM. Effect 
+of systemic corticosteroid therapy on risk for intra-abdominal or 
+pelvic abscess in non-operated Crohn’s disease. Clin Gastroen-
+terol Hepatol. 2005;3:1215-20.
+72.	 Singh S, Facciorusso A, Dulai PS, et al. Comparative risk of serious 
+infections with biologic and/or immunosuppressive therapy in 
+patients with inflammatory bowel diseases: a systematic review 
+and meta-Analysis. Clin Gastroenterol Hepatol. 2020;18:69-81.
+73.	 Costello R, Patel R, Humphreys J, et al. Patient perceptions of 
+glucocorticoid side effects: a cross-sectional survey of users in 
+an online health community. BMJ Open 2017;7:e014603.
+74.	 Hyams J, Crandall W, Kugathasan S, et al. REACH Study Group. 
+Induction and maintenance infliximab therapy for the treatment 
+of moderate-to severe Crohn’s disease in children. Gastroenter-
+ology 2007;132:863-73.
+75.	 Hyams JS, Griffiths A, Markowitz J, et al. Safety and efficacy 
+of adalimumab for moderate to severe Crohn’s disease in 
+children. Gastroenterology 2012;143:365-74.
+76.	 Kugathasan S, Denson LA, Walters TD, et al. Prediction of 
+complicated disease course for children newly diagnosed with 
+Crohn’s disease: a multicentre inception cohort study. Lancet 
+2017;389:1710-8.
+77.	 Cozijnsen MA, van Pieterson M, Samsom JN, et al. Top-down 
+Infliximab Study in Kids with Crohn’s disease [TISKids]: an inter-
+national multicentre randomised controlled trial. BMJ Open 
+Gastroenterol. 2016;3:e000123.
+78.	 Jongsma  MA, Aardoom  M, Cozijnsen  M, et al. Top-down 
+infliximab superior to step-up in children with moderate-to-
+severe Crohn’s disease: A multicentre randomised controlled 
+trial. J Crohns Colitis 2020;14:S039.
+79.	 Winter DA, Joosse ME, de Wildt SN, et al. Pharmacokinetics, 
+pharmacodynamics, and immunogenicity of infliximab in 
+pediatric inflammatory bowel disease: a systematic review 
+and revised dosing considerations. J Pediatr Gastroenterol Nutr. 
+2020;70:763-76.
+80.	 Lazzerini M, Martelossi S, Magazzù G, et al. Effect of thalid-
+omide on clinical remission in children and adolescents with 
+refractory Crohn disease: a randomized clinical trial. JAMA. 
+2013;310:2164-73.
+81.	 Lazzerini M, Villanacci V, Pellegrin MC, et al. Endoscopic 
+and histologic healing in children with inflammatory bowel 
+diseases treated with thalidomide. Clin Gastroenterol Hepatol. 
+2017;15:1382-9.
+82.	 Yang C, Singh P, Singh H, et al. Systematic review: thalidomide 
+and thalidomide analogues for treatment of inflammatory 
+bowel disease. Aliment Pharmacol Ther. 2015;41:1079-93.
+83.	 Colman RJ, Lawton RC, Dubinsky MC, Rubin DT. Methotrexate 
+for the treatment of pediatric Crohn’s disease: a systematic 
+review and meta analysis. Inflamm Bowel Dis. 2018;24:2135-41.
+84.	 Scherkenbach  LA, Stumpf  JL. Methotrexate for the 
+Management of Crohn’s disease in children. Ann Pharma-
+cother. 2016;50:60-9.
+85.	 Liu L, Liu S, Wang C, et al. Folate supplementation for metho-
+trexate therapy in patients with rheumatoid arthritis: a 
+systematic review. J Clin Rheumatol. 2019;25:197-202.
+86.	 Valentino PL, Church PC, Shah PS, et al. Hepatotoxicity caused 
+by methotrexate therapy in children with inflammatory bowel 
+disease: a sys tematic review and meta-analysis. Inflamm Bowel 
+Dis. 2014;20:47-59.
+87.	 Turner D, Doveh E, Cohen A, et al. Efficacy of oral methotrexate 
+in paediatric Crohn’s disease: a multicentre propensity score 
+study. Gut 2015;64:1898-904.
+88.	 Chande  N, Patton  PH, Tsoulis  DJ, et al. Azathioprine or 
+6-mercaptopurine for maintenance of remission in Crohn’s 
+disease. Cochrane Database Syst Rev 2015;4: CD000067.
+89.	 Beaugerie L, Brousse N, Bouvier AM, et al. CESAME Study Group. 
+Lymphoproliferative disorders in patients receiving thiopurines 
+for inflammatory bowel disease: a prospective observational 
+cohort study. Lancet 2009;374:1617-25.
+90.	 Kotlyar DS, Lewis JD, Beaugerie L, et al. Risk of lymphoma in 
+patients with inflammatory bowel disease treated with azathi-
+oprine and 6-mercaptopurine: a meta-analysis. Clin Gastroen-
+terol Hepatol. 2015;13:847-58.
+91.	 Lemaitre  M, Kirchgesner  J, Rudnichi  A, et al. Association 
+between use of thiopurines or tumor necrosis factor antagonists 
+alone or in combination and risk of lymphoma in patients with 
+inflammatory bowel disease. JAMA 2017;318:1679-86.
+92.	 Joosse ME, Aardoom MA, Kemos P, et al.; Paediatric IBD Porto 
+group of ESPGHAN. Malignancy and mortality in paediat-
+ric-onset inflammatory bowel disease: a 3-year prospective, 
+multinational study from the paediatric IBD Porto group of 
+ESPGHAN. Aliment Pharmacol Ther. 2018;48:523-37.
+93.	 Hyams JS, Dubinsky MC, Baldassano RN, et al. Infliximab is not 
+associated with increased risk of malignancy or hemophago-
+cytic lymphohistiocytosis in pediatric patients with inflammatory 
+bowel disease. Gastroenterology 2017;152:1901-14.
+94.	 Kotlyar DS, Osterman MT, Diamond RH, et al. A systematic review 
+of factors that contribute to hepatosplenic T-cell lymphoma in 
+patients with inflammatory bowel disease. Clin Gastroenterol 
+Hepatol. 2011;9:36-41.
+95.	 de Francisco R, Castaño-García A, Martínez-González S, et 
+al. Impact of Epstein-Barr virus serological status on clinical 
+outcomes in adult patients with inflammatory bowel disease. 
+Aliment Pharmacol Ther. 2018;48:723-30.
+96.	 Rahier JF, Magro F, Abreu C, et al. European Crohn’s and Colitis 
+Organisation [ECCO]. Second European evidence-based 
+consensus on the prevention, diagnosis and management of 
+opportunistic infections in inflammatory bowel disease. J Crohns 
+Colitis 2014;8:443-68.
+97.	 Martinelli M, Giugliano FP, Strisciuglio C, et al. Vaccinations and 
+immunization status in pediatric inflammatory bowel disease: 
+a multicenter study from the Pediatric IBD Porto Group of the 
+ESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.
+98.	 Levine A, Wine E, Assa A, et al. Crohn’s disease exclusion diet 
+plus partial enteral nutrition induces sustained remission in a 
+randomized controlled trial. Gastroenterology 2019;157:440-50.
+99.	 Regueiro M, Schraut W, Baidoo L, et al. Infliximab prevents 
+Crohn’s disease recurrence after ileal resection. Gastroenter-
+ology 2009;136:441-50.
+100.	 Regueiro M, Feagan BG, Zou B, et al. PREVENT Study Group. 
+Infliximab reduces endoscopic, but not clinical, recurrence of 
+Crohn’s disease after ileocolonic resection. Gastroenterology 
+2016;150:1568-78.
+101.	 De Cruz P, Kamm MA, Hamilton AL, et al. Efficacy of thiopurines 
+and adalimumab in preventing Crohn’s disease recurrence in 
+high-risk patients - a POCER study analysis. Aliment Pharmacol 
+Ther. 2015;42:867-79.
+102.	 De Cruz P, Kamm MA, Hamilton AL, et al. Crohn’s disease 
+management after intestinal resection: a randomised trial. 
+Lancet 2015;385:1406-17.
+103.	 Rutgeerts P, Geboes K, Vantrappen G, et al. Predictability of 
+the postoperative course of Crohn’s disease. Gastroenterology 
+1990;99:956-63.
+104.	 Hukkinen  M, Pakarinen  MP, Merras-Salmio  L, et al. Fecal 
+calprotectin in the prediction of postoperative recurrence of 
+Crohn’s disease in children and adolescents. J Pediatr Surg. 
+2016;51:1467-72.
+105.	 Colombel JF, Adedokun OJ, Gasink C, et al. combination 
+therapy with infliximab and azathioprine improves infliximab 
+pharmacokinetic features and efficacy: a post hoc analysis. 
+Clin Gastroenterol Hepatol. 2019;17:1525-32.
+106.	 Dipasquale V, Cicala G, Spina E, et al. Biosimilars in pediatric 
+inflammatory bowel diseases: A systematic review and real 
+life-based experience. Front Pharmacol 2022;13: 846151.
+
+--- Page 17 ---
+193
+MICI
+107.	 de Ridder L, Waterman M, Turner D, et al. Use of biosimilars in 
+paediatric inflammatory bowel disease: A Position Statement of 
+the ESPGHAN Paediatric IBD Porto Group. J Pediatr Gastroen-
+terol Nutr. 2015;61:503-508.
+108.	 Gianolio  L, Armstrong  K, Swann  E, et al. Effectiveness of 
+Switching to Subcutaneous Infliximab in Pediatric Inflammatory 
+Bowel Disease Patients on Intravenous Maintenance Therapy. J 
+Pediatr Gastroenterol Nutr. 2023;77:235-239.
+109.	 Duquerois AS, Martinez-Vinson C, Loppinet T, et al. A series of 
+pediatric patients with inflammatory bowel disease switching 
+from intravenous to subcutaneous infliximab maintenance 
+therapy. Clin Res Hepatol Gastroenterol; 2025;49:102680.
+110.	 Ledder O, Assa A, Levine A, et al. Vedolizumab in paediatric 
+inflammatory bowel disease: A retrospective multi-centre 
+experience from the paediatric IBD Porto Group of ESPGHAN. J 
+Crohns Colitis 2017;11:1230-1237.
+111.	 Dayan JR, Dolinger M, Benkov B, et al. Real world experience 
+with ustekinumab in children and young adults at a tertiary care 
+pediatric inflammatory bowel disease center. J Pediatr Gastro-
+enterol Nutr. 2019;69:61-67.
+112.	 Hyams JS, Turner D, Cohen SA, et al. Pharmacokinetics, safety 
+and efficacy of intravenous vedolizumab in paediatric patients 
+with ulcerative colitis or Crohn’s disease: results from the phase 
+2 HUBBLE study. J Crohn’s Colitis 2022;16:1243-1254.
+113.	 Attia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, 
+and predictors of vedolizumab treatment in children with inflam-
+matory bowel disease (VEDOKIDs): a prospective, multicentre 
+cohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.
+114.	 Klomberg RCW, de Ridder L. Vedolizumab in paediatric IBD: 
+a huge step forward but not there yet. Lancet Gastroenterol 
+Hepatol. 2023; 8:3-4.
+115.	 Atia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, 
+and predictors of vedolizumab treatment in children with inflam-
+matory bowel disease (VEDOKIDS): a prospective, multicentre 
+cohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.
+116.	 Wlazlo M, Kierkus J. Dual biological therapy for the treatment of 
+pediatric inflammatory bowel disease: a review of the literature. 
+J Clin Med. 2022;11:2004.
+117.	 Yerushalmy-Feler A, Olbjorn C, Kolho KL, et al. Dual biologic or 
+small molecule therapy in refractory pediatric inflammatory 
+bowel disease (DOUBLE-PIBD): a multicenter study from the 
+Pediatric IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. 
+2024;30:159-166.
+118.	 Runde J, Ryan K, Hirst J, et al. Upadacitinib is associated with 
+clinical response and steroid-free remission for children and 
+adolescents with inflammatory bowel disease. J Pediatr Gastro-
+enterol Nutr. 2025;80:133-140.
+119.	 Pasternak B, Patel A, Tran P, et al. Perioperative Management 
+of Pediatric Crohn’s Disease. J Pediatr Gastroenterol Nutr. 
+2023;76:137-141.
+120.	 Amil-Dias J, Kolacek S, Turner D, et al. Surgical management of 
+Crohn disease in children: guidelines from the paediatric IBD 
+Porto Group. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.
+121.	 Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management 
+of paediatric ulcerative colitis, Part 1: Ambulatory care - an 
+evidence based guideline from European Crohn’s and Colitis 
+Organization and European Society for Paediatric Gastroenter-
+ology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. 
+2018;67:257-291.
+122.	 Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management 
+of paediatric ulcerative colitis, Part 2: Acute severe colitis - 
+An evidence-based consensus guideline from the European 
+Crohn’s and Colitis Organization and the European Society 
+for Paediatric Gastroenterology, Hepatology and Nutrition. J 
+Pediatr Gastroenterol Nutr. 2018;67:292-310.
+123.	 Moore H, Dubes L, Fusillo S, et al. Tofacitinib therapy in children 
+and young adults with pediatric-onset medically refractory 
+inflammatory bowel disease. J Pediatr Gastroenterol Nutr. 
+2021;73:e57-e62.
+
+--- Page 18 ---
+194
+Les cinq points forts
+●	 L’évaluation de la croissance staturo-pondérale et pubertaire fait 
+partie intégrante du processus diagnostique et de la surveillance 
+de la réponse thérapeutique.
+●	 Les MICI très précoces apparaissant avant l’âge de 6  ans 
+impliquent le dépistage d’un déficit immunitaire et la recherche 
+d’une cause monogénique.
+●	 La demande d’examens complémentaires, notamment radiolo-
+giques, implique une réflexion sur l’invasivité des examens et leur 
+répétition dans le temps.
+●	 La nutrition entérale exclusive est un traitement d’induction 
+privilégié dans la maladie de Crohn pédiatrique. De nombreuses 
+alternatives thérapeutiques des MICI n’ont pas l’AMM en pédia-
+trie. Chaque molécule doit être utilisée de manière optimale et 
+dans l’indication adéquate avant d’envisager un switch thérapeu-
+tique.
+●	 La transition pédiatre-adulte est une étape majeure du parcours 
+médical des patients, aboutissement d’une préparation anticipée 
+et rigoureuse.
+5

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:21",
+  "target_language": "gcf",
+  "source_text_sha256": "bd28c4e8efecfcdabd7b0ae0e371b1363536915a98a36899d84e98a95135a4ef",
+  "translated_at": "2026-06-10T20:52:42.123226+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 6 ---\n182\nTablo 4 : Skò aktivité maladi Crohn pébiyatrik (PCDAI) (44)\nSèl pa jou\n-\t pa ni\n-\t < 5 épi san\n-\t ≥ 5 épi anpil san\n0\n5\n10\nDoulè nan vant\n-\t pa la\n-\t mwayen\n-\t fò\n0\n5\n10\nEta jénéral\n-\t bon\n-\t mwayen (aktivité limité)\n-\t mal (aré skol oswa alité)\n0\n5\n10\nPwa\n-\t gagn nòmal\n-\t stagnasyon (san volonté)\n-\t pèd pwa ≥ 10 %\n0\n5\n10\nTay/Vitès kwasans\n-\t ≥ - 1 DS (dévié estanda)\n-\t < - 1 DS é > - 2 DS\n-\t ≤ - 2 DS\n0\n5\n10\nMas nan vant\n-\t pa la\n-\t douté\n-\t sètèn\n0\n5\n10\nLézyon anal\n-\t pa la\n-\t fisir\n-\t fistil/absè\n0\n5\n10\nMannifestasyon ékstra-entestinal, atikilè, po,\nlafièv > 38°C, uvéit\n-\t pa la\n-\t 1\n-\t ≥ 2\n0\n5\n10\nHématocrite (%) (11-19 an)\n-\t ≥ 34\n-\t 29-33\n-\t < 29\n0\n2.5\n5\nVitès sédimantasyon (mm a 1è è)\n-\t < 20\n-\t 20-50\n-\t > 50\n0\n2.5\n5\nAlboumin (g/L)\n-\t ≥ 35\n-\t 31-34\n-\t ≤ 30\n0\n2.5\n5\nTotal :\t Rémisyon < 20 ; \n\t\nPousé mwayen : 30-50 ; \n\t\nPousé sévè : >50\nLa recto-colite hémorragique\nAn RCH, topografi lézyon-la diféran a adilt-la : réktit izolé pli rar é",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:21:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 21,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 6 ---\n182\nTablo 4 : Skò aktivité maladi Crohn pébiyatrik (PCDAI) (44)\nSèl pa jou\n-\t pa ni\n-\t < 5 épi san\n-\t ≥ 5 épi anpil san\n0\n5\n10\nDoulè nan vant\n-\t pa la\n-\t mwayen\n-\t fò\n0\n5\n10\nEta jénéral\n-\t bon\n-\t mwayen (aktivité limité)\n-\t mal (aré skol oswa alité)\n0\n5\n10\nPwa\n-\t gagn nòmal\n-\t stagnasyon (san volonté)\n-\t pèd pwa ≥ 10 %\n0\n5\n10\nTay/Vitès kwasans\n-\t ≥ - 1 DS (dévié estanda)\n-\t < - 1 DS é > - 2 DS\n-\t ≤ - 2 DS\n0\n5\n10\nMas nan vant\n-\t pa la\n-\t douté\n-\t sètèn\n0\n5\n10\nLézyon anal\n-\t pa la\n-\t fisir\n-\t fistil/absè\n0\n5\n10\nMannifestasyon ékstra-entestinal, atikilè, po,\nlafièv > 38°C, uvéit\n-\t pa la\n-\t 1\n-\t ≥ 2\n0\n5\n10\nHématocrite (%) (11-19 an)\n-\t ≥ 34\n-\t 29-33\n-\t < 29\n0\n2.5\n5\nVitès sédimantasyon (mm a 1è è)\n-\t < 20\n-\t 20-50\n-\t > 50\n0\n2.5\n5\nAlboumin (g/L)\n-\t ≥ 35\n-\t 31-34\n-\t ≤ 30\n0\n2.5\n5\nTotal :\t Rémisyon < 20 ; \n\t\nPousé mwayen : 30-50 ; \n\t\nPousé sévè : >50\nLa recto-colite hémorragique\nAn RCH, topografi lézyon-la diféran a adilt-la : réktit izolé pli rar é",
+    "source_id": "pdf:398e12446d466067:chunk:21",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:42.123226+00:00",
+    "source_text_sha256": "bd28c4e8efecfcdabd7b0ae0e371b1363536915a98a36899d84e98a95135a4ef"
+  }
+}

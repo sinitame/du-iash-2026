@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:5728a2c9f75dc554:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "dbf33bc5e5c905e7d288505a2adb58b2112c9a01cc4a6117392e02a411fbdb06",
+  "translated_at": "2026-06-10T20:49:40.548240+00:00",
+  "model": "gpt-5-mini",
+  "text": "Crohn - RCH : Frans\n\nTABAK LA :\nSA PA POU MWEN !\n\nAdan fich-sa, nou ka espliyé kòman tabak ka afèkté santew é an partikilyé maladi Crohn osnon réktokolít émorajik. Lidée-la : pa komansé fimen oubyen arété vit si ou ja fimen.\n\nTABAK LA, SA VREMAN PA ON ZANMI !\n\nTabak sé pwèmyé koz mò ki té té pé évité. An Frans, sé anviwon 200 moun ka mò chak jou, sa fé 75 000 pa lanné, sa anlo ! Sé kon si té ni on aksidan avyon chak jou !\n\nAdan tabak-la, ni plis ki 4 000 sibstans chimik, parmi yo genyen gaz toksik èk métay lou, ki vréman maléfik é ki ka provok kansé !\n\nAn mitan tout sibstans sa yo, ni nikotin, ki sé la dwòg ki pli adiktif ki egzisté, plis ki eroïn, lalkòl é kannabis. Lè on moun fimen on sigarèt, nikotin rivé asi sèvo a an délik segonn sèlman. I libéré dopamine, ki ranmé on sansasyon plézi é byen-èt, menm kon lè nou asouvi bezwen fondamantal nou kon manjé, bwé, respiré, dòmi. Sèvo a abityé vit èvè ogmantasyon dopamine sa-a é an re-",
+  "row": {
+    "id": "image:5728a2c9f75dc554:chunk:0:gcf",
+    "document_id": "image:5728a2c9f75dc554",
+    "chunk_index": 0,
+    "source_file": "tabac.png",
+    "source_path": "/data/equipes/equipe-04/images/tabac.png",
+    "text_path": "corpus/texts/images/tabac.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Crohn - RCH : Frans\n\nTABAK LA :\nSA PA POU MWEN !\n\nAdan fich-sa, nou ka espliyé kòman tabak ka afèkté santew é an partikilyé maladi Crohn osnon réktokolít émorajik. Lidée-la : pa komansé fimen oubyen arété vit si ou ja fimen.\n\nTABAK LA, SA VREMAN PA ON ZANMI !\n\nTabak sé pwèmyé koz mò ki té té pé évité. An Frans, sé anviwon 200 moun ka mò chak jou, sa fé 75 000 pa lanné, sa anlo ! Sé kon si té ni on aksidan avyon chak jou !\n\nAdan tabak-la, ni plis ki 4 000 sibstans chimik, parmi yo genyen gaz toksik èk métay lou, ki vréman maléfik é ki ka provok kansé !\n\nAn mitan tout sibstans sa yo, ni nikotin, ki sé la dwòg ki pli adiktif ki egzisté, plis ki eroïn, lalkòl é kannabis. Lè on moun fimen on sigarèt, nikotin rivé asi sèvo a an délik segonn sèlman. I libéré dopamine, ki ranmé on sansasyon plézi é byen-èt, menm kon lè nou asouvi bezwen fondamantal nou kon manjé, bwé, respiré, dòmi. Sèvo a abityé vit èvè ogmantasyon dopamine sa-a é an re-",
+    "source_id": "image:5728a2c9f75dc554:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:40.548240+00:00",
+    "source_text_sha256": "dbf33bc5e5c905e7d288505a2adb58b2112c9a01cc4a6117392e02a411fbdb06"
+  }
+}

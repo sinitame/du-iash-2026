@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:10",
+  "target_language": "en",
+  "source_text_sha256": "7a010347bf464d23f7deaf6c856b385343e394cc946ff879e3f910b7d34ab64b",
+  "translated_at": "2026-06-10T20:45:38.500574+00:00",
+  "model": "gpt-5-mini",
+  "text": ". Your point, one, two, the breathing, one, four, three. And you are going to inhale the way I did. Go through it quickly. You can see the counts more at this moment too. Going through a breath, it’s the belly and then we look. And you release gently, you may welcome it. The breath opens and spreads through your body. You feel it in the other parts. Part of your body relaxes and everything is observed. You welcome without analyzing and without judging. A second time, again, you will do the 1, worse and through the nose. Over four counts. One, your point, one, two, you make one, three, your point. You hold for four counts. You will send your point two, it’s like you previously thought. Either 4, three quickly. And then you exhale on you. One, two, three. And you release. 4, three, five, six. And you welcome the sensation. And you release well. You may notice sighs, breaths, no. And you take back the anchoring. It’s you. And the relaxation. And come back. From the feet. And the first, third and last time. I suggest again: you will inhale over four counts. You close the nose. One, two, three, four. And then, three, and I rise. We find the prediction. One, d",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:10:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 10,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": ". Your point, one, two, the breathing, one, four, three. And you are going to inhale the way I did. Go through it quickly. You can see the counts more at this moment too. Going through a breath, it’s the belly and then we look. And you release gently, you may welcome it. The breath opens and spreads through your body. You feel it in the other parts. Part of your body relaxes and everything is observed. You welcome without analyzing and without judging. A second time, again, you will do the 1, worse and through the nose. Over four counts. One, your point, one, two, you make one, three, your point. You hold for four counts. You will send your point two, it’s like you previously thought. Either 4, three quickly. And then you exhale on you. One, two, three. And you release. 4, three, five, six. And you welcome the sensation. And you release well. You may notice sighs, breaths, no. And you take back the anchoring. It’s you. And the relaxation. And come back. From the feet. And the first, third and last time. I suggest again: you will inhale over four counts. You close the nose. One, two, three, four. And then, three, and I rise. We find the prediction. One, d",
+    "source_id": "video:05807ec7742bc2af:chunk:10",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:38.500574+00:00",
+    "source_text_sha256": "7a010347bf464d23f7deaf6c856b385343e394cc946ff879e3f910b7d34ab64b"
+  }
+}

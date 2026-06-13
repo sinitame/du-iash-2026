@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:41",
+  "target_language": "gcf",
+  "source_text_sha256": "dbbf5790e6f26c00690cbbd91b01b4082e906aeb49aa1bd5ca2e6df4a2813b3d",
+  "translated_at": "2026-06-10T20:53:54.216185+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 10 ---\n186\npa anti-TNF (99-102). Evalyasyon endoskopik (nòt Rutgeerts) (103,104) an moman premye koloskopi post-operatwa a pé permet prévwa récidiv. Nòt Rutgeerts la senp pou fè, mé yo pa validé’y adan timoun.\n\nStrateji pou itilizasyon biyoterapi\nChéma thérapéutik yo, rekòmandasyon pou optimizé é pou monitoring sé menm kon rekòmandasyon pou adilt. Adan pasyan ka kòmansé on tretman èvè infliximab, yo rekomandé sèvi an terapi konbiné èvè on immunosuppressè. Asosyasyon infliximab + immunosuppressè ka diminiyé risk pou dévlopé anti-kor kont infliximab é ogmante nivo résidèl yo (105). Jesyon thérapéutik pèt répons-la sé menm kon koté adilt.\n\nBiosimilè pou infliximab é adalimumab\nLaparisyon biosimilè IFX é ADA mété pri tretman sa yo pli ba, épi efikasité é profíl sécurité adan timoun menm kon molécul princeps (106). Pa ni okenn restriksyon pou itilizasyon yo adan timoun, si sé an 1re ou an 2e entansyon adan on pasyan ki ja tra",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:41:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 41,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 10 ---\n186\npa anti-TNF (99-102). Evalyasyon endoskopik (nòt Rutgeerts) (103,104) an moman premye koloskopi post-operatwa a pé permet prévwa récidiv. Nòt Rutgeerts la senp pou fè, mé yo pa validé’y adan timoun.\n\nStrateji pou itilizasyon biyoterapi\nChéma thérapéutik yo, rekòmandasyon pou optimizé é pou monitoring sé menm kon rekòmandasyon pou adilt. Adan pasyan ka kòmansé on tretman èvè infliximab, yo rekomandé sèvi an terapi konbiné èvè on immunosuppressè. Asosyasyon infliximab + immunosuppressè ka diminiyé risk pou dévlopé anti-kor kont infliximab é ogmante nivo résidèl yo (105). Jesyon thérapéutik pèt répons-la sé menm kon koté adilt.\n\nBiosimilè pou infliximab é adalimumab\nLaparisyon biosimilè IFX é ADA mété pri tretman sa yo pli ba, épi efikasité é profíl sécurité adan timoun menm kon molécul princeps (106). Pa ni okenn restriksyon pou itilizasyon yo adan timoun, si sé an 1re ou an 2e entansyon adan on pasyan ki ja tra",
+    "source_id": "pdf:398e12446d466067:chunk:41",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:54.216185+00:00",
+    "source_text_sha256": "dbbf5790e6f26c00690cbbd91b01b4082e906aeb49aa1bd5ca2e6df4a2813b3d"
+  }
+}

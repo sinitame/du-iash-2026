@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "744353173f7cf4fc44af4640f96f51f55ac47c82ed0e783ba5667286f274c73f",
+  "translated_at": "2026-06-10T20:46:13.099810+00:00",
+  "model": "gpt-5-mini",
+  "text": "It's normal to feel sad when you have an IBD. When you suffer, when you often have diarrhea or when you think you look ugly, it's normal not to feel good. You feel alone, you think it's unfair, you cry a lot, and you have the impression that no one understands. People, even friends, don't always understand what an IBD is, and they can be awkward. If you want, you can explain your illness to them so they understand you better and can give you support if you need it. If you're feeling down, talk to your parents or your doctor; they can help or find someone who can. You can also meet and talk with other teenagers who have Crohn's disease or ulcerative colitis. For example, the FAF offers family stays that allow children and their parents to meet and share their experiences. And from the age of 12, you can take part in the teen camp that happens every summer without parents, but you can bring a friend of your choice. It's a great time to learn to manage your illness and make new friends. To help you better understand and manage your m",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:0:en",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 0,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "It's normal to feel sad when you have an IBD. When you suffer, when you often have diarrhea or when you think you look ugly, it's normal not to feel good. You feel alone, you think it's unfair, you cry a lot, and you have the impression that no one understands. People, even friends, don't always understand what an IBD is, and they can be awkward. If you want, you can explain your illness to them so they understand you better and can give you support if you need it. If you're feeling down, talk to your parents or your doctor; they can help or find someone who can. You can also meet and talk with other teenagers who have Crohn's disease or ulcerative colitis. For example, the FAF offers family stays that allow children and their parents to meet and share their experiences. And from the age of 12, you can take part in the teen camp that happens every summer without parents, but you can bring a friend of your choice. It's a great time to learn to manage your illness and make new friends. To help you better understand and manage your m",
+    "source_id": "video:9f17032ca0f984f3:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:13.099810+00:00",
+    "source_text_sha256": "744353173f7cf4fc44af4640f96f51f55ac47c82ed0e783ba5667286f274c73f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "496259fcbd5e987b4905d49c85138e83043bd11d5993e38404344ce872c75ff3",
+  "translated_at": "2026-06-10T20:51:25.066689+00:00",
+  "model": "gpt-5-mini",
+  "text": "-sa. An efè, chak moun ni on mikrobyòt ki inik. Pa egzanp kot i kay viv, jan i manjé, si i fè spò oswè pa, épi menm si i ni on bèt kay !\nSi on moun ni maladi Crohn oswè rectocolite hémorajik, mikrobyòt-la ka dézékilibwé. Yo ka palé di dysbioz.\nPOUKWA ? PASKÉ ADAN MICI :\nLenflamasyon ataké mikrobyòt-la.\nÉkilib bakteri yo kase, sa ka dérangé fonksyon iminitè mikrobyòt-la.\nPoul-la oswè zéf-la, difisil savé kiyès ki rivé an pwémyé. Eski sé lenflamasyon ki dérangé mikrobyòt-la oswè sé dézékilib mikrobyòt-la ki ka pwodui lenflamasyon ?\nRésilta : kò-w ka fatigué, vant-w ka soufè épi sistèm iminitè-w ka dérèglé.\nMIKROBYÒT ENTÉSTINAL :\nLARMÉ SÉKRÈT A-W !\nImajiné on larmé an milya ti kreyati ki viv adan vant-w é ki travay 24h/24 pou gardé-w an bon santé… Byen, sé mikrobyòt entéstinal a-w !",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:1:gcf",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 1,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "-sa. An efè, chak moun ni on mikrobyòt ki inik. Pa egzanp kot i kay viv, jan i manjé, si i fè spò oswè pa, épi menm si i ni on bèt kay !\nSi on moun ni maladi Crohn oswè rectocolite hémorajik, mikrobyòt-la ka dézékilibwé. Yo ka palé di dysbioz.\nPOUKWA ? PASKÉ ADAN MICI :\nLenflamasyon ataké mikrobyòt-la.\nÉkilib bakteri yo kase, sa ka dérangé fonksyon iminitè mikrobyòt-la.\nPoul-la oswè zéf-la, difisil savé kiyès ki rivé an pwémyé. Eski sé lenflamasyon ki dérangé mikrobyòt-la oswè sé dézékilib mikrobyòt-la ki ka pwodui lenflamasyon ?\nRésilta : kò-w ka fatigué, vant-w ka soufè épi sistèm iminitè-w ka dérèglé.\nMIKROBYÒT ENTÉSTINAL :\nLARMÉ SÉKRÈT A-W !\nImajiné on larmé an milya ti kreyati ki viv adan vant-w é ki travay 24h/24 pou gardé-w an bon santé… Byen, sé mikrobyòt entéstinal a-w !",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:25.066689+00:00",
+    "source_text_sha256": "496259fcbd5e987b4905d49c85138e83043bd11d5993e38404344ce872c75ff3"
+  }
+}

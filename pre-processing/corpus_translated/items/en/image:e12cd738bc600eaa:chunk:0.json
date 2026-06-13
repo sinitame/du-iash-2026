@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "4536afcda3fe58f7c5a7d225b97585d20bb2092b2b8903350c1800a19cd58e43",
+  "translated_at": "2026-06-10T20:38:24.724115+00:00",
+  "model": "gpt-5-mini",
+  "text": "un\nZ\n=\n<\n\nTREATMENTS\n\nFERTILITY - CONCEPTION\nThe fertility of patients with inactive IBD and no prior surgical history is the same as that of women without IBD. Conception should ideally be considered during a period of disease quiescence so that the pregnancy proceeds as well as possible. Indeed, flares at the time of conception and during pregnancy increase the risks of growth retardation, of delivery\n\n#14\n\nPREGNANCY AND IBD\n\nWhen you have IBD and are planning a pregnancy, it is normal to have questions! According to the \"Crossed Perspectives on IBD\" survey carried out by afa in 2020, one person in five reports having given up on the plan to have a child, even though many women with IBD manage to achieve it! This fact sheet informs you about fertility and whether to continue or stop your treatment in case of pregnancy or breastfeeding.",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:0:en",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 0,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "un\nZ\n=\n<\n\nTREATMENTS\n\nFERTILITY - CONCEPTION\nThe fertility of patients with inactive IBD and no prior surgical history is the same as that of women without IBD. Conception should ideally be considered during a period of disease quiescence so that the pregnancy proceeds as well as possible. Indeed, flares at the time of conception and during pregnancy increase the risks of growth retardation, of delivery\n\n#14\n\nPREGNANCY AND IBD\n\nWhen you have IBD and are planning a pregnancy, it is normal to have questions! According to the \"Crossed Perspectives on IBD\" survey carried out by afa in 2020, one person in five reports having given up on the plan to have a child, even though many women with IBD manage to achieve it! This fact sheet informs you about fertility and whether to continue or stop your treatment in case of pregnancy or breastfeeding.",
+    "source_id": "image:e12cd738bc600eaa:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:24.724115+00:00",
+    "source_text_sha256": "4536afcda3fe58f7c5a7d225b97585d20bb2092b2b8903350c1800a19cd58e43"
+  }
+}

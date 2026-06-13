@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:55",
+  "target_language": "gcf",
+  "source_text_sha256": "20b4f449dbdc69b580edbd5516a481d67f0c5c42b949928d4a93dba800c98677",
+  "translated_at": "2026-06-10T20:54:35.676946+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sèten étid ka dékrwé frékans ki pli ba, ki ka sijjé on varyabilite an fonksyon di cohort ki té étidié é di strati terapi ki té itilizé (8,11,12).\nSürveyans é swivi\nOn swivi préz é strik i enpòtan, i dwèt genyen on swivi klinik (kwasans staturo-pondéral, pibèté, aktivité maladi a), on swivi biyolojik (hémogramme, transaminaz, CRP, calprotectine fekal) é on swivi endoskopik. An lon tèm, risk ki ogmante pou kansè kolorektal-la fè fo on sürveyans endoskopik régilyé apré 8-10 an évolisyon an, an partikilyé ka pancolite-la.\nTableau 7 : récapitulatif des différentes molécules utilisées en pédiatrie (121,122)\nNon de la\nmolékil\nKlas\nfamakolojik\nPozolji (timoun)\nEfè endezirab\nprinsipal\nSürveyans rekomandé\nMesalazine (5-ASA)\nAnti-enflamwatwa\nlokal\n60-80 mg/kg/j (max\n100 mg/kg/j ou 4,8 g/j)\npa bouch ; réktal : 25\nmg/kg (max 1 g/j)\nTèt fè mal, kè mòch,\ndouler anba vant,\nentolèrans ki ka\nsimilé on poussé, ra\nnéfrotoksisite osnon\npankréatite\nNFS, créatinine, lórin\npériodikman ; swivi\nklinik tolérance\nSulfasalazine\n5-ASA lyé épi\nsulfapyridine\n40-70 mg/kg/j (max\n4 g/j)\nPwoblèm dijestif,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:55:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 55,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Sèten étid ka dékrwé frékans ki pli ba, ki ka sijjé on varyabilite an fonksyon di cohort ki té étidié é di strati terapi ki té itilizé (8,11,12).\nSürveyans é swivi\nOn swivi préz é strik i enpòtan, i dwèt genyen on swivi klinik (kwasans staturo-pondéral, pibèté, aktivité maladi a), on swivi biyolojik (hémogramme, transaminaz, CRP, calprotectine fekal) é on swivi endoskopik. An lon tèm, risk ki ogmante pou kansè kolorektal-la fè fo on sürveyans endoskopik régilyé apré 8-10 an évolisyon an, an partikilyé ka pancolite-la.\nTableau 7 : récapitulatif des différentes molécules utilisées en pédiatrie (121,122)\nNon de la\nmolékil\nKlas\nfamakolojik\nPozolji (timoun)\nEfè endezirab\nprinsipal\nSürveyans rekomandé\nMesalazine (5-ASA)\nAnti-enflamwatwa\nlokal\n60-80 mg/kg/j (max\n100 mg/kg/j ou 4,8 g/j)\npa bouch ; réktal : 25\nmg/kg (max 1 g/j)\nTèt fè mal, kè mòch,\ndouler anba vant,\nentolèrans ki ka\nsimilé on poussé, ra\nnéfrotoksisite osnon\npankréatite\nNFS, créatinine, lórin\npériodikman ; swivi\nklinik tolérance\nSulfasalazine\n5-ASA lyé épi\nsulfapyridine\n40-70 mg/kg/j (max\n4 g/j)\nPwoblèm dijestif,",
+    "source_id": "pdf:398e12446d466067:chunk:55",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:35.676946+00:00",
+    "source_text_sha256": "20b4f449dbdc69b580edbd5516a481d67f0c5c42b949928d4a93dba800c98677"
+  }
+}

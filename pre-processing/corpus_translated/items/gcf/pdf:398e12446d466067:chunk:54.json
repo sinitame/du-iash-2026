@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:54",
+  "target_language": "gcf",
+  "source_text_sha256": "7a95831055c88666fbe2bbc0f14b13f5d0b59d43479b8c65fdbe78deb0507bd7",
+  "translated_at": "2026-06-10T20:54:47.775190+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 13 ---\n189\nMICI\nInibitè Janus Kinaz\nLadan ki konsèné tofacitinib yo limité, yo pal sèlman asi kèk dizèn ka (123). Itilizasyon éksepsyonèl an pédiatri dwèt sòti adan on avi favorab an on rényon konsèrtasyon pluridisiplinè.\nKolit aig grav (CAG) é plas chiriji\nASC ka rivé koté 10 a 15% timoun ki ni RCH é i réprésanté on ijans médikal. I défini pa on PUCAI ≥ 65. Mortalité-la an bès konsidérable (<1% jòdi a), mé risk kolektomi toujou anwo. Jesyon médikal CAG an pédiatri sé menm jan ki kot adilt.\nKonmsi kot adilt, lè kolit-la diffus é i pa réponn a tretman médikal, é lè i ka mété pronostik vital-la an danjé, oswa lè gen dysplazi, kolit aig sévè réfraktè osinon méga-kolon toksik, fò fè on kolektomi. Taux pédiatrik rapoté ka atenn 30 a 40% apré 10 an swivi (10). Malgrè sa, kèk zétid dékri frékan pli ba, sa ka montré on variabilité selon cohort yo étidye é stratèji thérapeutik yo sèvi (8,11,12).\nSiveyans é swivi\nOn swivi ét",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:54:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 54,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 13 ---\n189\nMICI\nInibitè Janus Kinaz\nLadan ki konsèné tofacitinib yo limité, yo pal sèlman asi kèk dizèn ka (123). Itilizasyon éksepsyonèl an pédiatri dwèt sòti adan on avi favorab an on rényon konsèrtasyon pluridisiplinè.\nKolit aig grav (CAG) é plas chiriji\nASC ka rivé koté 10 a 15% timoun ki ni RCH é i réprésanté on ijans médikal. I défini pa on PUCAI ≥ 65. Mortalité-la an bès konsidérable (<1% jòdi a), mé risk kolektomi toujou anwo. Jesyon médikal CAG an pédiatri sé menm jan ki kot adilt.\nKonmsi kot adilt, lè kolit-la diffus é i pa réponn a tretman médikal, é lè i ka mété pronostik vital-la an danjé, oswa lè gen dysplazi, kolit aig sévè réfraktè osinon méga-kolon toksik, fò fè on kolektomi. Taux pédiatrik rapoté ka atenn 30 a 40% apré 10 an swivi (10). Malgrè sa, kèk zétid dékri frékan pli ba, sa ka montré on variabilité selon cohort yo étidye é stratèji thérapeutik yo sèvi (8,11,12).\nSiveyans é swivi\nOn swivi ét",
+    "source_id": "pdf:398e12446d466067:chunk:54",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:47.775190+00:00",
+    "source_text_sha256": "7a95831055c88666fbe2bbc0f14b13f5d0b59d43479b8c65fdbe78deb0507bd7"
+  }
+}

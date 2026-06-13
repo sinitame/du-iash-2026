@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:14",
+  "target_language": "en",
+  "source_text_sha256": "c530e21770474c3559f1caf1b6fcf66ca1bfabccc92033a3b474be9e536fb4fe",
+  "translated_at": "2026-06-10T20:40:04.242546+00:00",
+  "model": "gpt-5-mini",
+  "text": "Can be used in children older than 4 years. A fecal calprotectin level above 250 μg/g of stool in a child being followed for IBD is a strong argument in favor of residual mucosal inflammation (37). In children as in adults, a pre-therapeutic workup should be performed, which includes screening for current infection—particularly tuberculosis—or assessing EBV immunization status. In pediatrics, assessment of immunity to VZV is particularly important. In cases of very early-onset IBD, an immunological workup and an immunology consultation should be carried out.\nImaging\nAbdominal ultrasound and MR enterography constitute the best imaging protocol in children. Ultrasound in particular allows searching for thickening of the bowel walls, as well as mesenteric lipomatosis and/or lymphadenopathy (38,39). MR enterography has the advantage of avoiding the use of ionizing radiation to which children are much more sensitive. This imaging can be deferred in cases of typical UC, on the basis of endoscopy and histology. It remains particularly im",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:14:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 14,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Can be used in children older than 4 years. A fecal calprotectin level above 250 μg/g of stool in a child being followed for IBD is a strong argument in favor of residual mucosal inflammation (37). In children as in adults, a pre-therapeutic workup should be performed, which includes screening for current infection—particularly tuberculosis—or assessing EBV immunization status. In pediatrics, assessment of immunity to VZV is particularly important. In cases of very early-onset IBD, an immunological workup and an immunology consultation should be carried out.\nImaging\nAbdominal ultrasound and MR enterography constitute the best imaging protocol in children. Ultrasound in particular allows searching for thickening of the bowel walls, as well as mesenteric lipomatosis and/or lymphadenopathy (38,39). MR enterography has the advantage of avoiding the use of ionizing radiation to which children are much more sensitive. This imaging can be deferred in cases of typical UC, on the basis of endoscopy and histology. It remains particularly im",
+    "source_id": "pdf:398e12446d466067:chunk:14",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:04.242546+00:00",
+    "source_text_sha256": "c530e21770474c3559f1caf1b6fcf66ca1bfabccc92033a3b474be9e536fb4fe"
+  }
+}

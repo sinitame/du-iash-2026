@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:63",
+  "target_language": "en",
+  "source_text_sha256": "c517922aa9528ad1d891a830c87e9b3cce2bf854cf903a50b188f546b634d20c",
+  "translated_at": "2026-06-10T20:41:55.365162+00:00",
+  "model": "gpt-5-mini",
+  "text": "alysis of observational studies. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\t \u0007Barclay AR, Russell RK, Wilson ML, et al. Systematic review: the \nrole of breast feeding in the development of pediatric inflam-\nmatory bowel disease. J Pediatr. 2009;155:421-6.\n17.\t \u0007Jones DT, Ostermanı MT, Bewtra M, et al. Passive smoking and \ninflammatory bowel disease: a meta-analysis. Am J Gastroen-\nterol. 2008;103:2382-93.\n18.\t \u0007Ungaro R, Bernstein CN, Gearry R, et al. Antibiotics associated \nwith increased risk of new-onset Crohn’s disease but not \nulcerative colitis: a meta-analysis. Am J Gastroenterol. \n2014;109:1728-38.\n19.\t \u0007Pineton de Chambrun G, Dauchet L, Gower-Rousseau C, et \nal. Vaccination and risk for developing inflammatory bowel \ndisease: a meta-analysis of case-control and cohort studies. Clin \nGastroenterol Hepatol. 2015;13:1405-1415.\n20.\t \u0007Dong C, Chan SSM, Jantchou P, et al. Meat Intake Is Associated \nwith a Higher Risk of Ulcerative Colitis in a Large European \nProspective Cohort Studyo. J Crohns Colitis 2022;16:1187-96.\n21.\t \u0007De Silva  PS, Olsen  A, Christensen  J, et al. An association \nbetween dietary arachidonic acid, measured in adipose tissue, \nand ulcerative colitis. Gastroen",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:63:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 63,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "alysis of observational studies. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\t \u0007Barclay AR, Russell RK, Wilson ML, et al. Systematic review: the \nrole of breast feeding in the development of pediatric inflam-\nmatory bowel disease. J Pediatr. 2009;155:421-6.\n17.\t \u0007Jones DT, Ostermanı MT, Bewtra M, et al. Passive smoking and \ninflammatory bowel disease: a meta-analysis. Am J Gastroen-\nterol. 2008;103:2382-93.\n18.\t \u0007Ungaro R, Bernstein CN, Gearry R, et al. Antibiotics associated \nwith increased risk of new-onset Crohn’s disease but not \nulcerative colitis: a meta-analysis. Am J Gastroenterol. \n2014;109:1728-38.\n19.\t \u0007Pineton de Chambrun G, Dauchet L, Gower-Rousseau C, et \nal. Vaccination and risk for developing inflammatory bowel \ndisease: a meta-analysis of case-control and cohort studies. Clin \nGastroenterol Hepatol. 2015;13:1405-1415.\n20.\t \u0007Dong C, Chan SSM, Jantchou P, et al. Meat Intake Is Associated \nwith a Higher Risk of Ulcerative Colitis in a Large European \nProspective Cohort Studyo. J Crohns Colitis 2022;16:1187-96.\n21.\t \u0007De Silva  PS, Olsen  A, Christensen  J, et al. An association \nbetween dietary arachidonic acid, measured in adipose tissue, \nand ulcerative colitis. Gastroen",
+    "source_id": "pdf:398e12446d466067:chunk:63",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:55.365162+00:00",
+    "source_text_sha256": "c517922aa9528ad1d891a830c87e9b3cce2bf854cf903a50b188f546b634d20c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:36",
+  "target_language": "en",
+  "source_text_sha256": "128438cf6cbbab18caa2c447a123ee81349f6fdfc782c054d41d4c9a1c30707b",
+  "translated_at": "2026-06-10T20:41:02.622798+00:00",
+  "model": "gpt-5-mini",
+  "text": "for 2 weeks. Budesonide is recommended for localized ileocecal involvement (69,70). The use of corticosteroids should remain limited, given the adverse effects (Cushing syndrome, growth retardation, increased infection risk) (71-73).\n\nAnti-TNF biotherapies\nAnti-TNF agents (infliximab, adalimumab) are the induction treatment of choice in high-risk patients. They are also indicated after failure of immunomodulators. Pediatric data come notably from the REACH (infliximab) (74) and IMAgINE (adalimumab) (75) trials. The prospective RISK study showed that early anti-TNF treatment reduced progression to the penetrating phenotype (B3) (76). The TISKIDS trial confirmed the superiority of a \"top-down\" strategy with infliximab: 41% clinical remission at 52 weeks versus 12% with conservative treatment (p = 0.002) (77,78).\n\nInfliximab: Induction is given at 5 mg/kg at weeks 0, 2 and 6, then maintenance every 8 weeks. Children < 30 kg, those with hypoalbuminemia or with extensive disease often require higher doses or shorter intervals (79).\n\nAdalimumab: > 40 kg: 160 mg at week 0, 80 mg",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:36:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 36,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "for 2 weeks. Budesonide is recommended for localized ileocecal involvement (69,70). The use of corticosteroids should remain limited, given the adverse effects (Cushing syndrome, growth retardation, increased infection risk) (71-73).\n\nAnti-TNF biotherapies\nAnti-TNF agents (infliximab, adalimumab) are the induction treatment of choice in high-risk patients. They are also indicated after failure of immunomodulators. Pediatric data come notably from the REACH (infliximab) (74) and IMAgINE (adalimumab) (75) trials. The prospective RISK study showed that early anti-TNF treatment reduced progression to the penetrating phenotype (B3) (76). The TISKIDS trial confirmed the superiority of a \"top-down\" strategy with infliximab: 41% clinical remission at 52 weeks versus 12% with conservative treatment (p = 0.002) (77,78).\n\nInfliximab: Induction is given at 5 mg/kg at weeks 0, 2 and 6, then maintenance every 8 weeks. Children < 30 kg, those with hypoalbuminemia or with extensive disease often require higher doses or shorter intervals (79).\n\nAdalimumab: > 40 kg: 160 mg at week 0, 80 mg",
+    "source_id": "pdf:398e12446d466067:chunk:36",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:02.622798+00:00",
+    "source_text_sha256": "128438cf6cbbab18caa2c447a123ee81349f6fdfc782c054d41d4c9a1c30707b"
+  }
+}

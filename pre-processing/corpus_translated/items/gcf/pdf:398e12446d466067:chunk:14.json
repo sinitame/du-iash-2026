@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:14",
+  "target_language": "gcf",
+  "source_text_sha256": "c530e21770474c3559f1caf1b6fcf66ca1bfabccc92033a3b474be9e536fb4fe",
+  "translated_at": "2026-06-10T20:52:26.511774+00:00",
+  "model": "gpt-5-mini",
+  "text": "nt\npé ké sèvi adan timoun ki plis ki 4 an. On to calprotectin fèsal pli gran ki 250 μg/g lasel adan on timoun ka suiv pou on MICI, sé on fò agiman an favè on inflamasiyon mukozi ki résté (37). Koté timoun é koté granmoun, li kòrèk pou fè on bilan pré-thérapeutik ki konpri dépistaj pou on infeksyon an kou, espesyalman tibèkiloz, osinon pou évalué stat immunizasyon kont EBV. An pédiatri, évaluasyon immunité kont VZV enpòtan an fabrik. Pou MICI ki parèt trè bonè adan lavi, fo fè on bilan immunitè é mandé on avis immunologik.\n\nImagerie\nEchografi abdominal é entéro-IRM sé pi bon pwotokòl imajri pou timoun. Echografi ka chaché sitou on epesman parèy dijestif, osi on lipomatoz mésentèrik é/oswa adénopati (38,39). Entéro-IRM ni avantaj pou évité itilizasyon radyasyon ionizan koté timoun yo plis sansib. Imajri sa pé différé si sé on RCH tipik, sou baz endoskopi é histoloji. I toujou rete patikilyèman im",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:14:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 14,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "nt\npé ké sèvi adan timoun ki plis ki 4 an. On to calprotectin fèsal pli gran ki 250 μg/g lasel adan on timoun ka suiv pou on MICI, sé on fò agiman an favè on inflamasiyon mukozi ki résté (37). Koté timoun é koté granmoun, li kòrèk pou fè on bilan pré-thérapeutik ki konpri dépistaj pou on infeksyon an kou, espesyalman tibèkiloz, osinon pou évalué stat immunizasyon kont EBV. An pédiatri, évaluasyon immunité kont VZV enpòtan an fabrik. Pou MICI ki parèt trè bonè adan lavi, fo fè on bilan immunitè é mandé on avis immunologik.\n\nImagerie\nEchografi abdominal é entéro-IRM sé pi bon pwotokòl imajri pou timoun. Echografi ka chaché sitou on epesman parèy dijestif, osi on lipomatoz mésentèrik é/oswa adénopati (38,39). Entéro-IRM ni avantaj pou évité itilizasyon radyasyon ionizan koté timoun yo plis sansib. Imajri sa pé différé si sé on RCH tipik, sou baz endoskopi é histoloji. I toujou rete patikilyèman im",
+    "source_id": "pdf:398e12446d466067:chunk:14",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:26.511774+00:00",
+    "source_text_sha256": "c530e21770474c3559f1caf1b6fcf66ca1bfabccc92033a3b474be9e536fb4fe"
+  }
+}

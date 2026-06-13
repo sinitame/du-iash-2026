@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "3133295751483c7d3ae65cb6d88497878ca98362854f75c6514ceb9ec1f46111",
+  "translated_at": "2026-06-10T20:44:16.455820+00:00",
+  "model": "gpt-5-mini",
+  "text": "this will produce soldiers called antibodies. The battle begins and your army shows no mercy, it’s like a fire. Up to that point, everyone’s immune system works the same way. But for you, your army can’t stop fighting and this causes sores in your intestine. To put out this inflammation, you therefore need to better control your immune defenses with medications. We do not yet know the exact causes of these diseases; scientists study them to find out where they come from and thus treat them better. Maybe some anomalies in your DNA favor the appearance of the disease, or some antigens, when they infect you, trigger it. Or your lifestyle or your environment may play a role, but we don’t know which. What we do know more precisely is that your gut microbiota, which naturally contains a whole set of microorganisms like good bacteria, needs to be balanced. It is the loss of these balances, perhaps favored by ultra-processed foods, certain medications, or other factors like tobacco or pollution. We also know that it is neither contagious nor hereditary, nor caused by a single food.",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:1:en",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 1,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "this will produce soldiers called antibodies. The battle begins and your army shows no mercy, it’s like a fire. Up to that point, everyone’s immune system works the same way. But for you, your army can’t stop fighting and this causes sores in your intestine. To put out this inflammation, you therefore need to better control your immune defenses with medications. We do not yet know the exact causes of these diseases; scientists study them to find out where they come from and thus treat them better. Maybe some anomalies in your DNA favor the appearance of the disease, or some antigens, when they infect you, trigger it. Or your lifestyle or your environment may play a role, but we don’t know which. What we do know more precisely is that your gut microbiota, which naturally contains a whole set of microorganisms like good bacteria, needs to be balanced. It is the loss of these balances, perhaps favored by ultra-processed foods, certain medications, or other factors like tobacco or pollution. We also know that it is neither contagious nor hereditary, nor caused by a single food.",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:16.455820+00:00",
+    "source_text_sha256": "3133295751483c7d3ae65cb6d88497878ca98362854f75c6514ceb9ec1f46111"
+  }
+}

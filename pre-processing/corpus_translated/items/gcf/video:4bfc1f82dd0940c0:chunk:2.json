@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "96a5aade64cfceb1064eac5fd7030e646153c66d28c2dfefd85ac15658866e6a",
+  "translated_at": "2026-06-10T21:18:49.061188+00:00",
+  "model": "gpt-5-mini",
+  "text": "Adan anndan kò-a yo sèvi on sond ultrason yo pozé asi vant ou. Kalprotéktin féskal, ki pèmèt egzaminé poupou (sèl) ou pou évalué ki jan trip ou anflamé. Priz san, koté yo pran on ti échantiyon san-w pou analizé'y. Endoskopi, ki fèt pandan ou ka dòmi, koté yo entrodwi on ti kamera fixé asou on tib soupl ki ni on lanp, yo ka rantre'y antrip-w atravè bouch la oswa atravè anus la. Épi finalman, IRM osnon scanner, sé gwo machin ki briyé ki ka ba foto trè klè di vant ou san yo pa ouvè'y. Ou ka toujou ni kèsyon asi maladi-w ? Alòs, gadé lòt vidéo an séri Les Modes Vintres, pou édéw pli byen konprann mèkànism yo é difikilté ou ka rankontwé chak jou. Konpwann maladi-w é tretman-w sé pi bon mwayen pou gardé moral-w é bat pou alé byen.",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:2:gcf",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 2,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Adan anndan kò-a yo sèvi on sond ultrason yo pozé asi vant ou. Kalprotéktin féskal, ki pèmèt egzaminé poupou (sèl) ou pou évalué ki jan trip ou anflamé. Priz san, koté yo pran on ti échantiyon san-w pou analizé'y. Endoskopi, ki fèt pandan ou ka dòmi, koté yo entrodwi on ti kamera fixé asou on tib soupl ki ni on lanp, yo ka rantre'y antrip-w atravè bouch la oswa atravè anus la. Épi finalman, IRM osnon scanner, sé gwo machin ki briyé ki ka ba foto trè klè di vant ou san yo pa ouvè'y. Ou ka toujou ni kèsyon asi maladi-w ? Alòs, gadé lòt vidéo an séri Les Modes Vintres, pou édéw pli byen konprann mèkànism yo é difikilté ou ka rankontwé chak jou. Konpwann maladi-w é tretman-w sé pi bon mwayen pou gardé moral-w é bat pou alé byen.",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:49.061188+00:00",
+    "source_text_sha256": "96a5aade64cfceb1064eac5fd7030e646153c66d28c2dfefd85ac15658866e6a"
+  }
+}

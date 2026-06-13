@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:cc0d63f9d7a193dc:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "aba5afa7605919ccbc1ce1da77b1a5eeaf240c4b0e3ef01cd491877e18977ad1",
+  "translated_at": "2026-06-10T21:14:17.917461+00:00",
+  "model": "gpt-5-mini",
+  "text": "... An rémisyon, ès mwen kontinyé swivi zot osnon ? Wi, wi, wi, paské kon nou di, sé maladi kwonik, donk byensir fò kontinyé swivi pou wè si tout ka alé byen. An fét nou ka sivwé pran san é pafwa nou mandé swivi calprotectine, sé on ekzamen ki ka mezi enflamasyon adann lasèl. An pédyatri, yo mézi pwa é tay, é lakay adilt sé pwa. É wi, an rémisyon, ou pé vwé gastro-entéwolog-la on fwa oswè dé fwa pa lanné pou asiré si tout ka alé byen é si pa ni maladi aktiv ; pafwa i fourb é i reprann dwa'y san nou pa rann kont, donk fò vré asiré si tout ka alé byen. ... ...",
+  "row": {
+    "id": "video:cc0d63f9d7a193dc:chunk:0:gcf",
+    "document_id": "video:cc0d63f9d7a193dc",
+    "chunk_index": 0,
+    "source_file": "34b64b96504322d867c385eb536b91584132e7b6.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/34b64b96504322d867c385eb536b91584132e7b6.mp4",
+    "text_path": "corpus/texts/videos/34b64b96504322d867c385eb536b91584132e7b6.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... An rémisyon, ès mwen kontinyé swivi zot osnon ? Wi, wi, wi, paské kon nou di, sé maladi kwonik, donk byensir fò kontinyé swivi pou wè si tout ka alé byen. An fét nou ka sivwé pran san é pafwa nou mandé swivi calprotectine, sé on ekzamen ki ka mezi enflamasyon adann lasèl. An pédyatri, yo mézi pwa é tay, é lakay adilt sé pwa. É wi, an rémisyon, ou pé vwé gastro-entéwolog-la on fwa oswè dé fwa pa lanné pou asiré si tout ka alé byen é si pa ni maladi aktiv ; pafwa i fourb é i reprann dwa'y san nou pa rann kont, donk fò vré asiré si tout ka alé byen. ... ...",
+    "source_id": "video:cc0d63f9d7a193dc:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:17.917461+00:00",
+    "source_text_sha256": "aba5afa7605919ccbc1ce1da77b1a5eeaf240c4b0e3ef01cd491877e18977ad1"
+  }
+}

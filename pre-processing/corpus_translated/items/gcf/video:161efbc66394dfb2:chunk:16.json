@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:16",
+  "target_language": "gcf",
+  "source_text_sha256": "dbd1b5ec0ed4517ada683e524f98021cc1774df4e727c803564f5344217ed389",
+  "translated_at": "2026-06-10T21:22:42.006849+00:00",
+  "model": "gpt-5-mini",
+  "text": "Tou dousman posib. Ou kay ramenn lanmou adan zòn-la. Épi ou jis ka fè lévèy épi soupir pou on ti ralajman. Ou rann kont. Apre sa, ou kay touré, ou antouré mwen. Ou kay touré, ou antouré mwen. Ou kay touré, ou antouré mwen. Ou kay mété-w on ti plis osinon mwens a-lèz. Pran on ti pli tan pou di-l. Ou té pwopoze eséyé korijé lavi-a. Ou kay pran on léchèl pou émosyon épi ou ka antrenné-w asou sé émosyon-la. Ou byen présan. Mwen pé èd-w pa évité-y. Asterla, ou kay eséyé étiré sou léchèl tala 0 a 10 pou wè koté ou chita. Apre sa. Paske i an ti chanjé konparé èvité-a. Ou kay monté etap pa etap, kon on liv. Trankilman gad sa ki ka pasé. Asterla, dousman, trankilman, atann-w. Mwen envité-w fè vini adan konsyans-w twa kapasité. Kèk sé konsyans ou ni antan-w épi tout sé moun ki pré-w. Épi ancraj-la. Ant la mod... Fodé-li. Épi kò-w, kò chyen-w. Épi finalman, i foire. Ou jwenn lajè kalm-la. I andidan ou. Twa kapasité. Twa dousman. Mwen envité-w ancraj-la. Sa ka kòmansé bouché on ti biten zòrèy-w. Par reboujé u",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:16:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 16,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Tou dousman posib. Ou kay ramenn lanmou adan zòn-la. Épi ou jis ka fè lévèy épi soupir pou on ti ralajman. Ou rann kont. Apre sa, ou kay touré, ou antouré mwen. Ou kay touré, ou antouré mwen. Ou kay touré, ou antouré mwen. Ou kay mété-w on ti plis osinon mwens a-lèz. Pran on ti pli tan pou di-l. Ou té pwopoze eséyé korijé lavi-a. Ou kay pran on léchèl pou émosyon épi ou ka antrenné-w asou sé émosyon-la. Ou byen présan. Mwen pé èd-w pa évité-y. Asterla, ou kay eséyé étiré sou léchèl tala 0 a 10 pou wè koté ou chita. Apre sa. Paske i an ti chanjé konparé èvité-a. Ou kay monté etap pa etap, kon on liv. Trankilman gad sa ki ka pasé. Asterla, dousman, trankilman, atann-w. Mwen envité-w fè vini adan konsyans-w twa kapasité. Kèk sé konsyans ou ni antan-w épi tout sé moun ki pré-w. Épi ancraj-la. Ant la mod... Fodé-li. Épi kò-w, kò chyen-w. Épi finalman, i foire. Ou jwenn lajè kalm-la. I andidan ou. Twa kapasité. Twa dousman. Mwen envité-w ancraj-la. Sa ka kòmansé bouché on ti biten zòrèy-w. Par reboujé u",
+    "source_id": "video:161efbc66394dfb2:chunk:16",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:42.006849+00:00",
+    "source_text_sha256": "dbd1b5ec0ed4517ada683e524f98021cc1774df4e727c803564f5344217ed389"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "edff78fb7a2d2ce33c2abe155a8b6f59911fc8a34e3906126bee2921a0149a37",
+  "translated_at": "2026-06-10T20:50:09.450401+00:00",
+  "model": "gpt-5-mini",
+  "text": "M Palé di sa èvè médsen travay-la :\n\n= Lè yo fè pwèmyé vizit djòb-la, tout ka dépann\nadan kontèks relasyon é jan vizit-la pasé. || pa ni on obligasyon légal pou palé di sa, mé siy ki ka wè adan maladi-a (mank pwa, sikatris...)\n\nsa ka bay kèsyon pafwa ! Mandé, si bizwen,\nad médsen ki ka swenw, an sètifika ki ka fè konnesans\ndi maladi-a an endiké si i anba tratman menm i ka\nestabilizé - pou sèvi selon réyaksyon médsen travay-la\né konnèsans li asi sijè-a.\næ Lè on moun ka reprann travay, médsen travay-la pé\nentèvni pou fè patwon-an aménajé post-la. || i pé\npwononsé inaptitid pou post-la si ni on twòp gwo dékalaj\nant karaktéristik post-la é létad fizik é psykolojik travayè-a, sa ki pé permet chaché on lot post adapté adan\nantrepriz-la.",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:2:gcf",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 2,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "M Palé di sa èvè médsen travay-la :\n\n= Lè yo fè pwèmyé vizit djòb-la, tout ka dépann\nadan kontèks relasyon é jan vizit-la pasé. || pa ni on obligasyon légal pou palé di sa, mé siy ki ka wè adan maladi-a (mank pwa, sikatris...)\n\nsa ka bay kèsyon pafwa ! Mandé, si bizwen,\nad médsen ki ka swenw, an sètifika ki ka fè konnesans\ndi maladi-a an endiké si i anba tratman menm i ka\nestabilizé - pou sèvi selon réyaksyon médsen travay-la\né konnèsans li asi sijè-a.\næ Lè on moun ka reprann travay, médsen travay-la pé\nentèvni pou fè patwon-an aménajé post-la. || i pé\npwononsé inaptitid pou post-la si ni on twòp gwo dékalaj\nant karaktéristik post-la é létad fizik é psykolojik travayè-a, sa ki pé permet chaché on lot post adapté adan\nantrepriz-la.",
+    "source_id": "image:b7377ddca8ae43aa:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:09.450401+00:00",
+    "source_text_sha256": "edff78fb7a2d2ce33c2abe155a8b6f59911fc8a34e3906126bee2921a0149a37"
+  }
+}

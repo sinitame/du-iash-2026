@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:12",
+  "target_language": "gcf",
+  "source_text_sha256": "0b4d3f4716857351ed8c0d761ef0f8626d1c2734e576d8ec8dd85f7f3982764d",
+  "translated_at": "2026-06-10T21:09:55.186142+00:00",
+  "model": "gpt-5-mini",
+  "text": "sa yo ka apel nutrition parentéral (NP), exclusive (NPE) lè i pa ka pran nèt anyen pa bouch.\nNou pé osi poté on sipleman pa venn an plis on manjé nòmal. NP pé dire semenn oben mwa, si bizwen an lopital oben lakay, tan ki fò pou mété tib dijestif-la a repo oswa pou amélioré létat jénéral li. NP pé osi \"préparé\" on timoun pou on operasyon. Kantité kalori-la ogmanté klèman, é pifò timoun yo rekomanse grandi pandan manjé-sa yo bay pa venn.\n\nKI PWOBLÈM NOU JWENN ÉVÈK YON ADOLÉSAN KI MALAD ?\nAdolésan yo trè sansib a aparans fizik yo, é maladi inflamatwa yo oswa tretman yo pé ni konsekans yo ka viv mal. Yo souvan santi yo kontraryé, grognon é déprimé, ousa yo fè opozisyon pandan pousé.\nChanjman ki fèt adan pwa yo osnon adan figi yo, à koz tretman-an oswa maladi-a, ka frapé yo fò. Yo ké eséyé konsa manké konsiltasyon, pa pran an konsiderasyon sentòm yo pou évité pran médikaman. Yo pé pè chiriji é wonté de li",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:12:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 12,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "sa yo ka apel nutrition parentéral (NP), exclusive (NPE) lè i pa ka pran nèt anyen pa bouch.\nNou pé osi poté on sipleman pa venn an plis on manjé nòmal. NP pé dire semenn oben mwa, si bizwen an lopital oben lakay, tan ki fò pou mété tib dijestif-la a repo oswa pou amélioré létat jénéral li. NP pé osi \"préparé\" on timoun pou on operasyon. Kantité kalori-la ogmanté klèman, é pifò timoun yo rekomanse grandi pandan manjé-sa yo bay pa venn.\n\nKI PWOBLÈM NOU JWENN ÉVÈK YON ADOLÉSAN KI MALAD ?\nAdolésan yo trè sansib a aparans fizik yo, é maladi inflamatwa yo oswa tretman yo pé ni konsekans yo ka viv mal. Yo souvan santi yo kontraryé, grognon é déprimé, ousa yo fè opozisyon pandan pousé.\nChanjman ki fèt adan pwa yo osnon adan figi yo, à koz tretman-an oswa maladi-a, ka frapé yo fò. Yo ké eséyé konsa manké konsiltasyon, pa pran an konsiderasyon sentòm yo pou évité pran médikaman. Yo pé pè chiriji é wonté de li",
+    "source_id": "pdf:a74238ee30f57428:chunk:12",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:55.186142+00:00",
+    "source_text_sha256": "0b4d3f4716857351ed8c0d761ef0f8626d1c2734e576d8ec8dd85f7f3982764d"
+  }
+}

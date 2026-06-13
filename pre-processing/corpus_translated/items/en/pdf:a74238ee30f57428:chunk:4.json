@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "6dc4b8720a7b7f7d84076aa4611d435043fc25e614f541dda291d2a04a5d56e2",
+  "translated_at": "2026-06-10T20:43:00.536523+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nL I V I N G  W I T H\nWHAT OTHER IMPACTS\nCAN IBD HAVE?\nThe complications of ulcerative colitis are the same as in adults: gastrointestinal bleeding with anemia, severe colitis resistant to medical treatment, perforation. These complications are rare but can sometimes lead to surgery, which—unlike Crohn's disease—can be curative (proctocolectomy) or to subtotal colectomy with preservation of the rectum, which can be treated locally with enemas.\nCrohn's disease, apart from growth delay, can cause the digestive and extra-digestive signs described above. Digestive complications are dominated by narrowings (strictures) of the intestine and fistulas that connect two segments of intestine or the intestine to a neighboring organ (skin). Extra-digestive manifestations can include joint involvement, most often benign, as well as skin, eye, or liver involvement. All these manifestations are generally not serious.\nDO CHILDREN RECOVER FROM THIS DISEASE?\nThese are chronic diseases that can persist longte",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:4:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 4,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 2 ---\nL I V I N G  W I T H\nWHAT OTHER IMPACTS\nCAN IBD HAVE?\nThe complications of ulcerative colitis are the same as in adults: gastrointestinal bleeding with anemia, severe colitis resistant to medical treatment, perforation. These complications are rare but can sometimes lead to surgery, which—unlike Crohn's disease—can be curative (proctocolectomy) or to subtotal colectomy with preservation of the rectum, which can be treated locally with enemas.\nCrohn's disease, apart from growth delay, can cause the digestive and extra-digestive signs described above. Digestive complications are dominated by narrowings (strictures) of the intestine and fistulas that connect two segments of intestine or the intestine to a neighboring organ (skin). Extra-digestive manifestations can include joint involvement, most often benign, as well as skin, eye, or liver involvement. All these manifestations are generally not serious.\nDO CHILDREN RECOVER FROM THIS DISEASE?\nThese are chronic diseases that can persist longte",
+    "source_id": "pdf:a74238ee30f57428:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:00.536523+00:00",
+    "source_text_sha256": "6dc4b8720a7b7f7d84076aa4611d435043fc25e614f541dda291d2a04a5d56e2"
+  }
+}

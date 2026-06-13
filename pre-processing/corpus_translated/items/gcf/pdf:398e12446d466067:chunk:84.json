@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:84",
+  "target_language": "gcf",
+  "source_text_sha256": "052c50911e6afbc818242454041751b19fac10f9e94aa956f02c306e89686406",
+  "translated_at": "2026-06-10T21:07:54.314243+00:00",
+  "model": "gpt-5-mini",
+  "text": "maladi (VEDOKIDS): on etid kowòt pwospèktif milti-sant. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116.\tWlazlo M, Kierkus J. Terapi biyolojik doub pou tretman maladi entesten anflamatwa pédiatrik: on revizyon adan literati. J Clin Med. 2022;11:2004.\n117.\tYerushalmy-Feler A, Olbjorn C, Kolho KL, et al. Terapi biyolojik doub osnon terapi ti-molékil an ka maladi entesten anflamatwa pédiatrik ki réfraktè (DOUBLE-PIBD): on etid milti-sant sòti koté Pediatric IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. 2024;30:159-166.\n118.\tRunde J, Ryan K, Hirst J, et al. Upadacitinib asosyé épi on répons klinik é rémisyon san stéroïd pou timoun é adolesan ki ni maladi entesten anflamatwa. J Pediatr Gastroenterol Nutr. 2025;80:133-140.\n119.\tPasternak B, Patel A, Tran P, et al. Jesyon périoperatwa Maladi Crohn lakay timoun. J Pediatr Gastroenterol Nutr. 2023;76:137-141.\n120.\tAmil-Dias J, Kolacek S, Turner D, et al. Jesyon chirijikal Maladi Crohn adan timoun: gid ki sòti koté paediatric IBD Porto Group. J Pediatr Gastroenterol Nutr. 2017;64:818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Jesyon ulcè pédiatrik",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:84:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 84,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "maladi (VEDOKIDS): on etid kowòt pwospèktif milti-sant. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116.\tWlazlo M, Kierkus J. Terapi biyolojik doub pou tretman maladi entesten anflamatwa pédiatrik: on revizyon adan literati. J Clin Med. 2022;11:2004.\n117.\tYerushalmy-Feler A, Olbjorn C, Kolho KL, et al. Terapi biyolojik doub osnon terapi ti-molékil an ka maladi entesten anflamatwa pédiatrik ki réfraktè (DOUBLE-PIBD): on etid milti-sant sòti koté Pediatric IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. 2024;30:159-166.\n118.\tRunde J, Ryan K, Hirst J, et al. Upadacitinib asosyé épi on répons klinik é rémisyon san stéroïd pou timoun é adolesan ki ni maladi entesten anflamatwa. J Pediatr Gastroenterol Nutr. 2025;80:133-140.\n119.\tPasternak B, Patel A, Tran P, et al. Jesyon périoperatwa Maladi Crohn lakay timoun. J Pediatr Gastroenterol Nutr. 2023;76:137-141.\n120.\tAmil-Dias J, Kolacek S, Turner D, et al. Jesyon chirijikal Maladi Crohn adan timoun: gid ki sòti koté paediatric IBD Porto Group. J Pediatr Gastroenterol Nutr. 2017;64:818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Jesyon ulcè pédiatrik",
+    "source_id": "pdf:398e12446d466067:chunk:84",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:54.314243+00:00",
+    "source_text_sha256": "052c50911e6afbc818242454041751b19fac10f9e94aa956f02c306e89686406"
+  }
+}

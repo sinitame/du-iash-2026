@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:8",
+  "target_language": "en",
+  "source_text_sha256": "62787612d1c6e87554dad3d37aa944d83d47af34b1f8f718752a3ee852314070",
+  "translated_at": "2026-06-10T20:43:00.913657+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nL I V I N G  W I T H\nWHAT IS THE IMPACT OF SURGERY ON GROWTH ?\nSurgery is necessary when there is a complication or in severe forms but does not by itself enable growth. It is often followed by an improvement that allows growth to resume.\nWILL MY CHILD HAVE A NORMAL PUBERTY ?\nPuberty is sometimes delayed by one or two years because of the disease, but in general it occurs normally. Children who are delayed can continue to grow to reach a normal height when they are in remission. Ultimately, your child will be a normal adult who can have a family like anyone else.\nHOW CAN I HELP MY CHILD COPE WITH IBD ?\nThe first thing is to accept it yourself. Try to see things realistically, so your child will not feel obliged to show you that he is really ill. Get as much information as possible from your specialist. Ask as many questions as you wish and encourage your child to ask them. Some signs can be frightening for very young children, for example bloody stools… Being able to explain them is reassuring, so q",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:8:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 8,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 3 ---\nL I V I N G  W I T H\nWHAT IS THE IMPACT OF SURGERY ON GROWTH ?\nSurgery is necessary when there is a complication or in severe forms but does not by itself enable growth. It is often followed by an improvement that allows growth to resume.\nWILL MY CHILD HAVE A NORMAL PUBERTY ?\nPuberty is sometimes delayed by one or two years because of the disease, but in general it occurs normally. Children who are delayed can continue to grow to reach a normal height when they are in remission. Ultimately, your child will be a normal adult who can have a family like anyone else.\nHOW CAN I HELP MY CHILD COPE WITH IBD ?\nThe first thing is to accept it yourself. Try to see things realistically, so your child will not feel obliged to show you that he is really ill. Get as much information as possible from your specialist. Ask as many questions as you wish and encourage your child to ask them. Some signs can be frightening for very young children, for example bloody stools… Being able to explain them is reassuring, so q",
+    "source_id": "pdf:a74238ee30f57428:chunk:8",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:00.913657+00:00",
+    "source_text_sha256": "62787612d1c6e87554dad3d37aa944d83d47af34b1f8f718752a3ee852314070"
+  }
+}

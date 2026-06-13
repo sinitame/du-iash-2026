@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:676a766599dda5e5:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "7f8ad35afa8250a445c0fca10b6ffeb525ebd4323c5619c4ac6e2ea0f3cc227c",
+  "translated_at": "2026-06-10T20:37:49.015934+00:00",
+  "model": "gpt-5-mini",
+  "text": "DOING AN INTERNSHIP OR STUDIES ABROAD WITH IBD\n\nDoing an internship abroad or part of one’s studies is becoming increasingly common. This step can enhance one’s educational background but also represents a very enriching life experience, accessible to a young person with IBD provided the project is well prepared.\nThis information sheet does not address every situation but offers some avenues; it may be supplemented based on the experiences of our members (do not hesitate to contact us).\n\nGENERAL INFORMATION\n\nIf the internship or study period is carried out as part of schooling at a French educational institution, the student remains registered at that institution and continues to benefit from French Social Security, and therefore from reimbursement for exams, consultations or medications carried out in France or purchased in France during the period concerned.\n\nThe main questions that arise during a study stay abroad are those of coverage for care or treatments provided locally.\n\nIN EUROPE (when coverage in France is maintained)",
+  "row": {
+    "id": "image:676a766599dda5e5:chunk:0:en",
+    "document_id": "image:676a766599dda5e5",
+    "chunk_index": 0,
+    "source_file": "stage_etudes_etranger_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/stage_etudes_etranger_mici.png",
+    "text_path": "corpus/texts/images/stage_etudes_etranger_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "DOING AN INTERNSHIP OR STUDIES ABROAD WITH IBD\n\nDoing an internship abroad or part of one’s studies is becoming increasingly common. This step can enhance one’s educational background but also represents a very enriching life experience, accessible to a young person with IBD provided the project is well prepared.\nThis information sheet does not address every situation but offers some avenues; it may be supplemented based on the experiences of our members (do not hesitate to contact us).\n\nGENERAL INFORMATION\n\nIf the internship or study period is carried out as part of schooling at a French educational institution, the student remains registered at that institution and continues to benefit from French Social Security, and therefore from reimbursement for exams, consultations or medications carried out in France or purchased in France during the period concerned.\n\nThe main questions that arise during a study stay abroad are those of coverage for care or treatments provided locally.\n\nIN EUROPE (when coverage in France is maintained)",
+    "source_id": "image:676a766599dda5e5:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:49.015934+00:00",
+    "source_text_sha256": "7f8ad35afa8250a445c0fca10b6ffeb525ebd4323c5619c4ac6e2ea0f3cc227c"
+  }
+}

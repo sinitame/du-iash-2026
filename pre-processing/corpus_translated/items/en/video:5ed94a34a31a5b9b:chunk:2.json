@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "1b29a95b9d1d9739dae42ccc3f32929b3c09f07c7400b9d37e03cf5f29f5acb3",
+  "translated_at": "2026-06-10T20:44:21.850857+00:00",
+  "model": "gpt-5-mini",
+  "text": "by ultra-processed foods, certain medications, or other factors such as tobacco or pollution. We also know that it is neither contagious nor hereditary, nor caused by any particular food. In France, about 300,000 people live with this disease and 15% of them are children. Each year, roughly 8,000 new cases are diagnosed. Do you still have questions about your illness? Then watch the other videos in the series Les Modes Vintres to help you better understand the symptoms and the difficulties you face in your daily life. Understanding your disease and your treatment is the best way to stay positive and to fight to feel well.",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:2:en",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 2,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "by ultra-processed foods, certain medications, or other factors such as tobacco or pollution. We also know that it is neither contagious nor hereditary, nor caused by any particular food. In France, about 300,000 people live with this disease and 15% of them are children. Each year, roughly 8,000 new cases are diagnosed. Do you still have questions about your illness? Then watch the other videos in the series Les Modes Vintres to help you better understand the symptoms and the difficulties you face in your daily life. Understanding your disease and your treatment is the best way to stay positive and to fight to feel well.",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:21.850857+00:00",
+    "source_text_sha256": "1b29a95b9d1d9739dae42ccc3f32929b3c09f07c7400b9d37e03cf5f29f5acb3"
+  }
+}

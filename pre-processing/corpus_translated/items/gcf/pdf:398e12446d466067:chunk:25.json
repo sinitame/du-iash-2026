@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:25",
+  "target_language": "gcf",
+  "source_text_sha256": "d365f83ecfa28351212aaebb865aacb95304fa6527f6804f167b63ad8c217553",
+  "translated_at": "2026-06-10T20:53:03.628396+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 7 ---\n183\nMICI\nDépistaj-la ka reposé asou kritè dinamik : on kwasans anyèl ki pi ba ki 4–5 cm depi 3 an é jik puberté, oswa on desann on DS asou koub statural la. Objektif terapi-a sé rivé on tay final ki pwès chib jenetik-la, kalkilé kon sa : Fi : [Tay papa + Tay manman - 13]/2, Gason : [Tay papa + Tay manman + 13]/2. Tay adilt atann-la idéalman ka sitiyé a ±6 cm adan bò chib-la.\nOn radiografi douy gòch ka pèmèt évalué laj zo a, endispansab an ka reta kwasans. Si kwasans-la sévèman afekté pa on MC ki pa kontwòlé, on tretman èvè òmon dé kwasans pé anvižajé. Inflamasyon-an pé altéré minéralizasyòn zo depi dyagnostik-la. Sa-la ké évalué pa on ostéodensitométrie.\nDévlopman pubertè-a ké évalué daprè staj Tanner (I a V). Absans siy a 13 an koté fi (dévlopman mamé) ouswa a 14 an koté gason (ogmantasyon volim testikil) défini on reta pubertè.\nCancer\nPasyan ki atenn épi MICI ki koumansé adan timoun yo ni on risk ogmanté pou kansé konparé a l",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:25:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 25,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 7 ---\n183\nMICI\nDépistaj-la ka reposé asou kritè dinamik : on kwasans anyèl ki pi ba ki 4–5 cm depi 3 an é jik puberté, oswa on desann on DS asou koub statural la. Objektif terapi-a sé rivé on tay final ki pwès chib jenetik-la, kalkilé kon sa : Fi : [Tay papa + Tay manman - 13]/2, Gason : [Tay papa + Tay manman + 13]/2. Tay adilt atann-la idéalman ka sitiyé a ±6 cm adan bò chib-la.\nOn radiografi douy gòch ka pèmèt évalué laj zo a, endispansab an ka reta kwasans. Si kwasans-la sévèman afekté pa on MC ki pa kontwòlé, on tretman èvè òmon dé kwasans pé anvižajé. Inflamasyon-an pé altéré minéralizasyòn zo depi dyagnostik-la. Sa-la ké évalué pa on ostéodensitométrie.\nDévlopman pubertè-a ké évalué daprè staj Tanner (I a V). Absans siy a 13 an koté fi (dévlopman mamé) ouswa a 14 an koté gason (ogmantasyon volim testikil) défini on reta pubertè.\nCancer\nPasyan ki atenn épi MICI ki koumansé adan timoun yo ni on risk ogmanté pou kansé konparé a l",
+    "source_id": "pdf:398e12446d466067:chunk:25",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:03.628396+00:00",
+    "source_text_sha256": "d365f83ecfa28351212aaebb865aacb95304fa6527f6804f167b63ad8c217553"
+  }
+}

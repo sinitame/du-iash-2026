@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "e0b4cd06fd67eccd400c1248210a3258010fcb3807af6393843ba71a7730188e",
+  "translated_at": "2026-06-10T21:10:59.987955+00:00",
+  "model": "gpt-5-mini",
+  "text": "hn’s Disease Exclusion Diet (CDED), ou règim dézklizyon alimantè adan maladi Crohn, sé on stratèji alimantè terapetik ki rété lo dézklizyon séten manjé, ranplasé pa manjé spésifik an konbiné èvè on solusyon pou nitrisyon antéral. Sé on altènativ a NEE1,2.\n\nEfikasité-y démontré pa ètid entènasional é rekonèt an pratik depi 2019, dabor adan timoun, epi adan adilt2.\n\nKisa CDED pé ban mwen ?\nOn rémisyon klinik : on ètid*3 montré anviwon 80% rémisyon a 6 simenn koté patyan ki swaziri (maladi Crohn limyè a modéré, adan timoun) é, parmi yo, sèten té ja wè on anmelyorasyon dépi 3 simenn3,4.\nOn miyò tolèrans : kontrèman a NEE, CDED ka pèmèt on alimantasyon ki vin plis varyé pandan i évité manjé ki ka agravé enflamasyon3,4.\nOn enpak pozitif asou mikrobyot entestenal : an limité ekspozisyon a sèten aditif é manjé ultra-transformé, règim lan ka favorizé on lèkilib bakteryen ki pwotjé3,4.\nOn efè tranzitwè pou trete poussé : CDED ka itilizé pandan on périòd déterminé pou stabilizé",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:2:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 2,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "hn’s Disease Exclusion Diet (CDED), ou règim dézklizyon alimantè adan maladi Crohn, sé on stratèji alimantè terapetik ki rété lo dézklizyon séten manjé, ranplasé pa manjé spésifik an konbiné èvè on solusyon pou nitrisyon antéral. Sé on altènativ a NEE1,2.\n\nEfikasité-y démontré pa ètid entènasional é rekonèt an pratik depi 2019, dabor adan timoun, epi adan adilt2.\n\nKisa CDED pé ban mwen ?\nOn rémisyon klinik : on ètid*3 montré anviwon 80% rémisyon a 6 simenn koté patyan ki swaziri (maladi Crohn limyè a modéré, adan timoun) é, parmi yo, sèten té ja wè on anmelyorasyon dépi 3 simenn3,4.\nOn miyò tolèrans : kontrèman a NEE, CDED ka pèmèt on alimantasyon ki vin plis varyé pandan i évité manjé ki ka agravé enflamasyon3,4.\nOn enpak pozitif asou mikrobyot entestenal : an limité ekspozisyon a sèten aditif é manjé ultra-transformé, règim lan ka favorizé on lèkilib bakteryen ki pwotjé3,4.\nOn efè tranzitwè pou trete poussé : CDED ka itilizé pandan on périòd déterminé pou stabilizé",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:59.987955+00:00",
+    "source_text_sha256": "e0b4cd06fd67eccd400c1248210a3258010fcb3807af6393843ba71a7730188e"
+  }
+}

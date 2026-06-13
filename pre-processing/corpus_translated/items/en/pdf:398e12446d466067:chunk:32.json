@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:32",
+  "target_language": "en",
+  "source_text_sha256": "f3960026b13ff8a24ab7521e70f65aa47f6f86c2d331e1da5ac4d397b5d5582b",
+  "translated_at": "2026-06-10T20:40:42.599992+00:00",
+  "model": "gpt-5-mini",
+  "text": "were updated in 2021 (62).\nThe therapeutic strategy must be individualized taking into account age, phenotype (Paris classification), location, disease behavior, the existence of a\n\nTable 6: Predictive factors of poor prognosis in pediatric Crohn’s disease\nand suggested induction therapy (62)\nParis classification\n[at diagnosis]\nAdditional risk factors\nRisk stratification\nSuggested induction therapy\nB1 (inflammatory: non-stricturing, non-penetrating)\nNone\nLow\nExclusive enteral nutrition; corticosteroids\nB1\nAbsence of clinical and biochemical remission\n12 weeks after the start of induction\nModerate\nConsider accelerated escalation to anti-TNF\nB1 + G1 (growth delay)\n—\nModerate\nExclusive enteral nutrition; consider anti-TNF as first-line\nB1 [L3 + L4] (extensive disease*)\n—\nHigh\nAnti-TNF as first-line\nB1 + p (perianal disease)\n—\nHigh\nAnti-TNF as first-line in combination with antibiotics, surgery, or both\nB2 (stricturing**)\nPre-stenotic dilatation, obstructive signs/symptoms (or both)\nHigh\nAnti-TNF as first-line\nB3 (penetrating***)\n—\nHigh\nResection",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:32:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 32,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "were updated in 2021 (62).\nThe therapeutic strategy must be individualized taking into account age, phenotype (Paris classification), location, disease behavior, the existence of a\n\nTable 6: Predictive factors of poor prognosis in pediatric Crohn’s disease\nand suggested induction therapy (62)\nParis classification\n[at diagnosis]\nAdditional risk factors\nRisk stratification\nSuggested induction therapy\nB1 (inflammatory: non-stricturing, non-penetrating)\nNone\nLow\nExclusive enteral nutrition; corticosteroids\nB1\nAbsence of clinical and biochemical remission\n12 weeks after the start of induction\nModerate\nConsider accelerated escalation to anti-TNF\nB1 + G1 (growth delay)\n—\nModerate\nExclusive enteral nutrition; consider anti-TNF as first-line\nB1 [L3 + L4] (extensive disease*)\n—\nHigh\nAnti-TNF as first-line\nB1 + p (perianal disease)\n—\nHigh\nAnti-TNF as first-line in combination with antibiotics, surgery, or both\nB2 (stricturing**)\nPre-stenotic dilatation, obstructive signs/symptoms (or both)\nHigh\nAnti-TNF as first-line\nB3 (penetrating***)\n—\nHigh\nResection",
+    "source_id": "pdf:398e12446d466067:chunk:32",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:42.599992+00:00",
+    "source_text_sha256": "f3960026b13ff8a24ab7521e70f65aa47f6f86c2d331e1da5ac4d397b5d5582b"
+  }
+}

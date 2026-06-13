@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "09fb01aeb9724160896adf9031dd44079ea90178c0431613aab8d64c1ca6ca67",
+  "translated_at": "2026-06-10T20:50:54.322926+00:00",
+  "model": "gpt-5-mini",
+  "text": "aditif yo pa tout menm.\nGen kèk aditif ki pa danjéré. Pou lòt yo, gen\nzétid ka fèt osnon ja pwouvé enpak\nnegatif asi lasanté nou. Pwodwi ki ni\naditif alimantè pa bizwen banné yo,\ni pli bon limité kan-\ntité yo. Sé pou sa i enpòtan pou konn li etikèt yo pou\npé fè on chwa ki byen enfomé.\nFè èvè soutyen dé",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:4:gcf",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 4,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "aditif yo pa tout menm.\nGen kèk aditif ki pa danjéré. Pou lòt yo, gen\nzétid ka fèt osnon ja pwouvé enpak\nnegatif asi lasanté nou. Pwodwi ki ni\naditif alimantè pa bizwen banné yo,\ni pli bon limité kan-\ntité yo. Sé pou sa i enpòtan pou konn li etikèt yo pou\npé fè on chwa ki byen enfomé.\nFè èvè soutyen dé",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:54.322926+00:00",
+    "source_text_sha256": "09fb01aeb9724160896adf9031dd44079ea90178c0431613aab8d64c1ca6ca67"
+  }
+}

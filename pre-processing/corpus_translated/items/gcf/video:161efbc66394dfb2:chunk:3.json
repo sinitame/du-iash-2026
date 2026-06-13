@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "5791d1bdc2fddfdc6eca7a0be0345d44b69d1cd239f9783dbb153ba688d8c9dc",
+  "translated_at": "2026-06-10T21:20:54.180977+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pou édé-w mété santiman-la an distans. Dabò, ou ké pé idantifié-y : ou pé santi petèt on boul kolè anndan kò-w. Daprè koté i chita, ou ké pé eséyé obsévé konbyen i gwo — si i gran, mwayen, piti — si i cho, si i frèt, si i lou, si i lejé. Ou ké pé osi ban-y on koulè, épi eséyé wè si i ni on matyè : ès i pikan, ès i likid, ès i rèd ; eséyé wè ki jan i gadé. Lè ou ja idantifié boul-la, inspiré pa nen. Lè ou expiré, imajiné mété-y an distans osi lwen ké posib pandan ou ka souflé pa bouch, é evakyé-y pli lwen sòti an kò-w. Fè sa ankò on dézyèm fwa : inspiré, é lè ou expiré souflé panse yo é evakyé yo ankò é ankò osi lwen ké posib sòti an kò-w. É on trwazyèm é dèrnyé fwa ankò : inspiré pa nen, é mété-y an distans osi lwen ké posib. Ou pé santi kounyé-a trankilité, detann an kò-w. Si ou vréman santi kolè-a, petèt—",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:3:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 3,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pou édé-w mété santiman-la an distans. Dabò, ou ké pé idantifié-y : ou pé santi petèt on boul kolè anndan kò-w. Daprè koté i chita, ou ké pé eséyé obsévé konbyen i gwo — si i gran, mwayen, piti — si i cho, si i frèt, si i lou, si i lejé. Ou ké pé osi ban-y on koulè, épi eséyé wè si i ni on matyè : ès i pikan, ès i likid, ès i rèd ; eséyé wè ki jan i gadé. Lè ou ja idantifié boul-la, inspiré pa nen. Lè ou expiré, imajiné mété-y an distans osi lwen ké posib pandan ou ka souflé pa bouch, é evakyé-y pli lwen sòti an kò-w. Fè sa ankò on dézyèm fwa : inspiré, é lè ou expiré souflé panse yo é evakyé yo ankò é ankò osi lwen ké posib sòti an kò-w. É on trwazyèm é dèrnyé fwa ankò : inspiré pa nen, é mété-y an distans osi lwen ké posib. Ou pé santi kounyé-a trankilité, detann an kò-w. Si ou vréman santi kolè-a, petèt—",
+    "source_id": "video:161efbc66394dfb2:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:54.180977+00:00",
+    "source_text_sha256": "5791d1bdc2fddfdc6eca7a0be0345d44b69d1cd239f9783dbb153ba688d8c9dc"
+  }
+}

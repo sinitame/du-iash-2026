@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "b5f3eb3cb6ed395185090df2fd28a7e26f091cdda4cdb54f88b77aeba30907e1",
+  "translated_at": "2026-06-10T20:39:44.820920+00:00",
+  "model": "gpt-5-mini",
+  "text": "healthy. Several of the environmental factors associated with the risk of developing IBD may act through their impact on the intestinal microbiota.\nThe mode of delivery influences the development of the intestinal microbiota. However, meta-analyses have not confirmed a significant link between cesarean section and an increased risk of developing IBD (14,15). In contrast, systematic reviews show that breastfeeding protects against pediatric IBD, with a dose-dependent effect (16). Living in an urban environment and high ambient air pollution is associated with an increased risk of developing IBD, varying by age. Children who live close to a park or in a wooded environment have a decreased risk of developing IBD (13). Although smoking is an established risk factor in adults, no association has been reported between passive smoking or prenatal tobacco exposure and the occurrence of pediatric IBD (17). Several studies have found an increased frequency of perinatal and infant infections. (Figure 1)\nFigure 1: illustration of environmental factors",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:6:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 6,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "healthy. Several of the environmental factors associated with the risk of developing IBD may act through their impact on the intestinal microbiota.\nThe mode of delivery influences the development of the intestinal microbiota. However, meta-analyses have not confirmed a significant link between cesarean section and an increased risk of developing IBD (14,15). In contrast, systematic reviews show that breastfeeding protects against pediatric IBD, with a dose-dependent effect (16). Living in an urban environment and high ambient air pollution is associated with an increased risk of developing IBD, varying by age. Children who live close to a park or in a wooded environment have a decreased risk of developing IBD (13). Although smoking is an established risk factor in adults, no association has been reported between passive smoking or prenatal tobacco exposure and the occurrence of pediatric IBD (17). Several studies have found an increased frequency of perinatal and infant infections. (Figure 1)\nFigure 1: illustration of environmental factors",
+    "source_id": "pdf:398e12446d466067:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:44.820920+00:00",
+    "source_text_sha256": "b5f3eb3cb6ed395185090df2fd28a7e26f091cdda4cdb54f88b77aeba30907e1"
+  }
+}

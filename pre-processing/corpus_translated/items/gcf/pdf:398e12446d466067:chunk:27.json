@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:27",
+  "target_language": "gcf",
+  "source_text_sha256": "e7113bd62cf550a0f9656d01d604a6b588b790a571d244c631e7ecc2c0600645",
+  "translated_at": "2026-06-10T20:53:14.324059+00:00",
+  "model": "gpt-5-mini",
+  "text": "on pwosesis ki évolutif. Li\nenpliké « pasaj entansyonèl é planifié adolésan é jenn adilt ki trapé maladi kwonik fizik é médikal, sòti on sistèm swen ki santwé asi timoun pou alé an on sistèm swen ki oryanté asi adilt » (52). An kour pwosesis-la, adolésan aprann pran chaj tèt yo pou tout aspè lasanté yo, vini itilizatè informé sistèm swen pou adilt, é akizé konpetans pou on lavi otònòm é pou otogestion maladi yo (53,54). Konpetans sa yo inklid antouka kominikasiyon efikas, pran dézision, swen tèt, afimasyon tèt é otodetèminasyon (55,56).\nPandant tranzisyon sa-a, responsabilite-a ka déplasé pwogrésivman depi paran pou alé asou pasyan-an. Konsa, tranzisyon swen an enpliké on chanjman pwogrésiv nan konnèssans, atitid é konpòtman (57). Transfè swen an, sòti gastro-entérològ pédyatrik pou alé gastro-entérològ adilt, souvan réprézante dènnyé etap pwosesis tranzisyon an. Siksè global tranzisyon swen an é réusit transfè final-la sé dé bagay ki séréman lié (58). L'implik",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:27:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 27,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "on pwosesis ki évolutif. Li\nenpliké « pasaj entansyonèl é planifié adolésan é jenn adilt ki trapé maladi kwonik fizik é médikal, sòti on sistèm swen ki santwé asi timoun pou alé an on sistèm swen ki oryanté asi adilt » (52). An kour pwosesis-la, adolésan aprann pran chaj tèt yo pou tout aspè lasanté yo, vini itilizatè informé sistèm swen pou adilt, é akizé konpetans pou on lavi otònòm é pou otogestion maladi yo (53,54). Konpetans sa yo inklid antouka kominikasiyon efikas, pran dézision, swen tèt, afimasyon tèt é otodetèminasyon (55,56).\nPandant tranzisyon sa-a, responsabilite-a ka déplasé pwogrésivman depi paran pou alé asou pasyan-an. Konsa, tranzisyon swen an enpliké on chanjman pwogrésiv nan konnèssans, atitid é konpòtman (57). Transfè swen an, sòti gastro-entérològ pédyatrik pou alé gastro-entérològ adilt, souvan réprézante dènnyé etap pwosesis tranzisyon an. Siksè global tranzisyon swen an é réusit transfè final-la sé dé bagay ki séréman lié (58). L'implik",
+    "source_id": "pdf:398e12446d466067:chunk:27",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:14.324059+00:00",
+    "source_text_sha256": "e7113bd62cf550a0f9656d01d604a6b588b790a571d244c631e7ecc2c0600645"
+  }
+}

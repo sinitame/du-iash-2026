@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:15",
+  "target_language": "gcf",
+  "source_text_sha256": "b8cc66eac22e341d8252a21b1e0999646d3b3a802faca8a47453b1f6892a2e37",
+  "translated_at": "2026-06-10T21:22:41.157112+00:00",
+  "model": "gpt-5-mini",
+  "text": "sé o nivo détouracts-la.\nOu ké fè mété an tjan pou i ni pwen-an.\nMètnan, sou on inspirasyon, ou ké ramenné koud an dèyè pou ouvè tout zòn tuyau-a.\nÉpi asou ekspirasyon, ou ké râné tout dousman, tronkil, lanmou adan kèw.\nÉpi ou reposé on ti tan.\nSé adan zòn tuyau-a.\nTronkil, tout kalm.\nÉpi nou ké pratike-y ankò dé fwa.\nOn nouvo tuyau an spir.\nOu ké régulé koud an dèyè.\nAvè on ti ti dépo.\nBloké on ti tan tuyau épi ton rax.\nPli i ni on nourré.\nÉpi asou ekspirasyon pli dousman posib, ou ké râné lanmou adan kèw.\nÉpi ou ké fè on ti tan poz pou akèyé sansasyons-la.\nTronkil, tout dousman.\nPli ankò on dènye fwa.\nOn nouvo tuyau an spir.\nOu ké régulé koud an dèyè.\nÉpi pran consentue.\nDòw rax ki la.\nOu bloké on ti tan respirasyon.\nÉpi kan ou an dèyè, ou ké t'engré tout dousman posib.\nOu ké râné lanmou adan zòn-la.\nÉpi i ni on éveyéman dé soupi é dé rasman.\nOu t'en t'es.\nPli ou ké trop, ou m'entoure.\nPli ou ké trop, ou m'entoure.\nOu ké tr",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:15:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 15,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "sé o nivo détouracts-la.\nOu ké fè mété an tjan pou i ni pwen-an.\nMètnan, sou on inspirasyon, ou ké ramenné koud an dèyè pou ouvè tout zòn tuyau-a.\nÉpi asou ekspirasyon, ou ké râné tout dousman, tronkil, lanmou adan kèw.\nÉpi ou reposé on ti tan.\nSé adan zòn tuyau-a.\nTronkil, tout kalm.\nÉpi nou ké pratike-y ankò dé fwa.\nOn nouvo tuyau an spir.\nOu ké régulé koud an dèyè.\nAvè on ti ti dépo.\nBloké on ti tan tuyau épi ton rax.\nPli i ni on nourré.\nÉpi asou ekspirasyon pli dousman posib, ou ké râné lanmou adan kèw.\nÉpi ou ké fè on ti tan poz pou akèyé sansasyons-la.\nTronkil, tout dousman.\nPli ankò on dènye fwa.\nOn nouvo tuyau an spir.\nOu ké régulé koud an dèyè.\nÉpi pran consentue.\nDòw rax ki la.\nOu bloké on ti tan respirasyon.\nÉpi kan ou an dèyè, ou ké t'engré tout dousman posib.\nOu ké râné lanmou adan zòn-la.\nÉpi i ni on éveyéman dé soupi é dé rasman.\nOu t'en t'es.\nPli ou ké trop, ou m'entoure.\nPli ou ké trop, ou m'entoure.\nOu ké tr",
+    "source_id": "video:161efbc66394dfb2:chunk:15",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:41.157112+00:00",
+    "source_text_sha256": "b8cc66eac22e341d8252a21b1e0999646d3b3a802faca8a47453b1f6892a2e37"
+  }
+}

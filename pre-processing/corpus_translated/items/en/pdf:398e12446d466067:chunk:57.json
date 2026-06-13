@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:57",
+  "target_language": "en",
+  "source_text_sha256": "64b5deda597349893e8fbee27e31ad26dd0c35e5a5df9187dfb97ef7b46f294a",
+  "translated_at": "2026-06-10T20:41:53.811573+00:00",
+  "model": "gpt-5-mini",
+  "text": "tests every 1-2 weeks then every 3 months, sun protection\n6‑Mercaptopurine\n(6‑MP)\nImmunomodulator\n(thiopurines)\n1–1.5 mg/kg/day\nSame as azathioprine\nSame as AZA, 6‑TGN/6‑MMP assays if inefficacy or toxicity\nMethotrexate\nAntimetabolite\n(rarely used)\nAccording to protocol, subcutaneous route weekly\nNausea, hepatotoxicity, cytopenias\nCBC, ALT/AST regularly\nTacrolimus (FK‑506)\nCalcineurin inhibitor\nTarget: 10–15 ng/mL then 5–10 ng/mL\nNephrotoxicity, headaches, tremors, hypertension\nBlood levels, creatinine, BP\nInfliximab\nAnti‑TNF‑α\n(biologic)\n5 mg/kg IV at weeks 0, 2, 6 then every 8 weeks\nInfusion reactions, infections, psoriasis, anti‑drug antibodies\nClinical monitoring, TB/HBV screening, trough level measurement\nAdalimumab / Golimumab\nAnti‑TNF‑α\n(biologic SC)\nAccording to pediatric protocol\n(weight‑dependent)\nLocal reactions, infections, rashes, antibody formation\nSame as infliximab\nVedolizumab\nAnti‑integrin α4β7\n300 mg IV (adults; limited pediatric data)\nHeadaches, fatigue, ENT infections, infusion reactions\nTolerance monitoring, infections\nProbiotics\n(VSL#3)\nAdjuncts\nVSL#3: doses according to study.\nBloating, discomfort",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:57:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 57,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "tests every 1-2 weeks then every 3 months, sun protection\n6‑Mercaptopurine\n(6‑MP)\nImmunomodulator\n(thiopurines)\n1–1.5 mg/kg/day\nSame as azathioprine\nSame as AZA, 6‑TGN/6‑MMP assays if inefficacy or toxicity\nMethotrexate\nAntimetabolite\n(rarely used)\nAccording to protocol, subcutaneous route weekly\nNausea, hepatotoxicity, cytopenias\nCBC, ALT/AST regularly\nTacrolimus (FK‑506)\nCalcineurin inhibitor\nTarget: 10–15 ng/mL then 5–10 ng/mL\nNephrotoxicity, headaches, tremors, hypertension\nBlood levels, creatinine, BP\nInfliximab\nAnti‑TNF‑α\n(biologic)\n5 mg/kg IV at weeks 0, 2, 6 then every 8 weeks\nInfusion reactions, infections, psoriasis, anti‑drug antibodies\nClinical monitoring, TB/HBV screening, trough level measurement\nAdalimumab / Golimumab\nAnti‑TNF‑α\n(biologic SC)\nAccording to pediatric protocol\n(weight‑dependent)\nLocal reactions, infections, rashes, antibody formation\nSame as infliximab\nVedolizumab\nAnti‑integrin α4β7\n300 mg IV (adults; limited pediatric data)\nHeadaches, fatigue, ENT infections, infusion reactions\nTolerance monitoring, infections\nProbiotics\n(VSL#3)\nAdjuncts\nVSL#3: doses according to study.\nBloating, discomfort",
+    "source_id": "pdf:398e12446d466067:chunk:57",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:53.811573+00:00",
+    "source_text_sha256": "64b5deda597349893e8fbee27e31ad26dd0c35e5a5df9187dfb97ef7b46f294a"
+  }
+}

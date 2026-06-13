@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4e1084b99f5ece90:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "d156c36084b365bc9b923f4062e050eb0011d6f9a7954815c6bb0375da36bc01",
+  "translated_at": "2026-06-10T20:47:00.938234+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Are there other treatments besides infusions? Biotherapies exist by intravenous route and now there are subcutaneous routes; for example a cliquestime, which is prescribed only by intravenous route. There are subcutaneous forms, they do exist. And so, when patients are doing well and are in remission, we can offer them subcutaneous forms to use at home. It's the same for the antivio, but a subcutaneous form exists. So we have more and more treatments given subcutaneously. However, the start of treatment — a cliquestime before tivio and then the anti-IL-23 — is carried out by infusion: the first three infusions are given intravenously.",
+  "row": {
+    "id": "video:4e1084b99f5ece90:chunk:0:en",
+    "document_id": "video:4e1084b99f5ece90",
+    "chunk_index": 0,
+    "source_file": "d3dc1f272bcd4171096cd3a9049a785970f22099.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/d3dc1f272bcd4171096cd3a9049a785970f22099.mp4",
+    "text_path": "corpus/texts/videos/d3dc1f272bcd4171096cd3a9049a785970f22099.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Are there other treatments besides infusions? Biotherapies exist by intravenous route and now there are subcutaneous routes; for example a cliquestime, which is prescribed only by intravenous route. There are subcutaneous forms, they do exist. And so, when patients are doing well and are in remission, we can offer them subcutaneous forms to use at home. It's the same for the antivio, but a subcutaneous form exists. So we have more and more treatments given subcutaneously. However, the start of treatment — a cliquestime before tivio and then the anti-IL-23 — is carried out by infusion: the first three infusions are given intravenously.",
+    "source_id": "video:4e1084b99f5ece90:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:00.938234+00:00",
+    "source_text_sha256": "d156c36084b365bc9b923f4062e050eb0011d6f9a7954815c6bb0375da36bc01"
+  }
+}

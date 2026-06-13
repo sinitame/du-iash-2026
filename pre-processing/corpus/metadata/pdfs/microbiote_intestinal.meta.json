@@ -1,0 +1,11 @@
+{
+  "id": "pdf:92721e9d64a6ed6b",
+  "status": "done",
+  "source_file": "microbiote_intestinal.pdf",
+  "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+  "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+  "modality": "pdf",
+  "language": "fr",
+  "source_sha256": "92721e9d64a6ed6b45550fddb9f2f373b9303d9b3ef02d4864e297e59a5663da",
+  "created_at": "2026-06-10T16:11:55.034420+00:00"
+}

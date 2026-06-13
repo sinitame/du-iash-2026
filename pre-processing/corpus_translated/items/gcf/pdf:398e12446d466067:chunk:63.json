@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:63",
+  "target_language": "gcf",
+  "source_text_sha256": "c517922aa9528ad1d891a830c87e9b3cce2bf854cf903a50b188f546b634d20c",
+  "translated_at": "2026-06-10T20:55:18.613149+00:00",
+  "model": "gpt-5-mini",
+  "text": "Analiz étid obsèvasyon. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\tBarclay AR, Russell RK, Wilson ML, et al. Revizyon sistematik: wòl tété adan dévlopman maladi entestin enflamatwa timoun. J Pediatr. 2009;155:421-6.\n17.\tJones DT, Ostermanı MT, Bewtra M, et al. Fimen pasif é maladi entestin enflamatwa: on méta-analiz. Am J Gastroenterol. 2008;103:2382-93.\n18.\tUngaro R, Bernstein CN, Gearry R, et al. Antibyotik asosyé épi on ogmantasyon risk pou aparisyon nouvo ka Crohn mé pa pou kolit ulcératif: on méta-analiz. Am J Gastroenterol. \n2014;109:1728-38.\n19.\tPineton de Chambrun G, Dauchet L, Gower-Rousseau C, et al. Vaksinasyon é risk pou dévlopé maladi entestin enflamatwa: on méta-analiz détid ka-kontwòl é détid kwohò. Clin Gastroenterol Hepatol. 2015;13:1405-1415.\n20.\tDong C, Chan SSM, Jantchou P, et al. Konsomasyon vyann asosyé épi on risk pli o pou kolit ulcératif an on gran etid kwohò prospektiv Ewòp. J Crohns Colitis 2022;16:1187-96.\n21.\tDe Silva PS, Olsen A, Christensen J, et al. On asosyasyon ant asid arachidonic adan réjim alimantè, mezuré adan tissu grès, é kolit ulcératif. Gastroen",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:63:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 63,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Analiz étid obsèvasyon. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\tBarclay AR, Russell RK, Wilson ML, et al. Revizyon sistematik: wòl tété adan dévlopman maladi entestin enflamatwa timoun. J Pediatr. 2009;155:421-6.\n17.\tJones DT, Ostermanı MT, Bewtra M, et al. Fimen pasif é maladi entestin enflamatwa: on méta-analiz. Am J Gastroenterol. 2008;103:2382-93.\n18.\tUngaro R, Bernstein CN, Gearry R, et al. Antibyotik asosyé épi on ogmantasyon risk pou aparisyon nouvo ka Crohn mé pa pou kolit ulcératif: on méta-analiz. Am J Gastroenterol. \n2014;109:1728-38.\n19.\tPineton de Chambrun G, Dauchet L, Gower-Rousseau C, et al. Vaksinasyon é risk pou dévlopé maladi entestin enflamatwa: on méta-analiz détid ka-kontwòl é détid kwohò. Clin Gastroenterol Hepatol. 2015;13:1405-1415.\n20.\tDong C, Chan SSM, Jantchou P, et al. Konsomasyon vyann asosyé épi on risk pli o pou kolit ulcératif an on gran etid kwohò prospektiv Ewòp. J Crohns Colitis 2022;16:1187-96.\n21.\tDe Silva PS, Olsen A, Christensen J, et al. On asosyasyon ant asid arachidonic adan réjim alimantè, mezuré adan tissu grès, é kolit ulcératif. Gastroen",
+    "source_id": "pdf:398e12446d466067:chunk:63",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:18.613149+00:00",
+    "source_text_sha256": "c517922aa9528ad1d891a830c87e9b3cce2bf854cf903a50b188f546b634d20c"
+  }
+}

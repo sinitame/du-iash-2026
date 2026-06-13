@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:53",
+  "target_language": "en",
+  "source_text_sha256": "bb847016018e6f565472f4bba8a6198f24ab4e129ba7abfccec8f842f9d08cb5",
+  "translated_at": "2026-06-10T20:41:31.901516+00:00",
+  "model": "gpt-5-mini",
+  "text": "complete remission. Switching to 5-ASA can be considered in some cases, if 5-ASA has not previously failed and after a period of sustained deep remission.\nComments: Medical treatments for UC should be divided between those that induce remission (5-ASA, corticosteroids, anti-TNF therapy, calcineurin inhibitors and, probably, probiotics) and those that maintain remission (5-ASA, thiopurines, anti-TNF therapy, vedolizumab and certain probiotics).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:53:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 53,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "complete remission. Switching to 5-ASA can be considered in some cases, if 5-ASA has not previously failed and after a period of sustained deep remission.\nComments: Medical treatments for UC should be divided between those that induce remission (5-ASA, corticosteroids, anti-TNF therapy, calcineurin inhibitors and, probably, probiotics) and those that maintain remission (5-ASA, thiopurines, anti-TNF therapy, vedolizumab and certain probiotics).",
+    "source_id": "pdf:398e12446d466067:chunk:53",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:31.901516+00:00",
+    "source_text_sha256": "bb847016018e6f565472f4bba8a6198f24ab4e129ba7abfccec8f842f9d08cb5"
+  }
+}

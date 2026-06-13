@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:46",
+  "target_language": "gcf",
+  "source_text_sha256": "e56458ee686d4a57468547b34adf2e04c2e88f04f8605bdfa353e5c6e3f2177a",
+  "translated_at": "2026-06-10T20:54:17.481840+00:00",
+  "model": "gpt-5-mini",
+  "text": "pluridisiplinè.\nArbr dézisyo pou éstrateji térapetik (62)\n(Figi 4)\nTrètman chiriji (119)\nChiriji sé endiké sèlman ka gen konplikasyon kon sténoz, absè, fistil oswa perforasyon, é yo toujou ka chaché limité lonjè ségmant yo anlévé (120). Incidans entèvansyon chirijikal pli wo koté timoun. Optimisasyon nitrisyon préopératwa, si i fèt pa alimentasyon entéral égzklizif oswa parantéral, sé on bagay fondal; i diminyé ris konplikasyon, i favorizé on miyò rékiperasyon é i pé ralantir oswa alléjé entèvansyon chirijikal. NEE montwé on réduksyon an duré séjou postopératwa.\nTrètman pou rékto-kolit emorajik\nAn pédiatri, RCH ka diferan di MC pa on fenotip globalman mwens hétérogèn. Fòm pédiatrik la ka réprésanté anviwon 15 à 20 % tout ka yo (9). Rekòmandasyon sou pran-chaj médical RCH pédiatrik é kolit aigw sévè té pibliyé pa ESPGHAN é ECCO (121,122).\n(Figi 5 é Tablo 7)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:46:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 46,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "pluridisiplinè.\nArbr dézisyo pou éstrateji térapetik (62)\n(Figi 4)\nTrètman chiriji (119)\nChiriji sé endiké sèlman ka gen konplikasyon kon sténoz, absè, fistil oswa perforasyon, é yo toujou ka chaché limité lonjè ségmant yo anlévé (120). Incidans entèvansyon chirijikal pli wo koté timoun. Optimisasyon nitrisyon préopératwa, si i fèt pa alimentasyon entéral égzklizif oswa parantéral, sé on bagay fondal; i diminyé ris konplikasyon, i favorizé on miyò rékiperasyon é i pé ralantir oswa alléjé entèvansyon chirijikal. NEE montwé on réduksyon an duré séjou postopératwa.\nTrètman pou rékto-kolit emorajik\nAn pédiatri, RCH ka diferan di MC pa on fenotip globalman mwens hétérogèn. Fòm pédiatrik la ka réprésanté anviwon 15 à 20 % tout ka yo (9). Rekòmandasyon sou pran-chaj médical RCH pédiatrik é kolit aigw sévè té pibliyé pa ESPGHAN é ECCO (121,122).\n(Figi 5 é Tablo 7)",
+    "source_id": "pdf:398e12446d466067:chunk:46",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:17.481840+00:00",
+    "source_text_sha256": "e56458ee686d4a57468547b34adf2e04c2e88f04f8605bdfa353e5c6e3f2177a"
+  }
+}

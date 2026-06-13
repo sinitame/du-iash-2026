@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:8",
+  "target_language": "gcf",
+  "source_text_sha256": "ada55e83f6b22382aa936a8b330b863a8aaf2c7fc604f032f71e62f07a731d45",
+  "translated_at": "2026-06-10T21:21:43.849260+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pratiké ankò dé fwa, anko. Ou ké inspiré, ou mété poing anvan. Ou bloké respirasion. Ou ramenn poing an déyè, épi entansyon mété kolè-a a distans. Épi a lékspiré, si ou voye poing-la, i pa pé posédé-w. Ou té bloké respirasion, épi a rit-ou, ou voye’y byen lwen pandan ou expiré. Épi ou relaché tout. Ou tend bra-w, épi ou lansé yo tonbé. Ou akwéyé : baye, trankil, tou dwat.\n\nPou twazyèm é dènnyé fwa, anko : ou ké inspiré, poing anvan, ou fémé poing an déyè. Épi a lékspiré, ou voye poing-la. Fè jan ou vlé. Si ou bizwen vit, ou relaché tout. Ou santi sansasyon-an : soupi, baye, détans.\n\nMwen pwopoze kounyé-a pouw rivé anlè pye-w, an aks, bò koté lôt. Ou ké pran on ti inspirasyon, on gran inspirasyon pa nen. Épi ou relaché. Permèt pye-w pran plas yo. Ou bloké respirasion. Épi a lékspiré, lè ou anvi, ou pé voye rès kolè-a.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:8:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 8,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pratiké ankò dé fwa, anko. Ou ké inspiré, ou mété poing anvan. Ou bloké respirasion. Ou ramenn poing an déyè, épi entansyon mété kolè-a a distans. Épi a lékspiré, si ou voye poing-la, i pa pé posédé-w. Ou té bloké respirasion, épi a rit-ou, ou voye’y byen lwen pandan ou expiré. Épi ou relaché tout. Ou tend bra-w, épi ou lansé yo tonbé. Ou akwéyé : baye, trankil, tou dwat.\n\nPou twazyèm é dènnyé fwa, anko : ou ké inspiré, poing anvan, ou fémé poing an déyè. Épi a lékspiré, ou voye poing-la. Fè jan ou vlé. Si ou bizwen vit, ou relaché tout. Ou santi sansasyon-an : soupi, baye, détans.\n\nMwen pwopoze kounyé-a pouw rivé anlè pye-w, an aks, bò koté lôt. Ou ké pran on ti inspirasyon, on gran inspirasyon pa nen. Épi ou relaché. Permèt pye-w pran plas yo. Ou bloké respirasion. Épi a lékspiré, lè ou anvi, ou pé voye rès kolè-a.",
+    "source_id": "video:161efbc66394dfb2:chunk:8",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:43.849260+00:00",
+    "source_text_sha256": "ada55e83f6b22382aa936a8b330b863a8aaf2c7fc604f032f71e62f07a731d45"
+  }
+}

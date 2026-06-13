@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:72d063d76aea65c9:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "6b435453fac64a75ecfa5e949d697a932ffd1eb1ae8431f5a5169c22e642feeb",
+  "translated_at": "2026-06-10T20:45:47.489550+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Where do these diseases come from? So these are diseases that, in fact, we have known about since the late 19th century. They were initially diseases of the industrialized North and therefore have a large environmental component — with pollution, the way we eat, probably processed and industrialized foods — which in turn cause changes in the microbiota, and these microbiota changes then lead to a recruitment of the immune system that will attack the digestive tract ...",
+  "row": {
+    "id": "video:72d063d76aea65c9:chunk:0:en",
+    "document_id": "video:72d063d76aea65c9",
+    "chunk_index": 0,
+    "source_file": "447edfe17af3c13a71c02dd19f6c92e136301996.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/447edfe17af3c13a71c02dd19f6c92e136301996.mp4",
+    "text_path": "corpus/texts/videos/447edfe17af3c13a71c02dd19f6c92e136301996.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Where do these diseases come from? So these are diseases that, in fact, we have known about since the late 19th century. They were initially diseases of the industrialized North and therefore have a large environmental component — with pollution, the way we eat, probably processed and industrialized foods — which in turn cause changes in the microbiota, and these microbiota changes then lead to a recruitment of the immune system that will attack the digestive tract ...",
+    "source_id": "video:72d063d76aea65c9:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:47.489550+00:00",
+    "source_text_sha256": "6b435453fac64a75ecfa5e949d697a932ffd1eb1ae8431f5a5169c22e642feeb"
+  }
+}

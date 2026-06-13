@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:8",
+  "target_language": "en",
+  "source_text_sha256": "ada55e83f6b22382aa936a8b330b863a8aaf2c7fc604f032f71e62f07a731d45",
+  "translated_at": "2026-06-10T20:47:47.840093+00:00",
+  "model": "gpt-5-mini",
+  "text": "Repeat two more times, again. You will inhale and bring your fist forward. You hold your breath. You pull your fist back. With the intention of putting that anger at a distance. And this time, when you send your fist, it can no longer reach you. You hold your breath at your own pace. You send it very far as you exhale. Then you release everything. You lower your arms and relax your upper body. Welcome the sensation — a yawn, calm. Keep your body upright.\n\nFor the third and last time, again: inhale, fist forward, pull your fist back, and on the exhale send your fist. This time, do it as you prefer — quickly if you need to. Release everything and notice the sensation: a sigh, a yawn, relaxation.\n\nI now invite you to come back to standing, feet aligned next to each other. Take a deep belly breath in, and then let go. Allow your fists to relax. Let your arms rest by your sides. Hold your breath, and when you exhale, if you want, you can send away the rest of the anger.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:8:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 8,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Repeat two more times, again. You will inhale and bring your fist forward. You hold your breath. You pull your fist back. With the intention of putting that anger at a distance. And this time, when you send your fist, it can no longer reach you. You hold your breath at your own pace. You send it very far as you exhale. Then you release everything. You lower your arms and relax your upper body. Welcome the sensation — a yawn, calm. Keep your body upright.\n\nFor the third and last time, again: inhale, fist forward, pull your fist back, and on the exhale send your fist. This time, do it as you prefer — quickly if you need to. Release everything and notice the sensation: a sigh, a yawn, relaxation.\n\nI now invite you to come back to standing, feet aligned next to each other. Take a deep belly breath in, and then let go. Allow your fists to relax. Let your arms rest by your sides. Hold your breath, and when you exhale, if you want, you can send away the rest of the anger.",
+    "source_id": "video:161efbc66394dfb2:chunk:8",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:47.840093+00:00",
+    "source_text_sha256": "ada55e83f6b22382aa936a8b330b863a8aaf2c7fc604f032f71e62f07a731d45"
+  }
+}

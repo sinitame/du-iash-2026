@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "be29319101ab313506cf4501a17512a231d89e7c40c57733e6723a0d9eb252dd",
+  "translated_at": "2026-06-10T20:38:58.388742+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nTHE INGREDIENT LIST: WHO SAYS WHAT?\nIngredients are always listed from the most to the least present. If sugar or oil is at the top of the list, that isn’t necessarily a good choice, unless you’re looking at a bottle of oil or a bag of candy. For example, if you buy fruit juice and the first ingredient is water, it’s more of a fruit-based drink.\nIn general, you should understand all the ingredients listed. It’s a bit like following a recipe: you’re more likely to choose the ones where you know every ingredient.\nFood additives (like E102, E150, etc.): the fewer there are, the better. There are 320 in use today. Some are harmless, but others are more questionable.\nFor people with IBD, emulsifiers are particularly problematic. (See the “Food additives” fact sheet in MIKADO to learn more and to help spot them.)\nREADING LABELS:\nTHE GUIDE TO MAKING THE RIGHT CHOICE\nLearning to read food labels is super important! It lets you know exactly what you’re eating and make informed choices. The information on the",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:0:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 0,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 1 ---\nTHE INGREDIENT LIST: WHO SAYS WHAT?\nIngredients are always listed from the most to the least present. If sugar or oil is at the top of the list, that isn’t necessarily a good choice, unless you’re looking at a bottle of oil or a bag of candy. For example, if you buy fruit juice and the first ingredient is water, it’s more of a fruit-based drink.\nIn general, you should understand all the ingredients listed. It’s a bit like following a recipe: you’re more likely to choose the ones where you know every ingredient.\nFood additives (like E102, E150, etc.): the fewer there are, the better. There are 320 in use today. Some are harmless, but others are more questionable.\nFor people with IBD, emulsifiers are particularly problematic. (See the “Food additives” fact sheet in MIKADO to learn more and to help spot them.)\nREADING LABELS:\nTHE GUIDE TO MAKING THE RIGHT CHOICE\nLearning to read food labels is super important! It lets you know exactly what you’re eating and make informed choices. The information on the",
+    "source_id": "pdf:2499a50038a1326f:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:58.388742+00:00",
+    "source_text_sha256": "be29319101ab313506cf4501a17512a231d89e7c40c57733e6723a0d9eb252dd"
+  }
+}

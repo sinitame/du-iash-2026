@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:02ce5191afb0549a:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "89e3661a74bf01297ce090e69e47a9c060170c18acb3b5b107eb7d05f93f1497",
+  "translated_at": "2026-06-10T20:48:55.458171+00:00",
+  "model": "gpt-5-mini",
+  "text": "Z\nO\nF\nZ\nLu\n>\nsu\nœ\na\n\nFATIG\nÉ DÉPRESYON\n\nKI SA DÉPRESYON ?\n\nOrganisation Mondyal lasanté ka défini dépresyon kon on twoub mantal, ki ka karakterizé pa trisès, pèd lentérés ouswa plezi, santiman koupabilté ouswa ba estim tèt, trublé dòmi ouswa apeti, on sansasyon fatig é on mank konsantrasyon.\n\nI ka asosyé adan plizyè fason :\n\nTrisès préskaman permann, épi pafwa plé\nPèd lentérés é plezi pou aktivité ki dabitid té plé\nSantiman dévalorizasyon é koupabilté\nIdé mò ouswa swisid ki tounen souvan\nRalantisman psikomotè\nFatig ouswa pèd lénèji\nPèd apeti\n\nKI SA LYEN ANT FATIG É DÉPRESYON ?\nTrublé dòmi\nDifikilté pou konsantwé é mémoryizé\n\nKonm té di avan, fatig fè pati entegral sentòm dépresyon.\nNou sav pasyan ki gen MICI souf souvan dépresyon é trublé anksyé.\n\nAdan récent etid fransé BIRD, yo té jwenn\nJÉRÉ LAFATIG .\nmèm siyn dépresiv adan prés de 50 % é on",
+  "row": {
+    "id": "image:02ce5191afb0549a:chunk:0:gcf",
+    "document_id": "image:02ce5191afb0549a",
+    "chunk_index": 0,
+    "source_file": "fatigue_depression.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_depression.png",
+    "text_path": "corpus/texts/images/fatigue_depression.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Z\nO\nF\nZ\nLu\n>\nsu\nœ\na\n\nFATIG\nÉ DÉPRESYON\n\nKI SA DÉPRESYON ?\n\nOrganisation Mondyal lasanté ka défini dépresyon kon on twoub mantal, ki ka karakterizé pa trisès, pèd lentérés ouswa plezi, santiman koupabilté ouswa ba estim tèt, trublé dòmi ouswa apeti, on sansasyon fatig é on mank konsantrasyon.\n\nI ka asosyé adan plizyè fason :\n\nTrisès préskaman permann, épi pafwa plé\nPèd lentérés é plezi pou aktivité ki dabitid té plé\nSantiman dévalorizasyon é koupabilté\nIdé mò ouswa swisid ki tounen souvan\nRalantisman psikomotè\nFatig ouswa pèd lénèji\nPèd apeti\n\nKI SA LYEN ANT FATIG É DÉPRESYON ?\nTrublé dòmi\nDifikilté pou konsantwé é mémoryizé\n\nKonm té di avan, fatig fè pati entegral sentòm dépresyon.\nNou sav pasyan ki gen MICI souf souvan dépresyon é trublé anksyé.\n\nAdan récent etid fransé BIRD, yo té jwenn\nJÉRÉ LAFATIG .\nmèm siyn dépresiv adan prés de 50 % é on",
+    "source_id": "image:02ce5191afb0549a:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:55.458171+00:00",
+    "source_text_sha256": "89e3661a74bf01297ce090e69e47a9c060170c18acb3b5b107eb7d05f93f1497"
+  }
+}

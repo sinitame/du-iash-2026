@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:35a9aff59fe8cd5f:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "90871c0e7115e004b102b84c36cff6a0478d431ca8ab2643ff415227be1daac4",
+  "translated_at": "2026-06-10T21:20:15.715772+00:00",
+  "model": "gpt-5-mini",
+  "text": "Difikil. An trè rar ka, pafwa yo oblije fè on stomi définitif pou pran an chaj anflamasyon-an. Yo pa té pé rèzoud sa pa tretman medikal, mè sa rété éksepsyonèl. Adan rektokolít morrajik, chiriji pé vini adwé dé fason : swa paskè sé on kolit grav kot yo pa pé rèzoud pa tretman medikal, alò yo fè on kolektomi pou sove lavi-a é yo wété kolon-an. Mé jòdi a, ak tout medikaman nou ni, sa rar. Swa sé on kolon ki, apré tan, té malad, pa byen pran an chaj é i pa fonksyoné anko ; adan anlo ijans, impériosité é anflamasyon ki pa té treté medikalman, yo ka désidé fè on kolektomi. É an fè, paské maladi-a adan rektokolít morrajik ka atenn selman kolon-an, lè yo wété kolon-an yé ké resté on rézèvwar, é yo ké pé baissé tretman yo. Par kontrè, vréman, nou ka ranplasé maladi inflamatoè-a pa on lòt jan fonksyonman san kolon ; adan pratik, sé pafwa pasyan ki ké fè plis sèl, on sèl apré chak manjé. Fò yo, an tout ka, aprann réadapte rézèvwar yo.",
+  "row": {
+    "id": "video:35a9aff59fe8cd5f:chunk:1:gcf",
+    "document_id": "video:35a9aff59fe8cd5f",
+    "chunk_index": 1,
+    "source_file": "e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "text_path": "corpus/texts/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Difikil. An trè rar ka, pafwa yo oblije fè on stomi définitif pou pran an chaj anflamasyon-an. Yo pa té pé rèzoud sa pa tretman medikal, mè sa rété éksepsyonèl. Adan rektokolít morrajik, chiriji pé vini adwé dé fason : swa paskè sé on kolit grav kot yo pa pé rèzoud pa tretman medikal, alò yo fè on kolektomi pou sove lavi-a é yo wété kolon-an. Mé jòdi a, ak tout medikaman nou ni, sa rar. Swa sé on kolon ki, apré tan, té malad, pa byen pran an chaj é i pa fonksyoné anko ; adan anlo ijans, impériosité é anflamasyon ki pa té treté medikalman, yo ka désidé fè on kolektomi. É an fè, paské maladi-a adan rektokolít morrajik ka atenn selman kolon-an, lè yo wété kolon-an yé ké resté on rézèvwar, é yo ké pé baissé tretman yo. Par kontrè, vréman, nou ka ranplasé maladi inflamatoè-a pa on lòt jan fonksyonman san kolon ; adan pratik, sé pafwa pasyan ki ké fè plis sèl, on sèl apré chak manjé. Fò yo, an tout ka, aprann réadapte rézèvwar yo.",
+    "source_id": "video:35a9aff59fe8cd5f:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:15.715772+00:00",
+    "source_text_sha256": "90871c0e7115e004b102b84c36cff6a0478d431ca8ab2643ff415227be1daac4"
+  }
+}

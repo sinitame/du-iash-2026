@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "b28252e6212ea545f56f8ae975ea248ef952b8efb32fc45e1bd7e9c5db82b93d",
+  "translated_at": "2026-06-10T21:15:13.437517+00:00",
+  "model": "gpt-5-mini",
+  "text": "Epi, sou bò ekstèn bra’w, ou ka tandé avanbra’w, épi men’w jis nan bout dwèt yo. Pou pi byen pran konsyans zòn sa yo, ou ké vini santwé-w trankilman anlè tirwoyid la. Sé anlè gòj-la. Tout zòn sa yo, lè yo rilaks, yo détann trankilman.\n\nKoulyé-a, menm kou a, ou pé pran konsyans andidan bra’w. Mwen envité-w santi yo, relaché yo totalman, konsantwé sou pozisyon pwatrin-la. Epi sòti anlè do’w, nou ka fè egzèsis rilaksasyon.\n\nKounyé-a ou ké vini santwé-w an nivé tronk-la. Pran konsyans tout zòn sa yo. Ou ké pé enkòpore sa trankilman, pou kalmé tansyon anndan an. Toudou, mwen pwopoze kounyé-a, kote li chita.\n\nVini santwé-w anlè bas do a, pou arété an zòn devan. Soti nan sakrum-la, fès yo, koksi a, épi vant-ou. Tout sa ki anba-a ka rilaksé. Tou trankil, dousman, petèt menm an kalm koulè.\n\nKoulyé-a ou pé vini santwé-w anviwon 4 cm anlè nombril ou. Épi pran konsyans tout zòn sa yo ki ka konn sere, ki ka kenbé, osnon ki ka parèt...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:3:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 3,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Epi, sou bò ekstèn bra’w, ou ka tandé avanbra’w, épi men’w jis nan bout dwèt yo. Pou pi byen pran konsyans zòn sa yo, ou ké vini santwé-w trankilman anlè tirwoyid la. Sé anlè gòj-la. Tout zòn sa yo, lè yo rilaks, yo détann trankilman.\n\nKoulyé-a, menm kou a, ou pé pran konsyans andidan bra’w. Mwen envité-w santi yo, relaché yo totalman, konsantwé sou pozisyon pwatrin-la. Epi sòti anlè do’w, nou ka fè egzèsis rilaksasyon.\n\nKounyé-a ou ké vini santwé-w an nivé tronk-la. Pran konsyans tout zòn sa yo. Ou ké pé enkòpore sa trankilman, pou kalmé tansyon anndan an. Toudou, mwen pwopoze kounyé-a, kote li chita.\n\nVini santwé-w anlè bas do a, pou arété an zòn devan. Soti nan sakrum-la, fès yo, koksi a, épi vant-ou. Tout sa ki anba-a ka rilaksé. Tou trankil, dousman, petèt menm an kalm koulè.\n\nKoulyé-a ou pé vini santwé-w anviwon 4 cm anlè nombril ou. Épi pran konsyans tout zòn sa yo ki ka konn sere, ki ka kenbé, osnon ki ka parèt...",
+    "source_id": "video:05807ec7742bc2af:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:15:13.437517+00:00",
+    "source_text_sha256": "b28252e6212ea545f56f8ae975ea248ef952b8efb32fc45e1bd7e9c5db82b93d"
+  }
+}

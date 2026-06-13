@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:8",
+  "target_language": "gcf",
+  "source_text_sha256": "017ada285a48244f349171b4084be6e269c2681f95302cefadfea79c097ccf73",
+  "translated_at": "2026-06-10T21:11:28.511613+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 4 ---\nAn entérésé, ki sé etap é resous pou mété CDED an plas ?2,7\nKèk témwayaj pasyan ki gen maladi Crohn é ki ka swiv CDED...\n6\n•  Sémenn 2 – Bilan vit : siy klinik, pwa é adhésyon a tretman. \n•  Sémenn 6 – Révyé : évalyasyon rèspons a faz 1. Si rèspons la satisféktan, pasé an faz 2. \n•  Sémenn 12 – Révyé : évalyasyon rèspons klinik é aktivité maladi a pou pran désizyon si yo ké kontinyé CDED ou byen transisyonné vè on alimantasyon pli divès é ékilibwé.\nPwogresyon  \né swivi  \nCDED\n•  Pa ni rèspons a CDED a sémenn 6 : yo ké konsidé on lòt terapi, ou byen on sipleman adan pwotokòl 12 sémenn.\n•  Adan fin périod 12 sémenn-la : dapré avis médikal é motivasyon pasyan-an, yo pé fèr on retou adan on alimantasyon pli divès, ki respekté rékomandasyon nitrisyonèl é ki éliminé manjé ultra-transformé, épi on périod transisyon é on diminisyon pwogresif soluté pou nitrisyon entéral.\nArèt  \nCDED\n•  Pèd pwa san vlé : rékalkil apò énerjetik é ajistman soluté pou nitrisyon",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:8:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 8,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 4 ---\nAn entérésé, ki sé etap é resous pou mété CDED an plas ?2,7\nKèk témwayaj pasyan ki gen maladi Crohn é ki ka swiv CDED...\n6\n•  Sémenn 2 – Bilan vit : siy klinik, pwa é adhésyon a tretman. \n•  Sémenn 6 – Révyé : évalyasyon rèspons a faz 1. Si rèspons la satisféktan, pasé an faz 2. \n•  Sémenn 12 – Révyé : évalyasyon rèspons klinik é aktivité maladi a pou pran désizyon si yo ké kontinyé CDED ou byen transisyonné vè on alimantasyon pli divès é ékilibwé.\nPwogresyon  \né swivi  \nCDED\n•  Pa ni rèspons a CDED a sémenn 6 : yo ké konsidé on lòt terapi, ou byen on sipleman adan pwotokòl 12 sémenn.\n•  Adan fin périod 12 sémenn-la : dapré avis médikal é motivasyon pasyan-an, yo pé fèr on retou adan on alimantasyon pli divès, ki respekté rékomandasyon nitrisyonèl é ki éliminé manjé ultra-transformé, épi on périod transisyon é on diminisyon pwogresif soluté pou nitrisyon entéral.\nArèt  \nCDED\n•  Pèd pwa san vlé : rékalkil apò énerjetik é ajistman soluté pou nitrisyon",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:8",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:28.511613+00:00",
+    "source_text_sha256": "017ada285a48244f349171b4084be6e269c2681f95302cefadfea79c097ccf73"
+  }
+}

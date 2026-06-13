@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:388e51328e25043f:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "739022f6a7a73f2582937cb414dc0f662e633e749ea989d787cf4b9e0a62f79e",
+  "translated_at": "2026-06-10T20:47:16.750244+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Well, should we prepare it or not? Yes, you need to prepare the appointment, because the gastroenterologist will have lots of very important questions. So you should indeed come with the number of bowel movements you have per day, know if there is any blood, and whether they are soft. There is a question that is often taboo and that you have trouble answering: the question of urgencies. But actually, we cannot guess those symptoms; we cannot guess if you have urgencies, strong urges, or accidents. And that is really important, because actually it is not acceptable. And if it exists, you need to say it so that we can adapt the treatment. So yes, it should be prepared.",
+  "row": {
+    "id": "video:388e51328e25043f:chunk:0:en",
+    "document_id": "video:388e51328e25043f",
+    "chunk_index": 0,
+    "source_file": "d439d9cb3b962283f7b61b627ea09f50319a59cb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/d439d9cb3b962283f7b61b627ea09f50319a59cb.mp4",
+    "text_path": "corpus/texts/videos/d439d9cb3b962283f7b61b627ea09f50319a59cb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Well, should we prepare it or not? Yes, you need to prepare the appointment, because the gastroenterologist will have lots of very important questions. So you should indeed come with the number of bowel movements you have per day, know if there is any blood, and whether they are soft. There is a question that is often taboo and that you have trouble answering: the question of urgencies. But actually, we cannot guess those symptoms; we cannot guess if you have urgencies, strong urges, or accidents. And that is really important, because actually it is not acceptable. And if it exists, you need to say it so that we can adapt the treatment. So yes, it should be prepared.",
+    "source_id": "video:388e51328e25043f:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:16.750244+00:00",
+    "source_text_sha256": "739022f6a7a73f2582937cb414dc0f662e633e749ea989d787cf4b9e0a62f79e"
+  }
+}

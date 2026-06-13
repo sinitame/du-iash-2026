@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:8",
+  "target_language": "gcf",
+  "source_text_sha256": "62787612d1c6e87554dad3d37aa944d83d47af34b1f8f718752a3ee852314070",
+  "translated_at": "2026-06-10T21:09:04.289526+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nV I V R E  A V E C\nKI ENPAK CHIRIJI MÉN SI ASI KWASANS ?\nChiriji i nécesè lè i ni on konplikasyon osnon adan foòm grav, mé i pa ka fè moun grandi tousèl. I souvan swivi pa on amelyorasyon ki pèmèt kwasans-la reprann.\n\nÈS TIMOUN MWEN PRAL FÈ ON PUBÈTÉ NÒMAL ?\nPubèté a ka an retad pafwa on an osinon dé zan paské maladi-a, mé an jénéral i fèt nòmalman. Timoun ki an retad pé kontinyé grandi pou rivé on wotè nòmal lè yo an rémisyon. An final, timoun-w-la ké vin on adilt nòmal ki ké pé ni on fanmi kon tout lòt moun.\n\nKOMAN EDÉ TIMOUN MWEN POU AFWONTÉ ON MICI ?\nPwemyé bagay-la sé pou ou menm aksepte-y. Eséyé gadé bagay yo épi réalism, kon sa timoun-w-la pa ké oblijé moutwé-w ki jan i vréman malad. Enfòmé-w otan kon posib gras a spesyalist-la. Pozé tout kèsyon ou vlé é ankourajé timoun-w-la pou li pozé osi. Tènn siy pé fè timoun piti pè, pa egzanp kaka ki plen san… Pouvwa espliyé yo sa ka rassiré, alò q",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:8:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 8,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 3 ---\nV I V R E  A V E C\nKI ENPAK CHIRIJI MÉN SI ASI KWASANS ?\nChiriji i nécesè lè i ni on konplikasyon osnon adan foòm grav, mé i pa ka fè moun grandi tousèl. I souvan swivi pa on amelyorasyon ki pèmèt kwasans-la reprann.\n\nÈS TIMOUN MWEN PRAL FÈ ON PUBÈTÉ NÒMAL ?\nPubèté a ka an retad pafwa on an osinon dé zan paské maladi-a, mé an jénéral i fèt nòmalman. Timoun ki an retad pé kontinyé grandi pou rivé on wotè nòmal lè yo an rémisyon. An final, timoun-w-la ké vin on adilt nòmal ki ké pé ni on fanmi kon tout lòt moun.\n\nKOMAN EDÉ TIMOUN MWEN POU AFWONTÉ ON MICI ?\nPwemyé bagay-la sé pou ou menm aksepte-y. Eséyé gadé bagay yo épi réalism, kon sa timoun-w-la pa ké oblijé moutwé-w ki jan i vréman malad. Enfòmé-w otan kon posib gras a spesyalist-la. Pozé tout kèsyon ou vlé é ankourajé timoun-w-la pou li pozé osi. Tènn siy pé fè timoun piti pè, pa egzanp kaka ki plen san… Pouvwa espliyé yo sa ka rassiré, alò q",
+    "source_id": "pdf:a74238ee30f57428:chunk:8",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:04.289526+00:00",
+    "source_text_sha256": "62787612d1c6e87554dad3d37aa944d83d47af34b1f8f718752a3ee852314070"
+  }
+}

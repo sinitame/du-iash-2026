@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "a4e849a5e374f54059429797c92ba9eb8c207d0a7a21e1aa22fc97c4bc1fb782",
+  "translated_at": "2026-06-10T21:08:17.297841+00:00",
+  "model": "gpt-5-mini",
+  "text": "sé pli souvan ti siy é dyagnostik la difisil. Doulè nan vant souvan é yo parèt avan dyaré-a. Adan lòt moun, dyaré sé prémyé siy la é i vini épi kolik, sitou apré manjé.\nAn débu, yo ka mété sa asou rezon sikolojik souvan oswa on refiz lékol. Rarman timoun nan ka plenyen di doulè atikulér oswa fyèv san okenn pwoblèm dijestif. Lésyon anous-la bien évokatif adan timoun paskè i pa abitid a laj sa (fissir, abcès).\nAnplis, dès mwa, dès lanné avan lòt siy parèt, timoun nan pé pa pran pwa ni menm péd pwa é ka sispann grandi.\nAN KI LÂJ MALADI SA YO KOMANSÉ ?\nI ni anviwon 250 000 ka maladi inflamasyon kronik trip (MICI) an Frans, é 15 a 20% parèt adan laj pédiatrik, rarman anvan 10 lanné. Ensidans pédiatrik la sé 6 a 7 ka pou 100 000 timoun é paran. Pi gwo frékwans parèt maladi sa yo sé lakay jenn adilt ant 17 é 25 lanné.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:2:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 2,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "sé pli souvan ti siy é dyagnostik la difisil. Doulè nan vant souvan é yo parèt avan dyaré-a. Adan lòt moun, dyaré sé prémyé siy la é i vini épi kolik, sitou apré manjé.\nAn débu, yo ka mété sa asou rezon sikolojik souvan oswa on refiz lékol. Rarman timoun nan ka plenyen di doulè atikulér oswa fyèv san okenn pwoblèm dijestif. Lésyon anous-la bien évokatif adan timoun paskè i pa abitid a laj sa (fissir, abcès).\nAnplis, dès mwa, dès lanné avan lòt siy parèt, timoun nan pé pa pran pwa ni menm péd pwa é ka sispann grandi.\nAN KI LÂJ MALADI SA YO KOMANSÉ ?\nI ni anviwon 250 000 ka maladi inflamasyon kronik trip (MICI) an Frans, é 15 a 20% parèt adan laj pédiatrik, rarman anvan 10 lanné. Ensidans pédiatrik la sé 6 a 7 ka pou 100 000 timoun é paran. Pi gwo frékwans parèt maladi sa yo sé lakay jenn adilt ant 17 é 25 lanné.",
+    "source_id": "pdf:a74238ee30f57428:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:17.297841+00:00",
+    "source_text_sha256": "a4e849a5e374f54059429797c92ba9eb8c207d0a7a21e1aa22fc97c4bc1fb782"
+  }
+}

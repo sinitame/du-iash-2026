@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "120cfdf7ec1f290f8e07d98b14dbff94a28aabd4ce6128efff95d3edb0ea6751",
+  "translated_at": "2026-06-10T21:10:45.882124+00:00",
+  "model": "gpt-5-mini",
+  "text": "antéral,\n• ou retou a on alimantasyon bazé asi rékòmandasyon nitrisyonèl,\nsitou an gadan eksklizyon manjé ultra-transfomé.\n6 SEMENN\n50%\n25%\n50%\n75%\n+\n+\n6 SEMENN\nFAZ 1\nFAZ 2\n*on etid ki menné asi on gwoup pasyan limit\nOn solisyon nitrisyon antéral, sa sé ki ?\nSé on mélanj nitritif an poud pou rékonsitityé1 (ex : ...........................).\nPwodui-a gen on aparans é on gou ki sanblab èvè lèt. I pé aromatizé é i pé konsentré. I asir on aport an nutriman esansyèl.",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:4:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 4,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "antéral,\n• ou retou a on alimantasyon bazé asi rékòmandasyon nitrisyonèl,\nsitou an gadan eksklizyon manjé ultra-transfomé.\n6 SEMENN\n50%\n25%\n50%\n75%\n+\n+\n6 SEMENN\nFAZ 1\nFAZ 2\n*on etid ki menné asi on gwoup pasyan limit\nOn solisyon nitrisyon antéral, sa sé ki ?\nSé on mélanj nitritif an poud pou rékonsitityé1 (ex : ...........................).\nPwodui-a gen on aparans é on gou ki sanblab èvè lèt. I pé aromatizé é i pé konsentré. I asir on aport an nutriman esansyèl.",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:45.882124+00:00",
+    "source_text_sha256": "120cfdf7ec1f290f8e07d98b14dbff94a28aabd4ce6128efff95d3edb0ea6751"
+  }
+}

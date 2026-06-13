@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:e0fa52c998599bcd:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "a544412f708cc4de3967ebbd81f1b1311c0834f035f0b4581fe8af17361202ea",
+  "translated_at": "2026-06-10T21:14:38.595667+00:00",
+  "model": "gpt-5-mini",
+  "text": "Stress, anmi osnon ènmi ? Sé plis on ènmi : adan sans, lè on pa malad, stress ka fè mal an vant é ka bay dyaré. Asou on entèstin ki pli fragil, i ka pran on plis gwo pwopòsyon. Épi medsen ka di ki stress pa ka pwovoké pousé. Mé lè nou koute pasyan yo, nou wè ki pafwa maladi-la ka dékouvè apré sèten épisòd stress ki pli fò. An fè, sé plis on ènmi.",
+  "row": {
+    "id": "video:e0fa52c998599bcd:chunk:0:gcf",
+    "document_id": "video:e0fa52c998599bcd",
+    "chunk_index": 0,
+    "source_file": "3b72dff425f15a571948521e351e3a40d65d1335.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3b72dff425f15a571948521e351e3a40d65d1335.mp4",
+    "text_path": "corpus/texts/videos/3b72dff425f15a571948521e351e3a40d65d1335.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Stress, anmi osnon ènmi ? Sé plis on ènmi : adan sans, lè on pa malad, stress ka fè mal an vant é ka bay dyaré. Asou on entèstin ki pli fragil, i ka pran on plis gwo pwopòsyon. Épi medsen ka di ki stress pa ka pwovoké pousé. Mé lè nou koute pasyan yo, nou wè ki pafwa maladi-la ka dékouvè apré sèten épisòd stress ki pli fò. An fè, sé plis on ènmi.",
+    "source_id": "video:e0fa52c998599bcd:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:38.595667+00:00",
+    "source_text_sha256": "a544412f708cc4de3967ebbd81f1b1311c0834f035f0b4581fe8af17361202ea"
+  }
+}

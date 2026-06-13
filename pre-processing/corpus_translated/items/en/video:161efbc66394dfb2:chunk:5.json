@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "ad548e5d462c36bbf772af0a367812bd0ece293fdf9079fcd15cfa8dd250a0f2",
+  "translated_at": "2026-06-10T20:47:41.729231+00:00",
+  "model": "gpt-5-mini",
+  "text": "relaxation. Try to notice what is happening in the area of your jaw. Maybe you can feel your jaw — and gradually, it relaxes a little more. You will be able to do this two more times. Again, inhale through your nose. Hold your breath. And when you feel like it, let go of all your anger. And release everything very gently. You may feel yawning, sighing, and relaxation. \n\nAnd for the third and last time, again inhale through your nose. Hold your breath. And when you feel like it, let out a big sigh. And release everything very gently. You may feel yawning, sighing, and relaxation. Calmly, very gently. \n\nI now suggest a second exercise to help you let go of any anger that may have built up in your arms. For this, take a deep breath through your nose. Then raise one arm. Make a fist in front of you. Then make a fist behind you. Hold your breath. And when you feel like it, put some distance between you and that feeling of anger.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:5:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 5,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "relaxation. Try to notice what is happening in the area of your jaw. Maybe you can feel your jaw — and gradually, it relaxes a little more. You will be able to do this two more times. Again, inhale through your nose. Hold your breath. And when you feel like it, let go of all your anger. And release everything very gently. You may feel yawning, sighing, and relaxation. \n\nAnd for the third and last time, again inhale through your nose. Hold your breath. And when you feel like it, let out a big sigh. And release everything very gently. You may feel yawning, sighing, and relaxation. Calmly, very gently. \n\nI now suggest a second exercise to help you let go of any anger that may have built up in your arms. For this, take a deep breath through your nose. Then raise one arm. Make a fist in front of you. Then make a fist behind you. Hold your breath. And when you feel like it, put some distance between you and that feeling of anger.",
+    "source_id": "video:161efbc66394dfb2:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:41.729231+00:00",
+    "source_text_sha256": "ad548e5d462c36bbf772af0a367812bd0ece293fdf9079fcd15cfa8dd250a0f2"
+  }
+}

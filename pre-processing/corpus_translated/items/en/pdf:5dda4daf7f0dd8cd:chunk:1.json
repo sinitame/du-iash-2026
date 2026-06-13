@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "3fc75cad5467a94703e41922e72cfd744c60ed55e6805734cea4a32d3605d36b",
+  "translated_at": "2026-06-10T20:39:06.901228+00:00",
+  "model": "gpt-5-mini",
+  "text": "have shown\nthat certain sweeteners or artificial sugars (e.g.:\naspartame, E951) increase the risk of\ncancer. Yet they are widely used in\ndrinks, sodas, desserts, chewing gum and\nsugar-free candies.\nIt has also been shown that some food\nadditives damage or disturb the\ngut microbiota and that they play a role\nin the onset and worsening of Crohn's\ndisease or ulcerative colitis.\nThis is the case for emulsifiers: they are used to\nmix elements that do not naturally mix (like water and oil),\nimprove texture, prolong shelf life\nand give a soft texture.\nFOOD\nADDITIVES\nFood additives are added to foods to \"improve\" the product: so that it\nis more colorful, more flavorful and/or keeps longer. They are often\nlisted with an E followed by a number (for example: E330 is citric acid,\nnaturally present in lemons). The law requires manufacturers to list them on the\ningredient list and they are often at the end of the list.",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:1:en",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 1,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "have shown\nthat certain sweeteners or artificial sugars (e.g.:\naspartame, E951) increase the risk of\ncancer. Yet they are widely used in\ndrinks, sodas, desserts, chewing gum and\nsugar-free candies.\nIt has also been shown that some food\nadditives damage or disturb the\ngut microbiota and that they play a role\nin the onset and worsening of Crohn's\ndisease or ulcerative colitis.\nThis is the case for emulsifiers: they are used to\nmix elements that do not naturally mix (like water and oil),\nimprove texture, prolong shelf life\nand give a soft texture.\nFOOD\nADDITIVES\nFood additives are added to foods to \"improve\" the product: so that it\nis more colorful, more flavorful and/or keeps longer. They are often\nlisted with an E followed by a number (for example: E330 is citric acid,\nnaturally present in lemons). The law requires manufacturers to list them on the\ningredient list and they are often at the end of the list.",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:06.901228+00:00",
+    "source_text_sha256": "3fc75cad5467a94703e41922e72cfd744c60ed55e6805734cea4a32d3605d36b"
+  }
+}

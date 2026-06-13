@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "120cfdf7ec1f290f8e07d98b14dbff94a28aabd4ce6128efff95d3edb0ea6751",
+  "translated_at": "2026-06-10T20:43:38.133976+00:00",
+  "model": "gpt-5-mini",
+  "text": "lateral,\n• or the return to a diet based on nutritional recommendations,\nnotably by maintaining the exclusion of ultra-processed foods.\n6 WEEKS\n50%\n25%\n50%\n75%\n+\n+\n6 WEEKS\nPHASE 1\nPHASE 2\n*study conducted on a limited group of patients\nWhat is an enteral nutrition solution?\nIt is a powdered nutritional mix to be reconstituted1 (e.g.: ...........................).\nThe product has an appearance and taste similar to milk. It can be flavored and concentrated. It provides essential nutrient intake.",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:4:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 4,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "lateral,\n• or the return to a diet based on nutritional recommendations,\nnotably by maintaining the exclusion of ultra-processed foods.\n6 WEEKS\n50%\n25%\n50%\n75%\n+\n+\n6 WEEKS\nPHASE 1\nPHASE 2\n*study conducted on a limited group of patients\nWhat is an enteral nutrition solution?\nIt is a powdered nutritional mix to be reconstituted1 (e.g.: ...........................).\nThe product has an appearance and taste similar to milk. It can be flavored and concentrated. It provides essential nutrient intake.",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:38.133976+00:00",
+    "source_text_sha256": "120cfdf7ec1f290f8e07d98b14dbff94a28aabd4ce6128efff95d3edb0ea6751"
+  }
+}

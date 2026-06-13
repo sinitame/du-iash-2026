@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:85",
+  "target_language": "gcf",
+  "source_text_sha256": "fd81cdc012fd2f615407e4d268085e06c41f4c1906363c3dddc69d23aae16107",
+  "translated_at": "2026-06-10T21:07:45.806334+00:00",
+  "model": "gpt-5-mini",
+  "text": "ase adan timoun : gid ki sòti an gwoup pédiatrik IBD Porto. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Manadjman kolit ulcératif pédiatrik, Pati 1 : swen an ambulatwar - on gid bazé asou prèv ki sòti bò European Crohn’s and Colitis Organization épi European Society for Paediatric Gastroenterology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. 2018;67:257-291.\n122.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Manadjman kolit ulcératif pédiatrik, Pati 2 : kolit sévè akut - on gid konsansis bazé asou prèv ki sòti bò European Crohn’s and Colitis Organization épi European Society for Paediatric Gastroenterology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. 2018;67:292-310.\n123.\tMoore H, Dubes L, Fusillo S, et al. Terapé tofacitinib adan timoun é jenn adilt épi maladi entesten enfamatwa ki kòmansé an laj pédiatrik é ki réfraktè a tretman médical. J Pediatr Gastroenterol Nutr. 2021;73:e57-e62.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:85:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 85,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ase adan timoun : gid ki sòti an gwoup pédiatrik IBD Porto. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Manadjman kolit ulcératif pédiatrik, Pati 1 : swen an ambulatwar - on gid bazé asou prèv ki sòti bò European Crohn’s and Colitis Organization épi European Society for Paediatric Gastroenterology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. 2018;67:257-291.\n122.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Manadjman kolit ulcératif pédiatrik, Pati 2 : kolit sévè akut - on gid konsansis bazé asou prèv ki sòti bò European Crohn’s and Colitis Organization épi European Society for Paediatric Gastroenterology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. 2018;67:292-310.\n123.\tMoore H, Dubes L, Fusillo S, et al. Terapé tofacitinib adan timoun é jenn adilt épi maladi entesten enfamatwa ki kòmansé an laj pédiatrik é ki réfraktè a tretman médical. J Pediatr Gastroenterol Nutr. 2021;73:e57-e62.",
+    "source_id": "pdf:398e12446d466067:chunk:85",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:45.806334+00:00",
+    "source_text_sha256": "fd81cdc012fd2f615407e4d268085e06c41f4c1906363c3dddc69d23aae16107"
+  }
+}

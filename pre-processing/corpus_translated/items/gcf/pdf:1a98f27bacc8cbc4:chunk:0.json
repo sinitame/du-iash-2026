@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "58a4d4c72b29ee8d4102bc3e00045602cd7092cdbdf5b077838a9d00533956f2",
+  "translated_at": "2026-06-10T21:10:18.693490+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nCrohn • RCH • France\nKontni sa-a rédigé èk on komité syantifik ki konpozé di :\nPr Aurélien AMIOT • Gastwon-entzérolog, AP-HP, Lopital Bicêtre\nMme Isabelle AUDRY • Dyetétisyen, AP-HP, Lopital Bicêtre \nM. Éric BALEZ • Pasyan èkspè\nMme Anne BUISSON • Dirèktris AFA Crohn RCH France\nDr Jean-Bernard DELOBEL • Gastwon-entzérolog, GHT Armor, Lopital Saint-Brieuc\nPr Xavier HEBUTERNE • Gastwon-entzérolog, CHU di Nice\nDr Bénédicte PIGNEUR • Gastwon-entzérolog pédyat, AP-HP, Lopital Necker - Enfan Malad\n*Rèjim éksklizyon pou maladi Crohn (Crohn’s Disease Exclusion Diet an anglé).\nTout kèsyon zòt ka mandé asou CDED*",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:0:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 0,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 1 ---\nCrohn • RCH • France\nKontni sa-a rédigé èk on komité syantifik ki konpozé di :\nPr Aurélien AMIOT • Gastwon-entzérolog, AP-HP, Lopital Bicêtre\nMme Isabelle AUDRY • Dyetétisyen, AP-HP, Lopital Bicêtre \nM. Éric BALEZ • Pasyan èkspè\nMme Anne BUISSON • Dirèktris AFA Crohn RCH France\nDr Jean-Bernard DELOBEL • Gastwon-entzérolog, GHT Armor, Lopital Saint-Brieuc\nPr Xavier HEBUTERNE • Gastwon-entzérolog, CHU di Nice\nDr Bénédicte PIGNEUR • Gastwon-entzérolog pédyat, AP-HP, Lopital Necker - Enfan Malad\n*Rèjim éksklizyon pou maladi Crohn (Crohn’s Disease Exclusion Diet an anglé).\nTout kèsyon zòt ka mandé asou CDED*",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:18.693490+00:00",
+    "source_text_sha256": "58a4d4c72b29ee8d4102bc3e00045602cd7092cdbdf5b077838a9d00533956f2"
+  }
+}

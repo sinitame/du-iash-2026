@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "3fc75cad5467a94703e41922e72cfd744c60ed55e6805734cea4a32d3605d36b",
+  "translated_at": "2026-06-10T20:50:48.759315+00:00",
+  "model": "gpt-5-mini",
+  "text": "té montré\nké kèk édulkoran ou fos sik (ex :\naspartame, E951) ogmanté risk kansé. Men yo lajman itilizé adan\nbwason, soda, désè, tchéwing-gum é\nbonbon san sik.\nSé osi démontré ké kèk aditif alimantèr agrèsé oubyen perturbé\nmikrobiòt entestinal é ké yo jwé on wòl\nadans aparisyon é agravaj maladi\nCrohn oben rektokolít émorajik.\nSé ka émulsifyan-la : yo sèvi pou\nmélangé élément ki pa mélanj natirèlman (konm dlo é lwil),\namélioré tèks, pwolongé konzèvasyon\né ba on molès.\n\nADITIF\nALIMANTÈ\nAditif alimantèr yo ka rajouté adan manjé pou « amélioré » pwodui-a : pou ki i\nta pli koulé, pli bon gou é/oswa pou i ka konzèvé pli lontan. Yo souvan\nnoté épi on E swivi on nimewo (egzanp : E330, sé asid sitrik, ki prezan\nnatirèlman adan sitwon). Lwa oblijé fabrikant yo mansyonné yo asou lis\nengredyan é yo souvan adan dènye plas list-la.",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:1:gcf",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 1,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "té montré\nké kèk édulkoran ou fos sik (ex :\naspartame, E951) ogmanté risk kansé. Men yo lajman itilizé adan\nbwason, soda, désè, tchéwing-gum é\nbonbon san sik.\nSé osi démontré ké kèk aditif alimantèr agrèsé oubyen perturbé\nmikrobiòt entestinal é ké yo jwé on wòl\nadans aparisyon é agravaj maladi\nCrohn oben rektokolít émorajik.\nSé ka émulsifyan-la : yo sèvi pou\nmélangé élément ki pa mélanj natirèlman (konm dlo é lwil),\namélioré tèks, pwolongé konzèvasyon\né ba on molès.\n\nADITIF\nALIMANTÈ\nAditif alimantèr yo ka rajouté adan manjé pou « amélioré » pwodui-a : pou ki i\nta pli koulé, pli bon gou é/oswa pou i ka konzèvé pli lontan. Yo souvan\nnoté épi on E swivi on nimewo (egzanp : E330, sé asid sitrik, ki prezan\nnatirèlman adan sitwon). Lwa oblijé fabrikant yo mansyonné yo asou lis\nengredyan é yo souvan adan dènye plas list-la.",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:48.759315+00:00",
+    "source_text_sha256": "3fc75cad5467a94703e41922e72cfd744c60ed55e6805734cea4a32d3605d36b"
+  }
+}

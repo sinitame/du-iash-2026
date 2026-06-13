@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:30",
+  "target_language": "gcf",
+  "source_text_sha256": "7e80f6f8f126a3cdd680743ee59059e5653bcb18476dc6baba16ed2ab644a770",
+  "translated_at": "2026-06-10T20:53:13.096596+00:00",
+  "model": "gpt-5-mini",
+  "text": "preskripsyon, distribisyon médikaman yo osnon kominikasiyon épi médsen yo épi ekip swen yo (59,61). Zouti kon Transition Readiness Assessment Questionnaire (TRAQ) osnon Transition Care Index ka pèmèt évalué é amelyoré préparasyon-tala. Swen pédiatrique yo ka distenge pa latansyon yo mété adan kwasans, puberté é nitrisyon, tandiske swen pou adilt yo ka englobe pwoblèm fertilité, gwosès, surveillance kansé é jestion komorbidité yo (59).\n\nObstak yo ki idantifié pou on tranzisyon ki réisi sé plizié : atachman anvè pédiat la é krent pou abandònman, ba estim pwòp tèt, mank konpetans pou otonomi/oto-jestion, difikilté organizasyonèl é, adan sèten kontèks, baryè ekonomik. Momant transfè-a dwé rete fleksib, idéalman an peryòd rémisyon klinik, pou limité risk kase swivi-a. Paran yo dwé jwenn akonpanyman pandan pwosesis-la pou soutni otonomi k ap grandi chimen timoun yo, tandiske on kowòdonatè tranzisyon, si i egziste, ka fasilité kontinwité-a é évité pèd kontak épi ekip medikal yo.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:30:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 30,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "preskripsyon, distribisyon médikaman yo osnon kominikasiyon épi médsen yo épi ekip swen yo (59,61). Zouti kon Transition Readiness Assessment Questionnaire (TRAQ) osnon Transition Care Index ka pèmèt évalué é amelyoré préparasyon-tala. Swen pédiatrique yo ka distenge pa latansyon yo mété adan kwasans, puberté é nitrisyon, tandiske swen pou adilt yo ka englobe pwoblèm fertilité, gwosès, surveillance kansé é jestion komorbidité yo (59).\n\nObstak yo ki idantifié pou on tranzisyon ki réisi sé plizié : atachman anvè pédiat la é krent pou abandònman, ba estim pwòp tèt, mank konpetans pou otonomi/oto-jestion, difikilté organizasyonèl é, adan sèten kontèks, baryè ekonomik. Momant transfè-a dwé rete fleksib, idéalman an peryòd rémisyon klinik, pou limité risk kase swivi-a. Paran yo dwé jwenn akonpanyman pandan pwosesis-la pou soutni otonomi k ap grandi chimen timoun yo, tandiske on kowòdonatè tranzisyon, si i egziste, ka fasilité kontinwité-a é évité pèd kontak épi ekip medikal yo.",
+    "source_id": "pdf:398e12446d466067:chunk:30",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:13.096596+00:00",
+    "source_text_sha256": "7e80f6f8f126a3cdd680743ee59059e5653bcb18476dc6baba16ed2ab644a770"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:18",
+  "target_language": "en",
+  "source_text_sha256": "0eeb5974a681376c0fa307cf3ae3cea22d87e1f6dff911a3bc14dc26eb09423b",
+  "translated_at": "2026-06-10T20:43:21.716221+00:00",
+  "model": "gpt-5-mini",
+  "text": "s except on medical advice.\n3/ Conversely, acting as if the illness did not exist and delaying medical consultation.\nThe most appropriate attitude:\nDiscreet but vigilant attention.\nAvailability to answer their questions.\nGive them all the information you have, but never take the \"rumors\" into account — and there are many of them with these illnesses, which are often perceived as more serious than they really are.\nIN CONCLUSION\nThe goal that the team of parents and caregivers should set is to enable them to lead a normal life, and this is most often feasible.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:18:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 18,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "s except on medical advice.\n3/ Conversely, acting as if the illness did not exist and delaying medical consultation.\nThe most appropriate attitude:\nDiscreet but vigilant attention.\nAvailability to answer their questions.\nGive them all the information you have, but never take the \"rumors\" into account — and there are many of them with these illnesses, which are often perceived as more serious than they really are.\nIN CONCLUSION\nThe goal that the team of parents and caregivers should set is to enable them to lead a normal life, and this is most often feasible.",
+    "source_id": "pdf:a74238ee30f57428:chunk:18",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:21.716221+00:00",
+    "source_text_sha256": "0eeb5974a681376c0fa307cf3ae3cea22d87e1f6dff911a3bc14dc26eb09423b"
+  }
+}

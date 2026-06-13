@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "afc1943698ed4536ecc606f7a96e93227b6a755fbd288426df349f9ccf330d34",
+  "translated_at": "2026-06-10T21:13:33.137320+00:00",
+  "model": "gpt-5-mini",
+  "text": "pwoblem. Ou dwe, menm si, pran sèten prékosyon. Pou ekzamp, fo arrêté spò lè on poussée ka vini. É sitou, pa janmen fòsé tèt ou lè ou santi fatig. Ou pa sèl. La facrone RCH France ka pwopoze'w souvan moman déchanj é rénkont épi lòt adolesan ki ni on Mickey. Sé on bèl okazyon pou pozé kèsyon-w é patajé ant jèn zot trik é astis pou ni on skolarité san strès. Ou pé, pou ekzamp, patisipe anlè staj ados ki fèt chak été an Bretagne. Oswa enskri-w adan atelyé an-liy pou jwenn enfòmasyon é diskité épi lòt jèn. Anfen, ou ké jwenn adan sit Lafha broch Mamiki au Baï, ki paran'w pé ba ansegnan'w. Sa ké pèmèt yo konprann sa on Mickey sé é jwenn èvè ou é paran'w solisyon ki pli adapté.",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:5:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 5,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "pwoblem. Ou dwe, menm si, pran sèten prékosyon. Pou ekzamp, fo arrêté spò lè on poussée ka vini. É sitou, pa janmen fòsé tèt ou lè ou santi fatig. Ou pa sèl. La facrone RCH France ka pwopoze'w souvan moman déchanj é rénkont épi lòt adolesan ki ni on Mickey. Sé on bèl okazyon pou pozé kèsyon-w é patajé ant jèn zot trik é astis pou ni on skolarité san strès. Ou pé, pou ekzamp, patisipe anlè staj ados ki fèt chak été an Bretagne. Oswa enskri-w adan atelyé an-liy pou jwenn enfòmasyon é diskité épi lòt jèn. Anfen, ou ké jwenn adan sit Lafha broch Mamiki au Baï, ki paran'w pé ba ansegnan'w. Sa ké pèmèt yo konprann sa on Mickey sé é jwenn èvè ou é paran'w solisyon ki pli adapté.",
+    "source_id": "video:ceebd17c1f9860a9:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:33.137320+00:00",
+    "source_text_sha256": "afc1943698ed4536ecc606f7a96e93227b6a755fbd288426df349f9ccf330d34"
+  }
+}

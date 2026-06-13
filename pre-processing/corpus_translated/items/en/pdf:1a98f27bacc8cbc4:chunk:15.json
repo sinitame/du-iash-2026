@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:15",
+  "target_language": "en",
+  "source_text_sha256": "d20a224f656ace64c1ace60b40b13b0e8ebee7534216528e496abb6fed797093",
+  "translated_at": "2026-06-10T20:44:07.715149+00:00",
+  "model": "gpt-5-mini",
+  "text": "The Crohn’s Disease Exclusion Diet (CDED) is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with an enteral nutrition formula.\n➔  Il is divided into several phases allowing a progressive reintroduction of foods while ensuring control of inflammation.\n➔  In addition to the enteral nutrition formula, 5 foods are mandatory and other foods are allowed in defined quantities and frequencies. The list of allowed foods expands as one progresses through the phases of the CDED.\n➔  Follow-up with professionals trained in this diet is essential.\nMy contacts\nGastroenterologist: ....................................................\n........................................................................................................\nDietitian: ..................................................................\n........................................................................................................\nOther: ......................................................................................\n............................................",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:15:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 15,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "The Crohn’s Disease Exclusion Diet (CDED) is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with an enteral nutrition formula.\n➔  Il is divided into several phases allowing a progressive reintroduction of foods while ensuring control of inflammation.\n➔  In addition to the enteral nutrition formula, 5 foods are mandatory and other foods are allowed in defined quantities and frequencies. The list of allowed foods expands as one progresses through the phases of the CDED.\n➔  Follow-up with professionals trained in this diet is essential.\nMy contacts\nGastroenterologist: ....................................................\n........................................................................................................\nDietitian: ..................................................................\n........................................................................................................\nOther: ......................................................................................\n............................................",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:15",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:07.715149+00:00",
+    "source_text_sha256": "d20a224f656ace64c1ace60b40b13b0e8ebee7534216528e496abb6fed797093"
+  }
+}

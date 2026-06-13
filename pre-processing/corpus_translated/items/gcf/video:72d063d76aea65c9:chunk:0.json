@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:72d063d76aea65c9:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "6b435453fac64a75ecfa5e949d697a932ffd1eb1ae8431f5a5169c22e642feeb",
+  "translated_at": "2026-06-10T21:16:20.320505+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Douviennes maladi Alò sé maladi-la ki, an fè, nou konnèt depi fen 19yèm siékl-la. Sé maladi ki an débu té maladi zòn nò ki té industrielizé é alò i ni on gran pati anviwònman, èvè polisyon, fason nou manjé—manjé ki pwobabman traité é industrializé—ki ka mennen chanjman adan mikrobiyòt-la, é sé chanjman mikrobiyòt-la ki ka mennen an rékritman sistèm iminitè-a ki ké ataké tib dijestif-la ...",
+  "row": {
+    "id": "video:72d063d76aea65c9:chunk:0:gcf",
+    "document_id": "video:72d063d76aea65c9",
+    "chunk_index": 0,
+    "source_file": "447edfe17af3c13a71c02dd19f6c92e136301996.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/447edfe17af3c13a71c02dd19f6c92e136301996.mp4",
+    "text_path": "corpus/texts/videos/447edfe17af3c13a71c02dd19f6c92e136301996.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Douviennes maladi Alò sé maladi-la ki, an fè, nou konnèt depi fen 19yèm siékl-la. Sé maladi ki an débu té maladi zòn nò ki té industrielizé é alò i ni on gran pati anviwònman, èvè polisyon, fason nou manjé—manjé ki pwobabman traité é industrializé—ki ka mennen chanjman adan mikrobiyòt-la, é sé chanjman mikrobiyòt-la ki ka mennen an rékritman sistèm iminitè-a ki ké ataké tib dijestif-la ...",
+    "source_id": "video:72d063d76aea65c9:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:20.320505+00:00",
+    "source_text_sha256": "6b435453fac64a75ecfa5e949d697a932ffd1eb1ae8431f5a5169c22e642feeb"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:23e42b7a28c57bdb:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "89eb394bee566de8abd441c8dcda2851871c9d793772107c8a44174c52018072",
+  "translated_at": "2026-06-10T20:45:53.225354+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Oh, during a flare-up, what should I eat? Well, during a flare-up, sometimes some gastroenterologists recommend fiber-free diets. But that's just because fiber can, can, well, make you go to the toilet more. But in truth, there isn't really a specific diet to follow. I think you should still keep eating and... avoid foods that are nevertheless pro-inflammatory when you have a flare-up. So sodas, alcohol cause diarrhea. Things like that. ... ... ... ...",
+  "row": {
+    "id": "video:23e42b7a28c57bdb:chunk:0:en",
+    "document_id": "video:23e42b7a28c57bdb",
+    "chunk_index": 0,
+    "source_file": "5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.mp4",
+    "text_path": "corpus/texts/videos/5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Oh, during a flare-up, what should I eat? Well, during a flare-up, sometimes some gastroenterologists recommend fiber-free diets. But that's just because fiber can, can, well, make you go to the toilet more. But in truth, there isn't really a specific diet to follow. I think you should still keep eating and... avoid foods that are nevertheless pro-inflammatory when you have a flare-up. So sodas, alcohol cause diarrhea. Things like that. ... ... ... ...",
+    "source_id": "video:23e42b7a28c57bdb:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:53.225354+00:00",
+    "source_text_sha256": "89eb394bee566de8abd441c8dcda2851871c9d793772107c8a44174c52018072"
+  }
+}

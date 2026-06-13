@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "c0a1c369775ecb57b605b2dc0e06a776651ffa1bbc0c08d55849a2f3f7bc7f6b",
+  "translated_at": "2026-06-10T20:49:46.405266+00:00",
+  "model": "gpt-5-mini",
+  "text": "| FICH\n\n_ #\nDWA É ASIRANS 05\n\nAN TRAVAY\n\nPALÉ OU PA ?\n\nAn kontèks kot travay-la ka vin plis difisil pou jwenn é plis egzijan, kestion pou palé di MICI-a ka rété on sijé déliké. Pifò pasyan yo pli anvi pa palé asi'y, pou yo ka wè kon moun \"normal\". Mé sé an péyé tèt nou on sous soutyen ki pé enpòtan asou plan sikolojik, é osi pa benefisié dé dispozitif spécifik pou aksè anplwa é fòmasyon ouswa pou amennajman post travay-la.\nSa toujou rété on dézisyon endividyèl, ki dipann asou evolucion maladi-a é kontrent i mété, asou kijan ou wè kapasité sé moun kot ou travay-la pou aksepte lenfòmasyon-tala, é finalman si sa pé tiré konsékwans pozitif pou ou.\nSi ou désidé palé asi'y, ou dwé préparé-w : a kiyès pou di'y, kijan, ki eksplikasiyon é ki détails pou bay ousa pa bay, ki mò pou sèvi...\n\nÈS-MWEN OBLIGÉ PALÉ DI MALADI-M AN TRAVAY ?",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:0:gcf",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 0,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "| FICH\n\n_ #\nDWA É ASIRANS 05\n\nAN TRAVAY\n\nPALÉ OU PA ?\n\nAn kontèks kot travay-la ka vin plis difisil pou jwenn é plis egzijan, kestion pou palé di MICI-a ka rété on sijé déliké. Pifò pasyan yo pli anvi pa palé asi'y, pou yo ka wè kon moun \"normal\". Mé sé an péyé tèt nou on sous soutyen ki pé enpòtan asou plan sikolojik, é osi pa benefisié dé dispozitif spécifik pou aksè anplwa é fòmasyon ouswa pou amennajman post travay-la.\nSa toujou rété on dézisyon endividyèl, ki dipann asou evolucion maladi-a é kontrent i mété, asou kijan ou wè kapasité sé moun kot ou travay-la pou aksepte lenfòmasyon-tala, é finalman si sa pé tiré konsékwans pozitif pou ou.\nSi ou désidé palé asi'y, ou dwé préparé-w : a kiyès pou di'y, kijan, ki eksplikasiyon é ki détails pou bay ousa pa bay, ki mò pou sèvi...\n\nÈS-MWEN OBLIGÉ PALÉ DI MALADI-M AN TRAVAY ?",
+    "source_id": "image:b7377ddca8ae43aa:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:46.405266+00:00",
+    "source_text_sha256": "c0a1c369775ecb57b605b2dc0e06a776651ffa1bbc0c08d55849a2f3f7bc7f6b"
+  }
+}

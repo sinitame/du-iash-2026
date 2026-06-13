@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "ca9c30a7a2ad7d299431d5c41eba0d20a929beb25d8ffa22f6732ef2925519b5",
+  "translated_at": "2026-06-10T20:45:29.561175+00:00",
+  "model": "gpt-5-mini",
+  "text": "be, of calm color. You can now bring yourself to center at about 4 cm above your navel. And you become aware of all those areas that are contracted, that are holding on, or see what they look like. Then you can move down now; you will become aware of your buttocks, your thighs, and you move down to the ankles. Do this to the end of each limb, as far as possible, and come to center at about 4 cm below your navel. You become aware of the lower part of your body, well released, well relaxed. Let yourself breathe in. \n\nAnd to finish, this is the exercise. I now suggest that you bring your awareness into your navel, into the area of the navel, and you will become aware of your whole body. And finally, relaxed, well relaxed. And put it at a distance as far as you can. Now that your whole body is well relaxed, well released, maybe. I suggest an exercise to help you contract, then relax, each part of your body. If you feel that, very gently, quietly at your own pace, perhaps, I see you inhale fully through the nose. And you will come to contract,",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:4:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 4,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "be, of calm color. You can now bring yourself to center at about 4 cm above your navel. And you become aware of all those areas that are contracted, that are holding on, or see what they look like. Then you can move down now; you will become aware of your buttocks, your thighs, and you move down to the ankles. Do this to the end of each limb, as far as possible, and come to center at about 4 cm below your navel. You become aware of the lower part of your body, well released, well relaxed. Let yourself breathe in. \n\nAnd to finish, this is the exercise. I now suggest that you bring your awareness into your navel, into the area of the navel, and you will become aware of your whole body. And finally, relaxed, well relaxed. And put it at a distance as far as you can. Now that your whole body is well relaxed, well released, maybe. I suggest an exercise to help you contract, then relax, each part of your body. If you feel that, very gently, quietly at your own pace, perhaps, I see you inhale fully through the nose. And you will come to contract,",
+    "source_id": "video:05807ec7742bc2af:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:29.561175+00:00",
+    "source_text_sha256": "ca9c30a7a2ad7d299431d5c41eba0d20a929beb25d8ffa22f6732ef2925519b5"
+  }
+}

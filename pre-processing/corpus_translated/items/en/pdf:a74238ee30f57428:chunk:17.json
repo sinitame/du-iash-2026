@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:17",
+  "target_language": "en",
+  "source_text_sha256": "f37a9982f1a2c69737254a653f319f962e172535da170e2f772118eb3152aa0c",
+  "translated_at": "2026-06-10T20:43:52.157184+00:00",
+  "model": "gpt-5-mini",
+  "text": "But this is not sufficient, and there are environmental factors that are essential but not yet identified; it is currently impossible to predict who may develop it, and because the risk is low, no doctor discourages parents from having more children when there is already someone affected by IBD.\nIN SUMMARY\nWHAT NOT TO DO :\n1/ Overprotect them (wrap them in cotton wool) and unduly forbid them from activities or projects on the pretext that this may worsen the disease: this is incorrect and the vast majority of children with IBD can and should lead a normal life. No career, even those involving responsibility and \"stress\", is off-limits to them and precise studies show that the professional level of children with IBD is normal. Experience also shows that many patients with IBD are \"fighters\".\n2/ Unnecessarily forbid them certain activities or foods except on medical advice.\n3/ Conversely, act as if the disease does not exist and delay medical consultation.\nThe most appropriate attitude :\nA discreet but vigilant approach.\nAvailability",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:17:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 17,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "But this is not sufficient, and there are environmental factors that are essential but not yet identified; it is currently impossible to predict who may develop it, and because the risk is low, no doctor discourages parents from having more children when there is already someone affected by IBD.\nIN SUMMARY\nWHAT NOT TO DO :\n1/ Overprotect them (wrap them in cotton wool) and unduly forbid them from activities or projects on the pretext that this may worsen the disease: this is incorrect and the vast majority of children with IBD can and should lead a normal life. No career, even those involving responsibility and \"stress\", is off-limits to them and precise studies show that the professional level of children with IBD is normal. Experience also shows that many patients with IBD are \"fighters\".\n2/ Unnecessarily forbid them certain activities or foods except on medical advice.\n3/ Conversely, act as if the disease does not exist and delay medical consultation.\nThe most appropriate attitude :\nA discreet but vigilant approach.\nAvailability",
+    "source_id": "pdf:a74238ee30f57428:chunk:17",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:52.157184+00:00",
+    "source_text_sha256": "f37a9982f1a2c69737254a653f319f962e172535da170e2f772118eb3152aa0c"
+  }
+}

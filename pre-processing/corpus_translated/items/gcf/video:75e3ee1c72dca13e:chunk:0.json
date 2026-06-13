@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "59a4d634b429e003e8553311b92c064c4e268a493597037a18e4b6f535337e99",
+  "translated_at": "2026-06-10T21:13:40.038713+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ès maladi-a ké anpéché mwen grandi nòmalman ? Épi maladi-tala, ou pé pli piti èk pi mens pase lòt moun, an tout ka adan kòmansman. Manjé lè ou pa ni lafen ou lè ou ni doulè an vant, sé pa fasil. An plis, anflamasyon ka konsomé anpil énèji. Alò, menm si ou manjé kon lòt timoun, sa pa sifizan pou kò a. Ou ké gen difikilté pou grandi byen. Mé si ou pran tretman yo byen é si ou suiv konsèy dokté-a, ou ké arivé on tay nòmal lè ou vin gran. Pa ni on rejim espesyal, sa ki pli enpòtan sé pou ou grandi. Nou ka lésé-w manjé sa ou vlé, an fonksyon di tolérans ou é sa ou aimé. Mé pa bliyé, pou byen nouri mikrobyot-a, ou dwèt évité manjé ki ja préparé, kon barquette, é manjé balancé. Lè ou pa santi-w byen, yo ka konsiyé pou évité manjé kri é lèt, paské yo difisil pou dijéré. Yo pé pwopoze ba-w alimantasyon atifisyèl pou trete maladi-a é pou fè-w repran pwa. Sé sa yo ka kallé nitrisyon entéral. Sé on melanj manjé likid ki administre an sèvi épi on sond ki pasé pa nen-an",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:0:gcf",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 0,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ès maladi-a ké anpéché mwen grandi nòmalman ? Épi maladi-tala, ou pé pli piti èk pi mens pase lòt moun, an tout ka adan kòmansman. Manjé lè ou pa ni lafen ou lè ou ni doulè an vant, sé pa fasil. An plis, anflamasyon ka konsomé anpil énèji. Alò, menm si ou manjé kon lòt timoun, sa pa sifizan pou kò a. Ou ké gen difikilté pou grandi byen. Mé si ou pran tretman yo byen é si ou suiv konsèy dokté-a, ou ké arivé on tay nòmal lè ou vin gran. Pa ni on rejim espesyal, sa ki pli enpòtan sé pou ou grandi. Nou ka lésé-w manjé sa ou vlé, an fonksyon di tolérans ou é sa ou aimé. Mé pa bliyé, pou byen nouri mikrobyot-a, ou dwèt évité manjé ki ja préparé, kon barquette, é manjé balancé. Lè ou pa santi-w byen, yo ka konsiyé pou évité manjé kri é lèt, paské yo difisil pou dijéré. Yo pé pwopoze ba-w alimantasyon atifisyèl pou trete maladi-a é pou fè-w repran pwa. Sé sa yo ka kallé nitrisyon entéral. Sé on melanj manjé likid ki administre an sèvi épi on sond ki pasé pa nen-an",
+    "source_id": "video:75e3ee1c72dca13e:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:40.038713+00:00",
+    "source_text_sha256": "59a4d634b429e003e8553311b92c064c4e268a493597037a18e4b6f535337e99"
+  }
+}

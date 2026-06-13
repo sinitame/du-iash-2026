@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "b442aec35f2764cdbd2819b54e533b7d76c281a78168eec76d8bfae6c006ee45",
+  "translated_at": "2026-06-10T20:46:03.309722+00:00",
+  "model": "gpt-5-mini",
+  "text": "s from the series Les Modes Vintres to help you better understand the Miki and the difficulties you face every day. Understanding your illness is your treatment, it's the best way to keep your spirits up and to fight to feel better.",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:2:en",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 2,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "s from the series Les Modes Vintres to help you better understand the Miki and the difficulties you face every day. Understanding your illness is your treatment, it's the best way to keep your spirits up and to fight to feel better.",
+    "source_id": "video:9f17032ca0f984f3:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:03.309722+00:00",
+    "source_text_sha256": "b442aec35f2764cdbd2819b54e533b7d76c281a78168eec76d8bfae6c006ee45"
+  }
+}

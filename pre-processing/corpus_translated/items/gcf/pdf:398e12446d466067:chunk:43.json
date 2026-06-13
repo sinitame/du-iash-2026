@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:43",
+  "target_language": "gcf",
+  "source_text_sha256": "f1ad303df62b8eb6de9103d96d3c4dd21738ca52632f7f605f5f3c7a83963e33",
+  "translated_at": "2026-06-10T20:53:54.890041+00:00",
+  "model": "gpt-5-mini",
+  "text": "ki pa arivé jwenn osinon rèsté an réminisyon klinik anba anti-TNF, malgré optimizayson dòz anti-TNF é itilizasyon imunomodilatè, ustekinumab osinon vedolizumab pé ka konsidéré. Menmsi, pifò lòt biyoterapi sa yo pa ni AMM an Frans pou sa endikasyon-la. Eksperyans yo an pedyatri limité adan sitiasyon MC sévè, ki résistan a tretman abituel, ki enkli IFX osinon ADA (110,111). Ustekinumab ni AMM sèlman pou maladi Crohn é pou timoun ki plis 40 kg. Risankizumab pa ni AMM an pedyatri.\nPou ustekinumab, premié dòz-la an jénéral bay pa intravenn é sé 6 mg/kg. Administrasyon anba-kòt (soukutan) koumansé an semenn 8; pasyan adilt pran on enjeksyon 90 mg. Timoun yo dwèt ralé on dòz ajisté an fonksyon sifas kò yo [kalkilé sou baz on adilt réferans ki ni on sifas kò 1.73m2] chak 8 semenn.\nPou vedolizumab, létid dé kour cohort pédyatrik multisentrik 44 é 65 timoun ki ni on MICI montré ki respektivman 41% é 32% adan yo ét",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:43:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 43,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ki pa arivé jwenn osinon rèsté an réminisyon klinik anba anti-TNF, malgré optimizayson dòz anti-TNF é itilizasyon imunomodilatè, ustekinumab osinon vedolizumab pé ka konsidéré. Menmsi, pifò lòt biyoterapi sa yo pa ni AMM an Frans pou sa endikasyon-la. Eksperyans yo an pedyatri limité adan sitiasyon MC sévè, ki résistan a tretman abituel, ki enkli IFX osinon ADA (110,111). Ustekinumab ni AMM sèlman pou maladi Crohn é pou timoun ki plis 40 kg. Risankizumab pa ni AMM an pedyatri.\nPou ustekinumab, premié dòz-la an jénéral bay pa intravenn é sé 6 mg/kg. Administrasyon anba-kòt (soukutan) koumansé an semenn 8; pasyan adilt pran on enjeksyon 90 mg. Timoun yo dwèt ralé on dòz ajisté an fonksyon sifas kò yo [kalkilé sou baz on adilt réferans ki ni on sifas kò 1.73m2] chak 8 semenn.\nPou vedolizumab, létid dé kour cohort pédyatrik multisentrik 44 é 65 timoun ki ni on MICI montré ki respektivman 41% é 32% adan yo ét",
+    "source_id": "pdf:398e12446d466067:chunk:43",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:54.890041+00:00",
+    "source_text_sha256": "f1ad303df62b8eb6de9103d96d3c4dd21738ca52632f7f605f5f3c7a83963e33"
+  }
+}

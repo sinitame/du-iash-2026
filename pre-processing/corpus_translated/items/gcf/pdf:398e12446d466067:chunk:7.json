@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:7",
+  "target_language": "gcf",
+  "source_text_sha256": "d1caa21688fd51fe54bffb393cd06e208c99908c36a5871113ced35f219c73d6",
+  "translated_at": "2026-06-10T20:51:53.644427+00:00",
+  "model": "gpt-5-mini",
+  "text": "é la parèt on MICI pédiatrik (17). Plizyè letid montré on ogmantasyon an fréqans enfeksyon périnatâl é infantîl. (Figure 1)\nFigure 1 : illustrasyon faktè anviwonmantal ki kontribiyé pou ogmanté risk (a gòch) ouswa diminyé risk (a dwat) pou devlopé on MICI. Daprè Khan R et al (13)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:7:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 7,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "é la parèt on MICI pédiatrik (17). Plizyè letid montré on ogmantasyon an fréqans enfeksyon périnatâl é infantîl. (Figure 1)\nFigure 1 : illustrasyon faktè anviwonmantal ki kontribiyé pou ogmanté risk (a gòch) ouswa diminyé risk (a dwat) pou devlopé on MICI. Daprè Khan R et al (13)",
+    "source_id": "pdf:398e12446d466067:chunk:7",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:53.644427+00:00",
+    "source_text_sha256": "d1caa21688fd51fe54bffb393cd06e208c99908c36a5871113ced35f219c73d6"
+  }
+}

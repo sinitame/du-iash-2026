@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:35a9aff59fe8cd5f:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "7b4916a50e1eaa4c0ec01d9af849e025f6e1fa577c1023175e9a3acb231576ac",
+  "translated_at": "2026-06-10T20:47:02.616191+00:00",
+  "model": "gpt-5-mini",
+  "text": "inflammatory disease affecting more of the colon. And so sometimes these are patients who will have more stools, one stool after each meal. In any case, they will need to readapt their colon, their reservoir, to the fact of having a slightly greater continence.",
+  "row": {
+    "id": "video:35a9aff59fe8cd5f:chunk:2:en",
+    "document_id": "video:35a9aff59fe8cd5f",
+    "chunk_index": 2,
+    "source_file": "e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "text_path": "corpus/texts/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "inflammatory disease affecting more of the colon. And so sometimes these are patients who will have more stools, one stool after each meal. In any case, they will need to readapt their colon, their reservoir, to the fact of having a slightly greater continence.",
+    "source_id": "video:35a9aff59fe8cd5f:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:02.616191+00:00",
+    "source_text_sha256": "7b4916a50e1eaa4c0ec01d9af849e025f6e1fa577c1023175e9a3acb231576ac"
+  }
+}

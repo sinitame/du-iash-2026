@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "64f7a389a1e11a4e2c8670b9b7c815fe1da32ed47f562ff0f01525c71838fc7e",
+  "translated_at": "2026-06-10T20:38:02.216582+00:00",
+  "model": "gpt-5-mini",
+  "text": "the indication for continuing treatment must be discussed on a case-by-case basis because of limited scientific data\n\nTOFACITINIB\n\nno, no data and teratogenic in some animals\n\nno, no data\n\nCICLOSPORINE\n\nyes\n\nyes, in the context of severe acute colitis\n\nANTIBIOTICS Metronidazole\nCiprofloxacin\n\nyes if short-term treatment\n\nyes if short-term treatment\n\nFERINJECT\n\nyes\n\nyes",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:2:en",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 2,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "the indication for continuing treatment must be discussed on a case-by-case basis because of limited scientific data\n\nTOFACITINIB\n\nno, no data and teratogenic in some animals\n\nno, no data\n\nCICLOSPORINE\n\nyes\n\nyes, in the context of severe acute colitis\n\nANTIBIOTICS Metronidazole\nCiprofloxacin\n\nyes if short-term treatment\n\nyes if short-term treatment\n\nFERINJECT\n\nyes\n\nyes",
+    "source_id": "image:e12cd738bc600eaa:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:02.216582+00:00",
+    "source_text_sha256": "64f7a389a1e11a4e2c8670b9b7c815fe1da32ed47f562ff0f01525c71838fc7e"
+  }
+}

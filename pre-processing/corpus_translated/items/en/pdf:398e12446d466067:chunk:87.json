@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:87",
+  "target_language": "en",
+  "source_text_sha256": "fce1d4909c9763c5b8a5d177e9a11f1e804e689379fdac74b8f861afcda1b869",
+  "translated_at": "2026-06-10T20:42:40.434312+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 18 ---\n194\nThe five key points\n●\tAssessment of linear growth, weight and pubertal development is an integral part of the diagnostic process and of monitoring the therapeutic response.\n●\tVery early-onset IBD appearing before the age of 6 years requires screening for an immunodeficiency and investigation for a monogenic cause.\n●\tRequesting additional tests, notably radiological ones, requires consideration of the invasiveness of the examinations and of their repetition over time.\n●\tExclusive enteral nutrition is a preferred induction treatment in pediatric Crohn disease. Many therapeutic alternatives for IBD do not have marketing authorization in pediatrics. Each drug must be used optimally and for the appropriate indication before considering a therapeutic switch.\n●\tThe pediatric-to-adult transition is a major step in patients’ medical pathway, the culmination of anticipatory and rigorous preparation.\n5",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:87:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 87,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 18 ---\n194\nThe five key points\n●\tAssessment of linear growth, weight and pubertal development is an integral part of the diagnostic process and of monitoring the therapeutic response.\n●\tVery early-onset IBD appearing before the age of 6 years requires screening for an immunodeficiency and investigation for a monogenic cause.\n●\tRequesting additional tests, notably radiological ones, requires consideration of the invasiveness of the examinations and of their repetition over time.\n●\tExclusive enteral nutrition is a preferred induction treatment in pediatric Crohn disease. Many therapeutic alternatives for IBD do not have marketing authorization in pediatrics. Each drug must be used optimally and for the appropriate indication before considering a therapeutic switch.\n●\tThe pediatric-to-adult transition is a major step in patients’ medical pathway, the culmination of anticipatory and rigorous preparation.\n5",
+    "source_id": "pdf:398e12446d466067:chunk:87",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:40.434312+00:00",
+    "source_text_sha256": "fce1d4909c9763c5b8a5d177e9a11f1e804e689379fdac74b8f861afcda1b869"
+  }
+}

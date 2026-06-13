@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:02ce5191afb0549a:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "68b6cf361fc20c121210103be6fe382aeaeafea27fb8c85485a73a7759e51c78",
+  "translated_at": "2026-06-10T20:48:33.732361+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ka diminiyé avèk tan. Terapî yo ki yo ka kriyé kognitif, san chaché pèfòmans\nkonpòtman, ka anba évaluasyon.\n\nPRÉVANSYON #10",
+  "row": {
+    "id": "image:02ce5191afb0549a:chunk:2:gcf",
+    "document_id": "image:02ce5191afb0549a",
+    "chunk_index": 2,
+    "source_file": "fatigue_depression.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_depression.png",
+    "text_path": "corpus/texts/images/fatigue_depression.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Ka diminiyé avèk tan. Terapî yo ki yo ka kriyé kognitif, san chaché pèfòmans\nkonpòtman, ka anba évaluasyon.\n\nPRÉVANSYON #10",
+    "source_id": "image:02ce5191afb0549a:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:33.732361+00:00",
+    "source_text_sha256": "68b6cf361fc20c121210103be6fe382aeaeafea27fb8c85485a73a7759e51c78"
+  }
+}

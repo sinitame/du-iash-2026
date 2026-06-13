@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "9e45f5afd0bc85fed64e2f6007531442416bec48b1af6e7459a53b4de682e45e",
+  "translated_at": "2026-06-10T20:46:29.747082+00:00",
+  "model": "gpt-5-mini",
+  "text": "inner edges of your feet. And when you rest your feet, press them down onto the floor. Notice the weight of your feet on the floor. You can perhaps imagine as if you had roots under your feet, as if your feet were firmly rooted in the ground.  \n\nNow I invite you to notice your hips that may be sinking into the chair or into your sofa. Feel your supports clearly present. I offer you an anchoring to help you relax into your body.  \n\nNow I suggest you settle with your back straight, with your chin slightly tucked, relax the muscles near your throat, relax your shoulders, and develop a clear awareness of the lower part of your back. Your back is well aligned, well relaxed, well released.  \n\nNow that you feel these anchor points — your feet, your hips, your back — I gently bring your attention to your breathing. Above all, force nothing, just listen to your breath. Leave the air alone; you can simply inhale and exhale at your own pace, without forcing. And simply, already, become aware of this vital breath; you may already be beginning to reconnect with your body.",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:1:en",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 1,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "inner edges of your feet. And when you rest your feet, press them down onto the floor. Notice the weight of your feet on the floor. You can perhaps imagine as if you had roots under your feet, as if your feet were firmly rooted in the ground.  \n\nNow I invite you to notice your hips that may be sinking into the chair or into your sofa. Feel your supports clearly present. I offer you an anchoring to help you relax into your body.  \n\nNow I suggest you settle with your back straight, with your chin slightly tucked, relax the muscles near your throat, relax your shoulders, and develop a clear awareness of the lower part of your back. Your back is well aligned, well relaxed, well released.  \n\nNow that you feel these anchor points — your feet, your hips, your back — I gently bring your attention to your breathing. Above all, force nothing, just listen to your breath. Leave the air alone; you can simply inhale and exhale at your own pace, without forcing. And simply, already, become aware of this vital breath; you may already be beginning to reconnect with your body.",
+    "source_id": "video:93a0c37f32868909:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:29.747082+00:00",
+    "source_text_sha256": "9e45f5afd0bc85fed64e2f6007531442416bec48b1af6e7459a53b4de682e45e"
+  }
+}

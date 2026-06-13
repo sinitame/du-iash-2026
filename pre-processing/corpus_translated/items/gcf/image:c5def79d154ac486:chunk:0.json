@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "8b65912505c05e53ea4d7a08d320092fcbc946db3ba3f820f3ca4cc031578d61",
+  "translated_at": "2026-06-10T20:48:44.950178+00:00",
+  "model": "gpt-5-mini",
+  "text": "Z\nO\nH\nZ\nLu\n>\nsu\nœ\na\n\nFATIG\né MICI\n\nPRÉVANSYON\n\n#06\n\nKI SA SÉ FATIG-LA ?\n\nI difisil pou bay on définiyon di fatig, mé an fason pragmatik nou pé di sé on plenyen ki vini adan on déséquilib ant sa ki dwé fèt é sa ki pé fèt. Nou ka fè différans ant fatig fizik (fizyolojik) apré on efò fizik oswa paskè dòmi manké, ki ka amelyoré lè moun ka repoze, é fatig patolojik ki pa twòp amelyoré pa repo ni pa dòmi. Sa dènye-la pé vini adan kò (somatik), sé-a-di i ka gen rapò èvè on maladi ki idantifié, ouswa adan lespri (psikolojik) pandan sendwòm anksyé osnon déprésif. Adan kad MICI, fatig somatik é fatig psikolojik souvan mélanjé.\n\nKI PLAS FÉN FATI-G LA PRAN ADAN MICI ?\n\nLafatig-la ka parèt trè souvent adan MICI : i ka rivé adan 44-86 % ka zafè pandan pousé, é lafatig-la ka persiste adan 22-41 % pasyan ki an faz rémission. I souvan asosyé èvè troub dòmi é i afèkté négativman qualité vi-a, ki vini on kritè ki kounyé-a ka évalyé adan pifò détid ki palé asi MICI.",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:0:gcf",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 0,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Z\nO\nH\nZ\nLu\n>\nsu\nœ\na\n\nFATIG\né MICI\n\nPRÉVANSYON\n\n#06\n\nKI SA SÉ FATIG-LA ?\n\nI difisil pou bay on définiyon di fatig, mé an fason pragmatik nou pé di sé on plenyen ki vini adan on déséquilib ant sa ki dwé fèt é sa ki pé fèt. Nou ka fè différans ant fatig fizik (fizyolojik) apré on efò fizik oswa paskè dòmi manké, ki ka amelyoré lè moun ka repoze, é fatig patolojik ki pa twòp amelyoré pa repo ni pa dòmi. Sa dènye-la pé vini adan kò (somatik), sé-a-di i ka gen rapò èvè on maladi ki idantifié, ouswa adan lespri (psikolojik) pandan sendwòm anksyé osnon déprésif. Adan kad MICI, fatig somatik é fatig psikolojik souvan mélanjé.\n\nKI PLAS FÉN FATI-G LA PRAN ADAN MICI ?\n\nLafatig-la ka parèt trè souvent adan MICI : i ka rivé adan 44-86 % ka zafè pandan pousé, é lafatig-la ka persiste adan 22-41 % pasyan ki an faz rémission. I souvan asosyé èvè troub dòmi é i afèkté négativman qualité vi-a, ki vini on kritè ki kounyé-a ka évalyé adan pifò détid ki palé asi MICI.",
+    "source_id": "image:c5def79d154ac486:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:44.950178+00:00",
+    "source_text_sha256": "8b65912505c05e53ea4d7a08d320092fcbc946db3ba3f820f3ca4cc031578d61"
+  }
+}

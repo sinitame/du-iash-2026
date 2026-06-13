@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "05bcad2e13aafa4727d9c436e0f050273a4e572cd86bd751584bb77a62c19596",
+  "translated_at": "2026-06-10T20:39:21.983660+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nMoreover, we now know that certain\nultra-processed foods, stress, a sedentary\nlifestyle, and tobacco damage the microbiota and\nworsen the disease.\nAND SO, TREATING YOUR\nMICROBIOTA, IS IT TREATING\nYOUR IBD?\nSo, there are currently several avenues\nfor the future:\nProbiotics and prebiotics: Can we\nuse bacteria (probiotics) to calm\ninflammation? The scientific world has\nnot reached a consensus to date on the\nbenefit of taking a probiotic or prebiotic;\nstudies are ongoing.\nFecal transplantation: this involves\ntransferring the microbiota from a\nhealthy person to a patient with IBD.\nThe results are interesting, however\nthey have not yet allowed a conclusion\nabout a benefit for IBD.\nTreatments targeted at the microbiota:\nNew drugs are being tested to change\nintestinal bacteria and reduce\ninflammation.\nPersonalized nutrition: Some\nscientists are trying to adapt diets\naccording to each person’s microbiota\nto help calm symptoms.\nHOW CAN I ACT ON\nMY MICROBIOTA?\nYour microbiota prefers certain al",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:2:en",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 2,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 2 ---\nMoreover, we now know that certain\nultra-processed foods, stress, a sedentary\nlifestyle, and tobacco damage the microbiota and\nworsen the disease.\nAND SO, TREATING YOUR\nMICROBIOTA, IS IT TREATING\nYOUR IBD?\nSo, there are currently several avenues\nfor the future:\nProbiotics and prebiotics: Can we\nuse bacteria (probiotics) to calm\ninflammation? The scientific world has\nnot reached a consensus to date on the\nbenefit of taking a probiotic or prebiotic;\nstudies are ongoing.\nFecal transplantation: this involves\ntransferring the microbiota from a\nhealthy person to a patient with IBD.\nThe results are interesting, however\nthey have not yet allowed a conclusion\nabout a benefit for IBD.\nTreatments targeted at the microbiota:\nNew drugs are being tested to change\nintestinal bacteria and reduce\ninflammation.\nPersonalized nutrition: Some\nscientists are trying to adapt diets\naccording to each person’s microbiota\nto help calm symptoms.\nHOW CAN I ACT ON\nMY MICROBIOTA?\nYour microbiota prefers certain al",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:21.983660+00:00",
+    "source_text_sha256": "05bcad2e13aafa4727d9c436e0f050273a4e572cd86bd751584bb77a62c19596"
+  }
+}

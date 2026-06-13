@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:71",
+  "target_language": "gcf",
+  "source_text_sha256": "0986147ba7d35b3a4efc47ee2059deaf01105ad1f581b3451229b4f233b1543f",
+  "translated_at": "2026-06-10T21:06:19.283549+00:00",
+  "model": "gpt-5-mini",
+  "text": "6. McDonagh JE, Granir é avansé: transisyon sòti swen pédiatrik pou rivé swen adilt. Pediatr. Transplant. 2005;9:364-372.\n57. Giarelli E, Bernhardt BA, Mack R, et al. Transisyon adolesan vè jéré tèt yo on maladi jenetik krónik. Qual. Health Res. 2008;18:441-457.\n58. Philpott JR. Swen transisyon adan maladi enflamatwa entesten. Gastroenterol. Hepatol. (NY) 2011;7:26-32.\n59. Zeisler B, Hyams JS. Transisyon jesyon pou adolesan ki ni maladi enflamatwa entesten. Nat Rev Gastroenterol Hepatol. 2014;11:109-15.\n60. Fu N, Bollegala N, Jacobson K, et al. Déklarasyon konsansis Kanadyen asou transisyon adolesan é jèn adilt ki ni maladi enflamatwa entesten sòti swen pédiatrik pou alé swen adilt: on inisyativ kolaboratif ant Canadian IBD Transition Network é Crohn’s and Colitis Canada. J Can Assoc Gastro-enterol. 2022;5:105-15.\n61. Hait EJ, Arnold JH, Fishman LN. Édike, kominike, antisipé - rékomandasyon pratikal pou transisyon adolesan ki ni IBD vè swen lasanté adilt. Inflamm Bowel Dis. 2006;12:70-3.\n62. van Rheenen PF, Aloi M, Assa A, et al. Jesyon médikal maladi Crohn pédiatrik: on mizajou gid ECCO ESPGHAN. J Crohns Coli",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:71:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 71,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "6. McDonagh JE, Granir é avansé: transisyon sòti swen pédiatrik pou rivé swen adilt. Pediatr. Transplant. 2005;9:364-372.\n57. Giarelli E, Bernhardt BA, Mack R, et al. Transisyon adolesan vè jéré tèt yo on maladi jenetik krónik. Qual. Health Res. 2008;18:441-457.\n58. Philpott JR. Swen transisyon adan maladi enflamatwa entesten. Gastroenterol. Hepatol. (NY) 2011;7:26-32.\n59. Zeisler B, Hyams JS. Transisyon jesyon pou adolesan ki ni maladi enflamatwa entesten. Nat Rev Gastroenterol Hepatol. 2014;11:109-15.\n60. Fu N, Bollegala N, Jacobson K, et al. Déklarasyon konsansis Kanadyen asou transisyon adolesan é jèn adilt ki ni maladi enflamatwa entesten sòti swen pédiatrik pou alé swen adilt: on inisyativ kolaboratif ant Canadian IBD Transition Network é Crohn’s and Colitis Canada. J Can Assoc Gastro-enterol. 2022;5:105-15.\n61. Hait EJ, Arnold JH, Fishman LN. Édike, kominike, antisipé - rékomandasyon pratikal pou transisyon adolesan ki ni IBD vè swen lasanté adilt. Inflamm Bowel Dis. 2006;12:70-3.\n62. van Rheenen PF, Aloi M, Assa A, et al. Jesyon médikal maladi Crohn pédiatrik: on mizajou gid ECCO ESPGHAN. J Crohns Coli",
+    "source_id": "pdf:398e12446d466067:chunk:71",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:19.283549+00:00",
+    "source_text_sha256": "0986147ba7d35b3a4efc47ee2059deaf01105ad1f581b3451229b4f233b1543f"
+  }
+}

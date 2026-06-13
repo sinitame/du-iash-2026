@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:23",
+  "target_language": "en",
+  "source_text_sha256": "8073c77b184e2df58602a96bf2b35c1b1723cc14d06f696171ce3d6bdb532cee",
+  "translated_at": "2026-06-10T20:40:26.170775+00:00",
+  "model": "gpt-5-mini",
+  "text": "a progression of lesions over time. Conversely,\nthe presence of primary sclerosing cholangitis (PSC)\nappears to be associated with a lower rate of surgery.\nThe risk of developing colorectal cancer increases\nin the presence of PSC, with prolonged disease duration (beyond\n10 years), in males, and when diagnosed at a young age.\nIt is important to note that an initial localization\nlimited to the rectum does not guarantee a benign course;\nrapid extension of lesions can occur and lead to\nsubsequent colectomy (46,47).\nNutritional impact, linear growth,\npubertal development,\nfinal height and cancer\nNutritional impact\nWeight loss is an almost constant sign\nat the time of diagnosis of IBD in children, with weight\nbelow the 3rd percentile or at -2 standard deviations (SD)\nin about 50% of cases. A North American study\nincluding 783 children reported a body mass index\n(BMI) below the 5th percentile in 23% of patients\nwith CD, compared with 8% in those with UC (9).\nLinear growth and pubertal development\nGrowth delay, d",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:23:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 23,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "a progression of lesions over time. Conversely,\nthe presence of primary sclerosing cholangitis (PSC)\nappears to be associated with a lower rate of surgery.\nThe risk of developing colorectal cancer increases\nin the presence of PSC, with prolonged disease duration (beyond\n10 years), in males, and when diagnosed at a young age.\nIt is important to note that an initial localization\nlimited to the rectum does not guarantee a benign course;\nrapid extension of lesions can occur and lead to\nsubsequent colectomy (46,47).\nNutritional impact, linear growth,\npubertal development,\nfinal height and cancer\nNutritional impact\nWeight loss is an almost constant sign\nat the time of diagnosis of IBD in children, with weight\nbelow the 3rd percentile or at -2 standard deviations (SD)\nin about 50% of cases. A North American study\nincluding 783 children reported a body mass index\n(BMI) below the 5th percentile in 23% of patients\nwith CD, compared with 8% in those with UC (9).\nLinear growth and pubertal development\nGrowth delay, d",
+    "source_id": "pdf:398e12446d466067:chunk:23",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:26.170775+00:00",
+    "source_text_sha256": "8073c77b184e2df58602a96bf2b35c1b1723cc14d06f696171ce3d6bdb532cee"
+  }
+}

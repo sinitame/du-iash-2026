@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:18",
+  "target_language": "gcf",
+  "source_text_sha256": "53dcaeba4d6c5ae161e804ecfe814ec8c980987bdc0c89741b7b70af45e1bb75",
+  "translated_at": "2026-06-10T20:52:30.554410+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 5 ---\n181\nMICI\nKlasifikasyon (lokatyon é fénòtip k ka évolyé)\nMaladi Crohn\nAdan MC pédiatrik, lokatyon iléo-kolik sé pli frékán (42).\nSkò aktivité PCDAI (Pediatric Crohn Disease Activity Index) sé on modifikasyon CDAI (Crohn Disease Activity Index), ki entégwé doné spécifik asi kwasans é paramèt biyolojik (tablo 4).\nAdan timoun, MC ka évolyé an jénéral pli vit é pli agrésif kon adan granmoun. On létid an Etazini asi 276 pasyan pédiatrik montré ki on étandman lésyon té obzervé adan près 40 % timoun adan dé premye lanné apré dyagnostik-la. An plis, fénòtip ki konplike (B2 : sténozan, B3 : fistulizan) té konsèné 24 % ka-a apré kat lanné, kont sélemant 9 % lè yo té fè dyagnostik (9). Chanjman fénòtipik-la fèt pi fò adan senk lanné ki swiv kòmansman maladi-a.\nTablo 2 : fòm pédiatrik MC lè yo fè dyagnostik (41)\nKategori\nKaraktè tipik\nKaraktè pa spésifik\nMakroskopik\n-\tUlserasyon aphtoz asi mukoza\n-\tUlserasyon linéyé oswa",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:18:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 18,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 5 ---\n181\nMICI\nKlasifikasyon (lokatyon é fénòtip k ka évolyé)\nMaladi Crohn\nAdan MC pédiatrik, lokatyon iléo-kolik sé pli frékán (42).\nSkò aktivité PCDAI (Pediatric Crohn Disease Activity Index) sé on modifikasyon CDAI (Crohn Disease Activity Index), ki entégwé doné spécifik asi kwasans é paramèt biyolojik (tablo 4).\nAdan timoun, MC ka évolyé an jénéral pli vit é pli agrésif kon adan granmoun. On létid an Etazini asi 276 pasyan pédiatrik montré ki on étandman lésyon té obzervé adan près 40 % timoun adan dé premye lanné apré dyagnostik-la. An plis, fénòtip ki konplike (B2 : sténozan, B3 : fistulizan) té konsèné 24 % ka-a apré kat lanné, kont sélemant 9 % lè yo té fè dyagnostik (9). Chanjman fénòtipik-la fèt pi fò adan senk lanné ki swiv kòmansman maladi-a.\nTablo 2 : fòm pédiatrik MC lè yo fè dyagnostik (41)\nKategori\nKaraktè tipik\nKaraktè pa spésifik\nMakroskopik\n-\tUlserasyon aphtoz asi mukoza\n-\tUlserasyon linéyé oswa",
+    "source_id": "pdf:398e12446d466067:chunk:18",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:30.554410+00:00",
+    "source_text_sha256": "53dcaeba4d6c5ae161e804ecfe814ec8c980987bdc0c89741b7b70af45e1bb75"
+  }
+}

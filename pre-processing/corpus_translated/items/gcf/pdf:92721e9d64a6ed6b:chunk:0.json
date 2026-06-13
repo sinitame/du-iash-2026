@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "5e6f7283f50b920212b5a23dd2667dc2b0b4ea6b79b07439c6b815e928e67b8b",
+  "translated_at": "2026-06-10T20:51:15.505883+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nSA KI SÉ ÉGZAKTMAN ?\nMikrobiòt entesten-an sé on ansanm bakteri, viris, parazit é chanpiyon ki vwé byin ba-w é ki ka viv adan entesten-w. Yo endispansab pou kò-ou fonksyonné byen. An plis, yo ka pézé pou kont yo ant 1 é 3 kg nan pézé nou !\n\nPOUKISA MIKROBIÒT LA I TELMAN ENPÒTAN ?\nMikrobiòt-ou ka jwé plizyè wol énpòtan :\nI édé digéré sèten manjé kot tib dijestif-ou pa pé jéré pou kont li.\nI ranforsé sistèm iminitè-ou é i édé-w bat kont mikwòb.\nI ka enfliyanse jan ou santi-w é tèt-ou (pasé wi, vant-la é tèt-ou yo konekté !).\nI édé-w absorbé vitamin é minéral kò-ou bizwen.\n\nMALADI CROHN, REKTOKOLIT EMORAJIK : KI RAPÒ ÉVÈ MIKROBIÒT-LA ?\nAnpil réchéchè, soutni pa l’afa, ka travay aktyelman asou mikrobiòt-la é ka gadé wòl anviwònman nou é fason nou viv asou-li. An efè, chak moun ni on mikrobiòt inik. Sa ka dépann adan kot i kay viv, sa i manjé, si i fè spòt ou pa, menm si i ni on bèt kay !\nSi sa rivé",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:0:gcf",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 0,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 1 ---\nSA KI SÉ ÉGZAKTMAN ?\nMikrobiòt entesten-an sé on ansanm bakteri, viris, parazit é chanpiyon ki vwé byin ba-w é ki ka viv adan entesten-w. Yo endispansab pou kò-ou fonksyonné byen. An plis, yo ka pézé pou kont yo ant 1 é 3 kg nan pézé nou !\n\nPOUKISA MIKROBIÒT LA I TELMAN ENPÒTAN ?\nMikrobiòt-ou ka jwé plizyè wol énpòtan :\nI édé digéré sèten manjé kot tib dijestif-ou pa pé jéré pou kont li.\nI ranforsé sistèm iminitè-ou é i édé-w bat kont mikwòb.\nI ka enfliyanse jan ou santi-w é tèt-ou (pasé wi, vant-la é tèt-ou yo konekté !).\nI édé-w absorbé vitamin é minéral kò-ou bizwen.\n\nMALADI CROHN, REKTOKOLIT EMORAJIK : KI RAPÒ ÉVÈ MIKROBIÒT-LA ?\nAnpil réchéchè, soutni pa l’afa, ka travay aktyelman asou mikrobiòt-la é ka gadé wòl anviwònman nou é fason nou viv asou-li. An efè, chak moun ni on mikrobiòt inik. Sa ka dépann adan kot i kay viv, sa i manjé, si i fè spòt ou pa, menm si i ni on bèt kay !\nSi sa rivé",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:15.505883+00:00",
+    "source_text_sha256": "5e6f7283f50b920212b5a23dd2667dc2b0b4ea6b79b07439c6b815e928e67b8b"
+  }
+}

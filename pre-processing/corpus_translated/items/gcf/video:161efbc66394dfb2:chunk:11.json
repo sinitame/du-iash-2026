@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:11",
+  "target_language": "gcf",
+  "source_text_sha256": "cef34f15c186d67ab49b3dd38357296fedf64f226170e731b90fda3a1bc6b878",
+  "translated_at": "2026-06-10T21:22:03.349414+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ékout kò-a. Épi obsèvé respirasiyon an kon si ti mouvman-la ka tòné pou pran souf. An nou pran sa ankò, yonn an plis. Épi ankò on twazyèm é dènnyé fwa. Kounyé a, mwen pwopoze-w on nouvo pozisyon anlè pwatrin ou. Mete men-w asi pwatrin lan; wap inspiré é soulevé on ti mouvman anlè. Ou bóké respirasiyon an on ti tan é ou pran konsyans chak souf. Tankou si ou té gadé chak souf. Lè ou expiré pi dousman posib, ou pé santi on ti détant. Dousman, dousman. Apre sa, mété bra-w bò kò pou ranmasé santiman yo. Épi men-w anba, koute sa k’ap pasé pou ou. Nou p’ap jije; jis gadé sa ki pou ou. Kounyé a, mwen ké pwopoze-w on ekzèsis respirasiyon pou édé-w mété lapèr an distans. Anvan nou pratike ekzèsis-la, mwen envité-w vini pozé men-w asi nivo sternòm ou, yonn kont lòt, pou fè-w pran konsyans batman kè-w. Pou sa, dousman, dousman. Mwen envité-w pran on inspirasyon pa nen. Épi ou ké souflé...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:11:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 11,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ékout kò-a. Épi obsèvé respirasiyon an kon si ti mouvman-la ka tòné pou pran souf. An nou pran sa ankò, yonn an plis. Épi ankò on twazyèm é dènnyé fwa. Kounyé a, mwen pwopoze-w on nouvo pozisyon anlè pwatrin ou. Mete men-w asi pwatrin lan; wap inspiré é soulevé on ti mouvman anlè. Ou bóké respirasiyon an on ti tan é ou pran konsyans chak souf. Tankou si ou té gadé chak souf. Lè ou expiré pi dousman posib, ou pé santi on ti détant. Dousman, dousman. Apre sa, mété bra-w bò kò pou ranmasé santiman yo. Épi men-w anba, koute sa k’ap pasé pou ou. Nou p’ap jije; jis gadé sa ki pou ou. Kounyé a, mwen ké pwopoze-w on ekzèsis respirasiyon pou édé-w mété lapèr an distans. Anvan nou pratike ekzèsis-la, mwen envité-w vini pozé men-w asi nivo sternòm ou, yonn kont lòt, pou fè-w pran konsyans batman kè-w. Pou sa, dousman, dousman. Mwen envité-w pran on inspirasyon pa nen. Épi ou ké souflé...",
+    "source_id": "video:161efbc66394dfb2:chunk:11",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:03.349414+00:00",
+    "source_text_sha256": "cef34f15c186d67ab49b3dd38357296fedf64f226170e731b90fda3a1bc6b878"
+  }
+}

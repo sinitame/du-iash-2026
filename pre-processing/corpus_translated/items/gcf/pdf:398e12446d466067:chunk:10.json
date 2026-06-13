@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:10",
+  "target_language": "gcf",
+  "source_text_sha256": "4335cf5d66849c96b55a6c1779df0410836d76b1183fa73cbf08592dd48eff53",
+  "translated_at": "2026-06-10T20:52:10.918175+00:00",
+  "model": "gpt-5-mini",
+  "text": "Plis ki 10% dé ka pédiatrik, fè distenksyon ant MC é RCH difisil. Yo ka idantifié maladi a kon on kolit indéterminé. Lè maladi a ka pwogresé, kèk ka kolit indéterminé pé évolyé an MC oswè an RCH (26).\nLézyon ano-périnéal an MC souvan jwenn asou timoun. Egzamen marg anâl-la dwèt toujou fè pati egzamen klinik-la. On rékonèt vit pasyan ki gen gwo souspisyon pou MICI pou alé vit fè on bilan endoskopik sé primordyal (27), présans lézyon périnéal kon : ulcè, fistil oswè absé pé basté pou fè on bilan endoskopik, endépendaman dé lot makè enflamatwa (28). Lot ti kritè pé ka parèt : doulè abdominal kronik (> 4 semèn), dyaré, MICI konfimé che on parant pwemyé dégré, pèd pwa san vlé, présans manifèsyon ekstra-dijestif (29-31).\nEvalyasyon koub kwasans é pibèté enpòtan pou sonjé dyagnostik-la, partikilyèman an MC (32,33). (Figure 2)\nManifèsyon ekstra-dijestif pé vini avan yo",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:10:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 10,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Plis ki 10% dé ka pédiatrik, fè distenksyon ant MC é RCH difisil. Yo ka idantifié maladi a kon on kolit indéterminé. Lè maladi a ka pwogresé, kèk ka kolit indéterminé pé évolyé an MC oswè an RCH (26).\nLézyon ano-périnéal an MC souvan jwenn asou timoun. Egzamen marg anâl-la dwèt toujou fè pati egzamen klinik-la. On rékonèt vit pasyan ki gen gwo souspisyon pou MICI pou alé vit fè on bilan endoskopik sé primordyal (27), présans lézyon périnéal kon : ulcè, fistil oswè absé pé basté pou fè on bilan endoskopik, endépendaman dé lot makè enflamatwa (28). Lot ti kritè pé ka parèt : doulè abdominal kronik (> 4 semèn), dyaré, MICI konfimé che on parant pwemyé dégré, pèd pwa san vlé, présans manifèsyon ekstra-dijestif (29-31).\nEvalyasyon koub kwasans é pibèté enpòtan pou sonjé dyagnostik-la, partikilyèman an MC (32,33). (Figure 2)\nManifèsyon ekstra-dijestif pé vini avan yo",
+    "source_id": "pdf:398e12446d466067:chunk:10",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:10.918175+00:00",
+    "source_text_sha256": "4335cf5d66849c96b55a6c1779df0410836d76b1183fa73cbf08592dd48eff53"
+  }
+}

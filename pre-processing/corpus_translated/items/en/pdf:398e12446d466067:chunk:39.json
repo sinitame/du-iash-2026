@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:39",
+  "target_language": "en",
+  "source_text_sha256": "6679646e5d3abaeef2704587221dc01ee313bdd0f174f965872f814559eb0662",
+  "translated_at": "2026-06-10T20:41:07.702016+00:00",
+  "model": "gpt-5-mini",
+  "text": "1.0–1.5 mg/kg/day for its precursor, 6-mercaptopurine. The full dosage can be started immediately, without gradual escalation. The increased risk of lymphomas, including hepatosplenic T-cell lymphoma (HSTCL) in young men, although rare, must be explicitly discussed (89,94). Particular vigilance is required regarding primary EBV infections under thiopurines, which are associated with a risk of lymphoproliferation (95-97).\n\nEnteral nutrition in maintenance therapy\nMaintenance enteral nutrition can prolong remission after successful induction, particularly after EEN. Long-term efficacy has not been demonstrated more because of lack of adherence to this therapy in the medium term than because of treatment ineffectiveness. Its use while awaiting the initiation of another therapy is to be preferred. More recent alternatives, such as the Crohn’s Disease Exclusion Diet combined with partial nutrition, have shown promising results in terms of tolerance and maintenance of remission at 12 weeks (98). Partial or adapted dietary regimens are still considered experimental.\n\nPost-surgical",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:39:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 39,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "1.0–1.5 mg/kg/day for its precursor, 6-mercaptopurine. The full dosage can be started immediately, without gradual escalation. The increased risk of lymphomas, including hepatosplenic T-cell lymphoma (HSTCL) in young men, although rare, must be explicitly discussed (89,94). Particular vigilance is required regarding primary EBV infections under thiopurines, which are associated with a risk of lymphoproliferation (95-97).\n\nEnteral nutrition in maintenance therapy\nMaintenance enteral nutrition can prolong remission after successful induction, particularly after EEN. Long-term efficacy has not been demonstrated more because of lack of adherence to this therapy in the medium term than because of treatment ineffectiveness. Its use while awaiting the initiation of another therapy is to be preferred. More recent alternatives, such as the Crohn’s Disease Exclusion Diet combined with partial nutrition, have shown promising results in terms of tolerance and maintenance of remission at 12 weeks (98). Partial or adapted dietary regimens are still considered experimental.\n\nPost-surgical",
+    "source_id": "pdf:398e12446d466067:chunk:39",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:07.702016+00:00",
+    "source_text_sha256": "6679646e5d3abaeef2704587221dc01ee313bdd0f174f965872f814559eb0662"
+  }
+}

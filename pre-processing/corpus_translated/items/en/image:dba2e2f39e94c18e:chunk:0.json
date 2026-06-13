@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "e747eae455ddb6278944aaad3992c1e8f9a85d51dac7c9b5c8cc00816d13fa39",
+  "translated_at": "2026-06-10T20:38:37.808516+00:00",
+  "model": "gpt-5-mini",
+  "text": "OR\n>\n<\nmn\nœ\n>\n>\n\nLIVING WITH\n\nLIVING AV\n\n€ SA MICI,\n\nPREPARING YOUR\nHOSPITALIZATION\n\nBefore even being admitted to the hospital, it is useful to\nknow well your rights and duties, the terms of coverage\nin particular accommodation costs, the things\nnot to forget to preserve your well-being …\n\n1/ Preparing your absence from home\n\nWhether you live with family or alone, an absence of a few\ndays should be prepared, notably with your relatives\nand with your employer if applicable. Within the family,\nchildcare should be arranged to ensure children\nmaintain their usual routines as much as possible. Your\nhealth or social care professionals can be useful\nsupports, do not hesitate to raise all these ques-\ntions with them.\n\nOur advice.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:0:en",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "OR\n>\n<\nmn\nœ\n>\n>\n\nLIVING WITH\n\nLIVING AV\n\n€ SA MICI,\n\nPREPARING YOUR\nHOSPITALIZATION\n\nBefore even being admitted to the hospital, it is useful to\nknow well your rights and duties, the terms of coverage\nin particular accommodation costs, the things\nnot to forget to preserve your well-being …\n\n1/ Preparing your absence from home\n\nWhether you live with family or alone, an absence of a few\ndays should be prepared, notably with your relatives\nand with your employer if applicable. Within the family,\nchildcare should be arranged to ensure children\nmaintain their usual routines as much as possible. Your\nhealth or social care professionals can be useful\nsupports, do not hesitate to raise all these ques-\ntions with them.\n\nOur advice.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:37.808516+00:00",
+    "source_text_sha256": "e747eae455ddb6278944aaad3992c1e8f9a85d51dac7c9b5c8cc00816d13fa39"
+  }
+}

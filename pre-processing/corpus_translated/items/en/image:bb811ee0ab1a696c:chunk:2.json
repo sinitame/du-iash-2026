@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "477c830c66e751714e2dc0e71692baafcf2ab83ebee5bc93e8ee98e140c03c1a",
+  "translated_at": "2026-06-10T20:38:31.629480+00:00",
+  "model": "gpt-5-mini",
+  "text": "travel with your treatment. If you need more than one month's supply, ask the doctor to note it on the prescription;\næ travel with your prescription written using the International Nonproprietary Name (INN) of the products.\nExample: azathioprine rather than Imurel, adalimumab rather than Humira.\n= medications must be in their original packaging;\nfor the specific issue of transporting biologic therapies under refrigerated conditions, see the fact sheet \"Travel by plane and treatments\";",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:2:en",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 2,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "travel with your treatment. If you need more than one month's supply, ask the doctor to note it on the prescription;\næ travel with your prescription written using the International Nonproprietary Name (INN) of the products.\nExample: azathioprine rather than Imurel, adalimumab rather than Humira.\n= medications must be in their original packaging;\nfor the specific issue of transporting biologic therapies under refrigerated conditions, see the fact sheet \"Travel by plane and treatments\";",
+    "source_id": "image:bb811ee0ab1a696c:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:31.629480+00:00",
+    "source_text_sha256": "477c830c66e751714e2dc0e71692baafcf2ab83ebee5bc93e8ee98e140c03c1a"
+  }
+}

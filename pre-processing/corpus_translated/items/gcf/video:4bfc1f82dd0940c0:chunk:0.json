@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "b2109b6a8b2e7c146039f5c6df155c7911e37b25fd56497bce923d0a6e41afb0",
+  "translated_at": "2026-06-10T21:18:40.136092+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ès yo pé swé miki mwen ?  \nMiki sé maladi nou pòté an nou, ki pé aktivé é étenn adan moman diféran.  \nPou momen an, i pa posib pou géri yo.  \nSé pou sa i enpòtan pou ou byen swiyé, sitou pou évité oswè limité risk pou maladi a retounen.  \nÉ ben, ni médikaman ki ka fè'w santi-w miyò.  \nLè ou an poussée maladi, yo sèvi médikaman selon jan kriz la fò, tankou les cinq hasards, les corticohyd, les immunosuppresseurs ou les biotérapies.  \nDòt médikaman ka agrandi difé a, konm les corticohyd.  \nDòt yo pli travay a lon tèm pou soutni peryòd kalm lan, tankou les immunosuppresseurs ou les biotérapies.  \nSé pou sa, pou évité ou retombé malad, ou pé ni immunosuppresseurs pou pran chak jou pandan plizyè lanné, oswè biotérapies trè ciblé kont anflamasyon an, an fòm pikwèr yo ka fè'w lakay ou oswa an perfizyon adan lopital.  \nAnfen, i posib osi suiv on règim patikilyé ki pé osi éfikàs kon on tretman de fond.  \nDòt médikaman",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:0:gcf",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 0,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ès yo pé swé miki mwen ?  \nMiki sé maladi nou pòté an nou, ki pé aktivé é étenn adan moman diféran.  \nPou momen an, i pa posib pou géri yo.  \nSé pou sa i enpòtan pou ou byen swiyé, sitou pou évité oswè limité risk pou maladi a retounen.  \nÉ ben, ni médikaman ki ka fè'w santi-w miyò.  \nLè ou an poussée maladi, yo sèvi médikaman selon jan kriz la fò, tankou les cinq hasards, les corticohyd, les immunosuppresseurs ou les biotérapies.  \nDòt médikaman ka agrandi difé a, konm les corticohyd.  \nDòt yo pli travay a lon tèm pou soutni peryòd kalm lan, tankou les immunosuppresseurs ou les biotérapies.  \nSé pou sa, pou évité ou retombé malad, ou pé ni immunosuppresseurs pou pran chak jou pandan plizyè lanné, oswè biotérapies trè ciblé kont anflamasyon an, an fòm pikwèr yo ka fè'w lakay ou oswa an perfizyon adan lopital.  \nAnfen, i posib osi suiv on règim patikilyé ki pé osi éfikàs kon on tretman de fond.  \nDòt médikaman",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:40.136092+00:00",
+    "source_text_sha256": "b2109b6a8b2e7c146039f5c6df155c7911e37b25fd56497bce923d0a6e41afb0"
+  }
+}

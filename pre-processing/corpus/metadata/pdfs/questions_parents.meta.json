@@ -1,0 +1,11 @@
+{
+  "id": "pdf:a74238ee30f57428",
+  "status": "done",
+  "source_file": "questions_parents.pdf",
+  "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+  "text_path": "corpus/texts/pdfs/questions_parents.txt",
+  "modality": "pdf",
+  "language": "fr",
+  "source_sha256": "a74238ee30f57428f5e67ccbda88107f93774d89759c39fbc71ca877950f05ab",
+  "created_at": "2026-06-10T16:11:55.336703+00:00"
+}

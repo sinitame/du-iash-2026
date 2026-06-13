@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:15",
+  "target_language": "gcf",
+  "source_text_sha256": "d20a224f656ace64c1ace60b40b13b0e8ebee7534216528e496abb6fed797093",
+  "translated_at": "2026-06-10T21:12:14.510234+00:00",
+  "model": "gpt-5-mini",
+  "text": "maladi Crohn (CDED an anglé) sé on stratéji alimantè terapetik ki pozé asi éksklizyon séten manjé, ki ranplasé pa manjé spécifik konbiné épi on solisyon nitrisyon antéral.\n➔ I divizé an plizyé faz ki pèmèt réintrodiksyon pwogresif manjé yo pandan i ka asiré on kontwòl anflamasyon.\n➔ An plis dè solisyon nitrisyon antéral, 5 manjé sé obligatwa é lòt manjé yo otorisé an kantité é an frékwans ki défini. Lis manjé otorisé a ka elaji pandan ou ka avansé adan faz CDED-la.\n➔ On swivi épi pwofesyonèl ki fòmé asou réjim-la i endispansab.\nKontak mwen\nGastro-entéwolog : ....................................................\n........................................................................................................\nDyetétisyen : ..................................................................\n........................................................................................................\nLòt : ......................................................................................\n............................................",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:15:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 15,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "maladi Crohn (CDED an anglé) sé on stratéji alimantè terapetik ki pozé asi éksklizyon séten manjé, ki ranplasé pa manjé spécifik konbiné épi on solisyon nitrisyon antéral.\n➔ I divizé an plizyé faz ki pèmèt réintrodiksyon pwogresif manjé yo pandan i ka asiré on kontwòl anflamasyon.\n➔ An plis dè solisyon nitrisyon antéral, 5 manjé sé obligatwa é lòt manjé yo otorisé an kantité é an frékwans ki défini. Lis manjé otorisé a ka elaji pandan ou ka avansé adan faz CDED-la.\n➔ On swivi épi pwofesyonèl ki fòmé asou réjim-la i endispansab.\nKontak mwen\nGastro-entéwolog : ....................................................\n........................................................................................................\nDyetétisyen : ..................................................................\n........................................................................................................\nLòt : ......................................................................................\n............................................",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:15",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:12:14.510234+00:00",
+    "source_text_sha256": "d20a224f656ace64c1ace60b40b13b0e8ebee7534216528e496abb6fed797093"
+  }
+}

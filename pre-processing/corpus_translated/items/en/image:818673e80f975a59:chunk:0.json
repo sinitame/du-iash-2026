@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "366c95743326b15572c9c3bcf61d2c8623b2df827d1c6673fcdb587e5e7f28c7",
+  "translated_at": "2026-06-10T20:37:12.975817+00:00",
+  "model": "gpt-5-mini",
+  "text": "PREVENTION\n\nFATIGUE\n\nWHAT ARE THE\nMAIN CAUSES\nOF ANEMIA?\n\nAnemia is very common in IBD, especially during the first\nyear after diagnosis (about 2/3 of patients) and its causes are numerous:\n= Acute bleeding (rapid drop in hemoglobin) or chronic (progressive drop in hemoglobin due to chronic iron loss) during flares or in poorly controlled disease (so-called chronic active forms)\n\n#O7\n\nAND DEFICIENCIES\n\nWHAT IS A DEFICIENCY?\n\nA deficiency is the lack of an important element\nfor the proper functioning of the body. We\nwill address deficiencies in vitamins, iron and trace\nelements. Fatigue, but also shortness of breath (particularly\nwith exertion) or a faster heart rate are clearly among the classic symptoms of anemia,\nwhereas there is no clear scientific proof that a vitamin\ndeficiency alone is a sufficient cause of fatigue. One can nevertheless think pragmatically\nthat it is better not to have deficiencies in order to feel well.\n\nWHAT IS ANEMIA?",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:0:en",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 0,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "PREVENTION\n\nFATIGUE\n\nWHAT ARE THE\nMAIN CAUSES\nOF ANEMIA?\n\nAnemia is very common in IBD, especially during the first\nyear after diagnosis (about 2/3 of patients) and its causes are numerous:\n= Acute bleeding (rapid drop in hemoglobin) or chronic (progressive drop in hemoglobin due to chronic iron loss) during flares or in poorly controlled disease (so-called chronic active forms)\n\n#O7\n\nAND DEFICIENCIES\n\nWHAT IS A DEFICIENCY?\n\nA deficiency is the lack of an important element\nfor the proper functioning of the body. We\nwill address deficiencies in vitamins, iron and trace\nelements. Fatigue, but also shortness of breath (particularly\nwith exertion) or a faster heart rate are clearly among the classic symptoms of anemia,\nwhereas there is no clear scientific proof that a vitamin\ndeficiency alone is a sufficient cause of fatigue. One can nevertheless think pragmatically\nthat it is better not to have deficiencies in order to feel well.\n\nWHAT IS ANEMIA?",
+    "source_id": "image:818673e80f975a59:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:12.975817+00:00",
+    "source_text_sha256": "366c95743326b15572c9c3bcf61d2c8623b2df827d1c6673fcdb587e5e7f28c7"
+  }
+}

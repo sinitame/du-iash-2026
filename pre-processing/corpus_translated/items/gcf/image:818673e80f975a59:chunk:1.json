@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "3d03026e764cf2c2f70c9ea77f836a7fdde6d8ff52ebbb3d122327d8022ee69a",
+  "translated_at": "2026-06-10T20:48:40.829151+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sa sé, daprè défini, on diminisyon an taux sérik lémoglobinn, on pwotéin ki adan globilwouj, ki ka pòté on pati fè ki andidan kò-a (65 %) é ki wòl esansyèl li sé pou mennen l'oksijèn sòti adan poumon pou al bay ògàn yo. Yo konsidè on taux < 12 g/dL pou gason é < 11 g/dL pou fanm siyon on anemi. Sa ka vini, adan majoritè ka, épi on diminisyon nonb globilwouj.\n\nTIP KARANS\nFREKANS\n\nT\n\nZ\nO\nF\nZ\nLu\n>\nsu\nœ\na.",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:1:gcf",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 1,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Sa sé, daprè défini, on diminisyon an taux sérik lémoglobinn, on pwotéin ki adan globilwouj, ki ka pòté on pati fè ki andidan kò-a (65 %) é ki wòl esansyèl li sé pou mennen l'oksijèn sòti adan poumon pou al bay ògàn yo. Yo konsidè on taux < 12 g/dL pou gason é < 11 g/dL pou fanm siyon on anemi. Sa ka vini, adan majoritè ka, épi on diminisyon nonb globilwouj.\n\nTIP KARANS\nFREKANS\n\nT\n\nZ\nO\nF\nZ\nLu\n>\nsu\nœ\na.",
+    "source_id": "image:818673e80f975a59:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:40.829151+00:00",
+    "source_text_sha256": "3d03026e764cf2c2f70c9ea77f836a7fdde6d8ff52ebbb3d122327d8022ee69a"
+  }
+}

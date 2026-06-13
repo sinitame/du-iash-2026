@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "8e0429ca0cd49e8a4ef37389c8ea8ec0ec155eca88e6d32894f70a81c5c537d8",
+  "translated_at": "2026-06-10T20:37:34.481036+00:00",
+  "model": "gpt-5-mini",
+  "text": "CASE OF INFLIXIMAB INFUSIONS\n(REMICADE ©)\nRecently there has been a version (a biosimilar) of\ninfliximab (infliximab is the active substance of Remicade® and its biosimilars), in the form of\npre-filled syringes that can be obtained in\npharmacy and self-injected at home.\nSo if you have to go regularly to\nthe hospital for infliximab infusions, and\nthis causes you problems at work, talk\nto your doctor; this new product may\nsolve your problem if your doctor\nconsiders it appropriate for your medical situation.\n\nER AE EEE\n+ Contact our social worker every Monday\nafternoon from 2:00 to 6:00 PM by phone:\n01 43 07 00 63 / By email: social@afa.asso.fr\n+ A Work helpline is also available\non Wednesday afternoons from 2:00 to 6:00 PM:\nBy phone: 01 43 07 00 63 /\nBy email: travail@afa.asso.fr\n+ The topic fact sheets\n{on RQTH, income during sick leave, etc)\nhttps://www.afa.asso.fr/mediatheque-boutique/fiches-\nthematiques/",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:3:en",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 3,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "CASE OF INFLIXIMAB INFUSIONS\n(REMICADE ©)\nRecently there has been a version (a biosimilar) of\ninfliximab (infliximab is the active substance of Remicade® and its biosimilars), in the form of\npre-filled syringes that can be obtained in\npharmacy and self-injected at home.\nSo if you have to go regularly to\nthe hospital for infliximab infusions, and\nthis causes you problems at work, talk\nto your doctor; this new product may\nsolve your problem if your doctor\nconsiders it appropriate for your medical situation.\n\nER AE EEE\n+ Contact our social worker every Monday\nafternoon from 2:00 to 6:00 PM by phone:\n01 43 07 00 63 / By email: social@afa.asso.fr\n+ A Work helpline is also available\non Wednesday afternoons from 2:00 to 6:00 PM:\nBy phone: 01 43 07 00 63 /\nBy email: travail@afa.asso.fr\n+ The topic fact sheets\n{on RQTH, income during sick leave, etc)\nhttps://www.afa.asso.fr/mediatheque-boutique/fiches-\nthematiques/",
+    "source_id": "image:b620cbf2bdce20a7:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:34.481036+00:00",
+    "source_text_sha256": "8e0429ca0cd49e8a4ef37389c8ea8ec0ec155eca88e6d32894f70a81c5c537d8"
+  }
+}

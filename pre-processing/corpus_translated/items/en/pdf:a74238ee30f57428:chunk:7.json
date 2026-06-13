@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:7",
+  "target_language": "en",
+  "source_text_sha256": "366234f58476cc10775288e53c2ca75a4c4efee48db1a6f42d9c095f6034ce3b",
+  "translated_at": "2026-06-10T20:42:56.034721+00:00",
+  "model": "gpt-5-mini",
+  "text": "growth hormones\nare normal. In fact, the child often eats less than they need because they are not hungry. In addition, eating can cause stomach aches, nausea, or diarrhea. They do not absorb enough calories and lose some in their stools.\nCorticosteroids can also stop growth, especially when they are given for a long time and even if they are given every other day. The effects of corticosteroids and of the disease on growth are difficult to distinguish; that is why the best treatment with the fewest side effects must be chosen carefully.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:7:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 7,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "growth hormones\nare normal. In fact, the child often eats less than they need because they are not hungry. In addition, eating can cause stomach aches, nausea, or diarrhea. They do not absorb enough calories and lose some in their stools.\nCorticosteroids can also stop growth, especially when they are given for a long time and even if they are given every other day. The effects of corticosteroids and of the disease on growth are difficult to distinguish; that is why the best treatment with the fewest side effects must be chosen carefully.",
+    "source_id": "pdf:a74238ee30f57428:chunk:7",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:56.034721+00:00",
+    "source_text_sha256": "366234f58476cc10775288e53c2ca75a4c4efee48db1a6f42d9c095f6034ce3b"
+  }
+}

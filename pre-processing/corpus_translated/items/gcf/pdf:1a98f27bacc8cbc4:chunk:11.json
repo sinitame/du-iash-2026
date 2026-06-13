@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:11",
+  "target_language": "gcf",
+  "source_text_sha256": "8246266324d2b0cc49bc332e10763eea9cd37b562cf55f7988d3122e24a64816",
+  "translated_at": "2026-06-10T21:12:09.012202+00:00",
+  "model": "gpt-5-mini",
+  "text": "fè léfor an pòté, pa egzanp \npou sòti épi zanmi, on salad.\nLè pou réintégré manjé ki otorizé, tout fanmi mété adan. Nou pa ja achte plis manjé tranformé. Nou chaché kréyé résèt diféran èvè engredyan otorizé pou évité lasé. »\nParan on timoun : té pè pa ké i téni CDED asou lontan\n« Lè m té adan on poussée évolutive maladi Crohn mwen, m té pè efè tretman yo té proposé-la ki ka fè pran pwa. Gastro-entérolog la palé mwen asi CDED, apré on dijétisiyenn an sèvis-la mété mwen’y an dé-tay, é a prézan nou ka rélé yonn lòt on fwa pa semenn. M pa règrété ditou paskè mwen chwazi CDED-la. I bèl pou kontinyé fè 3 repa pa jou, é mwen ka pran swen mwen an menm tan ! M anvi rivé adan dézyèm faz la pou mwen pé elaji manjé yo. »\nPatyant 42 an : té ka mandé asi CDED-la\n « Mwen adan 9yèm semenn-la. M ka komansé ni difikilté pou konsomé 150 g blan poul-la. Ézèzman mwen pé diminiyé kantité-la an konpansé épi on 3yèm zé (adan krèp oben pancakes), osnon ranplasé’y 2 fwa pa semenn pa on",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:11:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 11,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "fè léfor an pòté, pa egzanp \npou sòti épi zanmi, on salad.\nLè pou réintégré manjé ki otorizé, tout fanmi mété adan. Nou pa ja achte plis manjé tranformé. Nou chaché kréyé résèt diféran èvè engredyan otorizé pou évité lasé. »\nParan on timoun : té pè pa ké i téni CDED asou lontan\n« Lè m té adan on poussée évolutive maladi Crohn mwen, m té pè efè tretman yo té proposé-la ki ka fè pran pwa. Gastro-entérolog la palé mwen asi CDED, apré on dijétisiyenn an sèvis-la mété mwen’y an dé-tay, é a prézan nou ka rélé yonn lòt on fwa pa semenn. M pa règrété ditou paskè mwen chwazi CDED-la. I bèl pou kontinyé fè 3 repa pa jou, é mwen ka pran swen mwen an menm tan ! M anvi rivé adan dézyèm faz la pou mwen pé elaji manjé yo. »\nPatyant 42 an : té ka mandé asi CDED-la\n « Mwen adan 9yèm semenn-la. M ka komansé ni difikilté pou konsomé 150 g blan poul-la. Ézèzman mwen pé diminiyé kantité-la an konpansé épi on 3yèm zé (adan krèp oben pancakes), osnon ranplasé’y 2 fwa pa semenn pa on",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:11",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:12:09.012202+00:00",
+    "source_text_sha256": "8246266324d2b0cc49bc332e10763eea9cd37b562cf55f7988d3122e24a64816"
+  }
+}

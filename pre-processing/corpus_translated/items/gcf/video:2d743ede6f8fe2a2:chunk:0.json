@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:2d743ede6f8fe2a2:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "a7932b3c656a737302006fdba606e5fbf292d90c0ff2ed09d211714adc15d22d",
+  "translated_at": "2026-06-10T21:19:07.916242+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ki sa biotérapi-yé ? Biotérapi sé molékil. Adan kò-a, sélil yo ka palé épi yonn lòt an voyé molékil chimiqué oswa lòt molékil kon antikò, sitokin, bagay kon sa. Yo voye sa é sa pèmèt yo ni on dyalòg ant yo. Biotérapi sé médikaman ki ciblé, sé antikò ki ké atrapé on sitokin oubyen on molékil an patikilyé pou nètralisé-y. Pa egzamp, anti-TNF yo, infliximab, adalimumab, sé médikaman, sé antikò ki ké atrapé TNF la. TNF sé on molékil ki ka alé koté foyé lenflamasyon-an. Sé kon si sé on kamyon ponpié ki ni on gwo sirenn; TNF ka fè sirenn-la, i apèlé tout lymphosit ki ké rivé é koumansé ataké sistèm dijestif la. Konsa antikò ki rivé yo ké atrapé sirenn-la, fè-y silans, sé on silans artifizyé é konsa i ka kréyé on rémisyon.",
+  "row": {
+    "id": "video:2d743ede6f8fe2a2:chunk:0:gcf",
+    "document_id": "video:2d743ede6f8fe2a2",
+    "chunk_index": 0,
+    "source_file": "addbc9a02a92d81765f002867fdc395125b921d7.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/addbc9a02a92d81765f002867fdc395125b921d7.mp4",
+    "text_path": "corpus/texts/videos/addbc9a02a92d81765f002867fdc395125b921d7.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ki sa biotérapi-yé ? Biotérapi sé molékil. Adan kò-a, sélil yo ka palé épi yonn lòt an voyé molékil chimiqué oswa lòt molékil kon antikò, sitokin, bagay kon sa. Yo voye sa é sa pèmèt yo ni on dyalòg ant yo. Biotérapi sé médikaman ki ciblé, sé antikò ki ké atrapé on sitokin oubyen on molékil an patikilyé pou nètralisé-y. Pa egzamp, anti-TNF yo, infliximab, adalimumab, sé médikaman, sé antikò ki ké atrapé TNF la. TNF sé on molékil ki ka alé koté foyé lenflamasyon-an. Sé kon si sé on kamyon ponpié ki ni on gwo sirenn; TNF ka fè sirenn-la, i apèlé tout lymphosit ki ké rivé é koumansé ataké sistèm dijestif la. Konsa antikò ki rivé yo ké atrapé sirenn-la, fè-y silans, sé on silans artifizyé é konsa i ka kréyé on rémisyon.",
+    "source_id": "video:2d743ede6f8fe2a2:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:07.916242+00:00",
+    "source_text_sha256": "a7932b3c656a737302006fdba606e5fbf292d90c0ff2ed09d211714adc15d22d"
+  }
+}

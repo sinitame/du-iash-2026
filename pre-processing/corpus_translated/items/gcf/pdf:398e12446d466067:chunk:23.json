@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:23",
+  "target_language": "gcf",
+  "source_text_sha256": "8073c77b184e2df58602a96bf2b35c1b1723cc14d06f696171ce3d6bdb532cee",
+  "translated_at": "2026-06-10T20:52:55.394072+00:00",
+  "model": "gpt-5-mini",
+  "text": "On pwogrésyon lésyon a travè tan. An kontrè,\nprésans on cholangite sclérosante primitive (CSP)\nsanblé ka asosyé épi on mwens rekour a chiriji.\nRisk pou dévlopé on kansé kolorektal ka ogmanté\nsi ni CSP, si maladi ka dire pli lontan (pi plis ki 10 an),\nsi sé on gason, é si dyagnostik fèt a on laj bonè. I enpòtan\npou sonjé ké on lokalizasyion ki té limité an kòmansman\nadan réktum pa garanti on évolisyon bénègn, on étansyon\nrapid lésyon pé rivé é mennen a on kolektomi pli ta (46,47).\nRetentissement nutritionnel, croissance \nstaturale, développement pubertaire, \ntaille définitive et cancer\nÉfè asou nitrisyon\nPèd pwa sé on siy prèské toujou kan yo fè dyagnostik\nMICI lakay timoun, épi on pwa ki anba 3yèm poursantèy\nosnon -2 déviasyon estanda (DS) anviron 50% ka. On létid\nnò-amerikenn ki fèt asou 783 timoun rapor té on endis\nmas kòporèl (IMC) ki anba 5yèm poursantèy adan 23%\npasyan ki ni MC, kont 8% adan sé ki ni RCH (9).\nKwasans statural é développman pubertaire\nRéta statural, d",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:23:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 23,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "On pwogrésyon lésyon a travè tan. An kontrè,\nprésans on cholangite sclérosante primitive (CSP)\nsanblé ka asosyé épi on mwens rekour a chiriji.\nRisk pou dévlopé on kansé kolorektal ka ogmanté\nsi ni CSP, si maladi ka dire pli lontan (pi plis ki 10 an),\nsi sé on gason, é si dyagnostik fèt a on laj bonè. I enpòtan\npou sonjé ké on lokalizasyion ki té limité an kòmansman\nadan réktum pa garanti on évolisyon bénègn, on étansyon\nrapid lésyon pé rivé é mennen a on kolektomi pli ta (46,47).\nRetentissement nutritionnel, croissance \nstaturale, développement pubertaire, \ntaille définitive et cancer\nÉfè asou nitrisyon\nPèd pwa sé on siy prèské toujou kan yo fè dyagnostik\nMICI lakay timoun, épi on pwa ki anba 3yèm poursantèy\nosnon -2 déviasyon estanda (DS) anviron 50% ka. On létid\nnò-amerikenn ki fèt asou 783 timoun rapor té on endis\nmas kòporèl (IMC) ki anba 5yèm poursantèy adan 23%\npasyan ki ni MC, kont 8% adan sé ki ni RCH (9).\nKwasans statural é développman pubertaire\nRéta statural, d",
+    "source_id": "pdf:398e12446d466067:chunk:23",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:55.394072+00:00",
+    "source_text_sha256": "8073c77b184e2df58602a96bf2b35c1b1723cc14d06f696171ce3d6bdb532cee"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "d02c2e34fad7171b7fc4e4681454071a8c754bbd39b05860aac05dd5731f7476",
+  "translated_at": "2026-06-10T21:11:27.411572+00:00",
+  "model": "gpt-5-mini",
+  "text": "dous\nZoranj\nOn tranch fen pen\nkonplèt artisanal\nfèt épi levi chimik\nSAF chou kalé,\npoireaux, sèlri,\nasperj, artichòk\nLantil, pwa,\npwa chich,\npwa sèk\nQuinoa\nFlokon d’avwan\n+\nBlan poul\nPwason blan\n(an ranplasman ékivalans poul la,\n1 fwa pa semenn)\n2 zèf\n2 pòmdetè fre,\nkale, kwit é refwadi\n1 pòm (kale si\nsintòm obstriktif)\n2 bannann\nKèlkeswa faz-la,\n5 manjé sé oblijatwa\nPou konsomé chak jou pou asir bon apò\nnitrisyonèl osi byen kon bon sibstrà pou mikwobyòt entesten.\nMelon\nDiri blan, anba tout fòm li\n(farin, nouy, krèp, …)\nsan konsèvativ\nFrèz\nAvoka\nFèy epina fre pa kwit\nDlo plat ou gazeuz\nKonkonb kale\nSalad\nEnfizyon\nKarot\nTomat ou\ntomat cheri\n1 vè ji zoranj peze\nLis élaji a tout manjé otorize an faz 1 +\nDépi semenn 6 :\nDépi semenn 10 :\nPoir\nKiwi\nPèch\nMirtil\nKourzèt\nChou-fleur ou brokoli\nChanpyon\nPiman dous\nFAZ 1\nFAZ 2\nKi manjé mwen DWE é KAP konsomé ?6\nTelechajé paj sala an A4 pou enprimé\nManjé",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:6:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 6,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "dous\nZoranj\nOn tranch fen pen\nkonplèt artisanal\nfèt épi levi chimik\nSAF chou kalé,\npoireaux, sèlri,\nasperj, artichòk\nLantil, pwa,\npwa chich,\npwa sèk\nQuinoa\nFlokon d’avwan\n+\nBlan poul\nPwason blan\n(an ranplasman ékivalans poul la,\n1 fwa pa semenn)\n2 zèf\n2 pòmdetè fre,\nkale, kwit é refwadi\n1 pòm (kale si\nsintòm obstriktif)\n2 bannann\nKèlkeswa faz-la,\n5 manjé sé oblijatwa\nPou konsomé chak jou pou asir bon apò\nnitrisyonèl osi byen kon bon sibstrà pou mikwobyòt entesten.\nMelon\nDiri blan, anba tout fòm li\n(farin, nouy, krèp, …)\nsan konsèvativ\nFrèz\nAvoka\nFèy epina fre pa kwit\nDlo plat ou gazeuz\nKonkonb kale\nSalad\nEnfizyon\nKarot\nTomat ou\ntomat cheri\n1 vè ji zoranj peze\nLis élaji a tout manjé otorize an faz 1 +\nDépi semenn 6 :\nDépi semenn 10 :\nPoir\nKiwi\nPèch\nMirtil\nKourzèt\nChou-fleur ou brokoli\nChanpyon\nPiman dous\nFAZ 1\nFAZ 2\nKi manjé mwen DWE é KAP konsomé ?6\nTelechajé paj sala an A4 pou enprimé\nManjé",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:27.411572+00:00",
+    "source_text_sha256": "d02c2e34fad7171b7fc4e4681454071a8c754bbd39b05860aac05dd5731f7476"
+  }
+}

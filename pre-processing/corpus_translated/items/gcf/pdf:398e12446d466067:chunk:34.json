@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:34",
+  "target_language": "gcf",
+  "source_text_sha256": "762f6f745c8b22aa0e953ddd439a600d83963af9c414849fce4b4ac6c2c18318",
+  "translated_at": "2026-06-10T20:53:34.249385+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 9 ---\n185\nMICI\nretad an kwasans, mé osi kalité lavi é risk konplikasyon. Idantifikasyon bonè pasyan\nki an gran risk pou prograsyon sevè i esansyèl.\nTretman d’indiksyon\nNitrisyon antéral ékzklizif (NEE)\nNEE-la, konsistan an on alimantasyon éksklizif pa fòmil likid pou nitrisyon pandan 6 a 8 simenn, i rékomandé an premye entansyon pou timoun ki ni MC luminal aktif a risk ba ouswa mwayen. Méta-analiz yo montré on efikasité menm jan épi kortikostewoyd pou jwenn on rémission klinik (63,64). Tou, dé tès aléatwa pédiatrik montré on pli gran avantaj asou gerizon mukozal (89% épi NEE kont 17% épi kortikostewoyd, p<0,01) (65,66). Pi gran limit yo sé adan akseptabilite (gou formula-a é/oswa tolerans sond nazogastrik) é risk abandonnman.\nAdan pratik, efikasité-a endepandan di tip formula (élémentè vs polimérik) ouswa vwa administrasyon (oral vs sond nazogastrik) (63,67). Adan pratik, on sipò psikolojik é dyetetik i fòman konseillé (68).\nKortikostewoyd",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:34:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 34,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 9 ---\n185\nMICI\nretad an kwasans, mé osi kalité lavi é risk konplikasyon. Idantifikasyon bonè pasyan\nki an gran risk pou prograsyon sevè i esansyèl.\nTretman d’indiksyon\nNitrisyon antéral ékzklizif (NEE)\nNEE-la, konsistan an on alimantasyon éksklizif pa fòmil likid pou nitrisyon pandan 6 a 8 simenn, i rékomandé an premye entansyon pou timoun ki ni MC luminal aktif a risk ba ouswa mwayen. Méta-analiz yo montré on efikasité menm jan épi kortikostewoyd pou jwenn on rémission klinik (63,64). Tou, dé tès aléatwa pédiatrik montré on pli gran avantaj asou gerizon mukozal (89% épi NEE kont 17% épi kortikostewoyd, p<0,01) (65,66). Pi gran limit yo sé adan akseptabilite (gou formula-a é/oswa tolerans sond nazogastrik) é risk abandonnman.\nAdan pratik, efikasité-a endepandan di tip formula (élémentè vs polimérik) ouswa vwa administrasyon (oral vs sond nazogastrik) (63,67). Adan pratik, on sipò psikolojik é dyetetik i fòman konseillé (68).\nKortikostewoyd",
+    "source_id": "pdf:398e12446d466067:chunk:34",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:34.249385+00:00",
+    "source_text_sha256": "762f6f745c8b22aa0e953ddd439a600d83963af9c414849fce4b4ac6c2c18318"
+  }
+}

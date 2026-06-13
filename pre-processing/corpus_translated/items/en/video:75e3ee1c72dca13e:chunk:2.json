@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "d007efdb6413c1b2fad19d30bb5e73d071e0325272bbde8791d08b344e6632df",
+  "translated_at": "2026-06-10T20:44:38.975394+00:00",
+  "model": "gpt-5-mini",
+  "text": "than the others. Do you still have questions about your illness? Then watch the other videos in the series Les mots de ventre to help you better understand the miquilles and the difficulties you encounter every day. Understanding your illness is onterattement, it's the best way to keep your spirits up and to fight to feel better.",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:2:en",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 2,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "than the others. Do you still have questions about your illness? Then watch the other videos in the series Les mots de ventre to help you better understand the miquilles and the difficulties you encounter every day. Understanding your illness is onterattement, it's the best way to keep your spirits up and to fight to feel better.",
+    "source_id": "video:75e3ee1c72dca13e:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:38.975394+00:00",
+    "source_text_sha256": "d007efdb6413c1b2fad19d30bb5e73d071e0325272bbde8791d08b344e6632df"
+  }
+}

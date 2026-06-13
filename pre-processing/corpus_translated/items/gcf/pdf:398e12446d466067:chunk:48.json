@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:48",
+  "target_language": "gcf",
+  "source_text_sha256": "263e93a880024cd375a0aad6c93cdab8e32b99e7dfc74c038b3cefd89d2235fe",
+  "translated_at": "2026-06-10T20:54:19.490391+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 11 ---\n187\nMICI\nFigure 4 : Arbr dézisyonèl dé estrateji térapetik\nLEJANN :\n1\t\nSib térapetik :\t\n\t\nLe moman optimal pou réévalyé aktivité maladi a apré endiksyon pa klèman défini. Évalyasyon répons térapetik la fèt asou on pakèt agiman klinik, biyolojik, radyolojik é endoskopik.\n2\t\nNitrisyon entéral égzklusif (NEE) :\t\n\t\nOn fòmil polymérik pli préferab an NEE.  \nWè chapit dédiké.\n\t\nTretman d’antreten.\n3\t\nImunosupresè :\t\n\t\nMétotréksat pé sèvi an prémyé entansyon pou mantni rémission an ouswa apré échec ouswa entolorans a thiopurin.\n4\t\nTretman nitrisyon pou antreten :\t\n\t\nAdan pasyan ki an rémission épi on MC a ba risk, on tretman nitrisyon pou antreten (omwén 50% dé bizwen enèjik journalyé) pé prolongé rémission an.\n5\t\nKontinyasyon anti-TNF kon tretman d’antreten :\t\n\t\nAn monothérapie ouswa kombothérapie, épi swivi proaktif dé nivo résidyèl pou gidé optimizasyon tretman-an.\n\t\nKombothérapie anti-TNF épi imunomodilatè\n6\t\nOn arèt imunosupresè fòk yo diskité apré 6 a 12 mwa dé kombò",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:48:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 48,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 11 ---\n187\nMICI\nFigure 4 : Arbr dézisyonèl dé estrateji térapetik\nLEJANN :\n1\t\nSib térapetik :\t\n\t\nLe moman optimal pou réévalyé aktivité maladi a apré endiksyon pa klèman défini. Évalyasyon répons térapetik la fèt asou on pakèt agiman klinik, biyolojik, radyolojik é endoskopik.\n2\t\nNitrisyon entéral égzklusif (NEE) :\t\n\t\nOn fòmil polymérik pli préferab an NEE.  \nWè chapit dédiké.\n\t\nTretman d’antreten.\n3\t\nImunosupresè :\t\n\t\nMétotréksat pé sèvi an prémyé entansyon pou mantni rémission an ouswa apré échec ouswa entolorans a thiopurin.\n4\t\nTretman nitrisyon pou antreten :\t\n\t\nAdan pasyan ki an rémission épi on MC a ba risk, on tretman nitrisyon pou antreten (omwén 50% dé bizwen enèjik journalyé) pé prolongé rémission an.\n5\t\nKontinyasyon anti-TNF kon tretman d’antreten :\t\n\t\nAn monothérapie ouswa kombothérapie, épi swivi proaktif dé nivo résidyèl pou gidé optimizasyon tretman-an.\n\t\nKombothérapie anti-TNF épi imunomodilatè\n6\t\nOn arèt imunosupresè fòk yo diskité apré 6 a 12 mwa dé kombò",
+    "source_id": "pdf:398e12446d466067:chunk:48",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:19.490391+00:00",
+    "source_text_sha256": "263e93a880024cd375a0aad6c93cdab8e32b99e7dfc74c038b3cefd89d2235fe"
+  }
+}

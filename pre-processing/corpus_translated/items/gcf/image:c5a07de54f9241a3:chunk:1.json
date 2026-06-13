@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5a07de54f9241a3:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "7334171362fedaea6506eaee8413b3947fc64802cd7abdff56c6bb0466d3cd1f",
+  "translated_at": "2026-06-10T20:50:09.624671+00:00",
+  "model": "gpt-5-mini",
+  "text": "Mèté médikaman-w adan on\n(EX: adan dé z-aéropò i ka ekzisté on pochette isotherme, épi on blòk frizé. Sa\nblòk-la pé pozé difikilté lè yo ka pasé anba kontwòl\nsekirité é yo pé jété-y. Adan ka sa, alé o bar\nan sal d'embarquement pou mandé glas\n(LCA). Gadé-y épi pli bèl souri-w oswa pwopoze pou achté yo.",
+  "row": {
+    "id": "image:c5a07de54f9241a3:chunk:1:gcf",
+    "document_id": "image:c5a07de54f9241a3",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_avion.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_avion.png",
+    "text_path": "corpus/texts/images/vivre_mici_avion.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Mèté médikaman-w adan on\n(EX: adan dé z-aéropò i ka ekzisté on pochette isotherme, épi on blòk frizé. Sa\nblòk-la pé pozé difikilté lè yo ka pasé anba kontwòl\nsekirité é yo pé jété-y. Adan ka sa, alé o bar\nan sal d'embarquement pou mandé glas\n(LCA). Gadé-y épi pli bèl souri-w oswa pwopoze pou achté yo.",
+    "source_id": "image:c5a07de54f9241a3:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:09.624671+00:00",
+    "source_text_sha256": "7334171362fedaea6506eaee8413b3947fc64802cd7abdff56c6bb0466d3cd1f"
+  }
+}

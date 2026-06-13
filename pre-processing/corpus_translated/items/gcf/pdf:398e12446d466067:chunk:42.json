@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:42",
+  "target_language": "gcf",
+  "source_text_sha256": "18e8b746c00f0bf256e86ea5c01e39834d8dc3371624a2ab89742db54d8a9abf",
+  "translated_at": "2026-06-10T20:53:51.122566+00:00",
+  "model": "gpt-5-mini",
+  "text": "sécurité adan timoun parèy ké molékil princeps (106). Pa ni okenn restriksyon pou itilizasyon yo adan timoun, ni an 1re ni an 2e entansyon pou on pasyan ki ja té swené épi IFX ou ADA (107).\n\nUtilizasyon infliximab SC\nInfliximab SC pa ni AMM an Frans pou pasyan ki mwens ki 18 an. Men, dé etid ka évalué pasé infliximab an intravéneux pou fòm sous-kutané adan timoun. An premye, ki fèt asi sèt pasyan, tout moun té resté an rémission pandan 40 semenn san efè adves ni nouvel anticorps, épi taux sérik yo té stab (108). Sékonnd la, ki enkli 21 adolesan, montré on rémission ki té mantenu apwé sis mwa, épi on très bon tolérans. Etid sa yo ka montre ké transition an diréksyon infliximab sous-kutané sé an bagay ki sèr, efikas épi byen aksepté, mé yo bizwen plis etid pou ajisté dòz la adan timoun ki mwens ki 50 kg (109).\n\nLòt biyoterapi\nAdan pasyan ki pa rivé ni jwenn ni mantenir on rémission klinik anba anti-TNF, malgrè optimizasyon dòz anti-TNF é itilizasyon immunomodilatè, ustekinumab oswa vedolizu",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:42:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 42,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "sécurité adan timoun parèy ké molékil princeps (106). Pa ni okenn restriksyon pou itilizasyon yo adan timoun, ni an 1re ni an 2e entansyon pou on pasyan ki ja té swené épi IFX ou ADA (107).\n\nUtilizasyon infliximab SC\nInfliximab SC pa ni AMM an Frans pou pasyan ki mwens ki 18 an. Men, dé etid ka évalué pasé infliximab an intravéneux pou fòm sous-kutané adan timoun. An premye, ki fèt asi sèt pasyan, tout moun té resté an rémission pandan 40 semenn san efè adves ni nouvel anticorps, épi taux sérik yo té stab (108). Sékonnd la, ki enkli 21 adolesan, montré on rémission ki té mantenu apwé sis mwa, épi on très bon tolérans. Etid sa yo ka montre ké transition an diréksyon infliximab sous-kutané sé an bagay ki sèr, efikas épi byen aksepté, mé yo bizwen plis etid pou ajisté dòz la adan timoun ki mwens ki 50 kg (109).\n\nLòt biyoterapi\nAdan pasyan ki pa rivé ni jwenn ni mantenir on rémission klinik anba anti-TNF, malgrè optimizasyon dòz anti-TNF é itilizasyon immunomodilatè, ustekinumab oswa vedolizu",
+    "source_id": "pdf:398e12446d466067:chunk:42",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:51.122566+00:00",
+    "source_text_sha256": "18e8b746c00f0bf256e86ea5c01e39834d8dc3371624a2ab89742db54d8a9abf"
+  }
+}

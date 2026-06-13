@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:11",
+  "target_language": "en",
+  "source_text_sha256": "8246266324d2b0cc49bc332e10763eea9cd37b562cf55f7988d3122e24a64816",
+  "translated_at": "2026-06-10T20:44:05.790778+00:00",
+  "model": "gpt-5-mini",
+  "text": "\"makes the effort by bringing, for example\na salad for outings with friends.\nWhen it came time to reintroduce the allowed foods, the whole family got involved. We never bought\nprocessed meals again. We tried to create different recipes with the allowed ingredients to\navoid boredom.\"\nParent of a child: feared they would not be able to stick to the CDED long-term\n\"During an active flare of my Crohn's disease, I feared the effects of the proposed treatment that causes weight gain. The gastroenterologist told me about the CDED, then a dietitian\nfrom the unit presented it to me in detail and now we call each other once a week. I do not\nregret at all having chosen the CDED. It's nice to be able to continue having 3 meals\na day, and to treat myself at the same time! I'm looking forward to reaching the second phase so I can\nbroaden the range of foods.\"\n42-year-old patient: had questions about the CDED\n\"I am at week 9. I'm starting to have difficulty consuming the 150 g of chicken breast. Fortunately I can reduce this amount by compensating with a third egg (in\ncrêpes or pancakes), or by replacing it twice a week with\"",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:11:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 11,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "\"makes the effort by bringing, for example\na salad for outings with friends.\nWhen it came time to reintroduce the allowed foods, the whole family got involved. We never bought\nprocessed meals again. We tried to create different recipes with the allowed ingredients to\navoid boredom.\"\nParent of a child: feared they would not be able to stick to the CDED long-term\n\"During an active flare of my Crohn's disease, I feared the effects of the proposed treatment that causes weight gain. The gastroenterologist told me about the CDED, then a dietitian\nfrom the unit presented it to me in detail and now we call each other once a week. I do not\nregret at all having chosen the CDED. It's nice to be able to continue having 3 meals\na day, and to treat myself at the same time! I'm looking forward to reaching the second phase so I can\nbroaden the range of foods.\"\n42-year-old patient: had questions about the CDED\n\"I am at week 9. I'm starting to have difficulty consuming the 150 g of chicken breast. Fortunately I can reduce this amount by compensating with a third egg (in\ncrêpes or pancakes), or by replacing it twice a week with\"",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:11",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:05.790778+00:00",
+    "source_text_sha256": "8246266324d2b0cc49bc332e10763eea9cd37b562cf55f7988d3122e24a64816"
+  }
+}

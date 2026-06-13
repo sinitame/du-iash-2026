@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "ad73dcf3e010e59522f9e155cbacafbadc4bd21df1c36d0f412d7d38ee889d4b",
+  "translated_at": "2026-06-10T21:13:07.632186+00:00",
+  "model": "gpt-5-mini",
+  "text": "Mwen ni on MICI, mé ki sa i vlé di égzaktman ?\nPou ka boujé, kò a bizwen lénèji ki sòti adan manjé nou manjé.\nMé fo dabò absòbé yo, sé wòl aparèy dijestif-la.\nMalerezman, ou genyen on maladi inflamatuwar kwonik entesten yo ka nonm MICI.\nI ni dé tip dapré koté ki afékté: maladi Crohn ki ka atenn tout sistèm dijestif-la, é réktokolit emorajik ki ka konsèné sèlman réktòm é kólon.\nAkoz li, ou pé ni doulè nan vant, dyaré ki souvan vini, pafwa èvè san, é ou pa ni l'apeti.\nOu pé osi santi ou fatige, ni aft adan bouch, doulè atikilè, fèv oswa pwoblèm é zyé.\nSé faz poussée maladi-a ki alténé èvè faz kalm.\nSé sentòm sa yo ka vini pasé on inflamasiyon adan kò-a, paské sistèm iminitè-ou twò aktif.\nAn efè, lè ou trape on viris oswa on mikwòb yo ka nonmé antijèn, on alèt ka bay é ou ka kòmanse pwodui sòlda yo ka nonmé antikò.\nLagè-a ka kòmanse é lame-ou pa ka fè pityé, sé difé.\nJiska la, tout moun ka fonksyonné menm an menm fason. Mé ou menm, lame-w pa ar...",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:0:gcf",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 0,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Mwen ni on MICI, mé ki sa i vlé di égzaktman ?\nPou ka boujé, kò a bizwen lénèji ki sòti adan manjé nou manjé.\nMé fo dabò absòbé yo, sé wòl aparèy dijestif-la.\nMalerezman, ou genyen on maladi inflamatuwar kwonik entesten yo ka nonm MICI.\nI ni dé tip dapré koté ki afékté: maladi Crohn ki ka atenn tout sistèm dijestif-la, é réktokolit emorajik ki ka konsèné sèlman réktòm é kólon.\nAkoz li, ou pé ni doulè nan vant, dyaré ki souvan vini, pafwa èvè san, é ou pa ni l'apeti.\nOu pé osi santi ou fatige, ni aft adan bouch, doulè atikilè, fèv oswa pwoblèm é zyé.\nSé faz poussée maladi-a ki alténé èvè faz kalm.\nSé sentòm sa yo ka vini pasé on inflamasiyon adan kò-a, paské sistèm iminitè-ou twò aktif.\nAn efè, lè ou trape on viris oswa on mikwòb yo ka nonmé antijèn, on alèt ka bay é ou ka kòmanse pwodui sòlda yo ka nonmé antikò.\nLagè-a ka kòmanse é lame-ou pa ka fè pityé, sé difé.\nJiska la, tout moun ka fonksyonné menm an menm fason. Mé ou menm, lame-w pa ar...",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:07.632186+00:00",
+    "source_text_sha256": "ad73dcf3e010e59522f9e155cbacafbadc4bd21df1c36d0f412d7d38ee889d4b"
+  }
+}

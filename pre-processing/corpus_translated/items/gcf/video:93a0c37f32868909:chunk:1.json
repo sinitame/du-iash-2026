@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "9e45f5afd0bc85fed64e2f6007531442416bec48b1af6e7459a53b4de682e45e",
+  "translated_at": "2026-06-10T21:18:12.839230+00:00",
+  "model": "gpt-5-mini",
+  "text": "bò entènn dé pié. É an reposé pié-a, vini appiyé yo anlè tè-a. É ou ké pran konsyans dé pwa pié-ou anlè tè-a. Ou pé imaginé kon si ou té ni rasin anba pié-ou. Kon si pié-ou té byen anrasiné adan tè-a.\n\nApre sa, mwen envité-w pran konsyans dé fès-ou ki pé anfonse adan chès-la ouswa adan kanapé-ou. Mwen santi fès-ou byen appiyé. Mwen pwopoze-w on ankrayaj pou édé-w raléché é détann-w.\n\nApre sa, mwen pwopoze-w vini installé-w, ak do-ou dwèt, menton an ti pé anbaké, raléché machwè-a tou prè gòj-ou, raléché zépòl-ou, é pran on konsyans jis dou ba do-ou. Do-ou byen dwèt, byen raléché, byen détanné.\n\nKounyé-a, lè ou santi pwen ankrayaj sa yo — pié-ou, kote ou appiyé, do-ou — mwen ka connecté-w a réspirasyon-ou. Soprout, pa fòsé anyen, jis koute réspirasyon-ou. Lés lè-a trankil; jis inspiré, expiré a ritm-ou, san fòsé.\n\nÉ jis, déja, pran konsyans souf-la ki ka bay lavi; petèt ou déja an rékonektyon épi kò-ou.",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:1:gcf",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 1,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "bò entènn dé pié. É an reposé pié-a, vini appiyé yo anlè tè-a. É ou ké pran konsyans dé pwa pié-ou anlè tè-a. Ou pé imaginé kon si ou té ni rasin anba pié-ou. Kon si pié-ou té byen anrasiné adan tè-a.\n\nApre sa, mwen envité-w pran konsyans dé fès-ou ki pé anfonse adan chès-la ouswa adan kanapé-ou. Mwen santi fès-ou byen appiyé. Mwen pwopoze-w on ankrayaj pou édé-w raléché é détann-w.\n\nApre sa, mwen pwopoze-w vini installé-w, ak do-ou dwèt, menton an ti pé anbaké, raléché machwè-a tou prè gòj-ou, raléché zépòl-ou, é pran on konsyans jis dou ba do-ou. Do-ou byen dwèt, byen raléché, byen détanné.\n\nKounyé-a, lè ou santi pwen ankrayaj sa yo — pié-ou, kote ou appiyé, do-ou — mwen ka connecté-w a réspirasyon-ou. Soprout, pa fòsé anyen, jis koute réspirasyon-ou. Lés lè-a trankil; jis inspiré, expiré a ritm-ou, san fòsé.\n\nÉ jis, déja, pran konsyans souf-la ki ka bay lavi; petèt ou déja an rékonektyon épi kò-ou.",
+    "source_id": "video:93a0c37f32868909:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:12.839230+00:00",
+    "source_text_sha256": "9e45f5afd0bc85fed64e2f6007531442416bec48b1af6e7459a53b4de682e45e"
+  }
+}

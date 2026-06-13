@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:40",
+  "target_language": "en",
+  "source_text_sha256": "7a16ebcdaa36938d3dfffc43616eb6e55f60f7140d53e5962f3a820d252a3e73",
+  "translated_at": "2026-06-10T20:41:14.561514+00:00",
+  "model": "gpt-5-mini",
+  "text": "Promising results in terms of tolerance and maintenance of remission at 12 weeks (98). Partial or adapted diets are still considered experimental.\n\nPost-surgery\n\nAfter ileocecal resection, a colonoscopy is recommended within 6–12 months following surgery. Patients at high inflammatory risk must receive prophylaxis.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:40:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 40,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Promising results in terms of tolerance and maintenance of remission at 12 weeks (98). Partial or adapted diets are still considered experimental.\n\nPost-surgery\n\nAfter ileocecal resection, a colonoscopy is recommended within 6–12 months following surgery. Patients at high inflammatory risk must receive prophylaxis.",
+    "source_id": "pdf:398e12446d466067:chunk:40",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:14.561514+00:00",
+    "source_text_sha256": "7a16ebcdaa36938d3dfffc43616eb6e55f60f7140d53e5962f3a820d252a3e73"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:24",
+  "target_language": "en",
+  "source_text_sha256": "11d12f29abf0c471f5131067a82ea88cdf2a00dbf6215b00af778a8b31ba481f",
+  "translated_at": "2026-06-10T20:40:30.833312+00:00",
+  "model": "gpt-5-mini",
+  "text": "body mass index (BMI) below the 5th percentile in 23% of patients with Crohn’s disease (CD), compared with 8% in those with ulcerative colitis (UC) (9).\nLinear growth and pubertal development\nShort stature, defined as a height below the 3rd percentile or −2 SD, is more frequent when the disease starts early in life, with no link to the location or extent of the inflammatory lesions. In the EPIMAD cohort of 261 children, 10% had a height < −2 SD at diagnosis, compared with 7% at follow-up (49). Growth slowing is detectable in nearly 90% of children at diagnosis, and precedes digestive symptoms in half of the cases.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:24:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 24,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "body mass index (BMI) below the 5th percentile in 23% of patients with Crohn’s disease (CD), compared with 8% in those with ulcerative colitis (UC) (9).\nLinear growth and pubertal development\nShort stature, defined as a height below the 3rd percentile or −2 SD, is more frequent when the disease starts early in life, with no link to the location or extent of the inflammatory lesions. In the EPIMAD cohort of 261 children, 10% had a height < −2 SD at diagnosis, compared with 7% at follow-up (49). Growth slowing is detectable in nearly 90% of children at diagnosis, and precedes digestive symptoms in half of the cases.",
+    "source_id": "pdf:398e12446d466067:chunk:24",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:30.833312+00:00",
+    "source_text_sha256": "11d12f29abf0c471f5131067a82ea88cdf2a00dbf6215b00af778a8b31ba481f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "ec1feaabeb8d26efe8449f24b57371c662c1274853ee77332d9bb0d331bd183e",
+  "translated_at": "2026-06-10T20:43:48.991314+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nA WORD FROM THE EXPERTS\nTo add flavor and diversify your meals, many condiments such as fresh herbs (mint, oregano, coriander, rosemary, sage, thyme), spices (salt, pepper, paprika, cinnamon, curcumin, cumin), fresh onions, garlic, olive oil and rapeseed oil, ginger, non-industrial honey and sugar can be used!\nEverything that is not on the list MUST BE EXCLUDED, in particular fatty, sugary and/or processed products, frozen or canned.\nFrom phase 2, baking soda, baking powder, sesame paste and a few walnuts or almonds (6 to 8 per day) are also allowed.\nFinally, feel free to vary cooking methods; they are all allowed EXCEPT frying (frying with olive oil and air fryer cooking are allowed)!\nYour dietitian and gastroenterologist are here to support you!\n4\nTuna in olive oil or rapeseed oil\nPineapple\nAll vegetables\nLean red meat\nMango\nSweet potato\nOrange\nThin slice of artisanal whole wheat bread made with baking powder\nEXCEPT kale, leeks, celery, asparagus, artichokes\nLentils, peas, chickpeas, dried beans\nQuinoa",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:5:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 5,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 3 ---\nA WORD FROM THE EXPERTS\nTo add flavor and diversify your meals, many condiments such as fresh herbs (mint, oregano, coriander, rosemary, sage, thyme), spices (salt, pepper, paprika, cinnamon, curcumin, cumin), fresh onions, garlic, olive oil and rapeseed oil, ginger, non-industrial honey and sugar can be used!\nEverything that is not on the list MUST BE EXCLUDED, in particular fatty, sugary and/or processed products, frozen or canned.\nFrom phase 2, baking soda, baking powder, sesame paste and a few walnuts or almonds (6 to 8 per day) are also allowed.\nFinally, feel free to vary cooking methods; they are all allowed EXCEPT frying (frying with olive oil and air fryer cooking are allowed)!\nYour dietitian and gastroenterologist are here to support you!\n4\nTuna in olive oil or rapeseed oil\nPineapple\nAll vegetables\nLean red meat\nMango\nSweet potato\nOrange\nThin slice of artisanal whole wheat bread made with baking powder\nEXCEPT kale, leeks, celery, asparagus, artichokes\nLentils, peas, chickpeas, dried beans\nQuinoa",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:48.991314+00:00",
+    "source_text_sha256": "ec1feaabeb8d26efe8449f24b57371c662c1274853ee77332d9bb0d331bd183e"
+  }
+}

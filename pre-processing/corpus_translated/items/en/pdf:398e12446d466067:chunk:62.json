@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:62",
+  "target_language": "en",
+  "source_text_sha256": "79d9ee6df5fb3c392f8d3db8753e80d1b40582863b8220d7eddcb107a0c8cc67",
+  "translated_at": "2026-06-10T20:41:53.495481+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ng SC, Shi HY, Hamidi N. Worldwide incidence and prevalence \nof inflammatory bowel disease in the 21st century: a systematic \nreview of population-based studies. Lancet 2017; 390:2769-2778.\n11.\tGhione S, Sarter H, Armengol-Debeir L, et al. Dramatic increase \nin incidence of ulcerative colitis and Crohn’s disease (1988-\n2011): A population-based study of French adolescents. Am J \nGastroenterol. 2018;113:265-272.\n12.\tBorowitz SM. The epidemiology of inflammatory bowel disease: \nClues to pathogenesis. Front Pediatr. 2023;10:1103713.\n13.\tKhan R, Kuenzig ME, Benchimol EI. Epidemiology of Pediatric \nInflammatory Bowel disease. Gastroenterol Clin North Am. \n2023;52:483-496.\n14.\tLi Y, Tian Y, Zhu W, et al. Cesarean delivery and risk of inflam-\nmatory bowel disease: a systematic review and meta-analysis. \nScand J Gastroenterol. 2014;49:834-44.\n15.\tBruce A, Black M, Bhattacharya S. Mode of delivery and risk of \ninflammatory bowel disease in the offspring: systematic review \nand meta-analysis of observational studies. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\tBarclay AR, Russell RK, Wilson ML, et al. Systematic review: the \nrole of breast feeding in the development of pediatric inf",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:62:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 62,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Ng SC, Shi HY, Hamidi N. Worldwide incidence and prevalence \nof inflammatory bowel disease in the 21st century: a systematic \nreview of population-based studies. Lancet 2017; 390:2769-2778.\n11.\tGhione S, Sarter H, Armengol-Debeir L, et al. Dramatic increase \nin incidence of ulcerative colitis and Crohn’s disease (1988-\n2011): A population-based study of French adolescents. Am J \nGastroenterol. 2018;113:265-272.\n12.\tBorowitz SM. The epidemiology of inflammatory bowel disease: \nClues to pathogenesis. Front Pediatr. 2023;10:1103713.\n13.\tKhan R, Kuenzig ME, Benchimol EI. Epidemiology of Pediatric \nInflammatory Bowel disease. Gastroenterol Clin North Am. \n2023;52:483-496.\n14.\tLi Y, Tian Y, Zhu W, et al. Cesarean delivery and risk of inflam-\nmatory bowel disease: a systematic review and meta-analysis. \nScand J Gastroenterol. 2014;49:834-44.\n15.\tBruce A, Black M, Bhattacharya S. Mode of delivery and risk of \ninflammatory bowel disease in the offspring: systematic review \nand meta-analysis of observational studies. Inflamm Bowel Dis. \n2014;20:1217-26.\n16.\tBarclay AR, Russell RK, Wilson ML, et al. Systematic review: the \nrole of breast feeding in the development of pediatric inf",
+    "source_id": "pdf:398e12446d466067:chunk:62",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:53.495481+00:00",
+    "source_text_sha256": "79d9ee6df5fb3c392f8d3db8753e80d1b40582863b8220d7eddcb107a0c8cc67"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "eafb698440f88c0926e46896514f00bc446310d152bb2f9c7016f25101b731dc",
+  "translated_at": "2026-06-10T20:38:37.539731+00:00",
+  "model": "gpt-5-mini",
+  "text": "In general, for everything you need to know about vaccines, particularly live vaccines, see the upcoming \"Vaccines\" fact sheet and the film \"Explain Vaccination to Me\" (June 2016)\n\nAssemble your file\n\nRemember to take it with you\n- on a USB flash drive\n- in the notes of your smartphone\n- to complete it on the MICI Connect apps (file available for download in September 2016), My-MICI (March 2016) or Carmélia\n\nThe file must include all of the latest operative reports, as well as those from the most recent endoscopies with biopsy results, CT scan or MRI, and hospitalizations.\n\nTake out appropriate insurance\n\n- always travel with insurance that covers medical expenses on site and repatriation in case of a problem related to the disease;\n- in general, insurers cover relapses of a chronic disease if it is stabilized (no hospitalization in the 6 months preceding departure); be sure to have this confirmed.\n\nPrepare your kit",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:1:en",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "In general, for everything you need to know about vaccines, particularly live vaccines, see the upcoming \"Vaccines\" fact sheet and the film \"Explain Vaccination to Me\" (June 2016)\n\nAssemble your file\n\nRemember to take it with you\n- on a USB flash drive\n- in the notes of your smartphone\n- to complete it on the MICI Connect apps (file available for download in September 2016), My-MICI (March 2016) or Carmélia\n\nThe file must include all of the latest operative reports, as well as those from the most recent endoscopies with biopsy results, CT scan or MRI, and hospitalizations.\n\nTake out appropriate insurance\n\n- always travel with insurance that covers medical expenses on site and repatriation in case of a problem related to the disease;\n- in general, insurers cover relapses of a chronic disease if it is stabilized (no hospitalization in the 6 months preceding departure); be sure to have this confirmed.\n\nPrepare your kit",
+    "source_id": "image:bb811ee0ab1a696c:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:37.539731+00:00",
+    "source_text_sha256": "eafb698440f88c0926e46896514f00bc446310d152bb2f9c7016f25101b731dc"
+  }
+}

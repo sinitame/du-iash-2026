@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:54",
+  "target_language": "en",
+  "source_text_sha256": "7a95831055c88666fbe2bbc0f14b13f5d0b59d43479b8c65fdbe78deb0507bd7",
+  "translated_at": "2026-06-10T20:41:45.852473+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 13 ---\n189\nIBD\nJanus Kinase inhibitor\nData concerning tofacitinib are limited and concern only a few dozen cases (123). Its exceptional use in pediatrics should follow a favorable opinion in a multidisciplinary consultation meeting.\nSevere acute colitis (SAC) and the role of surgery\nAcute severe colitis (ASC) occurs in 10 to 15% of children with ulcerative colitis (UC) and represents a medical emergency. It is defined by a PUCAI ≥ 65. Mortality has decreased considerably (<1% today), but the risk of colectomy remains high. The medical management of severe acute colitis in pediatrics is identical to that in adults.\nAs in adults, when the colitis is extensive and resistant to medical treatments, when it jeopardizes vital prognosis, or in the event of dysplasia, refractory severe acute colitis, or toxic megacolon, colectomy is required. Reported pediatric rates reach 30 to 40% after 10 years of follow-up (10). However, some studies report lower frequencies, suggesting variability according to the cohorts studied and the therapeutic strategies employed (8,11,12).\nMonitoring and follow-up\nA close follow-up",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:54:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 54,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 13 ---\n189\nIBD\nJanus Kinase inhibitor\nData concerning tofacitinib are limited and concern only a few dozen cases (123). Its exceptional use in pediatrics should follow a favorable opinion in a multidisciplinary consultation meeting.\nSevere acute colitis (SAC) and the role of surgery\nAcute severe colitis (ASC) occurs in 10 to 15% of children with ulcerative colitis (UC) and represents a medical emergency. It is defined by a PUCAI ≥ 65. Mortality has decreased considerably (<1% today), but the risk of colectomy remains high. The medical management of severe acute colitis in pediatrics is identical to that in adults.\nAs in adults, when the colitis is extensive and resistant to medical treatments, when it jeopardizes vital prognosis, or in the event of dysplasia, refractory severe acute colitis, or toxic megacolon, colectomy is required. Reported pediatric rates reach 30 to 40% after 10 years of follow-up (10). However, some studies report lower frequencies, suggesting variability according to the cohorts studied and the therapeutic strategies employed (8,11,12).\nMonitoring and follow-up\nA close follow-up",
+    "source_id": "pdf:398e12446d466067:chunk:54",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:45.852473+00:00",
+    "source_text_sha256": "7a95831055c88666fbe2bbc0f14b13f5d0b59d43479b8c65fdbe78deb0507bd7"
+  }
+}

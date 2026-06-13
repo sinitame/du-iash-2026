@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "2e9201ddf2732c871e2e80aacf0d741809d1192626aee76be72da29adc185b00",
+  "translated_at": "2026-06-10T20:42:59.389915+00:00",
+  "model": "gpt-5-mini",
+  "text": "of a problem and is connected with a team capable of providing all care and examinations (endoscopy, surgery). Most Pediatrics departments will either take care of them or provide you with information.\nHOW CAN I TELL IF MY CHILD IS GROWING PROPERLY?\nA delay in height growth in a child with RCH is very rare.\nOn the other hand, it is common in Crohn's disease (15 to 30%). This appears as insufficient height growth. The child may notice that he or she is the smallest in their class or parents may notice that their clothes do not become too tight.\nYour pediatrician should plot the growth chart and thus notice any abnormalities. Watchful parents are often the first to notice a slowing of growth or the absence of the onset of puberty. Growth delay also appears on bone X-rays.\nHOW CAN THIS GROWTH DELAY BE EXPLAINED?\nIt is known that in these cases, growth hormones are normal. In fact, the child often eats less than would be necessary for their needs because they are not hungry. In addition, eating can lead to stomach pains, nausea",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:6:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 6,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "of a problem and is connected with a team capable of providing all care and examinations (endoscopy, surgery). Most Pediatrics departments will either take care of them or provide you with information.\nHOW CAN I TELL IF MY CHILD IS GROWING PROPERLY?\nA delay in height growth in a child with RCH is very rare.\nOn the other hand, it is common in Crohn's disease (15 to 30%). This appears as insufficient height growth. The child may notice that he or she is the smallest in their class or parents may notice that their clothes do not become too tight.\nYour pediatrician should plot the growth chart and thus notice any abnormalities. Watchful parents are often the first to notice a slowing of growth or the absence of the onset of puberty. Growth delay also appears on bone X-rays.\nHOW CAN THIS GROWTH DELAY BE EXPLAINED?\nIt is known that in these cases, growth hormones are normal. In fact, the child often eats less than would be necessary for their needs because they are not hungry. In addition, eating can lead to stomach pains, nausea",
+    "source_id": "pdf:a74238ee30f57428:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:59.389915+00:00",
+    "source_text_sha256": "2e9201ddf2732c871e2e80aacf0d741809d1192626aee76be72da29adc185b00"
+  }
+}

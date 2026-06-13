@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "e7e5fbc9e184719102b0834987562a4f6b3801f1bb201d34aa62824769da986d",
+  "translated_at": "2026-06-10T20:46:27.644447+00:00",
+  "model": "gpt-5-mini",
+  "text": "Be calm, simply; you can breathe in and out by your side without forcing anything. And just now, begin to notice this vital breath — perhaps it already connects you to your body. Your body is calm, relaxed, released. Because you have practiced this exercise.\n\nI now invite your back to move a little; you can notice it. Keep your hands close a little to help reawaken your energy. You can move gently and calmly; protect your back and your sides. Maybe rest your hands on the areas you can reach, and especially on the lower part to give yourself a little energy.\n\nYou are calm and gentle. Now you can turn as slowly as possible. Very slowly, you can place your hand around your abdomen, and bring warmth and gentleness into your belly. Quietly, gently.\n\nYou can gently tap your thighs a little, tap your hands, then take a deep breath; don’t hesitate to stretch, take all the space you need. You will very slowly notice your hands on",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:2:en",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 2,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Be calm, simply; you can breathe in and out by your side without forcing anything. And just now, begin to notice this vital breath — perhaps it already connects you to your body. Your body is calm, relaxed, released. Because you have practiced this exercise.\n\nI now invite your back to move a little; you can notice it. Keep your hands close a little to help reawaken your energy. You can move gently and calmly; protect your back and your sides. Maybe rest your hands on the areas you can reach, and especially on the lower part to give yourself a little energy.\n\nYou are calm and gentle. Now you can turn as slowly as possible. Very slowly, you can place your hand around your abdomen, and bring warmth and gentleness into your belly. Quietly, gently.\n\nYou can gently tap your thighs a little, tap your hands, then take a deep breath; don’t hesitate to stretch, take all the space you need. You will very slowly notice your hands on",
+    "source_id": "video:93a0c37f32868909:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:27.644447+00:00",
+    "source_text_sha256": "e7e5fbc9e184719102b0834987562a4f6b3801f1bb201d34aa62824769da986d"
+  }
+}

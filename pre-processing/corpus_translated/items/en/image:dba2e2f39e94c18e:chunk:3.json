@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "e7d21292efa3a4a96998d90b3b7b27674cccbe535c3f28d7531779ee14d43a67",
+  "translated_at": "2026-06-10T20:38:53.407070+00:00",
+  "model": "gpt-5-mini",
+  "text": "https//www france-assos-sante.org/\npublication _document/a-6-la-personne-de-confiance/\n\n= Notify your supplemental health insurance and confirm whether additional hospital costs will be covered or not: single room, TV, additional care or tests, transportation, coverage of childcare costs …\n= Inform your primary care physician and your private gastroenterologist\n= Properly prepare your medical file, prescriptions and recent examinations\n> If you are taking other treatments, inform the hospital team\n\nYOUR RIGHTS AND DUTIES IN THE HOSPITAL\n\nEvery user of the public hospital has a number of rights. These were significantly strengthened by the law of March 4, 2002, relating to patients' rights and the quality of the health system, as well as by the \"Charter of the Hospitalized Person\". These rights of the sick person (of the patient) range from the guarantee of quality care to access to information, including respect for intimacy and private life.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:3:en",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 3,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "https//www france-assos-sante.org/\npublication _document/a-6-la-personne-de-confiance/\n\n= Notify your supplemental health insurance and confirm whether additional hospital costs will be covered or not: single room, TV, additional care or tests, transportation, coverage of childcare costs …\n= Inform your primary care physician and your private gastroenterologist\n= Properly prepare your medical file, prescriptions and recent examinations\n> If you are taking other treatments, inform the hospital team\n\nYOUR RIGHTS AND DUTIES IN THE HOSPITAL\n\nEvery user of the public hospital has a number of rights. These were significantly strengthened by the law of March 4, 2002, relating to patients' rights and the quality of the health system, as well as by the \"Charter of the Hospitalized Person\". These rights of the sick person (of the patient) range from the guarantee of quality care to access to information, including respect for intimacy and private life.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:53.407070+00:00",
+    "source_text_sha256": "e7d21292efa3a4a96998d90b3b7b27674cccbe535c3f28d7531779ee14d43a67"
+  }
+}

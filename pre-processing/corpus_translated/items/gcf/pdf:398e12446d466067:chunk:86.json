@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:86",
+  "target_language": "gcf",
+  "source_text_sha256": "0eabac4dabe15ab6b27d666fa8d0e7716f935d5ee1f0dfc847b71b978b9b3543",
+  "translated_at": "2026-06-10T21:07:32.076436+00:00",
+  "model": "gpt-5-mini",
+  "text": "021;73:e57-e62.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:86:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 86,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "021;73:e57-e62.",
+    "source_id": "pdf:398e12446d466067:chunk:86",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:32.076436+00:00",
+    "source_text_sha256": "0eabac4dabe15ab6b27d666fa8d0e7716f935d5ee1f0dfc847b71b978b9b3543"
+  }
+}

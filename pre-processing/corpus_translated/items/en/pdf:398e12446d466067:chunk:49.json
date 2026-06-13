@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:49",
+  "target_language": "en",
+  "source_text_sha256": "179e5c7075f892d4918e99f757b6a00f55f8574e74ea47ae894ed2b05e5cea1d",
+  "translated_at": "2026-06-10T20:41:33.749049+00:00",
+  "model": "gpt-5-mini",
+  "text": "Proactive monitoring of the residual level to guide treatment optimization.\n\t\n\u0007Anti-TNF and immunomodulator combination therapy\n6\t\n\u0007Stopping the immunosuppressant should be discussed after 6 to 12 months of combination therapy if the residual infliximab level is within the target range and therapeutic targets are achieved. In anti-TNF–naïve patients receiving adalimumab, monotherapy is an alternative to combination therapy.\n7\t\n\u0007In patients previously sensitized to IFX or in high-risk patients, combination therapy appears more prudent. In patients with active disease on anti-TNF, it is recommended to proactively monitor the residual level of IFX or ADA to guide therapeutic changes: treatment optimization or \"switch\".\n8\t\n\u0007In patients on anti-TNF in whom remission is not achieved or maintained despite treatment optimization and association with an immunomodulator, treatment with ustekinumab or vedolizumab may be considered.\n\t\n\u0007Adjunctive antibiotic therapy in perianal fistulizing Crohn’s disease\n9\t\n\u0007Metronidazole 30 mg/kg/day, orally in 2 to 3 doses + ciprofloxacin",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:49:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 49,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Proactive monitoring of the residual level to guide treatment optimization.\n\t\n\u0007Anti-TNF and immunomodulator combination therapy\n6\t\n\u0007Stopping the immunosuppressant should be discussed after 6 to 12 months of combination therapy if the residual infliximab level is within the target range and therapeutic targets are achieved. In anti-TNF–naïve patients receiving adalimumab, monotherapy is an alternative to combination therapy.\n7\t\n\u0007In patients previously sensitized to IFX or in high-risk patients, combination therapy appears more prudent. In patients with active disease on anti-TNF, it is recommended to proactively monitor the residual level of IFX or ADA to guide therapeutic changes: treatment optimization or \"switch\".\n8\t\n\u0007In patients on anti-TNF in whom remission is not achieved or maintained despite treatment optimization and association with an immunomodulator, treatment with ustekinumab or vedolizumab may be considered.\n\t\n\u0007Adjunctive antibiotic therapy in perianal fistulizing Crohn’s disease\n9\t\n\u0007Metronidazole 30 mg/kg/day, orally in 2 to 3 doses + ciprofloxacin",
+    "source_id": "pdf:398e12446d466067:chunk:49",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:33.749049+00:00",
+    "source_text_sha256": "179e5c7075f892d4918e99f757b6a00f55f8574e74ea47ae894ed2b05e5cea1d"
+  }
+}

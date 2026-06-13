@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "851d1efa867f262cffd140048b6a99553fcb3b7eefcc32cf03469e09fb2d8c73",
+  "translated_at": "2026-06-10T20:51:46.467619+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\n177\nMICI\nFMC HGE : Óganizm sètifié Qualiopi pou kategori aksyon fòmasyon\nPOST’U 2026\nMICI an popilasyon pédiatrik : ki spesifik i genyen ?\n\t Olivier COURBETTE\n\t Sèvis medsin espesyalizé, Lopital Pédiatrik Nice CHU-Lenval, 57 avni Kalifòni - 06200 NICE (Frans)\n\t olivier.courbette@hpu.lenval.com\nOBJEKTIF PÉDAGOGIK\n•\t Konèt épidemioloji é prezantasyon klinik MICI an popilasyon pédiatrik\n•\t Savo kilè pou sèvi ekzamen biyolojik, endoskopik é radyolojik\n•\t Konèt enpòtans konsiltasyon tranzisyon timoun/adilt\n•\t Konèt spécifikasyon pran an chaj terapetik\nLYEN D’INTÉRÈ\nOtè-a déklaré i pa ni okenn lyen d’intérêt an relasyon èvè prezantasyon-y.\nMOT-KLÉ\nMaladi Crohn; Rektokolit èmorajik; Pédiatri\nABRÉVIASYON\n5-ASA : asid 5-aminosalicylik\n6-MMP : 6-methyl mercaptopurine\n6-TGN : 6-thioguanine\nADA : adalimumab\nAMM : otorizasyon pou mete sou maché\nCAG : kolit aji grav\nASCA : antikò anti-saccharomyces cerevisiae\nAZA : azathioprine\nCRP : pwoteyin C réaktif\nCSP : kolanjit sklérozan primitif\nEBV : virus Epstein-Barr\nNEE : nutr",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:0:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 0,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 1 ---\n177\nMICI\nFMC HGE : Óganizm sètifié Qualiopi pou kategori aksyon fòmasyon\nPOST’U 2026\nMICI an popilasyon pédiatrik : ki spesifik i genyen ?\n\t Olivier COURBETTE\n\t Sèvis medsin espesyalizé, Lopital Pédiatrik Nice CHU-Lenval, 57 avni Kalifòni - 06200 NICE (Frans)\n\t olivier.courbette@hpu.lenval.com\nOBJEKTIF PÉDAGOGIK\n•\t Konèt épidemioloji é prezantasyon klinik MICI an popilasyon pédiatrik\n•\t Savo kilè pou sèvi ekzamen biyolojik, endoskopik é radyolojik\n•\t Konèt enpòtans konsiltasyon tranzisyon timoun/adilt\n•\t Konèt spécifikasyon pran an chaj terapetik\nLYEN D’INTÉRÈ\nOtè-a déklaré i pa ni okenn lyen d’intérêt an relasyon èvè prezantasyon-y.\nMOT-KLÉ\nMaladi Crohn; Rektokolit èmorajik; Pédiatri\nABRÉVIASYON\n5-ASA : asid 5-aminosalicylik\n6-MMP : 6-methyl mercaptopurine\n6-TGN : 6-thioguanine\nADA : adalimumab\nAMM : otorizasyon pou mete sou maché\nCAG : kolit aji grav\nASCA : antikò anti-saccharomyces cerevisiae\nAZA : azathioprine\nCRP : pwoteyin C réaktif\nCSP : kolanjit sklérozan primitif\nEBV : virus Epstein-Barr\nNEE : nutr",
+    "source_id": "pdf:398e12446d466067:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:46.467619+00:00",
+    "source_text_sha256": "851d1efa867f262cffd140048b6a99553fcb3b7eefcc32cf03469e09fb2d8c73"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "b3893bedf166893b22c2cf22fd435dff177a95f787c7e4ccffa9cd7e5bf9ab06",
+  "translated_at": "2026-06-10T20:51:09.332114+00:00",
+  "model": "gpt-5-mini",
+  "text": "\" ? Si yo alléjé an on koté, sé paské yo mété onlo bagay an on lòt koté pou jwenn on résilta « similè ». Egzanp : manjé ki alléjé an matyè grès ka kontni souvén émulsifiant pou teksti.  \nAn jénéral, plis on prodwi ka vanté kalité li, plis i bon pou nou fè vijilan. Konm pwovèb la di : « Kilti sé konm konfiti, pli on ni'y mwin, plis on étalé'y. »",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:5:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 5,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "\" ? Si yo alléjé an on koté, sé paské yo mété onlo bagay an on lòt koté pou jwenn on résilta « similè ». Egzanp : manjé ki alléjé an matyè grès ka kontni souvén émulsifiant pou teksti.  \nAn jénéral, plis on prodwi ka vanté kalité li, plis i bon pou nou fè vijilan. Konm pwovèb la di : « Kilti sé konm konfiti, pli on ni'y mwin, plis on étalé'y. »",
+    "source_id": "pdf:2499a50038a1326f:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:09.332114+00:00",
+    "source_text_sha256": "b3893bedf166893b22c2cf22fd435dff177a95f787c7e4ccffa9cd7e5bf9ab06"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:48",
+  "target_language": "en",
+  "source_text_sha256": "263e93a880024cd375a0aad6c93cdab8e32b99e7dfc74c038b3cefd89d2235fe",
+  "translated_at": "2026-06-10T20:41:28.752470+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 11 ---\n187\nIBD\nFigure 4: Therapeutic strategy decision tree\nLEGENDS:\n1\nTherapeutic target:\n\t\nThe optimal timing to reassess disease activity after induction is not clearly defined. Assessment of therapeutic response is based on a combination of clinical, biological, radiological and endoscopic findings.\n2\nExclusive enteral nutrition (EEN):\n\t\nA polymeric formula is preferred for EEN.  \nSee the dedicated chapter.\n\t\nMaintenance treatment.\n3\nImmunosuppressants:\n\t\nMethotrexate can be used as first-line to maintain remission or after failure or intolerance to thiopurines.\n4\nMaintenance nutritional therapy:\n\t\nIn patients in remission with low-risk Crohn’s disease, maintenance nutritional therapy (at least 50% of daily energy requirements) can prolong remission.\n5\nContinuation of anti-TNF as maintenance therapy:\n\t\nAs monotherapy or combination therapy, with proactive monitoring of trough levels to guide treatment optimization.\n\t\nCombination therapy with anti-TNF and an immunomodulator\n6\nStopping the immunosuppressant should be discussed after 6 to 12 months of combination therapy",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:48:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 48,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 11 ---\n187\nIBD\nFigure 4: Therapeutic strategy decision tree\nLEGENDS:\n1\nTherapeutic target:\n\t\nThe optimal timing to reassess disease activity after induction is not clearly defined. Assessment of therapeutic response is based on a combination of clinical, biological, radiological and endoscopic findings.\n2\nExclusive enteral nutrition (EEN):\n\t\nA polymeric formula is preferred for EEN.  \nSee the dedicated chapter.\n\t\nMaintenance treatment.\n3\nImmunosuppressants:\n\t\nMethotrexate can be used as first-line to maintain remission or after failure or intolerance to thiopurines.\n4\nMaintenance nutritional therapy:\n\t\nIn patients in remission with low-risk Crohn’s disease, maintenance nutritional therapy (at least 50% of daily energy requirements) can prolong remission.\n5\nContinuation of anti-TNF as maintenance therapy:\n\t\nAs monotherapy or combination therapy, with proactive monitoring of trough levels to guide treatment optimization.\n\t\nCombination therapy with anti-TNF and an immunomodulator\n6\nStopping the immunosuppressant should be discussed after 6 to 12 months of combination therapy",
+    "source_id": "pdf:398e12446d466067:chunk:48",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:28.752470+00:00",
+    "source_text_sha256": "263e93a880024cd375a0aad6c93cdab8e32b99e7dfc74c038b3cefd89d2235fe"
+  }
+}

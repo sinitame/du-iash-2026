@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:10",
+  "target_language": "en",
+  "source_text_sha256": "cfa1d251b311c8a64562c60ef5a455aa1a744eb880211682360b2b49a8e0d8ed",
+  "translated_at": "2026-06-10T20:47:54.846815+00:00",
+  "model": "gpt-5-mini",
+  "text": "so that you can feel your lungs. And you will relax, become aware of all the space on the right side, calmly, slowly, and bring the ribs out to each side. And you will relax your arms alongside your body. And you observe the sensations. It’s a sensation. It’s a bit as if you had a little more room, as if your lungs could take up a little more space to breathe. You will practice two more times. At this level, I invite you to place your hands on your chest. You will inhale and then very gently lift the ribs on each side, trying to bring the ribs as high as possible. You will take a small moment in which you will try, if you can, to feel the breath filling you fully. And you will take a small moment in which you will release as gently as possible while becoming aware of each of your ribs. As if the outline of your chest is lightening slowly, very gently. And you will not use the rest of your body to help. And observe the breathing as if small pulleys were turning to breathe. We take a little pause here. And again a third and last time. Now, I offer you a new",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:10:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 10,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "so that you can feel your lungs. And you will relax, become aware of all the space on the right side, calmly, slowly, and bring the ribs out to each side. And you will relax your arms alongside your body. And you observe the sensations. It’s a sensation. It’s a bit as if you had a little more room, as if your lungs could take up a little more space to breathe. You will practice two more times. At this level, I invite you to place your hands on your chest. You will inhale and then very gently lift the ribs on each side, trying to bring the ribs as high as possible. You will take a small moment in which you will try, if you can, to feel the breath filling you fully. And you will take a small moment in which you will release as gently as possible while becoming aware of each of your ribs. As if the outline of your chest is lightening slowly, very gently. And you will not use the rest of your body to help. And observe the breathing as if small pulleys were turning to breathe. We take a little pause here. And again a third and last time. Now, I offer you a new",
+    "source_id": "video:161efbc66394dfb2:chunk:10",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:54.846815+00:00",
+    "source_text_sha256": "cfa1d251b311c8a64562c60ef5a455aa1a744eb880211682360b2b49a8e0d8ed"
+  }
+}

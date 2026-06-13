@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "90c0d334a3c3b069d42b64a3162309be7493f227dee8ff813f6dea71b4481355",
+  "translated_at": "2026-06-10T20:39:34.554567+00:00",
+  "model": "gpt-5-mini",
+  "text": "diagnosed throughout life.\nHowever, there are specific features particular to the pediatric form.\nFor example, Crohn’s disease is more often diagnosed at the inflammatory stage, before the appearance of stricturing or fistulizing complications. Ulcerative colitis is frequently characterized by extensive colonic involvement at diagnosis. In pediatrics, IBDs are associated with growth (height and weight) and pubertal delay but also with lowered self-esteem, deterioration of body image and a high rate of school absenteeism, thereby compromising quality of life and future social and professional integration. The cost of managing these conditions in childhood exceeds that in adults (1). Better knowledge of the specificities of the pediatric forms is essential for all actors involved in medical and paramedical care.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:2:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 2,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "diagnosed throughout life.\nHowever, there are specific features particular to the pediatric form.\nFor example, Crohn’s disease is more often diagnosed at the inflammatory stage, before the appearance of stricturing or fistulizing complications. Ulcerative colitis is frequently characterized by extensive colonic involvement at diagnosis. In pediatrics, IBDs are associated with growth (height and weight) and pubertal delay but also with lowered self-esteem, deterioration of body image and a high rate of school absenteeism, thereby compromising quality of life and future social and professional integration. The cost of managing these conditions in childhood exceeds that in adults (1). Better knowledge of the specificities of the pediatric forms is essential for all actors involved in medical and paramedical care.",
+    "source_id": "pdf:398e12446d466067:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:34.554567+00:00",
+    "source_text_sha256": "90c0d334a3c3b069d42b64a3162309be7493f227dee8ff813f6dea71b4481355"
+  }
+}

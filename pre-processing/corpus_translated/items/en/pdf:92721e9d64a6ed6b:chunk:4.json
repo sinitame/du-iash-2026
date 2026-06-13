@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "d46e40dacd390345fa6ca6627d0655a864f554b52dff319359f1d0eaa6c2d61d",
+  "translated_at": "2026-06-10T20:39:26.000664+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nWHAT CAN NEGATIVELY IMPACT\nYOUR MICROBIOTA:\nHighly processed food\nAntibiotics\nBe careful, depending on your health and your digestive symptoms, whether you are having a flare-up or getting better, it is important to have as varied a diet as possible. For this, it may be helpful to ask your gastroenterologist or a dietitian for advice. At afa, we have dietitians who can support you and also advise your parents. A telephone helpline is available every Tuesday afternoon from 2:00 pm to 6:00 pm.\nYou can also take action by doing regular physical activity, by learning to manage your anxiety by talking to people who can support you, and by saying NO to things that can harm your health, for example tobacco!\nTo help you take care of your health and live well with your IBD, afa regularly offers online workshops with other teens who are ill, led by experts who answer every question, with no taboos! Go to Mikado to find out the upcoming dates!\nProduced with the support of",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:4:en",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 4,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 3 ---\nWHAT CAN NEGATIVELY IMPACT\nYOUR MICROBIOTA:\nHighly processed food\nAntibiotics\nBe careful, depending on your health and your digestive symptoms, whether you are having a flare-up or getting better, it is important to have as varied a diet as possible. For this, it may be helpful to ask your gastroenterologist or a dietitian for advice. At afa, we have dietitians who can support you and also advise your parents. A telephone helpline is available every Tuesday afternoon from 2:00 pm to 6:00 pm.\nYou can also take action by doing regular physical activity, by learning to manage your anxiety by talking to people who can support you, and by saying NO to things that can harm your health, for example tobacco!\nTo help you take care of your health and live well with your IBD, afa regularly offers online workshops with other teens who are ill, led by experts who answer every question, with no taboos! Go to Mikado to find out the upcoming dates!\nProduced with the support of",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:26.000664+00:00",
+    "source_text_sha256": "d46e40dacd390345fa6ca6627d0655a864f554b52dff319359f1d0eaa6c2d61d"
+  }
+}

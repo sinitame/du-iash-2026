@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:18",
+  "target_language": "gcf",
+  "source_text_sha256": "0eeb5974a681376c0fa307cf3ae3cea22d87e1f6dff911a3bc14dc26eb09423b",
+  "translated_at": "2026-06-10T21:10:25.039860+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sauf si medsen di otreman.\n3/ An kontrè, fè konmsi maladi a pa egziste é ranvwayé konsiltasyon medikal la.\nPi bon konpòtman-la :\nOn latansyon diskrè mé vijilan.\nOn disponiblité pou reponn sé kèsyon-li.\nBa li tout enfòmasyon ou genyen, mé pa janmen pran an kont sé \"ragò\" yo — i ni an pil ragò adan maladi sa yo, yo souvan wè kon plis grav pasé yo pa vré an réyalité.\nAN DÉFINITIF\nBi ekip paran é moun k'ap swen an sé pou pèmèt li viv on lavi nòmal, é sa-la souvan posib.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:18:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 18,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Sauf si medsen di otreman.\n3/ An kontrè, fè konmsi maladi a pa egziste é ranvwayé konsiltasyon medikal la.\nPi bon konpòtman-la :\nOn latansyon diskrè mé vijilan.\nOn disponiblité pou reponn sé kèsyon-li.\nBa li tout enfòmasyon ou genyen, mé pa janmen pran an kont sé \"ragò\" yo — i ni an pil ragò adan maladi sa yo, yo souvan wè kon plis grav pasé yo pa vré an réyalité.\nAN DÉFINITIF\nBi ekip paran é moun k'ap swen an sé pou pèmèt li viv on lavi nòmal, é sa-la souvan posib.",
+    "source_id": "pdf:a74238ee30f57428:chunk:18",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:25.039860+00:00",
+    "source_text_sha256": "0eeb5974a681376c0fa307cf3ae3cea22d87e1f6dff911a3bc14dc26eb09423b"
+  }
+}

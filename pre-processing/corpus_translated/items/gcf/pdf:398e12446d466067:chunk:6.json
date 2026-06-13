@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "b5f3eb3cb6ed395185090df2fd28a7e26f091cdda4cdb54f88b77aeba30907e1",
+  "translated_at": "2026-06-10T20:51:54.857079+00:00",
+  "model": "gpt-5-mini",
+  "text": "an senn. Plisè faktè anviwonnmantal ki asosyé èvè risk pou dévlopé on MICI té ka entèvni atravè léfè yo asou mikrobyòt entesten.\nMétòd akouchman an ka enfliyansé dévlopman mikrobyòt entesten. Méta-analiz pa konfimé on lyen siyifikatif ant sésaryèn é on risk ogmanté pou dévlopé on MICI (14,15). An kont, révyé sistematik yo montré ké bay tèté pwotjé kont MICI pédiatrik, épi on efè dòz-dépendan (16). Viv adan on anviwonnman iben é on fò polisyon an lè anvlipan asosyé èvè on risk ogmanté pou dévlopé on MICI, sa ka varié dapwé laj. Tjenn ki rézidé pwès on pak oben adan on anviwonnman bwaé ni on risk ki redwi pou dévlopé on MICI (13). Mém si lafimen tabak sé on faktè risk établli adan adilt, pa té ni on asosyasyon rapor té ant lafimen pasif oben ekspozisyon prénatal a tabak é parèsans on MICI pédiatrik (17). Plisè étid révélé on frekans ogmanté enfeksyon périnatal é enfantil. (Figir 1)\nFigir 1 : ilistrasyon faktè anviwonnmantal",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:6:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 6,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "an senn. Plisè faktè anviwonnmantal ki asosyé èvè risk pou dévlopé on MICI té ka entèvni atravè léfè yo asou mikrobyòt entesten.\nMétòd akouchman an ka enfliyansé dévlopman mikrobyòt entesten. Méta-analiz pa konfimé on lyen siyifikatif ant sésaryèn é on risk ogmanté pou dévlopé on MICI (14,15). An kont, révyé sistematik yo montré ké bay tèté pwotjé kont MICI pédiatrik, épi on efè dòz-dépendan (16). Viv adan on anviwonnman iben é on fò polisyon an lè anvlipan asosyé èvè on risk ogmanté pou dévlopé on MICI, sa ka varié dapwé laj. Tjenn ki rézidé pwès on pak oben adan on anviwonnman bwaé ni on risk ki redwi pou dévlopé on MICI (13). Mém si lafimen tabak sé on faktè risk établli adan adilt, pa té ni on asosyasyon rapor té ant lafimen pasif oben ekspozisyon prénatal a tabak é parèsans on MICI pédiatrik (17). Plisè étid révélé on frekans ogmanté enfeksyon périnatal é enfantil. (Figir 1)\nFigir 1 : ilistrasyon faktè anviwonnmantal",
+    "source_id": "pdf:398e12446d466067:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:54.857079+00:00",
+    "source_text_sha256": "b5f3eb3cb6ed395185090df2fd28a7e26f091cdda4cdb54f88b77aeba30907e1"
+  }
+}

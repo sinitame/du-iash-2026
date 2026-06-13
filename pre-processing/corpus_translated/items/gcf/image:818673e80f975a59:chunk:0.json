@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "366c95743326b15572c9c3bcf61d2c8623b2df827d1c6673fcdb587e5e7f28c7",
+  "translated_at": "2026-06-10T20:48:49.028010+00:00",
+  "model": "gpt-5-mini",
+  "text": "PRÉVANSYON\n\nFATIG\n\nKI MOUN KI SÉ\nPRINSIPAL KOZ\nANEMI A ?\n\nAnemi a ka vini souvan adan MICI, espesyalman pandan premye lane apré diagnostik-la (anviron 2/3 pasyan) é koz yo ni anlo :\n= Sangman aji (bès vit an lémoglobin) osinon sangman kwonik (bès pwogresif an lémoglobin pasé pèd san an piti piti é pèd fè) pandan poussée yo oswa lè maladi a pa byen kontrolé (fòm yo ka dié fòm kwonik aktiv)\n\n#O7\n\nÉPI KARENS\n\nKI SA ON KARENS ?\n\nOn karens sé lè ou manké on bagay enpòtan pou kò-a ka fonksyonné byen. Nou kay palé di karans vitamin, karans fè é oligo-éléman. Lafatig, mé osi souf kout (sitou kan fè efò) osinon akselération ritm kè a fè pati klèman sentom klasik anemi a, tandiske pa ni démonstrasyon syantifik kler ki on karans vitamin sé ase pou koz fatig. Nou pé, an fason pragmatik, panse ki pli bon sé pa ni karans pou té an bon fòm.\n\nKI SA ANEMI A ?",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:0:gcf",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 0,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "PRÉVANSYON\n\nFATIG\n\nKI MOUN KI SÉ\nPRINSIPAL KOZ\nANEMI A ?\n\nAnemi a ka vini souvan adan MICI, espesyalman pandan premye lane apré diagnostik-la (anviron 2/3 pasyan) é koz yo ni anlo :\n= Sangman aji (bès vit an lémoglobin) osinon sangman kwonik (bès pwogresif an lémoglobin pasé pèd san an piti piti é pèd fè) pandan poussée yo oswa lè maladi a pa byen kontrolé (fòm yo ka dié fòm kwonik aktiv)\n\n#O7\n\nÉPI KARENS\n\nKI SA ON KARENS ?\n\nOn karens sé lè ou manké on bagay enpòtan pou kò-a ka fonksyonné byen. Nou kay palé di karans vitamin, karans fè é oligo-éléman. Lafatig, mé osi souf kout (sitou kan fè efò) osinon akselération ritm kè a fè pati klèman sentom klasik anemi a, tandiske pa ni démonstrasyon syantifik kler ki on karans vitamin sé ase pou koz fatig. Nou pé, an fason pragmatik, panse ki pli bon sé pa ni karans pou té an bon fòm.\n\nKI SA ANEMI A ?",
+    "source_id": "image:818673e80f975a59:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:49.028010+00:00",
+    "source_text_sha256": "366c95743326b15572c9c3bcf61d2c8623b2df827d1c6673fcdb587e5e7f28c7"
+  }
+}

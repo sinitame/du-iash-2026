@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "a73adc6214aaa90062611c8805b385c7fb5f43ddea9b64ed47a62f4b3db2820a",
+  "translated_at": "2026-06-10T20:50:37.067372+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 1 ---\nKI SA YO SÈVI POU ?\n1 • Konsévé pli lontan : Gén ki anpéché manjé pa pouri oubyen pa pèrimé twòp vit (eg : E250 osinon nitrit sodyòm, ki sitou sèvi adan janbon).\n2 • Fè koulè pli bèl : Yo fè manjé pli atiran (eg : E160b, ki ba chips on koulè zoranj).\n3 • Bay on pli bon gou : Kèk aditif ka ranfòsé gou osinon sant (eg : E621, glutamat ki jwenn, pa egzanp, adan biskwit apéritif, nouy enstantané épi onlo plat préparé).\n4 • Fè on tèksit agradab : Pou epèssi on sòs, bay on gato on molès (eg : E440, pektin ki adan konfitir).\n\nKI ENPAK YO NI ASOU LASANTÉ NOU ?\nGén ki pa danjéré (konm pektin ki adan fri osinon asid sitrik ki nan sitwon), mé gén lòt ki kontwovésé, swa paskè étid ja pwouvé yo ka ni on enpak nègatif asou lasanté oswa paskè yo sispékté yo pé ni on enpak konsa.\nPa egzanp, étid récent ja montré ké kèk édulkoran osinon fo sik (eg : aspartam, E951) ogmanté risk kansé. Yo sé menm, yo lajman sèvi adan bwason, soda, dézè, chwing-gom épi",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:0:gcf",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 0,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 1 ---\nKI SA YO SÈVI POU ?\n1 • Konsévé pli lontan : Gén ki anpéché manjé pa pouri oubyen pa pèrimé twòp vit (eg : E250 osinon nitrit sodyòm, ki sitou sèvi adan janbon).\n2 • Fè koulè pli bèl : Yo fè manjé pli atiran (eg : E160b, ki ba chips on koulè zoranj).\n3 • Bay on pli bon gou : Kèk aditif ka ranfòsé gou osinon sant (eg : E621, glutamat ki jwenn, pa egzanp, adan biskwit apéritif, nouy enstantané épi onlo plat préparé).\n4 • Fè on tèksit agradab : Pou epèssi on sòs, bay on gato on molès (eg : E440, pektin ki adan konfitir).\n\nKI ENPAK YO NI ASOU LASANTÉ NOU ?\nGén ki pa danjéré (konm pektin ki adan fri osinon asid sitrik ki nan sitwon), mé gén lòt ki kontwovésé, swa paskè étid ja pwouvé yo ka ni on enpak nègatif asou lasanté oswa paskè yo sispékté yo pé ni on enpak konsa.\nPa egzanp, étid récent ja montré ké kèk édulkoran osinon fo sik (eg : aspartam, E951) ogmanté risk kansé. Yo sé menm, yo lajman sèvi adan bwason, soda, dézè, chwing-gom épi",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:37.067372+00:00",
+    "source_text_sha256": "a73adc6214aaa90062611c8805b385c7fb5f43ddea9b64ed47a62f4b3db2820a"
+  }
+}

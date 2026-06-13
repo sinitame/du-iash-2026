@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "5e59cac51eb264452e327de51e15e03c091a05708f6e512b336631c9d7cd05a5",
+  "translated_at": "2026-06-10T20:37:37.804248+00:00",
+  "model": "gpt-5-mini",
+  "text": "| FACT SHEET\n\nRIGHTS AND INSURANCE #9\n\nan\nui\nZz\n<\nœ\na\na\n<\n=\nui\nun\nO\nœ\n\nABSENCES FOR\nMEDICAL CARE\n\nWhen you have UC or Crohn's disease, you may need to be absent\nfrom work for consultations, tests or treatments (infusions in particular) and this\ncan be difficult to manage with your employer. What can you do?\n\nGENERAL CASE\n\nYour employer cannot refuse to allow you\nto attend your medical appointments, provided\nthat you inform them in advance (except in an\nemergency, of course). However, they are not legally\nrequired to pay you for the time spent at these\nappointments.\n\nSome employers are understanding;\nstart by explaining your situation to your manager or\nto an HR representative; you may be able to arrange\nto have your appointments during working time.",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:0:en",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 0,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "| FACT SHEET\n\nRIGHTS AND INSURANCE #9\n\nan\nui\nZz\n<\nœ\na\na\n<\n=\nui\nun\nO\nœ\n\nABSENCES FOR\nMEDICAL CARE\n\nWhen you have UC or Crohn's disease, you may need to be absent\nfrom work for consultations, tests or treatments (infusions in particular) and this\ncan be difficult to manage with your employer. What can you do?\n\nGENERAL CASE\n\nYour employer cannot refuse to allow you\nto attend your medical appointments, provided\nthat you inform them in advance (except in an\nemergency, of course). However, they are not legally\nrequired to pay you for the time spent at these\nappointments.\n\nSome employers are understanding;\nstart by explaining your situation to your manager or\nto an HR representative; you may be able to arrange\nto have your appointments during working time.",
+    "source_id": "image:b620cbf2bdce20a7:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:37.804248+00:00",
+    "source_text_sha256": "5e59cac51eb264452e327de51e15e03c091a05708f6e512b336631c9d7cd05a5"
+  }
+}

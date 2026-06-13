@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "5791d1bdc2fddfdc6eca7a0be0345d44b69d1cd239f9783dbb153ba688d8c9dc",
+  "translated_at": "2026-06-10T20:47:22.156473+00:00",
+  "model": "gpt-5-mini",
+  "text": "help to put some distance between you and this emotion. First, you will be able to spot it, you may feel a ball of anger inside your body. Depending on where it is, you might try to observe its size — big, medium, small — its shape, whether it is hot or cold, whether it is heavy or light. You might be able to give it a color, and you can also try to see if it has a texture: is it prickly, is it smooth, is it rough? Try to see what it looks like. And when you have identified this ball, you can breathe in through your nose. And as you exhale, imagine putting it as far away as possible, blowing it out through your mouth. And you will push it as far away from your body as you can. Then a second time you will inhale, and on your exhale you can blow the thoughts away and push them further and further from your body. And a third and final time, again: you inhaled through your nose, and you put it as far away as possible. You may now feel calmness, relaxation in your body. If you really feel anger, maybe—",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:3:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 3,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "help to put some distance between you and this emotion. First, you will be able to spot it, you may feel a ball of anger inside your body. Depending on where it is, you might try to observe its size — big, medium, small — its shape, whether it is hot or cold, whether it is heavy or light. You might be able to give it a color, and you can also try to see if it has a texture: is it prickly, is it smooth, is it rough? Try to see what it looks like. And when you have identified this ball, you can breathe in through your nose. And as you exhale, imagine putting it as far away as possible, blowing it out through your mouth. And you will push it as far away from your body as you can. Then a second time you will inhale, and on your exhale you can blow the thoughts away and push them further and further from your body. And a third and final time, again: you inhaled through your nose, and you put it as far away as possible. You may now feel calmness, relaxation in your body. If you really feel anger, maybe—",
+    "source_id": "video:161efbc66394dfb2:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:22.156473+00:00",
+    "source_text_sha256": "5791d1bdc2fddfdc6eca7a0be0345d44b69d1cd239f9783dbb153ba688d8c9dc"
+  }
+}

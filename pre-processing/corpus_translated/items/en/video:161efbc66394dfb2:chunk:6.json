@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "0025c26defc6ad97688da37cccd03ca5ed261b34619c542667e20f7f4d1cda15",
+  "translated_at": "2026-06-10T20:47:36.712280+00:00",
+  "model": "gpt-5-mini",
+  "text": "Close your fist in front. Then you will close your fist behind. You will hold your breath. And when you feel like it, you will put that feeling of anger at a distance. Stretch your arm, send your fist as far forward as possible. Ah, that’s quick. Then you come back, you relax gently. Well done for welcoming the sensations. Sigh, yawn, relaxation. Notice what is happening. Maybe your shoulders tightening, your arms, your hands, your fingers. You can feel that relaxation. We will practice this two more times.\n\nAgain, inhale. You will lift your arm, clench your fist. You hold your breath, you will pull your shoulders back with the intention of putting this anger at a distance. You hold your breath. And when you feel like it this time, we will send that fist as gently as possible forward. All accompanied by the breath. You breathe, you breathe, you breathe, you breathe, you breathe. You release as calmly as possible. And you rest. And I say, that’s it — with a final sigh, yawn, relaxation.\n\nAnd for the third and last time, I’ll let you go at your own pace, do as you prefer. Fast or gentle. Again, I suggest…",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:6:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 6,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Close your fist in front. Then you will close your fist behind. You will hold your breath. And when you feel like it, you will put that feeling of anger at a distance. Stretch your arm, send your fist as far forward as possible. Ah, that’s quick. Then you come back, you relax gently. Well done for welcoming the sensations. Sigh, yawn, relaxation. Notice what is happening. Maybe your shoulders tightening, your arms, your hands, your fingers. You can feel that relaxation. We will practice this two more times.\n\nAgain, inhale. You will lift your arm, clench your fist. You hold your breath, you will pull your shoulders back with the intention of putting this anger at a distance. You hold your breath. And when you feel like it this time, we will send that fist as gently as possible forward. All accompanied by the breath. You breathe, you breathe, you breathe, you breathe, you breathe. You release as calmly as possible. And you rest. And I say, that’s it — with a final sigh, yawn, relaxation.\n\nAnd for the third and last time, I’ll let you go at your own pace, do as you prefer. Fast or gentle. Again, I suggest…",
+    "source_id": "video:161efbc66394dfb2:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:36.712280+00:00",
+    "source_text_sha256": "0025c26defc6ad97688da37cccd03ca5ed261b34619c542667e20f7f4d1cda15"
+  }
+}

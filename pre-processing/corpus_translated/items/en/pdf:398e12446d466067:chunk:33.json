@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:33",
+  "target_language": "en",
+  "source_text_sha256": "8c3dc0f5348cb543fac3d3c5c9fed745da194a67bd532fa49a391df1e7cffee9",
+  "translated_at": "2026-06-10T20:40:45.556230+00:00",
+  "model": "gpt-5-mini",
+  "text": "with antibiotics, surgery, or both\nB2 (stricturing**)\nPre-stenotic dilatation, obstructive signs/symptoms (or both)\nHigh\nAnti-TNF as first-line therapy\nB3 (penetrating***)\n—\nHigh\nIntestinal resection combined with postoperative anti-TNF therapy\nB3 (penetrating***)\n—\nHigh\nSurgery combined with postoperative anti-TNF therapy\nAbbreviations: TNF = tumor necrosis factor\n* Extensive disease: pan-enteric inflammation (proximal small intestine, terminal ileum and colon).\n** Stricturing: fixed luminal narrowing demonstrated by radiologic or endoscopic examination.\n*** Penetrating: intestinal perforation, intra-abdominal fistulas, inflammatory masses and/or abscesses during the course of the disease (excluding surgical complications).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:33:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 33,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "with antibiotics, surgery, or both\nB2 (stricturing**)\nPre-stenotic dilatation, obstructive signs/symptoms (or both)\nHigh\nAnti-TNF as first-line therapy\nB3 (penetrating***)\n—\nHigh\nIntestinal resection combined with postoperative anti-TNF therapy\nB3 (penetrating***)\n—\nHigh\nSurgery combined with postoperative anti-TNF therapy\nAbbreviations: TNF = tumor necrosis factor\n* Extensive disease: pan-enteric inflammation (proximal small intestine, terminal ileum and colon).\n** Stricturing: fixed luminal narrowing demonstrated by radiologic or endoscopic examination.\n*** Penetrating: intestinal perforation, intra-abdominal fistulas, inflammatory masses and/or abscesses during the course of the disease (excluding surgical complications).",
+    "source_id": "pdf:398e12446d466067:chunk:33",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:45.556230+00:00",
+    "source_text_sha256": "8c3dc0f5348cb543fac3d3c5c9fed745da194a67bd532fa49a391df1e7cffee9"
+  }
+}

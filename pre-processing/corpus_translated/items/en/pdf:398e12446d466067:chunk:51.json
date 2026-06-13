@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:51",
+  "target_language": "en",
+  "source_text_sha256": "6312b0823402f6172306162ffbdd984b54cc993cd3cb8a19f37345e1bcacc198",
+  "translated_at": "2026-06-10T20:41:35.416965+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 12 ---\n188\nFigure 5: Summary flowchart of the management of pediatric ulcerative colitis (UC)\n1\nThe following should be considered in active disease: infectious colitis (including CMV and C. difficile), 5-ASA–related colitis, lactose intolerance, irritable bowel syndrome, celiac disease. If there is discordance between the PUCAI score and the endoscopic classification of colitis, endoscopy should prevail.\n2\n5-ASA is dosed at 60–80 mg/kg/day up to 4.8 grams per day. A once-daily dose can be as effective as a twice-daily dose.\n3\n5-ASA enemas (1 g per day is as effective as higher doses) are more effective than steroid enemas. Enemas should be administered in the left lateral position. Liquid enemas are less well tolerated than foams and suppositories, but are better suited to more extensive colitis.\n4\nIf there is no improvement (decrease in PUCAI of less than 20 points) after 7 to 10 days, or if the PUCAI increases by 20 points at any time, consider intensifying treatment. The dependan",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:51:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 51,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 12 ---\n188\nFigure 5: Summary flowchart of the management of pediatric ulcerative colitis (UC)\n1\nThe following should be considered in active disease: infectious colitis (including CMV and C. difficile), 5-ASA–related colitis, lactose intolerance, irritable bowel syndrome, celiac disease. If there is discordance between the PUCAI score and the endoscopic classification of colitis, endoscopy should prevail.\n2\n5-ASA is dosed at 60–80 mg/kg/day up to 4.8 grams per day. A once-daily dose can be as effective as a twice-daily dose.\n3\n5-ASA enemas (1 g per day is as effective as higher doses) are more effective than steroid enemas. Enemas should be administered in the left lateral position. Liquid enemas are less well tolerated than foams and suppositories, but are better suited to more extensive colitis.\n4\nIf there is no improvement (decrease in PUCAI of less than 20 points) after 7 to 10 days, or if the PUCAI increases by 20 points at any time, consider intensifying treatment. The dependan",
+    "source_id": "pdf:398e12446d466067:chunk:51",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:35.416965+00:00",
+    "source_text_sha256": "6312b0823402f6172306162ffbdd984b54cc993cd3cb8a19f37345e1bcacc198"
+  }
+}

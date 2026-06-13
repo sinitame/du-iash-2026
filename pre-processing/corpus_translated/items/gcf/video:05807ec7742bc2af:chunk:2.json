@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "73823405ac9b02f06a4a535a5ed8ff05239004d2469df0a4000f789ddbf179bd",
+  "translated_at": "2026-06-10T21:15:09.782159+00:00",
+  "model": "gpt-5-mini",
+  "text": "Trankilman, tényé tèt ou dwat. Ou obsèvé trankilman sansasyon an do-w, ki ka détann, ki ka rilaché, épi pran konsyans do-w. Kounyé-a ou pran konsyans chak pwen kontak an kò-w, ou ké pé trankilman rilaché tèt ou. Do-w ki dwat la ka fè tout tèt-w rilaché é détann, an trankilman adan tèt la; kounyé-a ou pé obsèvé li épi zye-w. Ou pé dousman ouvè labouch on ti kras é mété lang ou anba labouch, adan dèyè ensiziv yo; kounyé-a ou pé rilaché trankilman machwè-w. Sou bò gòch, lè ou santi sa, kite-li rilaché, é ou pé vini trankilman santwé adan zòn lan san menné. Ant dé zye-w, tout tèt-w byen rilaché é byen détann. Mwen envité-w kounyé-a pran konsyans kou-w é zépòl-ou. Ou ké desann dousman, anlè zépòl yo, anlè bò ekstè an bra yo, ou koute avanbra yo, puis men yo jis nan bout dwèt yo. É pou pli byen pran konsyans zòn sa yo, ou ké vini trankilman santwé an nivo...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:2:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 2,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Trankilman, tényé tèt ou dwat. Ou obsèvé trankilman sansasyon an do-w, ki ka détann, ki ka rilaché, épi pran konsyans do-w. Kounyé-a ou pran konsyans chak pwen kontak an kò-w, ou ké pé trankilman rilaché tèt ou. Do-w ki dwat la ka fè tout tèt-w rilaché é détann, an trankilman adan tèt la; kounyé-a ou pé obsèvé li épi zye-w. Ou pé dousman ouvè labouch on ti kras é mété lang ou anba labouch, adan dèyè ensiziv yo; kounyé-a ou pé rilaché trankilman machwè-w. Sou bò gòch, lè ou santi sa, kite-li rilaché, é ou pé vini trankilman santwé adan zòn lan san menné. Ant dé zye-w, tout tèt-w byen rilaché é byen détann. Mwen envité-w kounyé-a pran konsyans kou-w é zépòl-ou. Ou ké desann dousman, anlè zépòl yo, anlè bò ekstè an bra yo, ou koute avanbra yo, puis men yo jis nan bout dwèt yo. É pou pli byen pran konsyans zòn sa yo, ou ké vini trankilman santwé an nivo...",
+    "source_id": "video:05807ec7742bc2af:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:15:09.782159+00:00",
+    "source_text_sha256": "73823405ac9b02f06a4a535a5ed8ff05239004d2469df0a4000f789ddbf179bd"
+  }
+}

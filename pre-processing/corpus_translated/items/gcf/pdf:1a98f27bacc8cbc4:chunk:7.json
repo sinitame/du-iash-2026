@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:7",
+  "target_language": "gcf",
+  "source_text_sha256": "895c4a268a7959721536bbbfb5c448615fe465c282991637f87874ee5eb668ca",
+  "translated_at": "2026-06-10T21:11:23.588172+00:00",
+  "model": "gpt-5-mini",
+  "text": "iwi\nPèch\nMyrtil\nKourzèt\nChou-flè osnon brokoli\nChampiñon\nPwavwon dou\nFAZ 1\nFAZ 2\nKi manjé mwen DWE é \nKAPAB manjé ?6\nTéléchajé sa paj-la \nan A4 pou enprimé\nManjé otorisé \nPou bay fib é vitamin, an respékté kantite é frékans ki défini épi diététisyen-w, épi an favoryizé on alimantasyon divès, ad sezon, dapré gou-w.",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:7:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 7,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "iwi\nPèch\nMyrtil\nKourzèt\nChou-flè osnon brokoli\nChampiñon\nPwavwon dou\nFAZ 1\nFAZ 2\nKi manjé mwen DWE é \nKAPAB manjé ?6\nTéléchajé sa paj-la \nan A4 pou enprimé\nManjé otorisé \nPou bay fib é vitamin, an respékté kantite é frékans ki défini épi diététisyen-w, épi an favoryizé on alimantasyon divès, ad sezon, dapré gou-w.",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:7",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:23.588172+00:00",
+    "source_text_sha256": "895c4a268a7959721536bbbfb5c448615fe465c282991637f87874ee5eb668ca"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "2f7751cd925e0d2d072e64dbff243b5f2ce747660f4060d3834b253db59cdc97",
+  "translated_at": "2026-06-10T20:38:38.871230+00:00",
+  "model": "gpt-5-mini",
+  "text": "> Inform your relatives and keep them as well informed as possible, they are very likely worried; plan to update them throughout the hospitalization\n2 Inform your employer\n> Notify the school if applicable (parent or child hospitalized)\n> Arrange for watering the plants, caring for a pet, collecting the mail and keeping your home clean and aired …\n> As the hospital is a shared living environment, be careful with your valuables …\n> Keep your small comforts in the hospital: your favorite tea, a radio for the news, or headphones for your music, books, your nightwear or toiletries … think about arranging your personal space, of course in respect of hospital rules and consideration for other patients.\n\n2/ Preparing the stay at\n\n[Les\n\nMany websites and videos are available on the internet: type \"prepare for your hospitalization\" into a search engine. In addition, the website of our hospital/clinic will also offer to facilitate the procedures.\n\n“O3 HOSPITALIZATION",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:1:en",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "> Inform your relatives and keep them as well informed as possible, they are very likely worried; plan to update them throughout the hospitalization\n2 Inform your employer\n> Notify the school if applicable (parent or child hospitalized)\n> Arrange for watering the plants, caring for a pet, collecting the mail and keeping your home clean and aired …\n> As the hospital is a shared living environment, be careful with your valuables …\n> Keep your small comforts in the hospital: your favorite tea, a radio for the news, or headphones for your music, books, your nightwear or toiletries … think about arranging your personal space, of course in respect of hospital rules and consideration for other patients.\n\n2/ Preparing the stay at\n\n[Les\n\nMany websites and videos are available on the internet: type \"prepare for your hospitalization\" into a search engine. In addition, the website of our hospital/clinic will also offer to facilitate the procedures.\n\n“O3 HOSPITALIZATION",
+    "source_id": "image:dba2e2f39e94c18e:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:38.871230+00:00",
+    "source_text_sha256": "2f7751cd925e0d2d072e64dbff243b5f2ce747660f4060d3834b253db59cdc97"
+  }
+}

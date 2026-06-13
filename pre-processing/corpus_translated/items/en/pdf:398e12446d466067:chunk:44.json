@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:44",
+  "target_language": "en",
+  "source_text_sha256": "b2f7e243db34d681fdb13563cd265ddc24b6dc40411d37524d8f19b5bdc25782",
+  "translated_at": "2026-06-10T20:41:14.946094+00:00",
+  "model": "gpt-5-mini",
+  "text": "1.73m2] every 8 weeks.\nFor vedolizumab, a study of two multicenter pediatric cohorts of 44 and 65 children with IBD showed that respectively 41% and 32% of them were in remission at week 14 of vedolizumab treatment (112,113). None of the adverse events observed was considered severe. In patients ≥ 40 kg, vedolizumab should be administered intravenously at 300 mg, in three induction doses over 6 weeks [weeks 0-2-6], followed by a maintenance treatment of 300 mg every 8 weeks. There are no specific recommendations regarding pediatric dosing. Younger pediatric patients may require an individualized dose of 6 mg/kg up to a maximum of 300 mg, or a dose based on body surface area [calculated based on a reference adult with a body surface area of 1.73m2]. Response to vedolizumab can take time [≥ 16 weeks]. Some centers prescribe oral corticosteroids as a \"bridging\" treatment while waiting for vedolizumab's effects to manifest (114,115).\nCombination therapy\nThe use as first-line o",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:44:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 44,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "1.73m2] every 8 weeks.\nFor vedolizumab, a study of two multicenter pediatric cohorts of 44 and 65 children with IBD showed that respectively 41% and 32% of them were in remission at week 14 of vedolizumab treatment (112,113). None of the adverse events observed was considered severe. In patients ≥ 40 kg, vedolizumab should be administered intravenously at 300 mg, in three induction doses over 6 weeks [weeks 0-2-6], followed by a maintenance treatment of 300 mg every 8 weeks. There are no specific recommendations regarding pediatric dosing. Younger pediatric patients may require an individualized dose of 6 mg/kg up to a maximum of 300 mg, or a dose based on body surface area [calculated based on a reference adult with a body surface area of 1.73m2]. Response to vedolizumab can take time [≥ 16 weeks]. Some centers prescribe oral corticosteroids as a \"bridging\" treatment while waiting for vedolizumab's effects to manifest (114,115).\nCombination therapy\nThe use as first-line o",
+    "source_id": "pdf:398e12446d466067:chunk:44",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:14.946094+00:00",
+    "source_text_sha256": "b2f7e243db34d681fdb13563cd265ddc24b6dc40411d37524d8f19b5bdc25782"
+  }
+}

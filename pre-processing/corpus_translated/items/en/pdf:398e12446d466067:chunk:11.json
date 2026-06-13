@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:11",
+  "target_language": "en",
+  "source_text_sha256": "9f21b706f276fa9b15a97e396975c7427c6d6141605b9be322d1619db003f384",
+  "translated_at": "2026-06-10T20:39:52.203391+00:00",
+  "model": "gpt-5-mini",
+  "text": "Monitoring of growth and puberty curves is essential to suggest the diagnosis, particularly in CD (32,33). (Figure 2)\n\nExtra-digestive manifestations may precede intestinal symptoms and are present at diagnosis in about 5 to 25% of cases (34). They are dominated by joint involvement, followed by dermatological involvement. Eye involvement is less common, but should also be taken into account in the initial clinical assessment. Finally, liver involvement may also be present (PSC and autoimmune hepatitis) (34). Often subtle, a thorough clinical examination and blood tests including a complete liver panel are required. An ophthalmologic examination and a dermatologic examination are recommended at the diagnosis of pediatric IBD.\n\nFigure 2: Growth curve of a child followed for CD, the red line represents the date of diagnosis and the start of therapeutic management",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:11:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 11,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Monitoring of growth and puberty curves is essential to suggest the diagnosis, particularly in CD (32,33). (Figure 2)\n\nExtra-digestive manifestations may precede intestinal symptoms and are present at diagnosis in about 5 to 25% of cases (34). They are dominated by joint involvement, followed by dermatological involvement. Eye involvement is less common, but should also be taken into account in the initial clinical assessment. Finally, liver involvement may also be present (PSC and autoimmune hepatitis) (34). Often subtle, a thorough clinical examination and blood tests including a complete liver panel are required. An ophthalmologic examination and a dermatologic examination are recommended at the diagnosis of pediatric IBD.\n\nFigure 2: Growth curve of a child followed for CD, the red line represents the date of diagnosis and the start of therapeutic management",
+    "source_id": "pdf:398e12446d466067:chunk:11",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:52.203391+00:00",
+    "source_text_sha256": "9f21b706f276fa9b15a97e396975c7427c6d6141605b9be322d1619db003f384"
+  }
+}

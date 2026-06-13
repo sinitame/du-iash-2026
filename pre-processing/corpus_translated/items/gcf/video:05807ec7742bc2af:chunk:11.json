@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:11",
+  "target_language": "gcf",
+  "source_text_sha256": "8698c8836ef28ff56ee0cabfcd21950c60ad16ec48736bbe411d357e053da15b",
+  "translated_at": "2026-06-10T21:16:32.823460+00:00",
+  "model": "gpt-5-mini",
+  "text": "1, twazyèm é dènnyé fwa. Mwen ka pwopozé-w ankò. Ou ké enspire adan kat tan. Ou fèmé nen. On, dé, twa, kat. Épi, twa, épi mwen lévé. Nou jwenn préditión la. On, dé, twa, mwen lévé. Épi ou ka expiré, ou souf pa bouch-la. Ou ké kapab fè dé, dé, twa, kat. Fè yo vit. Sé dé, twa, kat. Épi nou wè byen ou finn expiré. Épi nou wè byen ou finn expiré. Ou ka akeyi trankilman sansasyon yo. Adan mon tal ki ka apélé. Kò-w ka rilaché. Épi ou akeyi byen gloccal la. O, ki i é. Tronk-la é son analiz. Épi son jijman. Épi, la pêche, i m'a on lòt ankò. Épi i touché, i m'a on lòt pa.",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:11:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 11,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "1, twazyèm é dènnyé fwa. Mwen ka pwopozé-w ankò. Ou ké enspire adan kat tan. Ou fèmé nen. On, dé, twa, kat. Épi, twa, épi mwen lévé. Nou jwenn préditión la. On, dé, twa, mwen lévé. Épi ou ka expiré, ou souf pa bouch-la. Ou ké kapab fè dé, dé, twa, kat. Fè yo vit. Sé dé, twa, kat. Épi nou wè byen ou finn expiré. Épi nou wè byen ou finn expiré. Ou ka akeyi trankilman sansasyon yo. Adan mon tal ki ka apélé. Kò-w ka rilaché. Épi ou akeyi byen gloccal la. O, ki i é. Tronk-la é son analiz. Épi son jijman. Épi, la pêche, i m'a on lòt ankò. Épi i touché, i m'a on lòt pa.",
+    "source_id": "video:05807ec7742bc2af:chunk:11",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:32.823460+00:00",
+    "source_text_sha256": "8698c8836ef28ff56ee0cabfcd21950c60ad16ec48736bbe411d357e053da15b"
+  }
+}

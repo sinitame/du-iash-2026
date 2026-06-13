@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:85",
+  "target_language": "en",
+  "source_text_sha256": "fd81cdc012fd2f615407e4d268085e06c41f4c1906363c3dddc69d23aae16107",
+  "translated_at": "2026-06-10T20:42:35.629422+00:00",
+  "model": "gpt-5-mini",
+  "text": "ase in children: guidelines from the paediatric IBD \nPorto Group. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcerative colitis, Part 1: Ambulatory care - an \nevidence based guideline from European Crohn’s and Colitis \nOrganization and European Society for Paediatric Gastroenter-\nology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. \n2018;67:257-291.\n122.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcerative colitis, Part 2: Acute severe colitis - \nAn evidence-based consensus guideline from the European \nCrohn’s and Colitis Organization and the European Society \nfor Paediatric Gastroenterology, Hepatology and Nutrition. J \nPediatr Gastroenterol Nutr. 2018;67:292-310.\n123.\tMoore H, Dubes L, Fusillo S, et al. Tofacitinib therapy in children \nand young adults with pediatric-onset medically refractory \ninflammatory bowel disease. J Pediatr Gastroenterol Nutr. \n2021;73:e57-e62.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:85:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 85,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "ase in children: guidelines from the paediatric IBD \nPorto Group. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcerative colitis, Part 1: Ambulatory care - an \nevidence based guideline from European Crohn’s and Colitis \nOrganization and European Society for Paediatric Gastroenter-\nology, Hepatology and Nutrition. J Pediatr Gastroenterol Nutr. \n2018;67:257-291.\n122.\tTurner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcerative colitis, Part 2: Acute severe colitis - \nAn evidence-based consensus guideline from the European \nCrohn’s and Colitis Organization and the European Society \nfor Paediatric Gastroenterology, Hepatology and Nutrition. J \nPediatr Gastroenterol Nutr. 2018;67:292-310.\n123.\tMoore H, Dubes L, Fusillo S, et al. Tofacitinib therapy in children \nand young adults with pediatric-onset medically refractory \ninflammatory bowel disease. J Pediatr Gastroenterol Nutr. \n2021;73:e57-e62.",
+    "source_id": "pdf:398e12446d466067:chunk:85",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:35.629422+00:00",
+    "source_text_sha256": "fd81cdc012fd2f615407e4d268085e06c41f4c1906363c3dddc69d23aae16107"
+  }
+}

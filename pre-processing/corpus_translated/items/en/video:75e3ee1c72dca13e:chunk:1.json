@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "9cb8833b5fb2d03a12d6168c2854d8b3192c848d7ea9fbd7de15ba237e6966ce",
+  "translated_at": "2026-06-10T20:44:44.741404+00:00",
+  "model": "gpt-5-mini",
+  "text": "mainly to treat the disease and help you regain weight. This is called enteral nutrition. It's a mixture of liquid foods given using a tube that passes through the nose and goes into the stomach at night while you sleep. You can also have nutritional supplements in the form of small drinkable cartons every day and follow an adapted diet that will help you get better. Later, you will need to avoid smoking, because it makes the disease worse and it is not good for your health. There is no reason to stop going to school, because, as for others, it is important for your future. You may miss classes if you have to go to the hospital, if you get sick, or if you are too tired. But the adults will help you catch up. You can practice any sport, there are no restrictions, except in cases of great fatigue due to the disease or after an operation. And if you are tired, it is no shame to do a little less than the others. Do you still have questions about your illness? Then watch the other videos in the series Les mots de ventre, to help you better understand the miquilles and the difficulties q",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:1:en",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 1,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "mainly to treat the disease and help you regain weight. This is called enteral nutrition. It's a mixture of liquid foods given using a tube that passes through the nose and goes into the stomach at night while you sleep. You can also have nutritional supplements in the form of small drinkable cartons every day and follow an adapted diet that will help you get better. Later, you will need to avoid smoking, because it makes the disease worse and it is not good for your health. There is no reason to stop going to school, because, as for others, it is important for your future. You may miss classes if you have to go to the hospital, if you get sick, or if you are too tired. But the adults will help you catch up. You can practice any sport, there are no restrictions, except in cases of great fatigue due to the disease or after an operation. And if you are tired, it is no shame to do a little less than the others. Do you still have questions about your illness? Then watch the other videos in the series Les mots de ventre, to help you better understand the miquilles and the difficulties q",
+    "source_id": "video:75e3ee1c72dca13e:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:44.741404+00:00",
+    "source_text_sha256": "9cb8833b5fb2d03a12d6168c2854d8b3192c848d7ea9fbd7de15ba237e6966ce"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:7",
+  "target_language": "gcf",
+  "source_text_sha256": "d008d3b34522fa958b103943848979703daa9553985ce148b88ca9f8a62a2019",
+  "translated_at": "2026-06-10T21:21:31.829218+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sé tout an on : soupi, bayé, relachman, détann.\nÉ pou twazyèm é dènye fwa, man ka lésé-w an ritm-w, fè kon ou vlé. Fè l vit osnon plis dous.\nAnkò, man pwopoze-w enspire.\nMonte détann an avan, ou chaché poing-a-w. Ou chaché poing-a-w an dèyè, ou bloké respirasyon-w.\nÉ lè ou anvi, ou ké imajiné tanp-ou a distans. Swa rapid swa plis dous.\nÉ ou rivé ankò trankilman adan sansasyon-w.\nBayé, soupi, relachman, détann.\nAla, ou ké pé kounyé-a pratike lòt bò.\nPou sa, man ké chanjé appui-w. Man té di-w ké palé di sansasyon-w.\nMan ké chanjé appui-w. Ou ké entèvété appui-w.\nOu ké enspire.\nMonte détann an avan, fèmen poing-a-w an dèyè. Ou bloké respirasyon-w.\nÉ a-l'expire, ou anvoyé poing-a-w an dèyè. Ou anvoyé-y trè lwen an devan. Rapidman.\nÉ ou rivé ankò trankilman. É ou aksepte.\nBayé, soupi, détann. Trankil.\nNou ké pratike ankò dé fwa, ankò.\nOu ké enspire, ou monté poing-a-w an avan. Ou bloké respirasyon-w. Ou fèmen poing-a-w an dèyè.\nAvè entansyon pou mété kolè-a a distans.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:7:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 7,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Sé tout an on : soupi, bayé, relachman, détann.\nÉ pou twazyèm é dènye fwa, man ka lésé-w an ritm-w, fè kon ou vlé. Fè l vit osnon plis dous.\nAnkò, man pwopoze-w enspire.\nMonte détann an avan, ou chaché poing-a-w. Ou chaché poing-a-w an dèyè, ou bloké respirasyon-w.\nÉ lè ou anvi, ou ké imajiné tanp-ou a distans. Swa rapid swa plis dous.\nÉ ou rivé ankò trankilman adan sansasyon-w.\nBayé, soupi, relachman, détann.\nAla, ou ké pé kounyé-a pratike lòt bò.\nPou sa, man ké chanjé appui-w. Man té di-w ké palé di sansasyon-w.\nMan ké chanjé appui-w. Ou ké entèvété appui-w.\nOu ké enspire.\nMonte détann an avan, fèmen poing-a-w an dèyè. Ou bloké respirasyon-w.\nÉ a-l'expire, ou anvoyé poing-a-w an dèyè. Ou anvoyé-y trè lwen an devan. Rapidman.\nÉ ou rivé ankò trankilman. É ou aksepte.\nBayé, soupi, détann. Trankil.\nNou ké pratike ankò dé fwa, ankò.\nOu ké enspire, ou monté poing-a-w an avan. Ou bloké respirasyon-w. Ou fèmen poing-a-w an dèyè.\nAvè entansyon pou mété kolè-a a distans.",
+    "source_id": "video:161efbc66394dfb2:chunk:7",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:31.829218+00:00",
+    "source_text_sha256": "d008d3b34522fa958b103943848979703daa9553985ce148b88ca9f8a62a2019"
+  }
+}

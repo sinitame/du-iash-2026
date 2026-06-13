@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:27",
+  "target_language": "en",
+  "source_text_sha256": "e7113bd62cf550a0f9656d01d604a6b588b790a571d244c631e7ecc2c0600645",
+  "translated_at": "2026-06-10T20:40:28.779479+00:00",
+  "model": "gpt-5-mini",
+  "text": "An evolving process. It involves the \"intentional and planned transfer of adolescents and young adults with chronic physical and medical conditions from a child-centered care system to an adult-oriented care system\" (52). During this process, adolescents learn to take responsibility for all aspects of their health themselves, become informed users of the adult healthcare system, and acquire skills for independent living and self-management of their condition (53,54). These skills include, in particular, effective communication, decision-making, self-care, self-advocacy and self-determination (55,56).\n\nDuring this transition, responsibility gradually shifts from the parents to the patient. Thus, the transition of care involves a gradual change in knowledge, attitudes and behaviors (57). The transfer of care, from the pediatric gastroenterologist to the adult gastroenterologist, often represents the final stage of the transition process. The overall success of the care transition and the success of the final transfer are closely linked (58). The impli",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:27:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 27,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "An evolving process. It involves the \"intentional and planned transfer of adolescents and young adults with chronic physical and medical conditions from a child-centered care system to an adult-oriented care system\" (52). During this process, adolescents learn to take responsibility for all aspects of their health themselves, become informed users of the adult healthcare system, and acquire skills for independent living and self-management of their condition (53,54). These skills include, in particular, effective communication, decision-making, self-care, self-advocacy and self-determination (55,56).\n\nDuring this transition, responsibility gradually shifts from the parents to the patient. Thus, the transition of care involves a gradual change in knowledge, attitudes and behaviors (57). The transfer of care, from the pediatric gastroenterologist to the adult gastroenterologist, often represents the final stage of the transition process. The overall success of the care transition and the success of the final transfer are closely linked (58). The impli",
+    "source_id": "pdf:398e12446d466067:chunk:27",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:28.779479+00:00",
+    "source_text_sha256": "e7113bd62cf550a0f9656d01d604a6b588b790a571d244c631e7ecc2c0600645"
+  }
+}

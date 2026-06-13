@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "cd502d1565e9ffe2977b2205cfc8034350274415dcb11ea0c66e936e425d7ea6",
+  "translated_at": "2026-06-10T20:37:58.168681+00:00",
+  "model": "gpt-5-mini",
+  "text": "Treatments for the disease are most often continued at the time of conception and during pregnancy for this purpose.\nThe only surgery that impairs fertility is coloproctectomy with ileo-anal anastomosis by laparotomy, but this is rare and the laparoscopic approach used for several years has changed its impact on fertility.\n\npremature birth and spontaneous miscarriages.\n\nTREATMENTS AT THE TIME OF CONCEPTION AND DURING PREGNANCY\n\nMAINTENANCE / POSSIBLE USE AT CONCEPTION\n\nMAINTENANCE / POSSIBLE USE DURING PREGNANCY\n\nMESALAZINE\n\nyes\n\nyes, dose <3 g/\n\nSULFASALAZINE\n\nyes, supplement with folic acid\n\nyes, supplement with folic acid\n\nCORTICOSTEROIDS yes yes\nTHIOPURINES yes yes\nAzathioprine / 6Mercaptopurine\nMETHOTREXATE no. conception possible 24 hours after\nthe last dose in women,\nat least 3 months after the last\ndose in men\n\nANTI-TNF\nInfliximab, Adalimumab\nGolimumab* Certolizumab*\n\nyes\n\nyes, stopping treatment can be\ndiscussed on a case-by-case basis\n\nVEDOLIZUMAB\n\nyes\n\nthe indication to continue treatment should\nbe discussed on a case-by-case basis due to\nlimited scientific data\n\nUSTEKINUMAB",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:1:en",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 1,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Treatments for the disease are most often continued at the time of conception and during pregnancy for this purpose.\nThe only surgery that impairs fertility is coloproctectomy with ileo-anal anastomosis by laparotomy, but this is rare and the laparoscopic approach used for several years has changed its impact on fertility.\n\npremature birth and spontaneous miscarriages.\n\nTREATMENTS AT THE TIME OF CONCEPTION AND DURING PREGNANCY\n\nMAINTENANCE / POSSIBLE USE AT CONCEPTION\n\nMAINTENANCE / POSSIBLE USE DURING PREGNANCY\n\nMESALAZINE\n\nyes\n\nyes, dose <3 g/\n\nSULFASALAZINE\n\nyes, supplement with folic acid\n\nyes, supplement with folic acid\n\nCORTICOSTEROIDS yes yes\nTHIOPURINES yes yes\nAzathioprine / 6Mercaptopurine\nMETHOTREXATE no. conception possible 24 hours after\nthe last dose in women,\nat least 3 months after the last\ndose in men\n\nANTI-TNF\nInfliximab, Adalimumab\nGolimumab* Certolizumab*\n\nyes\n\nyes, stopping treatment can be\ndiscussed on a case-by-case basis\n\nVEDOLIZUMAB\n\nyes\n\nthe indication to continue treatment should\nbe discussed on a case-by-case basis due to\nlimited scientific data\n\nUSTEKINUMAB",
+    "source_id": "image:e12cd738bc600eaa:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:58.168681+00:00",
+    "source_text_sha256": "cd502d1565e9ffe2977b2205cfc8034350274415dcb11ea0c66e936e425d7ea6"
+  }
+}

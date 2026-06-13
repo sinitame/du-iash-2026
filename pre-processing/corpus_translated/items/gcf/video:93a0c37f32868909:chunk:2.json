@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "e7e5fbc9e184719102b0834987562a4f6b3801f1bb201d34aa62824769da986d",
+  "translated_at": "2026-06-10T21:17:56.883441+00:00",
+  "model": "gpt-5-mini",
+  "text": "É la, rèsté trankil, jis, mwen pé inspiré, expiré bò koté-w, san fòsé anyen. É jis, déja, pran konsyans sa souf vital la, i péètèt déja ou ni on mwayen prokonekté èvè kò-w. Kò-w trankil, détann, relaché. Paske ou ja pratike egzèsis sa-a. Mwen pwopoze kounyé-a pou do-w vini boujé on ti jan, ou pé gadé. Retrenn on ti kras men-w pou fè remouyé enèji-w. Ou ké pé protéjé dousman trankilman, ou ké protéjé do-w, protéjé kote-w, épi pétèt protéjé pati ou pé touché, é plis partikilyèman, pétèt pati térèn-la, pou ba-w on ti kras d’enèji. Ou trankil, dousman; kounyé-a ou ké pé viré pli dous posib. Pli lent posib, ou ké pé pozé men-w toutotou lonb-w, é ou ké menné chalè, de la bouche, de la boursheur adan vant-ou. Trankilman, dousman. Ou ké pé tapoté on ti jan kwiis-w, tapoté men-w, épi pran on gwo enspirasyon; pa hésité pou étiré, pran tou plas ou bizwen. Ou ké tout dousman repéré men-w asi",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:2:gcf",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 2,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "É la, rèsté trankil, jis, mwen pé inspiré, expiré bò koté-w, san fòsé anyen. É jis, déja, pran konsyans sa souf vital la, i péètèt déja ou ni on mwayen prokonekté èvè kò-w. Kò-w trankil, détann, relaché. Paske ou ja pratike egzèsis sa-a. Mwen pwopoze kounyé-a pou do-w vini boujé on ti jan, ou pé gadé. Retrenn on ti kras men-w pou fè remouyé enèji-w. Ou ké pé protéjé dousman trankilman, ou ké protéjé do-w, protéjé kote-w, épi pétèt protéjé pati ou pé touché, é plis partikilyèman, pétèt pati térèn-la, pou ba-w on ti kras d’enèji. Ou trankil, dousman; kounyé-a ou ké pé viré pli dous posib. Pli lent posib, ou ké pé pozé men-w toutotou lonb-w, é ou ké menné chalè, de la bouche, de la boursheur adan vant-ou. Trankilman, dousman. Ou ké pé tapoté on ti jan kwiis-w, tapoté men-w, épi pran on gwo enspirasyon; pa hésité pou étiré, pran tou plas ou bizwen. Ou ké tout dousman repéré men-w asi",
+    "source_id": "video:93a0c37f32868909:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:56.883441+00:00",
+    "source_text_sha256": "e7e5fbc9e184719102b0834987562a4f6b3801f1bb201d34aa62824769da986d"
+  }
+}

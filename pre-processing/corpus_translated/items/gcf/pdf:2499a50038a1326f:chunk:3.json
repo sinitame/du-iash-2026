@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "8c3ec6ddef51b3fa5930c4075ce3a93048b4e702c63d675eef01be697a870249",
+  "translated_at": "2026-06-10T20:51:15.145827+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nBON POU KONNÉ !\nPou édé-w chwazi, ou pé sèvi èvè aplikasyon Open Food Facts, sé Wikipédia manjé, gratis é kolaboratif.\nKOMAN SA MARCHÉ ?\nOu skann kòd-bar on prodwi épi téléfòn-w\nAplikasyon-an analiz konpozisyon-y é li ba-w on nòt\nI expliké-w kritè pou nòt-la : lasanté, lanvironnman\nI menm pwopoze-w altènativ ki pli an liy èvè kritè ou té ni dépi an kòmansman\nI rivé ké kèk nòt base anlè kritè ki pa pran tout an kont (egzanp : Yuka pénaliz fwomaj pou grès-y, menm si sé on prodwi natirèl). Mé yo toujou tro itil pou dékripte etikèt-la!\nOpen Food Facts mansyonné klasifikasyon NOVA.\nSé on sistèm ki ka klasé manjé dapré jan yo transformé :\nGROUPE 1 • Manjé pa transformé osnon piti transformé Sé manjé ki pli natirèl : fwui, légim, zé, lèt, vyann, diri… An tjé, tout sa ki pwès a létat orijinal.\nGROUPE 2 • Engrédiyan kulinè transformé Lwil, sik, sèl... Sé engrédiyan nou azouté pou kiziné, mé nou pa manjé yo pou kont yo.\nGROUPE 3 • Manjé",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:3:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 3,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 3 ---\nBON POU KONNÉ !\nPou édé-w chwazi, ou pé sèvi èvè aplikasyon Open Food Facts, sé Wikipédia manjé, gratis é kolaboratif.\nKOMAN SA MARCHÉ ?\nOu skann kòd-bar on prodwi épi téléfòn-w\nAplikasyon-an analiz konpozisyon-y é li ba-w on nòt\nI expliké-w kritè pou nòt-la : lasanté, lanvironnman\nI menm pwopoze-w altènativ ki pli an liy èvè kritè ou té ni dépi an kòmansman\nI rivé ké kèk nòt base anlè kritè ki pa pran tout an kont (egzanp : Yuka pénaliz fwomaj pou grès-y, menm si sé on prodwi natirèl). Mé yo toujou tro itil pou dékripte etikèt-la!\nOpen Food Facts mansyonné klasifikasyon NOVA.\nSé on sistèm ki ka klasé manjé dapré jan yo transformé :\nGROUPE 1 • Manjé pa transformé osnon piti transformé Sé manjé ki pli natirèl : fwui, légim, zé, lèt, vyann, diri… An tjé, tout sa ki pwès a létat orijinal.\nGROUPE 2 • Engrédiyan kulinè transformé Lwil, sik, sèl... Sé engrédiyan nou azouté pou kiziné, mé nou pa manjé yo pou kont yo.\nGROUPE 3 • Manjé",
+    "source_id": "pdf:2499a50038a1326f:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:15.145827+00:00",
+    "source_text_sha256": "8c3ec6ddef51b3fa5930c4075ce3a93048b4e702c63d675eef01be697a870249"
+  }
+}

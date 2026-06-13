@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:50",
+  "target_language": "gcf",
+  "source_text_sha256": "946bd02078c6c63fae5052c4db3ba10bb816aeee6c0fbafcdff94ea7abd4c302",
+  "translated_at": "2026-06-10T20:54:15.578749+00:00",
+  "model": "gpt-5-mini",
+  "text": "pa ustekinumab osinon vedolizumab pé konsidéré.\n\nAntibyotérapi adjuvann adan maladi Crohn fistulisant périnéal\n9\nMétronidazole 30 mg/kg pa jou, pa la bouch an 2 a 3 priz + ciprofloxacine 20 mg/kg pa jou, pa la bouch, an 2 priz.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:50:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 50,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "pa ustekinumab osinon vedolizumab pé konsidéré.\n\nAntibyotérapi adjuvann adan maladi Crohn fistulisant périnéal\n9\nMétronidazole 30 mg/kg pa jou, pa la bouch an 2 a 3 priz + ciprofloxacine 20 mg/kg pa jou, pa la bouch, an 2 priz.",
+    "source_id": "pdf:398e12446d466067:chunk:50",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:15.578749+00:00",
+    "source_text_sha256": "946bd02078c6c63fae5052c4db3ba10bb816aeee6c0fbafcdff94ea7abd4c302"
+  }
+}

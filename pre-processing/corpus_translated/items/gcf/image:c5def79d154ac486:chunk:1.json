@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "abbd565d397978ccb3159cd725bf781d095f460aac69b58f53d6ff0445c733ad",
+  "translated_at": "2026-06-10T20:48:40.385756+00:00",
+  "model": "gpt-5-mini",
+  "text": "Adan létyd fransé BIRD, ki fèt asou 1185 pasyan fransé é ki pibliyé an févrié 2017, on fatig sévè té jwenn chenn près di 50% pasyan yo; fatig-la té kontinyé an mitan ka ki an rémission. On ba siyifikatif an kalite vi té obsévè lakay 53% pasyan.\n\nLénflammasyon dijestif (vizib adan endoskopi, pa mézaj calprotectine adan kaka ou an IRM) é sistémik (vizib adan priz san, sitou pa Protéin C réaktif - CRP) sé siy aktivité é gravité MICI yo. I pli souvan prezan pandan poussées, mé i pé kontinyé an létat bazal koté pasyan ki an rémission. I egzisté osi fòm yo ka téyé « chroniques actives », koté symtòm yo minim (ou adan tout kès toléré pa pasyan) mé koté lézéon dijestif yo é donk lénflammasyon-an kontinyé.",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:1:gcf",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 1,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Adan létyd fransé BIRD, ki fèt asou 1185 pasyan fransé é ki pibliyé an févrié 2017, on fatig sévè té jwenn chenn près di 50% pasyan yo; fatig-la té kontinyé an mitan ka ki an rémission. On ba siyifikatif an kalite vi té obsévè lakay 53% pasyan.\n\nLénflammasyon dijestif (vizib adan endoskopi, pa mézaj calprotectine adan kaka ou an IRM) é sistémik (vizib adan priz san, sitou pa Protéin C réaktif - CRP) sé siy aktivité é gravité MICI yo. I pli souvan prezan pandan poussées, mé i pé kontinyé an létat bazal koté pasyan ki an rémission. I egzisté osi fòm yo ka téyé « chroniques actives », koté symtòm yo minim (ou adan tout kès toléré pa pasyan) mé koté lézéon dijestif yo é donk lénflammasyon-an kontinyé.",
+    "source_id": "image:c5def79d154ac486:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:40.385756+00:00",
+    "source_text_sha256": "abbd565d397978ccb3159cd725bf781d095f460aac69b58f53d6ff0445c733ad"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "edff78fb7a2d2ce33c2abe155a8b6f59911fc8a34e3906126bee2921a0149a37",
+  "translated_at": "2026-06-10T20:38:10.128646+00:00",
+  "model": "gpt-5-mini",
+  "text": "M Talking about it with the occupational physician:\n= At the first pre-employment medical visit, everything depends\non the relational context and how the visit goes. || there is no legal obligation to talk about it but the\nvisible signs of the illness (low body weight, scars...)\n\ncan sometimes prompt questions! If needed, ask your primary care physician for a certificate stating the illness and indicating that it is being treated or even stabilized - to be used depending on the occupational physician’s reaction and their knowledge of the subject.\næ When returning to work, the occupational physician can intervene so the employer adapts the workstation. || they will declare the employee unfit for the position if there is too great a gap between the job’s requirements and the employee’s physical and psychological condition, which allows the search for another suitable position within the company.",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:2:en",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 2,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "M Talking about it with the occupational physician:\n= At the first pre-employment medical visit, everything depends\non the relational context and how the visit goes. || there is no legal obligation to talk about it but the\nvisible signs of the illness (low body weight, scars...)\n\ncan sometimes prompt questions! If needed, ask your primary care physician for a certificate stating the illness and indicating that it is being treated or even stabilized - to be used depending on the occupational physician’s reaction and their knowledge of the subject.\næ When returning to work, the occupational physician can intervene so the employer adapts the workstation. || they will declare the employee unfit for the position if there is too great a gap between the job’s requirements and the employee’s physical and psychological condition, which allows the search for another suitable position within the company.",
+    "source_id": "image:b7377ddca8ae43aa:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:10.128646+00:00",
+    "source_text_sha256": "edff78fb7a2d2ce33c2abe155a8b6f59911fc8a34e3906126bee2921a0149a37"
+  }
+}

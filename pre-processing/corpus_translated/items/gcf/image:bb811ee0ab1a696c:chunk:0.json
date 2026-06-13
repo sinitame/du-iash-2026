@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "ce6b36d570a25025073ee3c41c57774d112ea599fd97f58d0a3cd3db51ca5491",
+  "translated_at": "2026-06-10T20:50:13.110487+00:00",
+  "model": "gpt-5-mini",
+  "text": "m\n>\n<\nLu\nœ\n>\n>\n\nVIV AVÈK\n\nVIV AVÈK SA MICI,\n\nANVAN KITÉ :\n\n= Fò ou ni vaksen DT Polio ajou ;\n\nsi ou ka pran anti-TNF, vaksin kont pneumokòk yo rekòmandé : Prevenar 13 epi Pneurmo 23 a 8 semenn entèval ;\n\npou vaksin kont lafyèv jòn :\n- li kontendiké si ou ka pran on tretman anti-TNF, on immunosuppressè (tankou Imurel oswa lòt), oswa kortizòn plis ki 20 mg pa jou\n- si vaksin-an fò, fò ou sispann tretman-an 3 mwa avan vaksin-an jis 3 semenn apré ;\n\npou paludism : fò yo bay menm tretman yo bay pou moun ki pa ni pwoblem sante. Trètman-an dépann sou péyi oswa menm sou zòn kot w ka alé, fò ou al chaché enfòmasyon adan sèvis konsèy pou vwayajè ki an jeneral jwenn adan CHU.\n\n#04\n\nMICI ÉPI VWAYAJ\n\nTout moun ka rèvè dé lorizon lwen ki sinyifi dekouvèt é vakans...\nFich-sa ka pwopoze-w on lis konplè - « to do list » - pou ba-w tout mwayen pou « gadé on bèl distans épi sa MICI » pandan séjou-a adan létranjé.",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:0:gcf",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "m\n>\n<\nLu\nœ\n>\n>\n\nVIV AVÈK\n\nVIV AVÈK SA MICI,\n\nANVAN KITÉ :\n\n= Fò ou ni vaksen DT Polio ajou ;\n\nsi ou ka pran anti-TNF, vaksin kont pneumokòk yo rekòmandé : Prevenar 13 epi Pneurmo 23 a 8 semenn entèval ;\n\npou vaksin kont lafyèv jòn :\n- li kontendiké si ou ka pran on tretman anti-TNF, on immunosuppressè (tankou Imurel oswa lòt), oswa kortizòn plis ki 20 mg pa jou\n- si vaksin-an fò, fò ou sispann tretman-an 3 mwa avan vaksin-an jis 3 semenn apré ;\n\npou paludism : fò yo bay menm tretman yo bay pou moun ki pa ni pwoblem sante. Trètman-an dépann sou péyi oswa menm sou zòn kot w ka alé, fò ou al chaché enfòmasyon adan sèvis konsèy pou vwayajè ki an jeneral jwenn adan CHU.\n\n#04\n\nMICI ÉPI VWAYAJ\n\nTout moun ka rèvè dé lorizon lwen ki sinyifi dekouvèt é vakans...\nFich-sa ka pwopoze-w on lis konplè - « to do list » - pou ba-w tout mwayen pou « gadé on bèl distans épi sa MICI » pandan séjou-a adan létranjé.",
+    "source_id": "image:bb811ee0ab1a696c:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:13.110487+00:00",
+    "source_text_sha256": "ce6b36d570a25025073ee3c41c57774d112ea599fd97f58d0a3cd3db51ca5491"
+  }
+}

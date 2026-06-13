@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "08c04e38240eccb5d42d69039d61c8e2d76494502079ca42bfe0980bba10a911",
+  "translated_at": "2026-06-10T20:39:37.774643+00:00",
+  "model": "gpt-5-mini",
+  "text": "primary immune deficiencies (2,5,6).\nTo date, the monogenic etiologies identified in VEO-IBD can be classified into six major (sometimes overlapping) categories: general immune dysregulation, T- and B-lymphocyte deficiencies, abnormalities of phagocytic function, hyperinflammatory and auto-inflammatory syndromes, epithelial barrier dysfunction and other conditions (2,5,6). Although a proportion of patients with VEO-IBD have an underlying monogenic etiology, the majority of them (> 70–80%) do not have a specific genetic cause identified (7).\nWorldwide, the incidence of pediatric IBD is highest in Canada, Northern Europe, and New Zealand. It is lowest in Southern Europe, Africa, Asia and South America (8). Among the 37 studies assessing incidence over time, 31 showed an increase in that incidence. There is also an emergence of pediatric IBD in regions where it had not been reported in the past (8).\nIn France, according to studies IBD begin in 7 to 25% of cases in childhood, with a ratio of 3 cases of",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:4:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 4,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "primary immune deficiencies (2,5,6).\nTo date, the monogenic etiologies identified in VEO-IBD can be classified into six major (sometimes overlapping) categories: general immune dysregulation, T- and B-lymphocyte deficiencies, abnormalities of phagocytic function, hyperinflammatory and auto-inflammatory syndromes, epithelial barrier dysfunction and other conditions (2,5,6). Although a proportion of patients with VEO-IBD have an underlying monogenic etiology, the majority of them (> 70–80%) do not have a specific genetic cause identified (7).\nWorldwide, the incidence of pediatric IBD is highest in Canada, Northern Europe, and New Zealand. It is lowest in Southern Europe, Africa, Asia and South America (8). Among the 37 studies assessing incidence over time, 31 showed an increase in that incidence. There is also an emergence of pediatric IBD in regions where it had not been reported in the past (8).\nIn France, according to studies IBD begin in 7 to 25% of cases in childhood, with a ratio of 3 cases of",
+    "source_id": "pdf:398e12446d466067:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:37.774643+00:00",
+    "source_text_sha256": "08c04e38240eccb5d42d69039d61c8e2d76494502079ca42bfe0980bba10a911"
+  }
+}

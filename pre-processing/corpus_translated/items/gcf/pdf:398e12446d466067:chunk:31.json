@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:31",
+  "target_language": "gcf",
+  "source_text_sha256": "9de1a8e25793453b576da98be2a86cd255f3d05cecf8b4777ef870c2abdd9a91",
+  "translated_at": "2026-06-10T20:53:16.350807+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pwosesis pou soutni l’otonomi k ap ogmante timoun lan, tandiske on kowòdonatè tranzisyon, si i egziste, ka fasilitè kontinwité é anpéché pèt kontak épi ekip medikal yo (60).\nI fò rèkòmandé fò ekip pédyatrique préparé dokiman transfè konplé ki résimé listwar médical, tretman yo jwenn é objèktif pou lavni. Modèl konsiltasyon konjwen, koté pédyat é gastroentérolog adilt rasanblé, fè konfyans vin pli fò é ankourajé échanj lenfòmasyon (59,60). Donné ki disponib yo rété limité, mé i montré ké pwogram estriktiré amelyoré observans adrès a medikaman, diminuyé ospitalizasyon é ogmanté satisfaksyon pasyan yo (59,60).\nTretman maladi Crohn pédiatrik\nPrensip jénéral pou pran an chaj\n(Tableau 6)\nRèkòmandasyon ESPGHAN é ECCO (European Crohn’s and Colitis Organization) sou jesyon médical MC pédiatrik té ajou an 2021 (62).\nStrateji terapetik la dwèt endividyalizé an pran an kont laj la, fenotip la (klasifikasyon Pari), lokalizasyon an, konpòtman évolitif,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:31:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 31,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Pwosesis pou soutni l’otonomi k ap ogmante timoun lan, tandiske on kowòdonatè tranzisyon, si i egziste, ka fasilitè kontinwité é anpéché pèt kontak épi ekip medikal yo (60).\nI fò rèkòmandé fò ekip pédyatrique préparé dokiman transfè konplé ki résimé listwar médical, tretman yo jwenn é objèktif pou lavni. Modèl konsiltasyon konjwen, koté pédyat é gastroentérolog adilt rasanblé, fè konfyans vin pli fò é ankourajé échanj lenfòmasyon (59,60). Donné ki disponib yo rété limité, mé i montré ké pwogram estriktiré amelyoré observans adrès a medikaman, diminuyé ospitalizasyon é ogmanté satisfaksyon pasyan yo (59,60).\nTretman maladi Crohn pédiatrik\nPrensip jénéral pou pran an chaj\n(Tableau 6)\nRèkòmandasyon ESPGHAN é ECCO (European Crohn’s and Colitis Organization) sou jesyon médical MC pédiatrik té ajou an 2021 (62).\nStrateji terapetik la dwèt endividyalizé an pran an kont laj la, fenotip la (klasifikasyon Pari), lokalizasyon an, konpòtman évolitif,",
+    "source_id": "pdf:398e12446d466067:chunk:31",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:16.350807+00:00",
+    "source_text_sha256": "9de1a8e25793453b576da98be2a86cd255f3d05cecf8b4777ef870c2abdd9a91"
+  }
+}

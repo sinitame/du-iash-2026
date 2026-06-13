@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "b43cd134db29fcf89fb3f1c3da0e72452be20a2e938bfb7cd4aaaa8861e54f10",
+  "translated_at": "2026-06-10T21:18:01.609867+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ès sé nòmal pou ou santi on ti kras fatigé ?  \nWi, sé vréman nòmal pou santi fatigé èk maladi-a paskè TNF‑la, pa égzamp, sé on molécule ; i ka alé adan lèsans sèvèl-la é i ka fè nou fatigé. Alò enflamasyon ka fatigé. Douleur-la ka fatigé, konsékwansman, sé on maladi inflamatuè ki ka mennen doulè, dyaré ; épi dyaré i ka bay dézidratasyon, nou pé pèd fè. Tout sa sé bagay ki ka fè nou fatigé. Alò maladi-a menm ka fè nou fatigé.  \n\nMé pafwa, menm lè on an rémission, pa ni anemi, pa ni carence an fè, pa ni carence an zenk, pa ni carence an vitamin, menm lè on rémission vréman pwofon, fatig-la ka resté. Pafwa sé dènnyé biten ki resté é pasyan yo souvan épwizé. É sa-a pé ni pliziè koz. Prémyé bagay, sé pa si senp viv épi on maladi kronik é poté tout chay mantal-la an pémanans, toujou ka panse, toujou ka anticipé, toujou ka mandé ki sa m ké fè si sa rivé, si mwen ta vin twòp malad, elatrié. Alò chay mantal-la li fatigan. I pé ni on fati",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:0:gcf",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 0,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ès sé nòmal pou ou santi on ti kras fatigé ?  \nWi, sé vréman nòmal pou santi fatigé èk maladi-a paskè TNF‑la, pa égzamp, sé on molécule ; i ka alé adan lèsans sèvèl-la é i ka fè nou fatigé. Alò enflamasyon ka fatigé. Douleur-la ka fatigé, konsékwansman, sé on maladi inflamatuè ki ka mennen doulè, dyaré ; épi dyaré i ka bay dézidratasyon, nou pé pèd fè. Tout sa sé bagay ki ka fè nou fatigé. Alò maladi-a menm ka fè nou fatigé.  \n\nMé pafwa, menm lè on an rémission, pa ni anemi, pa ni carence an fè, pa ni carence an zenk, pa ni carence an vitamin, menm lè on rémission vréman pwofon, fatig-la ka resté. Pafwa sé dènnyé biten ki resté é pasyan yo souvan épwizé. É sa-a pé ni pliziè koz. Prémyé bagay, sé pa si senp viv épi on maladi kronik é poté tout chay mantal-la an pémanans, toujou ka panse, toujou ka anticipé, toujou ka mandé ki sa m ké fè si sa rivé, si mwen ta vin twòp malad, elatrié. Alò chay mantal-la li fatigan. I pé ni on fati",
+    "source_id": "video:89dd5c053905ca94:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:01.609867+00:00",
+    "source_text_sha256": "b43cd134db29fcf89fb3f1c3da0e72452be20a2e938bfb7cd4aaaa8861e54f10"
+  }
+}

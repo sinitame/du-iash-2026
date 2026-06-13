@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:5728a2c9f75dc554:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "dbf33bc5e5c905e7d288505a2adb58b2112c9a01cc4a6117392e02a411fbdb06",
+  "translated_at": "2026-06-10T20:38:09.368239+00:00",
+  "model": "gpt-5-mini",
+  "text": "Crohn's - UC: France\n\nTOBACCO:\nIT'S NOT FOR ME!\n\nIn this leaflet, we explain how tobacco affects your health and especially your Crohn's disease or your ulcerative colitis. The idea: don’t start smoking or stop quickly if you already smoke.\n\nTOBACCO IS REALLY NOT A FRIEND!\n\nTobacco is the leading cause of preventable death. In France, 200 people die from it every day — that’s 75,000 per year, it’s enormous! It’s like a plane crash every day!\n\nTobacco contains more than 4,000 chemical substances, including toxic gases and heavy metals, which are very harmful and carcinogenic!\n\nAmong these substances is nicotine, which is the most addictive drug there is, ahead of heroin, alcohol and cannabis. When you smoke a cigarette, nicotine reaches the brain in just a few seconds. It releases dopamine, which gives a feeling of pleasure and well‑being, like when basic needs are satisfied such as eating, drinking, breathing, sleeping. The brain quickly gets used to this increase in dopamine and in re-",
+  "row": {
+    "id": "image:5728a2c9f75dc554:chunk:0:en",
+    "document_id": "image:5728a2c9f75dc554",
+    "chunk_index": 0,
+    "source_file": "tabac.png",
+    "source_path": "/data/equipes/equipe-04/images/tabac.png",
+    "text_path": "corpus/texts/images/tabac.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Crohn's - UC: France\n\nTOBACCO:\nIT'S NOT FOR ME!\n\nIn this leaflet, we explain how tobacco affects your health and especially your Crohn's disease or your ulcerative colitis. The idea: don’t start smoking or stop quickly if you already smoke.\n\nTOBACCO IS REALLY NOT A FRIEND!\n\nTobacco is the leading cause of preventable death. In France, 200 people die from it every day — that’s 75,000 per year, it’s enormous! It’s like a plane crash every day!\n\nTobacco contains more than 4,000 chemical substances, including toxic gases and heavy metals, which are very harmful and carcinogenic!\n\nAmong these substances is nicotine, which is the most addictive drug there is, ahead of heroin, alcohol and cannabis. When you smoke a cigarette, nicotine reaches the brain in just a few seconds. It releases dopamine, which gives a feeling of pleasure and well‑being, like when basic needs are satisfied such as eating, drinking, breathing, sleeping. The brain quickly gets used to this increase in dopamine and in re-",
+    "source_id": "image:5728a2c9f75dc554:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:09.368239+00:00",
+    "source_text_sha256": "dbf33bc5e5c905e7d288505a2adb58b2112c9a01cc4a6117392e02a411fbdb06"
+  }
+}

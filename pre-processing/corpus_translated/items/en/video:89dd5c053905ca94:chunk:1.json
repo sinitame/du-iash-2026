@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "2dc9375b40978cfa185e24f993b94987d6c6a40df3c384809ac15261b130f56e",
+  "translated_at": "2026-06-10T20:46:47.643070+00:00",
+  "model": "gpt-5-mini",
+  "text": "seeing everything to anticipate, anticipating, possibly — but what do I do then, should I rinse, should I turn the sick person, etc. So this mental load is tiring. There can also be psychological fatigue, meaning that sometimes we don't accept it. We don't accept, we don't accept that we will live with a chronic illness and it's a burden, and that burden is exhausting. And actually, there is also poor eating habits, meaning eating in any old way, because we tell ourselves, after all, if I eat without fiber, without… also without vitamins, without vitamins, without vitamins — that I would have less to heal, less stomach pain. If I'm too tired to go exercise, but in fact it's a vicious circle. Exercise will re-energize. So keeping up physical activity will give you back some pep; eating, making sure there are fruits, vegetables, dairy products, vitamin-rich foods — all that will also create an energizing effect. When the burden is too heavy, maybe you need to accept getting a little helping hand, and the mental load is the same. There comes a time, then…",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:1:en",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 1,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "seeing everything to anticipate, anticipating, possibly — but what do I do then, should I rinse, should I turn the sick person, etc. So this mental load is tiring. There can also be psychological fatigue, meaning that sometimes we don't accept it. We don't accept, we don't accept that we will live with a chronic illness and it's a burden, and that burden is exhausting. And actually, there is also poor eating habits, meaning eating in any old way, because we tell ourselves, after all, if I eat without fiber, without… also without vitamins, without vitamins, without vitamins — that I would have less to heal, less stomach pain. If I'm too tired to go exercise, but in fact it's a vicious circle. Exercise will re-energize. So keeping up physical activity will give you back some pep; eating, making sure there are fruits, vegetables, dairy products, vitamin-rich foods — all that will also create an energizing effect. When the burden is too heavy, maybe you need to accept getting a little helping hand, and the mental load is the same. There comes a time, then…",
+    "source_id": "video:89dd5c053905ca94:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:47.643070+00:00",
+    "source_text_sha256": "2dc9375b40978cfa185e24f993b94987d6c6a40df3c384809ac15261b130f56e"
+  }
+}

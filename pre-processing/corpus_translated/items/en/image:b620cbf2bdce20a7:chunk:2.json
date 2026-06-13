@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "1708ed631550aafbad5ff59fd62c5646e65acfe907fee678314b7f85c3a851df",
+  "translated_at": "2026-06-10T20:37:35.777507+00:00",
+  "model": "gpt-5-mini",
+  "text": "You will therefore be on sick leave for that day (sick leave is not split into half-days) and, depending on your entitlements and your situation, you may receive daily sickness benefits from social security.\nFor people with ALD, the 3-day waiting period for the payment of daily benefits applies only once per 3-year period.\nDuring sick leave the employer may pay a top-up to your salary; the rules depend on your length of service in the company (generally at least one year) and on the applicable collective bargaining agreement.\nThe same applies to the rules for taking waiting days into account.\n\nafa - 32 rue de cambrai 75019 Pari\ne-mail - website: www.afa.asso.fr\n\nOctober 2021\n\nAttention: after 3 years you must work one year before you can again benefit from paid sick leave (in certain social security funds, attending a day hospital during this one-year period interrupts the reconstitution of rights; if you have difficulty, report it to afa)",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:2:en",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 2,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "You will therefore be on sick leave for that day (sick leave is not split into half-days) and, depending on your entitlements and your situation, you may receive daily sickness benefits from social security.\nFor people with ALD, the 3-day waiting period for the payment of daily benefits applies only once per 3-year period.\nDuring sick leave the employer may pay a top-up to your salary; the rules depend on your length of service in the company (generally at least one year) and on the applicable collective bargaining agreement.\nThe same applies to the rules for taking waiting days into account.\n\nafa - 32 rue de cambrai 75019 Pari\ne-mail - website: www.afa.asso.fr\n\nOctober 2021\n\nAttention: after 3 years you must work one year before you can again benefit from paid sick leave (in certain social security funds, attending a day hospital during this one-year period interrupts the reconstitution of rights; if you have difficulty, report it to afa)",
+    "source_id": "image:b620cbf2bdce20a7:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:35.777507+00:00",
+    "source_text_sha256": "1708ed631550aafbad5ff59fd62c5646e65acfe907fee678314b7f85c3a851df"
+  }
+}

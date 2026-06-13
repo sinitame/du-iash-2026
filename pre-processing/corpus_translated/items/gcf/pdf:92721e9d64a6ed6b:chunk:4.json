@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "d46e40dacd390345fa6ca6627d0655a864f554b52dff319359f1d0eaa6c2d61d",
+  "translated_at": "2026-06-10T20:51:33.442714+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\nSÉ KI KI PÉT AFÈTÉ NÉGATIVMAN MIKROBIOT'W :\nManjé ki twòp transformé\nAntibyotik\n\nAtansyon, dépan étenn jan lasanté-w é sentòm dijestif-w ; si ou an on pousée oubyen si ou ka pli byen, i enpòtan pou ou ni on alimantasyon ki otan divès posib. Pou sa, i té kapab itil pou mandé konsèy adan ou gastro-entérolog osnon an dyetisyen.  \nAdan l'afa, nou ni dyetisyen ki pé akonpannyé-w é bay konsèy a paran-w osi. On pèmanans téléfonik ka fèt chak madi apré-midi adépi 14h a 18h.  \n\nOu pé osi aji an fè aktivité fizik régilyé, aprann jéré anksyété-w an palé épi moun ki ka édé-w, é di NON a sa ki pé fè mal a lasanté-w, kon on egzanp tabak !  \nPou édé-w pran swen lasanté-w é viv byen épi on MICI, l'afa ka pwopoze souvan atelyé an liy épi lòt adolesan malad, animés pa ekspè ki ka réponn a tout kesyon san tabou ! Alé asi Mikado pou savé pwochen dat yo !\n\nRéalizé épi soutyen di",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:4:gcf",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 4,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 3 ---\nSÉ KI KI PÉT AFÈTÉ NÉGATIVMAN MIKROBIOT'W :\nManjé ki twòp transformé\nAntibyotik\n\nAtansyon, dépan étenn jan lasanté-w é sentòm dijestif-w ; si ou an on pousée oubyen si ou ka pli byen, i enpòtan pou ou ni on alimantasyon ki otan divès posib. Pou sa, i té kapab itil pou mandé konsèy adan ou gastro-entérolog osnon an dyetisyen.  \nAdan l'afa, nou ni dyetisyen ki pé akonpannyé-w é bay konsèy a paran-w osi. On pèmanans téléfonik ka fèt chak madi apré-midi adépi 14h a 18h.  \n\nOu pé osi aji an fè aktivité fizik régilyé, aprann jéré anksyété-w an palé épi moun ki ka édé-w, é di NON a sa ki pé fè mal a lasanté-w, kon on egzanp tabak !  \nPou édé-w pran swen lasanté-w é viv byen épi on MICI, l'afa ka pwopoze souvan atelyé an liy épi lòt adolesan malad, animés pa ekspè ki ka réponn a tout kesyon san tabou ! Alé asi Mikado pou savé pwochen dat yo !\n\nRéalizé épi soutyen di",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:33.442714+00:00",
+    "source_text_sha256": "d46e40dacd390345fa6ca6627d0655a864f554b52dff319359f1d0eaa6c2d61d"
+  }
+}

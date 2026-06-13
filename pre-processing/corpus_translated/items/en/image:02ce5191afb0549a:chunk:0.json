@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:02ce5191afb0549a:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "89e3661a74bf01297ce090e69e47a9c060170c18acb3b5b107eb7d05f93f1497",
+  "translated_at": "2026-06-10T20:37:33.199927+00:00",
+  "model": "gpt-5-mini",
+  "text": "Z\nO\nF\nZ\nLu\n>\nsu\nœ\na\n\nFATIGUE\n\nAND DEPRESSION\n\nWHAT IS DEPRESSION ?\n\nThe World Health Organization defines depression\nas a mental disorder, characterized by sadness,\nloss of interest or pleasure, feelings of\nguilt or low self-esteem, sleep or appetite disturbances, a feeling of fatigue and a\nlack of concentration.\n\nIt therefore variably includes:\nAlmost constant sadness, sometimes with crying\nLoss of interest and pleasure in activities\nnormally enjoyed\nFeelings of worthlessness and guilt\nRecurrent thoughts of death or suicide\nPsychomotor slowing\nFatigue or loss of energy\nLoss of appetite\n\nWHAT IS THE LINK BETWEEN Sleep disturbances\nFATIGUE AND DEPRESSION ? Difficulties in concentration and memory\n\nAs stated above, fatigue is an integral\npart of the symptoms of depression.\nIt is known that patients with IBD frequently suffer\nfrom depression and anxiety disorders.\n\nIn the recent French BIRD study, there were MANAGING YOUR FATIGUE .\n\neven depressive signs in nearly 50% and a",
+  "row": {
+    "id": "image:02ce5191afb0549a:chunk:0:en",
+    "document_id": "image:02ce5191afb0549a",
+    "chunk_index": 0,
+    "source_file": "fatigue_depression.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_depression.png",
+    "text_path": "corpus/texts/images/fatigue_depression.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Z\nO\nF\nZ\nLu\n>\nsu\nœ\na\n\nFATIGUE\n\nAND DEPRESSION\n\nWHAT IS DEPRESSION ?\n\nThe World Health Organization defines depression\nas a mental disorder, characterized by sadness,\nloss of interest or pleasure, feelings of\nguilt or low self-esteem, sleep or appetite disturbances, a feeling of fatigue and a\nlack of concentration.\n\nIt therefore variably includes:\nAlmost constant sadness, sometimes with crying\nLoss of interest and pleasure in activities\nnormally enjoyed\nFeelings of worthlessness and guilt\nRecurrent thoughts of death or suicide\nPsychomotor slowing\nFatigue or loss of energy\nLoss of appetite\n\nWHAT IS THE LINK BETWEEN Sleep disturbances\nFATIGUE AND DEPRESSION ? Difficulties in concentration and memory\n\nAs stated above, fatigue is an integral\npart of the symptoms of depression.\nIt is known that patients with IBD frequently suffer\nfrom depression and anxiety disorders.\n\nIn the recent French BIRD study, there were MANAGING YOUR FATIGUE .\n\neven depressive signs in nearly 50% and a",
+    "source_id": "image:02ce5191afb0549a:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:33.199927+00:00",
+    "source_text_sha256": "89e3661a74bf01297ce090e69e47a9c060170c18acb3b5b107eb7d05f93f1497"
+  }
+}

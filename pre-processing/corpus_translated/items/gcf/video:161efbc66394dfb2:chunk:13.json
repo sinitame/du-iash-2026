@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:13",
+  "target_language": "gcf",
+  "source_text_sha256": "0f3fa4de4054267dab9067a26af0f54b4e24182bae6ceb407a8b75f39195e44f",
+  "translated_at": "2026-06-10T21:22:13.625164+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ou ké inspiré, lé pli douceman posib asou sternum. Ou ké kenbé on ti tan chak souf, épi lè sa rivé, ou ké expiré on ti kras. Ou déwoulé tout an trankilité. Ou ka santi tout sansasyon-la, tout douceman.\n\nAster, pou édé-w ak lapè anpé, mwen envité-w pou vini détann douceman. Pose men-w douceman asou vant-la. Ou pé pran on inspi douceman, an dé tan ; lè vant-la ka gonflé, santi-y, épi rèsté tout douceman.\n\nLè ou expiré, fè-l osi douceman posib. Trè, trè douceman. Déwoulé trankilman é santi kè-a é lòt sansasyon adan kò-w.\n\nNou ké repran é répété sa kat fwa. Apré, apwoch men-w asou nombril-la, é inspiré pli douceman posib, lassé kò-w an repo, an douser. Pa attann nén bagay fòs ; jis rèsté kalm é gadé sansasyon-la.\n\nSi pwèsion an vin fò, si tout bagay pasé twò vit, ralanti : pran plis tan pou inspiré é expiré, toujou douceman.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:13:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 13,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ou ké inspiré, lé pli douceman posib asou sternum. Ou ké kenbé on ti tan chak souf, épi lè sa rivé, ou ké expiré on ti kras. Ou déwoulé tout an trankilité. Ou ka santi tout sansasyon-la, tout douceman.\n\nAster, pou édé-w ak lapè anpé, mwen envité-w pou vini détann douceman. Pose men-w douceman asou vant-la. Ou pé pran on inspi douceman, an dé tan ; lè vant-la ka gonflé, santi-y, épi rèsté tout douceman.\n\nLè ou expiré, fè-l osi douceman posib. Trè, trè douceman. Déwoulé trankilman é santi kè-a é lòt sansasyon adan kò-w.\n\nNou ké repran é répété sa kat fwa. Apré, apwoch men-w asou nombril-la, é inspiré pli douceman posib, lassé kò-w an repo, an douser. Pa attann nén bagay fòs ; jis rèsté kalm é gadé sansasyon-la.\n\nSi pwèsion an vin fò, si tout bagay pasé twò vit, ralanti : pran plis tan pou inspiré é expiré, toujou douceman.",
+    "source_id": "video:161efbc66394dfb2:chunk:13",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:13.625164+00:00",
+    "source_text_sha256": "0f3fa4de4054267dab9067a26af0f54b4e24182bae6ceb407a8b75f39195e44f"
+  }
+}

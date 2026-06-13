@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:16",
+  "target_language": "en",
+  "source_text_sha256": "c7ad179035549a223b0003e5e30220da6e1de9642bc712f956d864b82cc695a4",
+  "translated_at": "2026-06-10T20:43:31.044444+00:00",
+  "model": "gpt-5-mini",
+  "text": "r where the toilets are, where the nurse's office is and to take spare clothes if needed.\nSHOULD I INFORM THEIR TEACHERS AND CLASSMATES?\nIt is up to your child to decide. Because this illness is hard to explain and children can sometimes be cruel to one another, your child may want to protect themself by saying nothing. Respect their choice.\nOf course, if hospitalizations or absences are frequent, you should inform the teachers or the principals. Your child should also be allowed to leave the classroom in the middle of a lesson when they need to, or to have their schoolwork brought to them when they miss a lot.\nWHAT IS THE RISK FOR MY OTHER CHILDREN OF HAVING THE SAME ILLNESS?\nIt is possible, although uncommon, that a family member has the same disease. Studies have shown that about 15 to 20% of patients have a relative in their family with IBD. Even though we now know that there are genetic, sometimes hereditary factors in these diseases, that is not sufficient, and there are necessary environmental factors that are not yet identified; it is currently impossible to predict who may have it, and as",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:16:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 16,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "r where the toilets are, where the nurse's office is and to take spare clothes if needed.\nSHOULD I INFORM THEIR TEACHERS AND CLASSMATES?\nIt is up to your child to decide. Because this illness is hard to explain and children can sometimes be cruel to one another, your child may want to protect themself by saying nothing. Respect their choice.\nOf course, if hospitalizations or absences are frequent, you should inform the teachers or the principals. Your child should also be allowed to leave the classroom in the middle of a lesson when they need to, or to have their schoolwork brought to them when they miss a lot.\nWHAT IS THE RISK FOR MY OTHER CHILDREN OF HAVING THE SAME ILLNESS?\nIt is possible, although uncommon, that a family member has the same disease. Studies have shown that about 15 to 20% of patients have a relative in their family with IBD. Even though we now know that there are genetic, sometimes hereditary factors in these diseases, that is not sufficient, and there are necessary environmental factors that are not yet identified; it is currently impossible to predict who may have it, and as",
+    "source_id": "pdf:a74238ee30f57428:chunk:16",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:31.044444+00:00",
+    "source_text_sha256": "c7ad179035549a223b0003e5e30220da6e1de9642bc712f956d864b82cc695a4"
+  }
+}

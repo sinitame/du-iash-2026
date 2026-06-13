@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "8ec168cafe612718d729755b83529f595f3a3b8ce038fd77079ce41f873e9ea8",
+  "translated_at": "2026-06-10T20:38:52.102495+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nThe best-known emulsifiers are: soy lecithin (E322), carrageenan (E407), polysorbates (E432–E436) and carboxymethylcellulose (E466).\nThey are commonly found in:\n• Industrial sauces  \n(mayonnaise, ketchup…)\n• Ice creams, dairy desserts\n• Some sliced sandwich breads and biscuits\n• Ready-made meals\nWHAT CAN I DO?\n• Look at and analyze labels. The fewer additives, the better. Find in your Mikado program the sheet “Deciphering labels” to become an expert.\n• Tip: An app like Open Food Facts lets you scan products, see their composition and in particular identify additives and their potential impact on health. The app also lets you compare similar products.\n• Favor homemade cooking and fresh foods (fewer additives than in processed foods). Cooking at home also helps you rediscover a more authentic taste in foods.\nIn summary, not all additives are the same. Some additives are harmless. For others, studies are ongoing or have already proven their negative impact on our health. Products containing additives",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:3:en",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 3,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 2 ---\nThe best-known emulsifiers are: soy lecithin (E322), carrageenan (E407), polysorbates (E432–E436) and carboxymethylcellulose (E466).\nThey are commonly found in:\n• Industrial sauces  \n(mayonnaise, ketchup…)\n• Ice creams, dairy desserts\n• Some sliced sandwich breads and biscuits\n• Ready-made meals\nWHAT CAN I DO?\n• Look at and analyze labels. The fewer additives, the better. Find in your Mikado program the sheet “Deciphering labels” to become an expert.\n• Tip: An app like Open Food Facts lets you scan products, see their composition and in particular identify additives and their potential impact on health. The app also lets you compare similar products.\n• Favor homemade cooking and fresh foods (fewer additives than in processed foods). Cooking at home also helps you rediscover a more authentic taste in foods.\nIn summary, not all additives are the same. Some additives are harmless. For others, studies are ongoing or have already proven their negative impact on our health. Products containing additives",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:52.102495+00:00",
+    "source_text_sha256": "8ec168cafe612718d729755b83529f595f3a3b8ce038fd77079ce41f873e9ea8"
+  }
+}

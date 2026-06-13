@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "8c5d48a58457f3cc6c2086818a46d26b7d09a1b490256a3675fd4def448e23cb",
+  "translated_at": "2026-06-10T20:50:43.016236+00:00",
+  "model": "gpt-5-mini",
+  "text": "GID POU FÈ BON CHWA\nAprann li etikèt manjé-a, sé vréman enpòtan ! Sa ka pèmèt ou konnèt egzakteman sa ou ka manjé é fè chwa ki byen enfòmé. Linfòmasyon asou etikèt-la dwèt klè é fasil pou konprann pou ou pé désidé an konesans di kóz. Sé an plis enpòtan si ou ni on MICI (Maladi Enflamatwa Krónik di Entestin) é si ou vlé pran swen manjé-w.",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:1:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 1,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "GID POU FÈ BON CHWA\nAprann li etikèt manjé-a, sé vréman enpòtan ! Sa ka pèmèt ou konnèt egzakteman sa ou ka manjé é fè chwa ki byen enfòmé. Linfòmasyon asou etikèt-la dwèt klè é fasil pou konprann pou ou pé désidé an konesans di kóz. Sé an plis enpòtan si ou ni on MICI (Maladi Enflamatwa Krónik di Entestin) é si ou vlé pran swen manjé-w.",
+    "source_id": "pdf:2499a50038a1326f:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:43.016236+00:00",
+    "source_text_sha256": "8c5d48a58457f3cc6c2086818a46d26b7d09a1b490256a3675fd4def448e23cb"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "d007efdb6413c1b2fad19d30bb5e73d071e0325272bbde8791d08b344e6632df",
+  "translated_at": "2026-06-10T21:13:46.480749+00:00",
+  "model": "gpt-5-mini",
+  "text": "ki plis ki lòt. Ou ka toujou poze kestion asi maladi-w ? Alò, gadé lòt vidéo di séri Les mots de ventre, pou édé-w pli byen konprann miquilles-la é difikilté ou ka jwenn chak jou. Konprann maladi-w sé onterattement, sé pli bon mwayen pou gardé moral é baté pou alé byen.",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:2:gcf",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 2,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "ki plis ki lòt. Ou ka toujou poze kestion asi maladi-w ? Alò, gadé lòt vidéo di séri Les mots de ventre, pou édé-w pli byen konprann miquilles-la é difikilté ou ka jwenn chak jou. Konprann maladi-w sé onterattement, sé pli bon mwayen pou gardé moral é baté pou alé byen.",
+    "source_id": "video:75e3ee1c72dca13e:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:46.480749+00:00",
+    "source_text_sha256": "d007efdb6413c1b2fad19d30bb5e73d071e0325272bbde8791d08b344e6632df"
+  }
+}

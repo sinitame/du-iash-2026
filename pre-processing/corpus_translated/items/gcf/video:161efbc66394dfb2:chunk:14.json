@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:14",
+  "target_language": "gcf",
+  "source_text_sha256": "3d6f8d325db0c1b8931e3246f7ab031f08194bf1137e5272215e639a59ef81e5",
+  "translated_at": "2026-06-10T21:22:07.038985+00:00",
+  "model": "gpt-5-mini",
+  "text": "dousman kon posib an lézyon dé repo trè-trè dousman atann pa prévwar é zòt ka ri. É ou konfié é trè rar. É lè i ni on pé fò, ou vin gri, sa ka pousé twòp vit é trè dousman. É ou ka roulé an trankilité é ou andidan kè-a tout dousman é ou andidan expirasyon an andidan domenn-la ki kalmé trankilitè tjé-a é trankilitè. Trè trankil tous dousman. \n\nÉpi trwè dérnyé fwa ankò enspire pa noué dousman, pwopoze men é lésé tròl yo, lésé tròl yo kon ou pé adan gòj pa prévwar. Jist pou édé, é pi lè ou an arrombé, résidéw sa pawòl la ou ka di, é zye yo sou-fé pa bouch-la é dé é té é té é té é té é té é té é té é té. É twòp ambis é ou andidan on roulaj é ou andidan kè é sansasyon. Jist on bri ki an train ki manjé asou tib-a-w. \n\nÉ tout dousman an ritm ou. Sa, pou wè, alé fè mété pwen an adan zòn du juqueur kon sa nou adan nivo détourakt. Ou kay fè mété an train ki i ni pwen-an. Mètnan, ou kay pé fè asou on inspirasyon é kareyé koud an dèyè pou ouvè tout zòn tib-la. É",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:14:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 14,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "dousman kon posib an lézyon dé repo trè-trè dousman atann pa prévwar é zòt ka ri. É ou konfié é trè rar. É lè i ni on pé fò, ou vin gri, sa ka pousé twòp vit é trè dousman. É ou ka roulé an trankilité é ou andidan kè-a tout dousman é ou andidan expirasyon an andidan domenn-la ki kalmé trankilitè tjé-a é trankilitè. Trè trankil tous dousman. \n\nÉpi trwè dérnyé fwa ankò enspire pa noué dousman, pwopoze men é lésé tròl yo, lésé tròl yo kon ou pé adan gòj pa prévwar. Jist pou édé, é pi lè ou an arrombé, résidéw sa pawòl la ou ka di, é zye yo sou-fé pa bouch-la é dé é té é té é té é té é té é té é té é té. É twòp ambis é ou andidan on roulaj é ou andidan kè é sansasyon. Jist on bri ki an train ki manjé asou tib-a-w. \n\nÉ tout dousman an ritm ou. Sa, pou wè, alé fè mété pwen an adan zòn du juqueur kon sa nou adan nivo détourakt. Ou kay fè mété an train ki i ni pwen-an. Mètnan, ou kay pé fè asou on inspirasyon é kareyé koud an dèyè pou ouvè tout zòn tib-la. É",
+    "source_id": "video:161efbc66394dfb2:chunk:14",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:07.038985+00:00",
+    "source_text_sha256": "3d6f8d325db0c1b8931e3246f7ab031f08194bf1137e5272215e639a59ef81e5"
+  }
+}

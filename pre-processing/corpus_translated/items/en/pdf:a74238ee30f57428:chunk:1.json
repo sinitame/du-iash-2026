@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "2d25da4a1cf58532c09c64972e32e5d798780e43ca0ae79567880eb763284f99",
+  "translated_at": "2026-06-10T20:42:54.421575+00:00",
+  "model": "gpt-5-mini",
+  "text": "Particular importance is given to the choice of treatments in this disease in children.\nAlthough the medications used are the same as for adults (5-aminosalicylic acids, corticosteroids, azathioprine, methotrexate, anti-TNF…), the way they are used is different. For example, cortisone (Cortancyl®) must be given as a short treatment and never for a prolonged period because of its effects on linear growth. This is why, in the pediatric age, Crohn’s disease is often treated by enteral nutrition methods that have proven their effectiveness, not only in controlling disease flares, but also on linear growth.\nWHAT ARE THE FIRST SIGNS OF CROHN’S DISEASE OR ULCERATIVE COLITIS IN CHILDREN?\nDiagnosis is often rapid for ulcerative colitis when there is bloody diarrhea without an infectious cause.\nBy contrast, in Crohn’s disease it is more often a matter of subtle signs and the diagnosis is difficult. Abdominal pain is common and occurs before diarrhea. In others, diarrhea is the first sign and",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:1:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 1,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Particular importance is given to the choice of treatments in this disease in children.\nAlthough the medications used are the same as for adults (5-aminosalicylic acids, corticosteroids, azathioprine, methotrexate, anti-TNF…), the way they are used is different. For example, cortisone (Cortancyl®) must be given as a short treatment and never for a prolonged period because of its effects on linear growth. This is why, in the pediatric age, Crohn’s disease is often treated by enteral nutrition methods that have proven their effectiveness, not only in controlling disease flares, but also on linear growth.\nWHAT ARE THE FIRST SIGNS OF CROHN’S DISEASE OR ULCERATIVE COLITIS IN CHILDREN?\nDiagnosis is often rapid for ulcerative colitis when there is bloody diarrhea without an infectious cause.\nBy contrast, in Crohn’s disease it is more often a matter of subtle signs and the diagnosis is difficult. Abdominal pain is common and occurs before diarrhea. In others, diarrhea is the first sign and",
+    "source_id": "pdf:a74238ee30f57428:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:54.421575+00:00",
+    "source_text_sha256": "2d25da4a1cf58532c09c64972e32e5d798780e43ca0ae79567880eb763284f99"
+  }
+}

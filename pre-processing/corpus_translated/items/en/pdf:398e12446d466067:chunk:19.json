@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:19",
+  "target_language": "en",
+  "source_text_sha256": "4f326e779c02ac547a08581d8c6ac6e1fb337a627d6d0614835f6d7216da8a5d",
+  "translated_at": "2026-06-10T20:40:12.313703+00:00",
+  "model": "gpt-5-mini",
+  "text": ": pediatric forms of CD at diagnosis (41)\nCategory\nTypical features\nNon-specific features\nMacroscopic\n-\t Aphthous ulcers of the mucosa\n-\t Linear or serpiginous ulcers\n-\t Cobblestone appearance\n-\t Stricture or intestinal narrowing with prestenotic dilatation\n-\t Intestinal wall thickening with luminal narrowing (imaging or surgery)\n-\t Perianal lesions: fistulas, abscesses, anal strictures, anal canal ulcers, large inflammatory skin tag\n-\t Skip lesions\n-\t Jejunal or ileal ulcers\n-\t Edema\n-\t Erythema\n-\t Friability\n-\t Granularity\n-\t Exudate\n-\t Loss of vascular pattern\n-\t Isolated aphthous ulcers\n-\t Perianal lesions: midline anal fissures, small skin tag\nMicroscopic\n-\t Non-caseating granulomas (remote from ruptured crypts)\n-\t Focal chronic inflammation, transmural inflammatory infiltrate, submucosal fibrosis\n-\t Granulomas adjacent to a ruptured crypt\n-\t Mild nonspecific inflammatory infiltrate in the lamina propria\n-\t Mucosal ulceration/erosion\n-\t Signs of chronicity: architectural alterations of the crypts, cell metaplasia of",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:19:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 19,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": ": pediatric forms of CD at diagnosis (41)\nCategory\nTypical features\nNon-specific features\nMacroscopic\n-\t Aphthous ulcers of the mucosa\n-\t Linear or serpiginous ulcers\n-\t Cobblestone appearance\n-\t Stricture or intestinal narrowing with prestenotic dilatation\n-\t Intestinal wall thickening with luminal narrowing (imaging or surgery)\n-\t Perianal lesions: fistulas, abscesses, anal strictures, anal canal ulcers, large inflammatory skin tag\n-\t Skip lesions\n-\t Jejunal or ileal ulcers\n-\t Edema\n-\t Erythema\n-\t Friability\n-\t Granularity\n-\t Exudate\n-\t Loss of vascular pattern\n-\t Isolated aphthous ulcers\n-\t Perianal lesions: midline anal fissures, small skin tag\nMicroscopic\n-\t Non-caseating granulomas (remote from ruptured crypts)\n-\t Focal chronic inflammation, transmural inflammatory infiltrate, submucosal fibrosis\n-\t Granulomas adjacent to a ruptured crypt\n-\t Mild nonspecific inflammatory infiltrate in the lamina propria\n-\t Mucosal ulceration/erosion\n-\t Signs of chronicity: architectural alterations of the crypts, cell metaplasia of",
+    "source_id": "pdf:398e12446d466067:chunk:19",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:12.313703+00:00",
+    "source_text_sha256": "4f326e779c02ac547a08581d8c6ac6e1fb337a627d6d0614835f6d7216da8a5d"
+  }
+}

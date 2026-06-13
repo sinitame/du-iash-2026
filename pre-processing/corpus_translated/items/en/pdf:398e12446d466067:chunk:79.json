@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:79",
+  "target_language": "en",
+  "source_text_sha256": "0be329f0d4ac8e98e6e42485b9a0d8cf1939324058b8319931e6a60c74019e0f",
+  "translated_at": "2026-06-10T20:42:22.389968+00:00",
+  "model": "gpt-5-mini",
+  "text": "th increased risk of malignancy or hemophago-\ncytic lymphohistiocytosis in pediatric patients with inflammatory \nbowel disease. Gastroenterology 2017;152:1901-14.\n94.\t Kotlyar DS, Osterman MT, Diamond RH, et al. A systematic review \nof factors that contribute to hepatosplenic T-cell lymphoma in \npatients with inflammatory bowel disease. Clin Gastroenterol \nHepatol. 2011;9:36-41.\n95.\t de Francisco R, Castaño-García A, Martínez-González S, et \nal. Impact of Epstein-Barr virus serological status on clinical \noutcomes in adult patients with inflammatory bowel disease. \nAliment Pharmacol Ther. 2018;48:723-30.\n96.\t Rahier JF, Magro F, Abreu C, et al. European Crohn’s and Colitis \nOrganisation [ECCO]. Second European evidence-based \nconsensus on the prevention, diagnosis and management of \nopportunistic infections in inflammatory bowel disease. J Crohns \nColitis 2014;8:443-68.\n97.\t Martinelli M, Giugliano FP, Strisciuglio C, et al. Vaccinations and \nimmunization status in pediatric inflammatory bowel disease: \na multicenter study from the Pediatric IBD Porto Group of the \nESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\t Levine A, Wine E, Assa A, et al. Crohn’s disease exclusion di",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:79:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 79,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "th increased risk of malignancy or hemophago-\ncytic lymphohistiocytosis in pediatric patients with inflammatory \nbowel disease. Gastroenterology 2017;152:1901-14.\n94.\t Kotlyar DS, Osterman MT, Diamond RH, et al. A systematic review \nof factors that contribute to hepatosplenic T-cell lymphoma in \npatients with inflammatory bowel disease. Clin Gastroenterol \nHepatol. 2011;9:36-41.\n95.\t de Francisco R, Castaño-García A, Martínez-González S, et \nal. Impact of Epstein-Barr virus serological status on clinical \noutcomes in adult patients with inflammatory bowel disease. \nAliment Pharmacol Ther. 2018;48:723-30.\n96.\t Rahier JF, Magro F, Abreu C, et al. European Crohn’s and Colitis \nOrganisation [ECCO]. Second European evidence-based \nconsensus on the prevention, diagnosis and management of \nopportunistic infections in inflammatory bowel disease. J Crohns \nColitis 2014;8:443-68.\n97.\t Martinelli M, Giugliano FP, Strisciuglio C, et al. Vaccinations and \nimmunization status in pediatric inflammatory bowel disease: \na multicenter study from the Pediatric IBD Porto Group of the \nESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\t Levine A, Wine E, Assa A, et al. Crohn’s disease exclusion di",
+    "source_id": "pdf:398e12446d466067:chunk:79",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:22.389968+00:00",
+    "source_text_sha256": "0be329f0d4ac8e98e6e42485b9a0d8cf1939324058b8319931e6a60c74019e0f"
+  }
+}

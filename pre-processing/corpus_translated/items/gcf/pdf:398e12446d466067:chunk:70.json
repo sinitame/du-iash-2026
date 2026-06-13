@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:70",
+  "target_language": "gcf",
+  "source_text_sha256": "3bdef9b53ca1adec8d523b4db0e6ae0b325507643f49b275654712acc823f416",
+  "translated_at": "2026-06-10T21:06:22.099502+00:00",
+  "model": "gpt-5-mini",
+  "text": "0;105:1893-1900.\n50.\t Komaki Y, Komaki F, Yamada A, é lòt. Rizik kansé an pasyan épi maladi anflamasyon entesten ki pari adan timoun: on revizyon sistématik é on méta-analiz. J Pediatr. 2021;229: 102-117.\n51.\t Elmahdi R, Lemser CE, Thomsen SB, é lòt. Dévlopman kansé adan pasyan ki ni maladi anflamasyon entesten ki kòmanse an laj pédiatrik: on méta-analiz asou étid ki bazé asou popilasyon. JAMA Netw Open 2022;5:e220595.\n52.\t Blum RW, Garell D, Hodgman CH, é lòt. Transisyon sòti sistèm swen lasante ki santwé asi tibébé pou alé asi sistèm swen lasante pou granmoun pou adolesan ki ni kondisyon kwonik. On papé pozisyon Sociyété pou Medsin Adolesan. J. Adolesc. Health 1993;14: 570-576.\n53.\t Rosen DS. Transisyon jèn moun ki ni maladi respiratwa vini asi swen lasante pou granmoun. Paediatr. Respir. Rev. 2004;5:124-131.\n54.\t Wallis C. Transisyon swen adan timoun ki ni maladi kwonik. BMJ. 2007;334:1231-1232.\n55.\t Bennett DL, Towns SJ, Steinbeck KS. Fasilité transisyon an pou alé asi swen granmoun. Med. J. Aust. 2005;182:373-374.\n56.\t McDonagh JE. Grandé é kontinyé: transisyon sòti swen pédiatrik pou alé asi swen granmoun. Pediatr. Transplant. 2005;9:364-372.\n57.\t Giarelli E, Bernhardt BA, Mack R, é lòt. Transisyon adolesan pou se",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:70:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 70,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "0;105:1893-1900.\n50.\t Komaki Y, Komaki F, Yamada A, é lòt. Rizik kansé an pasyan épi maladi anflamasyon entesten ki pari adan timoun: on revizyon sistématik é on méta-analiz. J Pediatr. 2021;229: 102-117.\n51.\t Elmahdi R, Lemser CE, Thomsen SB, é lòt. Dévlopman kansé adan pasyan ki ni maladi anflamasyon entesten ki kòmanse an laj pédiatrik: on méta-analiz asou étid ki bazé asou popilasyon. JAMA Netw Open 2022;5:e220595.\n52.\t Blum RW, Garell D, Hodgman CH, é lòt. Transisyon sòti sistèm swen lasante ki santwé asi tibébé pou alé asi sistèm swen lasante pou granmoun pou adolesan ki ni kondisyon kwonik. On papé pozisyon Sociyété pou Medsin Adolesan. J. Adolesc. Health 1993;14: 570-576.\n53.\t Rosen DS. Transisyon jèn moun ki ni maladi respiratwa vini asi swen lasante pou granmoun. Paediatr. Respir. Rev. 2004;5:124-131.\n54.\t Wallis C. Transisyon swen adan timoun ki ni maladi kwonik. BMJ. 2007;334:1231-1232.\n55.\t Bennett DL, Towns SJ, Steinbeck KS. Fasilité transisyon an pou alé asi swen granmoun. Med. J. Aust. 2005;182:373-374.\n56.\t McDonagh JE. Grandé é kontinyé: transisyon sòti swen pédiatrik pou alé asi swen granmoun. Pediatr. Transplant. 2005;9:364-372.\n57.\t Giarelli E, Bernhardt BA, Mack R, é lòt. Transisyon adolesan pou se",
+    "source_id": "pdf:398e12446d466067:chunk:70",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:22.099502+00:00",
+    "source_text_sha256": "3bdef9b53ca1adec8d523b4db0e6ae0b325507643f49b275654712acc823f416"
+  }
+}

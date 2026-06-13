@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:7",
+  "target_language": "en",
+  "source_text_sha256": "0e8b8fde957b87746097d34a39a0ee4ec5f3fc6d8b1f20ee87433d51c4145be6",
+  "translated_at": "2026-06-10T20:45:35.188486+00:00",
+  "model": "gpt-5-mini",
+  "text": "your shoulders, your hands. And you may notice new sensations in that area.\n\nThen now, very gently, very calmly, you can move down. We glide along your back. And then very slowly now, take a very, very, very gentle movement to help you refocus and let your body flow. And to feel my little arm. For that, you will come very close. Also, you will lift your arm. This helps us notice a little along your back. You will bring it behind you. A little bit of space, just another breath. And on the exhale, let it slow down, let everything flow very gently.\n\nWe will not push further, no need to force little things. Ah, that’s quick, isn’t it. And if it goes too far, slow down, and as you travel calmly you will lighten up, and very slowly let the sensations flow. You relax more. Then, at your own pace, we will continue now, maybe with the shoulders. Here we go. I don’t have your jolts. For that, I will now suggest, inhale again, once more, by the nose. You will quietly lift…",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:7:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 7,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "your shoulders, your hands. And you may notice new sensations in that area.\n\nThen now, very gently, very calmly, you can move down. We glide along your back. And then very slowly now, take a very, very, very gentle movement to help you refocus and let your body flow. And to feel my little arm. For that, you will come very close. Also, you will lift your arm. This helps us notice a little along your back. You will bring it behind you. A little bit of space, just another breath. And on the exhale, let it slow down, let everything flow very gently.\n\nWe will not push further, no need to force little things. Ah, that’s quick, isn’t it. And if it goes too far, slow down, and as you travel calmly you will lighten up, and very slowly let the sensations flow. You relax more. Then, at your own pace, we will continue now, maybe with the shoulders. Here we go. I don’t have your jolts. For that, I will now suggest, inhale again, once more, by the nose. You will quietly lift…",
+    "source_id": "video:05807ec7742bc2af:chunk:7",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:35.188486+00:00",
+    "source_text_sha256": "0e8b8fde957b87746097d34a39a0ee4ec5f3fc6d8b1f20ee87433d51c4145be6"
+  }
+}

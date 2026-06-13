@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "e0b4cd06fd67eccd400c1248210a3258010fcb3807af6393843ba71a7730188e",
+  "translated_at": "2026-06-10T20:43:42.422699+00:00",
+  "model": "gpt-5-mini",
+  "text": "Crohn’s Disease Exclusion Diet (CDED), or exclusion diet in Crohn’s disease, is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with an enteral nutrition solution. It is an alternative to EEN1,2.\nIts effectiveness has been demonstrated by international studies and recognized in practice since 2019, first in children, then in adults2.\nWhat could CDED offer me?\nClinical remission: a study*3 demonstrated about 80% remission at 6 weeks in selected patients (mild to moderate Crohn’s disease in children), and among them, some showed improvement as early as 3 weeks3,4.\nBetter tolerance: unlike EEN, CDED allows an increasingly varied diet while avoiding pro-inflammatory foods3,4.\nA positive impact on the gut microbiota: by limiting exposure to certain additives and ultra-processed foods, the diet promotes a protective bacterial balance3,4.\nA transient effect to treat the flare: CDED is used for a defined period to stabilize",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:2:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 2,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Crohn’s Disease Exclusion Diet (CDED), or exclusion diet in Crohn’s disease, is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with an enteral nutrition solution. It is an alternative to EEN1,2.\nIts effectiveness has been demonstrated by international studies and recognized in practice since 2019, first in children, then in adults2.\nWhat could CDED offer me?\nClinical remission: a study*3 demonstrated about 80% remission at 6 weeks in selected patients (mild to moderate Crohn’s disease in children), and among them, some showed improvement as early as 3 weeks3,4.\nBetter tolerance: unlike EEN, CDED allows an increasingly varied diet while avoiding pro-inflammatory foods3,4.\nA positive impact on the gut microbiota: by limiting exposure to certain additives and ultra-processed foods, the diet promotes a protective bacterial balance3,4.\nA transient effect to treat the flare: CDED is used for a defined period to stabilize",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:42.422699+00:00",
+    "source_text_sha256": "e0b4cd06fd67eccd400c1248210a3258010fcb3807af6393843ba71a7730188e"
+  }
+}

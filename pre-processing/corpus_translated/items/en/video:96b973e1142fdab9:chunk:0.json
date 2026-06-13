@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:96b973e1142fdab9:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "0bf8e358d160846a71f3e5d7e1ef929d9bec251def2eaa144fc9712cd4891a96",
+  "translated_at": "2026-06-10T20:44:54.666227+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Does my treatment work? Treatments do work, but actually, today we don't have — and it would be great to have this — when we do the first colonoscopy and take a biopsy, to put a small chip that would tell us, well, this inflammation goes down that pathway, and his goes down this other pathway, and we could immediately give the right medicine. So today we do have medicines, we've talked about biologic therapies, which target certain inflammatory pathways, but which will work in some patients and not in others, and other ones will work in others and not in some. So indeed sometimes we will have to try several medicines. We will find the right one, but today the medicines still work pretty well; biologic therapy works well.",
+  "row": {
+    "id": "video:96b973e1142fdab9:chunk:0:en",
+    "document_id": "video:96b973e1142fdab9",
+    "chunk_index": 0,
+    "source_file": "3810641e013f039b1737d2c6c8cb134ec0a5d3a0.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3810641e013f039b1737d2c6c8cb134ec0a5d3a0.mp4",
+    "text_path": "corpus/texts/videos/3810641e013f039b1737d2c6c8cb134ec0a5d3a0.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Does my treatment work? Treatments do work, but actually, today we don't have — and it would be great to have this — when we do the first colonoscopy and take a biopsy, to put a small chip that would tell us, well, this inflammation goes down that pathway, and his goes down this other pathway, and we could immediately give the right medicine. So today we do have medicines, we've talked about biologic therapies, which target certain inflammatory pathways, but which will work in some patients and not in others, and other ones will work in others and not in some. So indeed sometimes we will have to try several medicines. We will find the right one, but today the medicines still work pretty well; biologic therapy works well.",
+    "source_id": "video:96b973e1142fdab9:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:54.666227+00:00",
+    "source_text_sha256": "0bf8e358d160846a71f3e5d7e1ef929d9bec251def2eaa144fc9712cd4891a96"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5c2a01cf03169201:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "077a2c7bb800ba3edac686de19fd376af51a95255b760bb17a2683f784f005db",
+  "translated_at": "2026-06-10T20:46:42.818335+00:00",
+  "model": "gpt-5-mini",
+  "text": "... And research, where are we? So, research, in 20 years already, it's a croyabse that was developed as a medication to treat, to put the disease into remission. We haven't yet found what is needed to cure the disease, but research is still looking for that. There has also been research on the microbiota, since it has been said to play a role in the disease, with large laboratories that have a lot of research on the microbiota. So, yeah, there is very, very, very active research there.",
+  "row": {
+    "id": "video:5c2a01cf03169201:chunk:0:en",
+    "document_id": "video:5c2a01cf03169201",
+    "chunk_index": 0,
+    "source_file": "9ded8097d43f22e64d3a50566c5d77a3d53292d7.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9ded8097d43f22e64d3a50566c5d77a3d53292d7.mp4",
+    "text_path": "corpus/texts/videos/9ded8097d43f22e64d3a50566c5d77a3d53292d7.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... And research, where are we? So, research, in 20 years already, it's a croyabse that was developed as a medication to treat, to put the disease into remission. We haven't yet found what is needed to cure the disease, but research is still looking for that. There has also been research on the microbiota, since it has been said to play a role in the disease, with large laboratories that have a lot of research on the microbiota. So, yeah, there is very, very, very active research there.",
+    "source_id": "video:5c2a01cf03169201:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:42.818335+00:00",
+    "source_text_sha256": "077a2c7bb800ba3edac686de19fd376af51a95255b760bb17a2683f784f005db"
+  }
+}

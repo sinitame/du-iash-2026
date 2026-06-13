@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:26",
+  "target_language": "gcf",
+  "source_text_sha256": "f5cc7b29024772e97f961b6469b8934fd700e7e9e45bfe322494d1099ec9e92f",
+  "translated_at": "2026-06-10T20:52:58.235177+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pou gason (ogmantasyon volim testikil) sa défini on reta puberté.\n\nKansè\nPasyan ki ni MICI ki komansé anfan té ni on risk kansè pli o konparé a popilasyon jénéral. On méta-analiz ad 66 étid koté pli fò 38 000 timoun épi MICI té montré on rapò estandadizé d'incidans 2,39 (p < 0,0001 ; IC 95 % : 2,00-2,86)50, principalement an lian épi kansè kolorektal é émopatí. On lòt méta-analiz estimé risk relatif a 2,46 (IC 95 % : 2,06-2,93), épi on risk 2,03 pou MC (IC 95 % : 1,67-2,46) é 2,61 pou RCH (IC 95 % : 2,00-3,40) (51). Pasé risk-la pli o, yo rekomandé on swivi spécifik dépi 10 an évolisyon malad-la.\n\nTransisyon\nTransfè swen ka rivé lè on pasyan, ansanm épi dossié médikal-li, pasé sòti adan men on pwofésyonèl lasanté adan men an lòt, asi on moman précis. An kontré, transisyon swen sé on pwosesis ki ka évolié. Li impliké « pasaj entansyonné é planifié adolesan é jenn adilt ki atenn maladi krónik fizik é médical, sòti an sistèm swen centré sou l’en...",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:26:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 26,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Pou gason (ogmantasyon volim testikil) sa défini on reta puberté.\n\nKansè\nPasyan ki ni MICI ki komansé anfan té ni on risk kansè pli o konparé a popilasyon jénéral. On méta-analiz ad 66 étid koté pli fò 38 000 timoun épi MICI té montré on rapò estandadizé d'incidans 2,39 (p < 0,0001 ; IC 95 % : 2,00-2,86)50, principalement an lian épi kansè kolorektal é émopatí. On lòt méta-analiz estimé risk relatif a 2,46 (IC 95 % : 2,06-2,93), épi on risk 2,03 pou MC (IC 95 % : 1,67-2,46) é 2,61 pou RCH (IC 95 % : 2,00-3,40) (51). Pasé risk-la pli o, yo rekomandé on swivi spécifik dépi 10 an évolisyon malad-la.\n\nTransisyon\nTransfè swen ka rivé lè on pasyan, ansanm épi dossié médikal-li, pasé sòti adan men on pwofésyonèl lasanté adan men an lòt, asi on moman précis. An kontré, transisyon swen sé on pwosesis ki ka évolié. Li impliké « pasaj entansyonné é planifié adolesan é jenn adilt ki atenn maladi krónik fizik é médical, sòti an sistèm swen centré sou l’en...",
+    "source_id": "pdf:398e12446d466067:chunk:26",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:58.235177+00:00",
+    "source_text_sha256": "f5cc7b29024772e97f961b6469b8934fd700e7e9e45bfe322494d1099ec9e92f"
+  }
+}

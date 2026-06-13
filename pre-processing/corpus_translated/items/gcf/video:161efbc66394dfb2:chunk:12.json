@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:12",
+  "target_language": "gcf",
+  "source_text_sha256": "e473ef025affe97ac546001665854dff9d8db8096fbba3f09915eca57c90560e",
+  "translated_at": "2026-06-10T21:22:01.927662+00:00",
+  "model": "gpt-5-mini",
+  "text": "Mèt lanmen-w asou sternum-w yonn kont lòt pou fè-w pran konsyans dé sa ka frapé anndan-w. Pou sa, trankil, dousman. Mwen envité-w pran anspirasyon pa nen. Épi ou ké soufé dousman pa bouch. Dousman, trankilman. Mwen ké di-w lésé bra-w bò kò-w. Koulyè a, mwen ké mandé-w si ou pran konsyans dé misk-la ki anba kòt yo. Ou rivé santi misk-la ? Si ou pa ase présent an konsyans, mwen pwopozé pou pratike egzèsis sa anko dé fwa. Ou ké enspire pa nen, mété lanmen-w toujou anlè zòn sternum-la é ou ké soufé on ti kout. Épi ou relaché dousman. Ou pé kòmanse santi kot sa ka frapé-a pétèt piti piti lè ou expiré dousman an dé répitisyon. Si toujou pa ok pou ou, mwen envité-w ankò on dènye fwa pou pratike egzèsis yo anko. Ou ké enspire, mété lanmen-w asou sternum, kenbé on ti tan pou chak respirasiyon, épi la ou ké soufé on ti kout. Épi ou relaché trankilman. Épi ou",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:12:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 12,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Mèt lanmen-w asou sternum-w yonn kont lòt pou fè-w pran konsyans dé sa ka frapé anndan-w. Pou sa, trankil, dousman. Mwen envité-w pran anspirasyon pa nen. Épi ou ké soufé dousman pa bouch. Dousman, trankilman. Mwen ké di-w lésé bra-w bò kò-w. Koulyè a, mwen ké mandé-w si ou pran konsyans dé misk-la ki anba kòt yo. Ou rivé santi misk-la ? Si ou pa ase présent an konsyans, mwen pwopozé pou pratike egzèsis sa anko dé fwa. Ou ké enspire pa nen, mété lanmen-w toujou anlè zòn sternum-la é ou ké soufé on ti kout. Épi ou relaché dousman. Ou pé kòmanse santi kot sa ka frapé-a pétèt piti piti lè ou expiré dousman an dé répitisyon. Si toujou pa ok pou ou, mwen envité-w ankò on dènye fwa pou pratike egzèsis yo anko. Ou ké enspire, mété lanmen-w asou sternum, kenbé on ti tan pou chak respirasiyon, épi la ou ké soufé on ti kout. Épi ou relaché trankilman. Épi ou",
+    "source_id": "video:161efbc66394dfb2:chunk:12",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:01.927662+00:00",
+    "source_text_sha256": "e473ef025affe97ac546001665854dff9d8db8096fbba3f09915eca57c90560e"
+  }
+}

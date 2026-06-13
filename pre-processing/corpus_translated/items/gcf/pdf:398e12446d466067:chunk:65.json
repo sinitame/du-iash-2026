@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:65",
+  "target_language": "gcf",
+  "source_text_sha256": "1c549d802430700ed7f5fae0a5496bf44f1cc5fd2e6d6909b349f5ed362bec12",
+  "translated_at": "2026-06-10T20:55:19.490591+00:00",
+  "model": "gpt-5-mini",
+  "text": "r O, Sonnino M, Birimberger-Schwartz L, et al. Evalyasyon kritè PIBD-classes : on validasyon an plizye sant. J Crohn’s colitis. 2020;14:1672-1679.\n27.\tRicciuto A, Mack DR, Huynh HQ, et al. Reta dyagnostik ka asosyé épi on maladi ki konplike épi anpèdiman kwasans adan maladi Crohn timoun. J Crohn’s Colitis. 2021;15:419-431.\n28.\tFranke M, Geiss A, Greiner P, et al. Wòl endoskopi adan senyen gastrointestinal adan timoun. Endosc Int Open. 2016;4:E1011-E1016.\n29.\tVan de Vijver E, Heida A, Ioannou S, et al. CACATU Consortium. Estrateji tès pou prédi maladi enflamatwa trip adan timoun ki gen dyarè ki pa ni san. Pediatrics. 2020;146:e20192235.\n30.\tHeida A, Van de Vijver E, van Ravenzwaaij D, et al. CACATU Consortium. Prédisyon maladi enflamatwa trip adan timoun ki gen doulè nan vant épi dyarè : tès kalgranulin-C kont tès kalprotektin adan poupou. Arch Dis Child. 2018:565-571.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:65:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 65,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "r O, Sonnino M, Birimberger-Schwartz L, et al. Evalyasyon kritè PIBD-classes : on validasyon an plizye sant. J Crohn’s colitis. 2020;14:1672-1679.\n27.\tRicciuto A, Mack DR, Huynh HQ, et al. Reta dyagnostik ka asosyé épi on maladi ki konplike épi anpèdiman kwasans adan maladi Crohn timoun. J Crohn’s Colitis. 2021;15:419-431.\n28.\tFranke M, Geiss A, Greiner P, et al. Wòl endoskopi adan senyen gastrointestinal adan timoun. Endosc Int Open. 2016;4:E1011-E1016.\n29.\tVan de Vijver E, Heida A, Ioannou S, et al. CACATU Consortium. Estrateji tès pou prédi maladi enflamatwa trip adan timoun ki gen dyarè ki pa ni san. Pediatrics. 2020;146:e20192235.\n30.\tHeida A, Van de Vijver E, van Ravenzwaaij D, et al. CACATU Consortium. Prédisyon maladi enflamatwa trip adan timoun ki gen doulè nan vant épi dyarè : tès kalgranulin-C kont tès kalprotektin adan poupou. Arch Dis Child. 2018:565-571.",
+    "source_id": "pdf:398e12446d466067:chunk:65",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:19.490591+00:00",
+    "source_text_sha256": "1c549d802430700ed7f5fae0a5496bf44f1cc5fd2e6d6909b349f5ed362bec12"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:7",
+  "target_language": "gcf",
+  "source_text_sha256": "0e8b8fde957b87746097d34a39a0ee4ec5f3fc6d8b1f20ee87433d51c4145be6",
+  "translated_at": "2026-06-10T21:15:54.966026+00:00",
+  "model": "gpt-5-mini",
+  "text": "zépòl-w, men-w. Épi ou pé obsèvè petèt dé santasyon nouvo adan zòn-la. Alòs kounyéa, dousman, trankilman, ou ké pé désann. Nou kay roulé asi do-w. Épi ankò dousman, kounyéa, on bagay trè trè fò pou édé-w wè ankò é fè kò-w koulé. Épi pou ni ti bra-a. Pou sa, ou ké vini gran-tipi rakonté. Trè trè trè osi, ou ké monté bra-w. Nou sèvi sa pou tandé on ti bagay asi do-w. Ou ké fèmé é pran dèyè. On ti pé vid, lot-la sé on respirasyon. Épi lè ou ekspiré, ou pli vid an ralanti, fè tout bagay koulé dousman. Nou pa kay alé pi lwen, pa enkyeté, pa twò ti-ti. Ah, i vit, non? Épi si ou al trò lwen, an vwayaj trankilman, ou ké léjé, dousman, koulé santasyon yo. Ou gen trò... Épi, lage, détann. Épi, an pé, nou ké pouswiv kounyéa, petèt on lòt egzèsis. Ann alé. Man pa ni tout lalòt. Pou sa, mwen ké pwopoze kounyéa, an spiré ankò, pa nen. Ou ké trankilman monté on bagay asi orizon-la, ou ké kontinyé...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:7:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 7,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "zépòl-w, men-w. Épi ou pé obsèvè petèt dé santasyon nouvo adan zòn-la. Alòs kounyéa, dousman, trankilman, ou ké pé désann. Nou kay roulé asi do-w. Épi ankò dousman, kounyéa, on bagay trè trè fò pou édé-w wè ankò é fè kò-w koulé. Épi pou ni ti bra-a. Pou sa, ou ké vini gran-tipi rakonté. Trè trè trè osi, ou ké monté bra-w. Nou sèvi sa pou tandé on ti bagay asi do-w. Ou ké fèmé é pran dèyè. On ti pé vid, lot-la sé on respirasyon. Épi lè ou ekspiré, ou pli vid an ralanti, fè tout bagay koulé dousman. Nou pa kay alé pi lwen, pa enkyeté, pa twò ti-ti. Ah, i vit, non? Épi si ou al trò lwen, an vwayaj trankilman, ou ké léjé, dousman, koulé santasyon yo. Ou gen trò... Épi, lage, détann. Épi, an pé, nou ké pouswiv kounyéa, petèt on lòt egzèsis. Ann alé. Man pa ni tout lalòt. Pou sa, mwen ké pwopoze kounyéa, an spiré ankò, pa nen. Ou ké trankilman monté on bagay asi orizon-la, ou ké kontinyé...",
+    "source_id": "video:05807ec7742bc2af:chunk:7",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:15:54.966026+00:00",
+    "source_text_sha256": "0e8b8fde957b87746097d34a39a0ee4ec5f3fc6d8b1f20ee87433d51c4145be6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:22",
+  "target_language": "en",
+  "source_text_sha256": "1c93bc145358313fd2cc66cf39193272fd82f516402a2c4becc4f9d5385e04c5",
+  "translated_at": "2026-06-10T20:40:32.965418+00:00",
+  "model": "gpt-5-mini",
+  "text": "Moderate flare: 30–50;\n\nSevere flare: >50\nUlcerative colitis\nIn UC, the topography of the lesions differs from that of adults: isolated proctitis is less common and pancolonic involvement is more frequent.\nTable 5: Paris classification for pediatric ulcerative colitis (43)\nExtension\nE1:\tproctitis\nE2:\tleft-sided colitis (distal to the splenic flexure)\nE3:\textensive colitis (proximal to the splenic flexure)\nE4:\tpancolitis (proximal to the hepatic flexure)\nSeverity\nS0:\t\tnever severe\nS1:\t\tat least one severe flare (PUCAI > 65)\nThe PUCAI activity score (Pediatric Ulcerative Colitis Activity Index) is used to assess disease activity at diagnosis and during follow-up (figure 3).\nIn pediatric UC, several prognostic factors have been identified by an expert consensus (45): the risk of colectomy is higher in the presence of a family history of UC, extensive disease at diagnosis, or progression of lesions over time. Conversely, the presence of primary sclerosing cholangitis (PSC) appears to be associated with a lower rate of surgery.\nThe risk of developme",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:22:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 22,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Moderate flare: 30–50;\n\nSevere flare: >50\nUlcerative colitis\nIn UC, the topography of the lesions differs from that of adults: isolated proctitis is less common and pancolonic involvement is more frequent.\nTable 5: Paris classification for pediatric ulcerative colitis (43)\nExtension\nE1:\tproctitis\nE2:\tleft-sided colitis (distal to the splenic flexure)\nE3:\textensive colitis (proximal to the splenic flexure)\nE4:\tpancolitis (proximal to the hepatic flexure)\nSeverity\nS0:\t\tnever severe\nS1:\t\tat least one severe flare (PUCAI > 65)\nThe PUCAI activity score (Pediatric Ulcerative Colitis Activity Index) is used to assess disease activity at diagnosis and during follow-up (figure 3).\nIn pediatric UC, several prognostic factors have been identified by an expert consensus (45): the risk of colectomy is higher in the presence of a family history of UC, extensive disease at diagnosis, or progression of lesions over time. Conversely, the presence of primary sclerosing cholangitis (PSC) appears to be associated with a lower rate of surgery.\nThe risk of developme",
+    "source_id": "pdf:398e12446d466067:chunk:22",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:32.965418+00:00",
+    "source_text_sha256": "1c93bc145358313fd2cc66cf39193272fd82f516402a2c4becc4f9d5385e04c5"
+  }
+}

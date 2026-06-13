@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:2f537129ca8c5717:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "9f47949502a264e3d209d09a51437d769bfa7114e676feb9fac3d07c5f214914",
+  "translated_at": "2026-06-10T21:19:04.763351+00:00",
+  "model": "gpt-5-mini",
+  "text": "An pé stabilizé, byen, sé sa. Sé 20 dennié lanné-la anlo réchèch té mété an plas é an pil tratman sòti. É konsa jòdijou pli fasil pou stabilizé maladi sala paské nou ka èséyé tratman, biyoterapi ki ciblé asou linflamasyon é ki ka antrenen périòd rémission pli long. Alò i posib pou stabilizé maladi-a.",
+  "row": {
+    "id": "video:2f537129ca8c5717:chunk:0:gcf",
+    "document_id": "video:2f537129ca8c5717",
+    "chunk_index": 0,
+    "source_file": "b0e404340df502444ec0f963316452ad092e1b7d.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/b0e404340df502444ec0f963316452ad092e1b7d.mp4",
+    "text_path": "corpus/texts/videos/b0e404340df502444ec0f963316452ad092e1b7d.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "An pé stabilizé, byen, sé sa. Sé 20 dennié lanné-la anlo réchèch té mété an plas é an pil tratman sòti. É konsa jòdijou pli fasil pou stabilizé maladi sala paské nou ka èséyé tratman, biyoterapi ki ciblé asou linflamasyon é ki ka antrenen périòd rémission pli long. Alò i posib pou stabilizé maladi-a.",
+    "source_id": "video:2f537129ca8c5717:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:04.763351+00:00",
+    "source_text_sha256": "9f47949502a264e3d209d09a51437d769bfa7114e676feb9fac3d07c5f214914"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "image:676a766599dda5e5",
+  "status": "done",
+  "source_file": "stage_etudes_etranger_mici.png",
+  "source_path": "/data/equipes/equipe-04/images/stage_etudes_etranger_mici.png",
+  "text_path": "corpus/texts/images/stage_etudes_etranger_mici.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "676a766599dda5e512357752889963db77b5c9d136b134424a98e70ea4c1773e",
+  "created_at": "2026-06-10T16:25:46.807216+00:00"
+}

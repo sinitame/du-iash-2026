@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "2e9201ddf2732c871e2e80aacf0d741809d1192626aee76be72da29adc185b00",
+  "translated_at": "2026-06-10T21:08:55.677932+00:00",
+  "model": "gpt-5-mini",
+  "text": "de pwoblem é an rapò épi on ekip ki kapab asiré an antyéset swen é éksamen (endoskopi, chiriji). Anpil sèvis Péyadiatri pé swa pran li an chaj, swa ba zòt lenfòmasyon.\n\nKOMAN POU KONNÉ SI TIMOUN MWEN KA GRANDI KÒRÈKTMAN ?\nOn reta an kwasans wotè lakay on timoun ki atenn RCH sé vrèman rar.\nAn kontrè, i souvan adan maladi Crohn (15 a 30%). Sa ka parèt kon on kwasans wotè ki pa ase. Timoun nan pé menm wè li sé pli piti adan klas-la, osnon paran yo pé remaké rad li pa vin twò sere.\nPédiatre-a dwèt fiksé koub kwasans lan konsa i ké wè si ni anomali. Paran vigilán souvan sé yo ki premiyé pou wè an ralantisman an kwasans-la osnon absans rivé puberté a. Reta kwasans-la ka parèt osi adan radyografi zo yo.\n\nKOMAN POU EXPLIKÉ RETA KWASANS SA-A ?\nNou konnèt ki adan sé ka, hormonn kwasans yo nòmal. An réyalité, timoun nan souvan manjé mwens ki sa i té bizwen, paské i pa ni lafen. An plis, manjé pé menné doulè vant, dé naus",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:6:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 6,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "de pwoblem é an rapò épi on ekip ki kapab asiré an antyéset swen é éksamen (endoskopi, chiriji). Anpil sèvis Péyadiatri pé swa pran li an chaj, swa ba zòt lenfòmasyon.\n\nKOMAN POU KONNÉ SI TIMOUN MWEN KA GRANDI KÒRÈKTMAN ?\nOn reta an kwasans wotè lakay on timoun ki atenn RCH sé vrèman rar.\nAn kontrè, i souvan adan maladi Crohn (15 a 30%). Sa ka parèt kon on kwasans wotè ki pa ase. Timoun nan pé menm wè li sé pli piti adan klas-la, osnon paran yo pé remaké rad li pa vin twò sere.\nPédiatre-a dwèt fiksé koub kwasans lan konsa i ké wè si ni anomali. Paran vigilán souvan sé yo ki premiyé pou wè an ralantisman an kwasans-la osnon absans rivé puberté a. Reta kwasans-la ka parèt osi adan radyografi zo yo.\n\nKOMAN POU EXPLIKÉ RETA KWASANS SA-A ?\nNou konnèt ki adan sé ka, hormonn kwasans yo nòmal. An réyalité, timoun nan souvan manjé mwens ki sa i té bizwen, paské i pa ni lafen. An plis, manjé pé menné doulè vant, dé naus",
+    "source_id": "pdf:a74238ee30f57428:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:55.677932+00:00",
+    "source_text_sha256": "2e9201ddf2732c871e2e80aacf0d741809d1192626aee76be72da29adc185b00"
+  }
+}
