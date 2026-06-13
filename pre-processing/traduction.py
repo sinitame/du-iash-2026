@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+from __future__ import annotations
+
 """
 translate_corpus.py
 
@@ -20,7 +22,7 @@ Sorties par défaut :
 
 Fonctionnalités :
 - traduction avec l'API OpenAI ;
-- modèle par défaut : gpt-5.5 ;
+- modèle par défaut : gpt-5-mini ;
 - few-shot créole guadeloupéen via jhu-clsp/kreyol-mt ;
 - reprise après interruption ;
 - écritures atomiques ;
@@ -553,7 +555,7 @@ def main():
 
     parser.add_argument(
         "--model",
-        default="gpt-5.5",
+        default="gpt-5-mini",
         help="Modèle OpenAI à utiliser."
     )
 

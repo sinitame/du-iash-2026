@@ -20,7 +20,10 @@ Modes:
 
 - `baseline`: évalue les cinq modèles avec le prompt minimal;
 - `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
-- `rag`: réservé pour la prochaine étape, pas encore implémenté.
+- `rag`: compare baseline, baseline + prompt et baseline + RAG pour les cinq
+  modèles;
+- `rag_selective`: ajoute une variante RAG plus sélective avec trois chunks
+  maximum, un seuil de distance et un contexte facultatif.
 
 Exemples:
 
@@ -33,6 +36,16 @@ python3 evaluation/run_evaluation.py \
   evaluation/data/dataset_test.csv \
   prompt \
   --concurrency 4
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  rag \
+  --concurrency 4
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  rag_selective \
+  --concurrency 4
 ```
 
 Cette commande enchaîne automatiquement génération, scoring avec le juge fixe et
@@ -43,6 +56,42 @@ permettre leur comparaison dans un seul run. Il n'est donc pas nécessaire de
 lancer ensuite le mode `baseline`: ses réponses et scores auront déjà été
 produits. Le récapitulatif final indique le nombre d'appels API et de résultats
 réutilisés depuis le cache.
+
+Le mode `rag` inclut les variantes baseline et step-by-step existantes, puis
+génère des systèmes RAG séparés nommés `<systeme_baseline>__rag`. Il ne crée pas
+de variante combinant prompt step-by-step et RAG. Le scoring compare donc, pour
+chaque modèle, `Baseline`, `Baseline + prompt` et `Baseline + RAG`. Ses
+comparaisons sont écrites dans
+`comparison_rag.json`, `comparison_rag.csv` et
+`comparison_rag_detailed.csv`, sans remplacer les comparaisons du mode prompt.
+
+Le mode `rag_selective` conserve ses réponses sous le suffixe
+`__rag_selective`. Ses comparaisons sont écrites dans
+`comparison_rag_selective.json`, `comparison_rag_selective.csv` et
+`comparison_rag_selective_detailed.csv`, sans remplacer le scénario RAG initial.
+Le seuil `max_distance=1.1` est une distance L2 maximale: une valeur plus basse
+est plus stricte. Il peut être ajusté dans `evaluation/config.example.json`
+après inspection des distances persistées avec les chunks récupérés.
+Par défaut, les baselines existantes sont uniquement lues depuis le cache:
+`rag_generate_baseline` vaut `false`. Passez cette option à `true` dans la
+configuration uniquement pour générer aussi les baselines manquantes pendant le
+run RAG.
+
+Pour produire un résultat final avec les 5 baselines, les 5 variantes prompt et
+les 5 variantes RAG, utiliser `--complete`. La commande génère uniquement les
+réponses et scores manquants grâce au cache, puis refuse de produire un résultat
+final si un des 15 systèmes reste incomplet:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_questions_mici_270_V1_checked.csv \
+  rag \
+  --complete \
+  --concurrency 4
+```
+
+La même option fonctionne avec `rag_selective` et vérifie alors la couverture
+des 5 baselines, 5 variantes prompt et 5 variantes RAG sélectif.
 
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 
@@ -66,6 +115,30 @@ Une limite plus basse peut être définie par fournisseur avec
 `provider_transport.<provider>.max_concurrency`. La configuration fournie limite
 Mistral à 4 appels simultanés et augmente ses retries pour mieux absorber les
 rate limits et les erreurs réseau temporaires.
+Le même bloc active le prompt caching Anthropic sur le prompt système avec un
+TTL de 5 minutes. Les compteurs `cache_creation_input_tokens` et
+`cache_read_input_tokens` sont conservés dans `usage` puis agrégés dans les
+métriques.
+
+Anthropic impose toutefois une longueur minimale au préfixe mis en cache:
+1 024 tokens pour Sonnet 4.6 et 4 096 tokens pour Haiku 4.5. Les prompts chatbot
+actuels sont plus courts; Anthropic acceptera `cache_control`, mais les compteurs
+peuvent rester à zéro. Il ne faut pas allonger artificiellement les prompts
+uniquement pour atteindre ce seuil.
+
+OpenAI active automatiquement son prompt caching à partir de 1 024 tokens; aucun
+paramètre supplémentaire n'est nécessaire. Mistral peut également retourner
+`prompt_tokens_details.cached_tokens`. Le pipeline agrège pour tous les
+fournisseurs les champs réellement retournés dans `prompt_cache`:
+
+- `cached_input_tokens`;
+- `requetes_avec_cache_hit`;
+- `taux_requetes_avec_cache_hit`;
+- `cache_creation_input_tokens` pour Anthropic.
+
+Baseline et step-by-step ont des prompts système différents: leur cache
+fournisseur n'est donc pas partagé entre les deux variantes. Chaque variante
+peut seulement réutiliser son propre préfixe sur les questions suivantes.
 La valeur par défaut est `1`. Commencez avec `3` ou `4`; une valeur trop élevée
 peut provoquer des erreurs de rate limit chez les fournisseurs.
 
@@ -183,8 +256,12 @@ Le calcul produit trois fichiers de comparaison:
 
 - `comparison.json`: résultats complets structurés;
 - `comparison.csv`: tableau synthétique `model`, `Baseline`,
-  `Baseline + prompt`, avec séparateur `;` et décimales françaises;
+  `Baseline + prompt` ou `Baseline + RAG`, avec séparateur `;` et décimales
+  françaises;
 - `comparison_detailed.csv`: toutes les métriques disponibles par système.
+
+Pour les systèmes RAG, le résumé contient aussi le taux de contextes non vides,
+le nombre moyen de chunks et la latence moyenne du retrieval.
 
 Test sans API:
 
@@ -392,7 +469,62 @@ jugement reste disponible dans `scores/`, sans alourdir le rapport de métriques
 Le code de `compute_metrics.py` peut être modifié et relancé autant de fois que
 nécessaire sans régénérer les réponses ni rappeler les juges.
 
-## Étape suivante
+## 4. Évaluer le RAG
 
-Le RAG n'est pas encore implémenté. Il sera ajouté comme une variante distincte
-après la comparaison des prompts baseline et step-by-step.
+Installer les dépendances dans l'environnement Python utilisé pour l'évaluation:
+
+```bash
+python3 -m pip install -r evaluation/requirements-rag.txt
+```
+
+Préparer les chunks à partir des PDF, images ou vidéos:
+
+```bash
+python3 -m pip install -r pre-processing/requirements.txt
+
+python3 pre-processing/prepare.py \
+  --pdfs-dir chemin/vers/pdfs \
+  --output-dir rag/corpus
+```
+
+L'extraction OCR nécessite également les exécutables système `tesseract` et
+`ffmpeg`.
+
+La traduction est optionnelle. Elle est utile si le dataset contient des
+questions en anglais ou en créole:
+
+```bash
+python3 pre-processing/traduction.py \
+  --input-dir rag/corpus \
+  --output-dir rag/corpus_translated \
+  --model gpt-5-mini
+```
+
+Construire ensuite l'index FAISS:
+
+```bash
+python3 rag/indexation.py \
+  --chunks-files \
+    rag/corpus/chunks.jsonl \
+    rag/corpus_translated/chunks_en.jsonl \
+    rag/corpus_translated/chunks_gcf.jsonl \
+  --output-dir rag/vectorstore_mici \
+  --overwrite \
+  --test-query "Que faire en cas de fatigue avec une MICI ?"
+```
+
+Si seules les sources françaises existent, fournir uniquement
+`rag/corpus/chunks.jsonl`. Le chemin de l'index et le modèle d'embeddings sont
+configurés dans la section `rag` de `evaluation/config.example.json`.
+
+Lancer enfin l'évaluation:
+
+```bash
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_questions_mici_270_V1_checked.csv \
+  rag \
+  --concurrency 4
+```
+
+Le manifest de l'index fait partie du hash du cache. Reconstruire le corpus crée
+donc de nouvelles réponses RAG sans invalider les réponses baseline.
