@@ -283,7 +283,7 @@ def compute(
             ),
             "global": aggregate(question_metrics),
         }
-        if system.get("prompt_variant") == "rag":
+        if str(system.get("prompt_variant", "")).startswith("rag"):
             retrieved_counts = [
                 len(
                     response.get("rag", {}).get(
@@ -484,9 +484,10 @@ def compute(
                     {},
                 ).get("taux_requetes_avec_cache_hit"),
             }
+        evaluation_mode = config.get("evaluation_mode")
         comparison_name = (
-            "comparison_rag"
-            if config.get("evaluation_mode") == "rag"
+            f"comparison_{evaluation_mode}"
+            if evaluation_mode in {"rag", "rag_selective"}
             else "comparison"
         )
         if partial:
@@ -553,6 +554,7 @@ def compute(
                 "baseline",
                 "step_by_step",
                 "rag",
+                "rag_selective",
             }:
                 continue
             if model not in scores_by_model:
@@ -575,6 +577,13 @@ def compute(
                 )
             if any("rag" in scores for scores in scores_by_model.values()):
                 variants.append(("rag", "Baseline + RAG"))
+            if any(
+                "rag_selective" in scores
+                for scores in scores_by_model.values()
+            ):
+                variants.append(
+                    ("rag_selective", "Baseline + RAG sélectif")
+                )
             header = ["model"]
             for _, label in variants:
                 header.append(label)

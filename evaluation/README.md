@@ -21,7 +21,9 @@ Modes:
 - `baseline`: évalue les cinq modèles avec le prompt minimal;
 - `prompt`: évalue les prompts baseline et step-by-step pour chaque modèle;
 - `rag`: compare baseline, baseline + prompt et baseline + RAG pour les cinq
-  modèles.
+  modèles;
+- `rag_selective`: ajoute une variante RAG plus sélective avec trois chunks
+  maximum, un seuil de distance et un contexte facultatif.
 
 Exemples:
 
@@ -38,6 +40,11 @@ python3 evaluation/run_evaluation.py \
 python3 evaluation/run_evaluation.py \
   evaluation/data/dataset_test.csv \
   rag \
+  --concurrency 4
+
+python3 evaluation/run_evaluation.py \
+  evaluation/data/dataset_test.csv \
+  rag_selective \
   --concurrency 4
 ```
 
@@ -57,6 +64,14 @@ chaque modèle, `Baseline`, `Baseline + prompt` et `Baseline + RAG`. Ses
 comparaisons sont écrites dans
 `comparison_rag.json`, `comparison_rag.csv` et
 `comparison_rag_detailed.csv`, sans remplacer les comparaisons du mode prompt.
+
+Le mode `rag_selective` conserve ses réponses sous le suffixe
+`__rag_selective`. Ses comparaisons sont écrites dans
+`comparison_rag_selective.json`, `comparison_rag_selective.csv` et
+`comparison_rag_selective_detailed.csv`, sans remplacer le scénario RAG initial.
+Le seuil `max_distance=1.1` est une distance L2 maximale: une valeur plus basse
+est plus stricte. Il peut être ajusté dans `evaluation/config.example.json`
+après inspection des distances persistées avec les chunks récupérés.
 Par défaut, les baselines existantes sont uniquement lues depuis le cache:
 `rag_generate_baseline` vaut `false`. Passez cette option à `true` dans la
 configuration uniquement pour générer aussi les baselines manquantes pendant le
@@ -74,6 +89,9 @@ python3 evaluation/run_evaluation.py \
   --complete \
   --concurrency 4
 ```
+
+La même option fonctionne avec `rag_selective` et vérifie alors la couverture
+des 5 baselines, 5 variantes prompt et 5 variantes RAG sélectif.
 
 Pour exécuter les cinq modèles, les variables suivantes doivent être définies:
 

@@ -162,6 +162,9 @@ def retrieve_context(
     max_context_chars = int(rag_config.get("max_context_chars", 6000))
     max_chunk_chars = int(rag_config.get("max_chunk_chars", 1200))
     filter_by_language = bool(rag_config.get("filter_by_language", True))
+    max_distance = rag_config.get("max_distance")
+    if max_distance is not None:
+        max_distance = float(max_distance)
 
     normalized_lang = normalize_language(language)
     search_filter = (
@@ -179,6 +182,11 @@ def retrieve_context(
     for doc, score in results:
         metadata = dict(doc.metadata or {})
         doc_lang = normalize_language(metadata.get("language"))
+
+        # FAISS retourne une distance L2: plus elle est faible, plus le
+        # passage est proche de la question.
+        if max_distance is not None and float(score) > max_distance:
+            continue
 
         if (
             filter_by_language
@@ -224,6 +232,7 @@ def retrieve_context(
             {
                 "rank": rank,
                 "score": float(score),
+                "accepted_max_distance": max_distance,
                 "content": chunk_text,
                 "metadata": metadata,
             }
@@ -333,13 +342,13 @@ def generate_one_variant(
     verbose: bool = True,
     concurrency: int = 1,
 ) -> None:
-    use_rag = variant == "rag"
-    rag_config = config.get("rag", {})
+    use_rag = variant.startswith("rag")
+    rag_config = config.get(variant, {}) if use_rag else {}
 
     for system in selected_systems:
         if use_rag and system.get("type") == "reference" and not config.get("rag_reference", False):
             if verbose:
-                print(f"[{system['name']}__rag] ignoré : type reference")
+                print(f"[{system['name']}__{variant}] ignoré : type reference")
             continue
 
         provider_transport = config.get("provider_transport", {}).get(
@@ -353,7 +362,9 @@ def generate_one_variant(
         )
 
         system_name = system["name"]
-        output_system_name = f"{system_name}__rag" if use_rag else system_name
+        output_system_name = (
+            f"{system_name}__{variant}" if use_rag else system_name
+        )
 
         prompt_file = system.get("prompt_file")
         if not prompt_file and system.get("type") != "reference":
@@ -378,7 +389,7 @@ def generate_one_variant(
         if use_rag:
             request_config.update(
                 {
-                    "variant": "rag",
+                    "variant": variant,
                     "rag": rag_config,
                     "rag_index_fingerprint": (
                         rag_index.get("fingerprint") if rag_index else None
@@ -437,7 +448,7 @@ def generate_one_variant(
             if use_rag:
                 request.update(
                     {
-                        "variant": "rag",
+                        "variant": variant,
                         "rag": rag_config,
                         "rag_index_fingerprint": (
                             rag_index.get("fingerprint")
@@ -599,7 +610,7 @@ def generate_one_variant(
                     "provider": system.get("provider"),
                     "model_group": system.get("model_group"),
                     "prompt_variant": (
-                        "rag" if use_rag else system.get("prompt_variant")
+                        variant if use_rag else system.get("prompt_variant")
                     ),
                     "prompt_file": prompt_file,
                     "prompt_hash": prompt_hash,
@@ -616,7 +627,7 @@ def generate_one_variant(
                     "api_max_tokens": generation.get("api_max_tokens", max_tokens),
                     "usage": generation["usage"],
                     "raw_api_response": generation["raw_api_response"],
-                    "variant": "rag" if use_rag else "baseline",
+                    "variant": variant if use_rag else "baseline",
                 }
 
                 if use_rag:
@@ -634,6 +645,7 @@ def generate_one_variant(
                             "rag": {
                                 "k": rag_config.get("k", 5),
                                 "fetch_k": rag_config.get("fetch_k"),
+                                "max_distance": rag_config.get("max_distance"),
                                 "filter_by_language": rag_config.get("filter_by_language", True),
                                 "index": rag_index,
                                 "retrieved_context": job["retrieved_context"],
@@ -688,6 +700,7 @@ def generate(
     rag: bool = False,
     no_rag: bool = False,
     only_rag: bool = False,
+    rag_variant: str = "rag",
 ) -> None:
     if concurrency < 1:
         raise ValueError("concurrency doit être supérieur ou égal à 1")
@@ -723,15 +736,16 @@ def generate(
     generate_baseline = should_generate_baseline_variants(config, only_rag)
     generate_rag = should_generate_rag_variants(config, rag, no_rag)
 
-    if generate_rag and "rag" not in config:
+    if generate_rag and rag_variant not in config:
         raise ValueError(
-            "La génération RAG est activée mais la config ne contient pas de section 'rag'."
+            "La génération RAG est activée mais la config ne contient pas "
+            f"de section '{rag_variant}'."
         )
 
     rag_db = None
     rag_index = None
     if generate_rag:
-        rag_db, rag_index = load_rag_db(config["rag"], base_dir)
+        rag_db, rag_index = load_rag_db(config[rag_variant], base_dir)
 
     if generate_baseline and generate_rag:
         for system in selected:
@@ -752,7 +766,7 @@ def generate(
                 dataset=dataset,
                 selected_systems=[system],
                 output_dir=output_dir,
-                variant="rag",
+                variant=rag_variant,
                 rag_db=rag_db,
                 rag_index=rag_index,
                 progress_callback=progress_callback,
@@ -780,7 +794,7 @@ def generate(
                 dataset=dataset,
                 selected_systems=selected,
                 output_dir=output_dir,
-                variant="rag",
+                variant=rag_variant,
                 rag_db=rag_db,
                 rag_index=rag_index,
                 progress_callback=progress_callback,
@@ -813,6 +827,12 @@ def main() -> None:
         action="store_true",
         help="Génère uniquement les variantes RAG, sans régénérer les baselines."
     )
+    parser.add_argument(
+        "--rag-variant",
+        choices=("rag", "rag_selective"),
+        default="rag",
+        help="Configuration et suffixe de la variante RAG à générer.",
+    )
 
     args = parser.parse_args()
 
@@ -824,6 +844,7 @@ def main() -> None:
         rag=args.rag,
         no_rag=args.no_rag,
         only_rag=args.only_rag,
+        rag_variant=args.rag_variant,
     )
 
 

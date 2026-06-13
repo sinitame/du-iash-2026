@@ -76,7 +76,7 @@ def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
         variants = {"baseline"}
     elif mode == "prompt":
         variants = {"baseline", "step_by_step"}
-    elif mode == "rag":
+    elif mode in {"rag", "rag_selective"}:
         variants = {"baseline", "step_by_step"}
     else:
         raise ValueError(f"Mode inconnu: {mode}")
@@ -91,11 +91,14 @@ def select_systems(config: dict[str, Any], mode: str) -> list[dict[str, Any]]:
     return systems
 
 
-def build_rag_system(system: dict[str, Any]) -> dict[str, Any]:
+def build_rag_system(
+    system: dict[str, Any],
+    variant: str,
+) -> dict[str, Any]:
     return {
         **system,
-        "name": f"{system['name']}__rag",
-        "prompt_variant": "rag",
+        "name": f"{system['name']}__{variant}",
+        "prompt_variant": variant,
         "base_system_name": system["name"],
         "generated_variant": True,
     }
@@ -204,20 +207,22 @@ def build_run_config(
     complete: bool = False,
 ) -> tuple[Path, dict[str, Any], list[dict[str, Any]]]:
     config, base_dir = load_config(base_config_path)
+    is_rag_mode = mode in {"rag", "rag_selective"}
     non_rag_systems = select_systems(config, mode)
     rag_source_systems = [
         system
         for system in non_rag_systems
         if system.get("prompt_variant") == "baseline"
     ]
-    if mode == "rag" and "rag" not in config:
+    if is_rag_mode and mode not in config:
         raise ValueError(
-            "Le mode rag nécessite une section 'rag' dans la configuration."
+            f"Le mode {mode} nécessite une section '{mode}' dans la "
+            "configuration."
         )
     systems = (
         non_rag_systems
-        + [build_rag_system(system) for system in rag_source_systems]
-        if mode == "rag"
+        + [build_rag_system(system, mode) for system in rag_source_systems]
+        if is_rag_mode
         else non_rag_systems
     )
     judges = [judge for judge in config["judges"] if judge.get("type") != "mock"]
@@ -230,23 +235,13 @@ def build_run_config(
         "evaluation_mode": mode,
         "rag_generate_baseline": (
             True
-            if mode == "rag" and complete
+            if is_rag_mode and complete
             else config.get("rag_generate_baseline", False)
         ),
         "dataset": str(dataset_path),
         "output_dir": str(output_dir),
         "judge_prompt_file": str(
             resolve_path(base_dir, config["judge_prompt_file"])
-        ),
-        "rag": (
-            {
-                **config["rag"],
-                "vectorstore_path": str(
-                    resolve_path(base_dir, config["rag"]["vectorstore_path"])
-                ),
-            }
-            if mode == "rag"
-            else config.get("rag")
         ),
         "generation_systems": [
             system["name"] for system in non_rag_systems
@@ -263,6 +258,16 @@ def build_run_config(
         ],
         "judges": judges,
     }
+    if is_rag_mode:
+        derived[mode] = {
+            **config[mode],
+            "vectorstore_path": str(
+                resolve_path(
+                    base_dir,
+                    config[mode]["vectorstore_path"],
+                )
+            ),
+        }
     run_key = stable_hash(
         {
             "dataset": str(dataset_path),
@@ -273,7 +278,7 @@ def build_run_config(
             "judge_prompt_hash": stable_hash(
                 Path(derived["judge_prompt_file"]).read_text(encoding="utf-8")
             ),
-            "rag": derived.get("rag") if mode == "rag" else None,
+            "rag_config": derived.get(mode) if is_rag_mode else None,
             "rag_generate_baseline": derived["rag_generate_baseline"],
         }
     )[:12]
@@ -391,7 +396,10 @@ def run(
                 if row and response.get("question") == row["question_patient"]:
                     latest_responses[response["question_id"]] = response
             partial_response_count += len(latest_responses)
-    elif mode == "rag" and not run_config.get("rag_generate_baseline", False):
+    elif (
+        mode in {"rag", "rag_selective"}
+        and not run_config.get("rag_generate_baseline", False)
+    ):
         with dataset_path.open(encoding="utf-8-sig", newline="") as handle:
             dataset = {row["id"]: row for row in csv.DictReader(handle)}
         baseline_response_count = 0
@@ -428,7 +436,7 @@ def run(
 
     try:
         if not partial_summary:
-            if mode == "rag":
+            if mode in {"rag", "rag_selective"}:
                 if run_config.get("rag_generate_baseline", False):
                     for system_name in run_config["generation_systems"]:
                         generate(
@@ -450,6 +458,7 @@ def run(
                         concurrency=concurrency,
                         rag=True,
                         only_rag=True,
+                        rag_variant=mode,
                     )
             else:
                 for system in systems:
@@ -582,7 +591,11 @@ def run(
         judge_prompt_path.read_text(encoding="utf-8")
     )
     judge_version = f"{judge_prompt_path.stem}_{judge_prompt_hash[:8]}"
-    comparison_name = "comparison_rag" if mode == "rag" else "comparison"
+    comparison_name = (
+        f"comparison_{mode}"
+        if mode in {"rag", "rag_selective"}
+        else "comparison"
+    )
     if partial_summary:
         comparison_name += "_partial"
     comparison_filename = f"{comparison_name}.json"
@@ -603,7 +616,10 @@ def main() -> None:
         description="Lancer toute l'évaluation pour un CSV et un mode."
     )
     parser.add_argument("dataset", help="Chemin du fichier CSV")
-    parser.add_argument("mode", choices=("baseline", "prompt", "rag"))
+    parser.add_argument(
+        "mode",
+        choices=("baseline", "prompt", "rag", "rag_selective"),
+    )
     parser.add_argument(
         "--config",
         default=str(Path(__file__).with_name("config.example.json")),
@@ -626,8 +642,8 @@ def main() -> None:
         "--complete",
         action="store_true",
         help=(
-            "Exiger une couverture complète; en mode rag, générer aussi les "
-            "baselines manquantes avant le scoring"
+            "Exiger une couverture complète; dans les modes RAG, générer "
+            "aussi les baselines manquantes avant le scoring"
         ),
     )
     args = parser.parse_args()

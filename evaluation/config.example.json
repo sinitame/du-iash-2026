@@ -39,6 +39,20 @@
     "max_chunk_chars": 1200,
     "filter_by_language": true
   },
+  "rag_selective": {
+    "vectorstore_path": "../rag/vectorstore_mici",
+    "embedding_model": "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2",
+    "device": "cpu",
+    "normalize_embeddings": true,
+    "k": 3,
+    "fetch_k": 12,
+    "max_distance": 1.1,
+    "max_context_chars": 3600,
+    "max_chunk_chars": 1200,
+    "filter_by_language": true,
+    "citation_policy": "Utilise uniquement les passages directement pertinents pour la question. Ignore les passages périphériques, insuffisants ou contradictoires. Le contexte est une source d'appui: tu n'es pas obligé d'utiliser chaque passage.",
+    "no_answer_policy": "Si aucun passage n'est suffisamment pertinent, réponds prudemment à partir de tes connaissances générales sans inventer d'information et indique les limites utiles."
+  },
   "rag_generate_baseline": false,
   "baseline_system": "openai_gpt_5_mini",
   "systems": [
