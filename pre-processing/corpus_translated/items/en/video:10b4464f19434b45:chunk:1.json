@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:10b4464f19434b45:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "71854d5e01105c7f66c53eb07cf3478ae2f2a28a24555f1ce235a6cefb29a699",
+  "translated_at": "2026-06-10T20:46:47.051285+00:00",
+  "model": "gpt-5-mini",
+  "text": "e, that for us. But here, there will be an imbalance in the microbiota that will be a bit disturbed, which will induce a somewhat inappropriate immune reaction. So all of that will create a slightly increased intestinal permeability, which means immune cells will come — they will be recruited to a place where they shouldn't be. And so they attack small pieces of the digestive tract, as I told you, in a segmental and focal way. And so it is a disease that progresses by flares interspersed with remission, which means that at some times things will be very bad, and then there will be times when it is calmer.",
+  "row": {
+    "id": "video:10b4464f19434b45:chunk:1:en",
+    "document_id": "video:10b4464f19434b45",
+    "chunk_index": 1,
+    "source_file": "a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "text_path": "corpus/texts/videos/a4257febb53401388f4c2156925cbd114de775e3.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "e, that for us. But here, there will be an imbalance in the microbiota that will be a bit disturbed, which will induce a somewhat inappropriate immune reaction. So all of that will create a slightly increased intestinal permeability, which means immune cells will come — they will be recruited to a place where they shouldn't be. And so they attack small pieces of the digestive tract, as I told you, in a segmental and focal way. And so it is a disease that progresses by flares interspersed with remission, which means that at some times things will be very bad, and then there will be times when it is calmer.",
+    "source_id": "video:10b4464f19434b45:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:47.051285+00:00",
+    "source_text_sha256": "71854d5e01105c7f66c53eb07cf3478ae2f2a28a24555f1ce235a6cefb29a699"
+  }
+}

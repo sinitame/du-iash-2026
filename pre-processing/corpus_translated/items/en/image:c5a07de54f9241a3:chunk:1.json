@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5a07de54f9241a3:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "7334171362fedaea6506eaee8413b3947fc64802cd7abdff56c6bb0466d3cd1f",
+  "translated_at": "2026-06-10T20:38:22.882462+00:00",
+  "model": "gpt-5-mini",
+  "text": "Put your medications in a\ninsulated pouch with a freezer pack. This pack may cause difficulties at the security checkpoint and be thrown away. In that case, go to the departure lounge bar to ask for ice cubes. Keep them with your best smile or offer to buy them.",
+  "row": {
+    "id": "image:c5a07de54f9241a3:chunk:1:en",
+    "document_id": "image:c5a07de54f9241a3",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_avion.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_avion.png",
+    "text_path": "corpus/texts/images/vivre_mici_avion.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Put your medications in a\ninsulated pouch with a freezer pack. This pack may cause difficulties at the security checkpoint and be thrown away. In that case, go to the departure lounge bar to ask for ice cubes. Keep them with your best smile or offer to buy them.",
+    "source_id": "image:c5a07de54f9241a3:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:22.882462+00:00",
+    "source_text_sha256": "7334171362fedaea6506eaee8413b3947fc64802cd7abdff56c6bb0466d3cd1f"
+  }
+}

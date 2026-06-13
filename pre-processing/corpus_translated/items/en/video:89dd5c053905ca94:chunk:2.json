@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "d7524a43f65a31b12634acccf908df083af828e6db743688e0a2aae07bb80deb",
+  "translated_at": "2026-06-10T20:46:37.525612+00:00",
+  "model": "gpt-5-mini",
+  "text": "Yes, it will produce an energizing effect. When the burden is too heavy, maybe you have to accept getting help from a little helping hand, and it's the same for mental load. At some point, you'll have to break the hamster wheel that keeps running in your head, because that's exhausting. Getting help and perhaps turning to sophrology techniques, yoga or other things that will break this circle of thought. So, a healthy lifestyle is adopted, plus lots of little things on the side.",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:2:en",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 2,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Yes, it will produce an energizing effect. When the burden is too heavy, maybe you have to accept getting help from a little helping hand, and it's the same for mental load. At some point, you'll have to break the hamster wheel that keeps running in your head, because that's exhausting. Getting help and perhaps turning to sophrology techniques, yoga or other things that will break this circle of thought. So, a healthy lifestyle is adopted, plus lots of little things on the side.",
+    "source_id": "video:89dd5c053905ca94:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:37.525612+00:00",
+    "source_text_sha256": "d7524a43f65a31b12634acccf908df083af828e6db743688e0a2aae07bb80deb"
+  }
+}

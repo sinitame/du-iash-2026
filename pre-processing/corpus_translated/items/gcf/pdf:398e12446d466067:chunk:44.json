@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:44",
+  "target_language": "gcf",
+  "source_text_sha256": "b2f7e243db34d681fdb13563cd265ddc24b6dc40411d37524d8f19b5bdc25782",
+  "translated_at": "2026-06-10T20:53:58.850072+00:00",
+  "model": "gpt-5-mini",
+  "text": "1.73m2] chak 8 simenn.\nPou vedolizumab, étid ki fèt asou dé cohort pédyatrik miltisentrik épi 44 é 65 timoun ki ni on MICI montré ki respèktivman 41% é 32% ladan yo té an rémisyon a simenn 14 di tretman par vedolizumab (112,113). Aucune efè endésirab ki obsèvè pa té konsidéré kon sévè. Pou pasyan ≥ 40 kg, vedolizumab dwèt administre pa venn intravén a 300 mg, an twa dòz d’indiksyon asou 6 simenn [simenn 0-2-6], swivi pa on tretman antretyen 300 mg chak 8 simenn. Pa ni rekòmandasyon spécifik asou dòzaj pédyatrik. Timoun pédyatrik pli jenn pé bizwen on dòz indyividyalisé 6 mg/kg jousk’a on maximum 300 mg, ou byen on dòz sòti asou sifas kò [kalkilé sou baz on adilt référence ki ni on sifas kò 1.73m2]. Répons a vedolizumab pé pran tan [≥ 16 simenn]. Onlo sant ka preskri kortikoyid oral kon on « tretman tranzisyon » tandé lè efè vedolizumab ka parèt (114,115).\nKombiterapi\nItilizasyon an premié entansyon o",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:44:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 44,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "1.73m2] chak 8 simenn.\nPou vedolizumab, étid ki fèt asou dé cohort pédyatrik miltisentrik épi 44 é 65 timoun ki ni on MICI montré ki respèktivman 41% é 32% ladan yo té an rémisyon a simenn 14 di tretman par vedolizumab (112,113). Aucune efè endésirab ki obsèvè pa té konsidéré kon sévè. Pou pasyan ≥ 40 kg, vedolizumab dwèt administre pa venn intravén a 300 mg, an twa dòz d’indiksyon asou 6 simenn [simenn 0-2-6], swivi pa on tretman antretyen 300 mg chak 8 simenn. Pa ni rekòmandasyon spécifik asou dòzaj pédyatrik. Timoun pédyatrik pli jenn pé bizwen on dòz indyividyalisé 6 mg/kg jousk’a on maximum 300 mg, ou byen on dòz sòti asou sifas kò [kalkilé sou baz on adilt référence ki ni on sifas kò 1.73m2]. Répons a vedolizumab pé pran tan [≥ 16 simenn]. Onlo sant ka preskri kortikoyid oral kon on « tretman tranzisyon » tandé lè efè vedolizumab ka parèt (114,115).\nKombiterapi\nItilizasyon an premié entansyon o",
+    "source_id": "pdf:398e12446d466067:chunk:44",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:58.850072+00:00",
+    "source_text_sha256": "b2f7e243db34d681fdb13563cd265ddc24b6dc40411d37524d8f19b5bdc25782"
+  }
+}

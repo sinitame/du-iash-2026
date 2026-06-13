@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "170d5e6181ea2217a75a87198f7d90c1a8506985ffc0dbca114414f2869d891f",
+  "translated_at": "2026-06-10T20:37:12.118920+00:00",
+  "model": "gpt-5-mini",
+  "text": "This chronic inflammation could contribute to fatigue through the action of certain pro-inflammatory proteins produced in excess during IBD and thus partly explain why more than 80% of IBD patients say they feel fatigued during an inflammatory flare. But a recent study looked at patients in remission by comparing a \"fatigued\" group and a \"non-fatigued\" group. In the \"fatigued\" group, there is notably an excess production of TNFα and interferon γ. This might perhaps link the phenomenon of fatigue (with all its subjectivity) to quantifiable biological factors. These findings nevertheless need to be confirmed.\n\nWHAT ARE THE MOST FREQUENT RISK FACTORS?\n\nSeveral studies show that fatigue is more frequent in women, in patients who are unemployed or who have financial difficulties, in cases of low socio-educational level, in smokers, with a recent diagnosis, in active disease and in anemia. There is, however, no difference according to patients' age and almost no difference between Crohn's disease and ulcerative colitis.\n\nref. no. 6",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:2:en",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 2,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "This chronic inflammation could contribute to fatigue through the action of certain pro-inflammatory proteins produced in excess during IBD and thus partly explain why more than 80% of IBD patients say they feel fatigued during an inflammatory flare. But a recent study looked at patients in remission by comparing a \"fatigued\" group and a \"non-fatigued\" group. In the \"fatigued\" group, there is notably an excess production of TNFα and interferon γ. This might perhaps link the phenomenon of fatigue (with all its subjectivity) to quantifiable biological factors. These findings nevertheless need to be confirmed.\n\nWHAT ARE THE MOST FREQUENT RISK FACTORS?\n\nSeveral studies show that fatigue is more frequent in women, in patients who are unemployed or who have financial difficulties, in cases of low socio-educational level, in smokers, with a recent diagnosis, in active disease and in anemia. There is, however, no difference according to patients' age and almost no difference between Crohn's disease and ulcerative colitis.\n\nref. no. 6",
+    "source_id": "image:c5def79d154ac486:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:12.118920+00:00",
+    "source_text_sha256": "170d5e6181ea2217a75a87198f7d90c1a8506985ffc0dbca114414f2869d891f"
+  }
+}

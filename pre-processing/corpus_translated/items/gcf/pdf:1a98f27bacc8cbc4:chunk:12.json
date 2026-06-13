@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:12",
+  "target_language": "gcf",
+  "source_text_sha256": "af67426f3ee2ec49d2c22b2d6e5d32865602e796c2143c47305e89a7bce7483c",
+  "translated_at": "2026-06-10T21:11:57.116593+00:00",
+  "model": "gpt-5-mini",
+  "text": "Difikulté pou konsomé 150 g blan poul.\nErezman mwen pé diminyé kantité-a an konpansé épi on 3yèm zèf (adan krèp osnon pancakes), oswa ranplasé-y 2 fwa pa semenn pa pwason koté on fwa se tòn an lwil, oswa épi plis soluté.\nOpsyon sala ké édé mwen kontinyé faz 2. An plis, mwen sav ki apré sa réjim-la pé toujou elaji... Sé poutisa enpòtans on swivi èvè on dyététisyen. »\nPasyant 36 an : té lasé di kèk manjé obligatwa",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:12:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 12,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Difikulté pou konsomé 150 g blan poul.\nErezman mwen pé diminyé kantité-a an konpansé épi on 3yèm zèf (adan krèp osnon pancakes), oswa ranplasé-y 2 fwa pa semenn pa pwason koté on fwa se tòn an lwil, oswa épi plis soluté.\nOpsyon sala ké édé mwen kontinyé faz 2. An plis, mwen sav ki apré sa réjim-la pé toujou elaji... Sé poutisa enpòtans on swivi èvè on dyététisyen. »\nPasyant 36 an : té lasé di kèk manjé obligatwa",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:12",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:57.116593+00:00",
+    "source_text_sha256": "af67426f3ee2ec49d2c22b2d6e5d32865602e796c2143c47305e89a7bce7483c"
+  }
+}

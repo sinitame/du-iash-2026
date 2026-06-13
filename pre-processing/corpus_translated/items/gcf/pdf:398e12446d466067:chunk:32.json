@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:32",
+  "target_language": "gcf",
+  "source_text_sha256": "f3960026b13ff8a24ab7521e70f65aa47f6f86c2d331e1da5ac4d397b5d5582b",
+  "translated_at": "2026-06-10T20:53:29.337189+00:00",
+  "model": "gpt-5-mini",
+  "text": "Yo té aktualizé an 2021 (62).\nStrateji terapetik-la bizwen personnalisé an gadé laj, fenotip (Klasifikasyon Pari), lokalizasyon, konpòtman évolutif, si i ni on\n\nTablo 6 : Faktè ki prédikté on move pronostik an maladi Crohn pédyatrik  \né terapi d’indiksyon yo ka sijéré (62)\nKlasifikasyon Pari  \n[a dyagnostik]\nFaktè risk adisyonèl\nStratifikasyon risk\nTerapi d’indiksyon ki rekomandé\nB1 (inflamatwa : pa sténosant, pa pénétrant)\nOkenn\nBa\nNitrisyon entéral éksklizif ; kortikostéwoyid\nB1\nAbsans rémission klinik é biochimik \n12 semenn apré kòmansman d’indiksyon\nMwayen\nKonsidéré on eskalad aksélé vè anti-TNF\nB1 + G1 (retad kwasans)\n—\nMwayen\nNitrisyon entéral éksklizif ; konsidéré anti-TNF kon premye liy\nB1 [L3 + L4] (maladi étandu*)\n—\nWo\nAnti-TNF kon premye liy\nB1 + p (afeksyon périanal)\n—\nWo\nAnti-TNF kon premye liy an asosiyasyon èvè antibyotik, chiriji, oswa tou lé dé\nB2 (sténosant**)\nDilatasyon pré-sténotik, siyn/simptóm obstriktif (oswa tou lé dé)\nWo\nAnti-TNF kon premye liy\nB3 (pénétrant***)\n—\nWo\nRézeksyon",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:32:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 32,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Yo té aktualizé an 2021 (62).\nStrateji terapetik-la bizwen personnalisé an gadé laj, fenotip (Klasifikasyon Pari), lokalizasyon, konpòtman évolutif, si i ni on\n\nTablo 6 : Faktè ki prédikté on move pronostik an maladi Crohn pédyatrik  \né terapi d’indiksyon yo ka sijéré (62)\nKlasifikasyon Pari  \n[a dyagnostik]\nFaktè risk adisyonèl\nStratifikasyon risk\nTerapi d’indiksyon ki rekomandé\nB1 (inflamatwa : pa sténosant, pa pénétrant)\nOkenn\nBa\nNitrisyon entéral éksklizif ; kortikostéwoyid\nB1\nAbsans rémission klinik é biochimik \n12 semenn apré kòmansman d’indiksyon\nMwayen\nKonsidéré on eskalad aksélé vè anti-TNF\nB1 + G1 (retad kwasans)\n—\nMwayen\nNitrisyon entéral éksklizif ; konsidéré anti-TNF kon premye liy\nB1 [L3 + L4] (maladi étandu*)\n—\nWo\nAnti-TNF kon premye liy\nB1 + p (afeksyon périanal)\n—\nWo\nAnti-TNF kon premye liy an asosiyasyon èvè antibyotik, chiriji, oswa tou lé dé\nB2 (sténosant**)\nDilatasyon pré-sténotik, siyn/simptóm obstriktif (oswa tou lé dé)\nWo\nAnti-TNF kon premye liy\nB3 (pénétrant***)\n—\nWo\nRézeksyon",
+    "source_id": "pdf:398e12446d466067:chunk:32",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:29.337189+00:00",
+    "source_text_sha256": "f3960026b13ff8a24ab7521e70f65aa47f6f86c2d331e1da5ac4d397b5d5582b"
+  }
+}

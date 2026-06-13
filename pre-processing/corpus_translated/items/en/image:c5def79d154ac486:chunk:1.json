@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "abbd565d397978ccb3159cd725bf781d095f460aac69b58f53d6ff0445c733ad",
+  "translated_at": "2026-06-10T20:37:09.659180+00:00",
+  "model": "gpt-5-mini",
+  "text": "In the French BIRD study, carried out on 1,185 French patients and published in February 2017, severe fatigue was found in nearly 50% of them; this fatigue persisted in half of the cases in remission.\nA significant decrease in quality of life was observed in 53% of patients.\n\nGut inflammation (visible on endoscopy, by measuring calprotectin in the stool, or on MRI) and systemic inflammation (visible on blood tests, especially with C-reactive protein) are markers of IBD activity and severity. It is mainly present during flare-ups but can persist at baseline in patients in remission. There are also so-called \"chronic active\" forms where symptoms are minimal (or, in any case, tolerated by patients) but where intestinal lesions and therefore inflammation persist.",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:1:en",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 1,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "In the French BIRD study, carried out on 1,185 French patients and published in February 2017, severe fatigue was found in nearly 50% of them; this fatigue persisted in half of the cases in remission.\nA significant decrease in quality of life was observed in 53% of patients.\n\nGut inflammation (visible on endoscopy, by measuring calprotectin in the stool, or on MRI) and systemic inflammation (visible on blood tests, especially with C-reactive protein) are markers of IBD activity and severity. It is mainly present during flare-ups but can persist at baseline in patients in remission. There are also so-called \"chronic active\" forms where symptoms are minimal (or, in any case, tolerated by patients) but where intestinal lesions and therefore inflammation persist.",
+    "source_id": "image:c5def79d154ac486:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:09.659180+00:00",
+    "source_text_sha256": "abbd565d397978ccb3159cd725bf781d095f460aac69b58f53d6ff0445c733ad"
+  }
+}

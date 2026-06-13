@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "f728c65d2c574ac475abbf3303164b5e2fcf6d42e64fad06b9bc8f56ddd0f5fe",
+  "translated_at": "2026-06-10T20:42:45.718369+00:00",
+  "model": "gpt-5-mini",
+  "text": "It occurs in\nyoung adults between 17 and 25 years of age.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:3:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 3,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "It occurs in\nyoung adults between 17 and 25 years of age.",
+    "source_id": "pdf:a74238ee30f57428:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:45.718369+00:00",
+    "source_text_sha256": "f728c65d2c574ac475abbf3303164b5e2fcf6d42e64fad06b9bc8f56ddd0f5fe"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:c8da6da5030282c2:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "3cc5fd10f21aac5a707b8daeefe05bab867f170da8d3728bb1574aafacb1f7e2",
+  "translated_at": "2026-06-10T20:48:16.084039+00:00",
+  "model": "gpt-5-mini",
+  "text": "... How do clinical trials get started? So, classically, clinical trials involve a drug that has already been tested, but we want to see to what extent it will put the patient into remission. So we offer the drug in question, put it in competition with something else, and actually offering it is done by drawing lots/randomization, and one patient will receive the drug we want to study—to check the number of remissions—and another will receive either a drug that already exists, for which we know the remission rate, or nothing at all. This is one of the placebo-controlled trials. But it's very useful, because, first, it's very tightly supervised with a colonoscopy at the beginning, a colonoscopy at one point and a colonoscopy at the end, lots of blood tests, measurements of drug levels, so very, very supervised, and it's very useful because it allows us to know exactly, to predict, for example, a clic-simab: we know that it works in one patient out of ten. And so, that's important to know, and it also makes it possible to bring molecules that work to market, so that's important. And that's how it works, and that's clear.",
+  "row": {
+    "id": "video:c8da6da5030282c2:chunk:0:en",
+    "document_id": "video:c8da6da5030282c2",
+    "chunk_index": 0,
+    "source_file": "fc21a56ace3612e312731178c9dc3914e60de7f5.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/fc21a56ace3612e312731178c9dc3914e60de7f5.mp4",
+    "text_path": "corpus/texts/videos/fc21a56ace3612e312731178c9dc3914e60de7f5.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... How do clinical trials get started? So, classically, clinical trials involve a drug that has already been tested, but we want to see to what extent it will put the patient into remission. So we offer the drug in question, put it in competition with something else, and actually offering it is done by drawing lots/randomization, and one patient will receive the drug we want to study—to check the number of remissions—and another will receive either a drug that already exists, for which we know the remission rate, or nothing at all. This is one of the placebo-controlled trials. But it's very useful, because, first, it's very tightly supervised with a colonoscopy at the beginning, a colonoscopy at one point and a colonoscopy at the end, lots of blood tests, measurements of drug levels, so very, very supervised, and it's very useful because it allows us to know exactly, to predict, for example, a clic-simab: we know that it works in one patient out of ten. And so, that's important to know, and it also makes it possible to bring molecules that work to market, so that's important. And that's how it works, and that's clear.",
+    "source_id": "video:c8da6da5030282c2:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:16.084039+00:00",
+    "source_text_sha256": "3cc5fd10f21aac5a707b8daeefe05bab867f170da8d3728bb1574aafacb1f7e2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "9cb8833b5fb2d03a12d6168c2854d8b3192c848d7ea9fbd7de15ba237e6966ce",
+  "translated_at": "2026-06-10T21:13:58.500576+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sa sèvi pou treté maladi-la é fè-w reprann pwa. Sé sa yo ka rélé nitrisyon entéral. Sé on mélanj manjé likid yo administre an èd on sond ki pasé adan nen é ki al adan lestoma-la pandan nwit, pandan ou ka dòmi. Ou pé osi genyen sipleman alimantè an fòm ti bwik pou bwè chak jou é suiv on réjim adapté ki ké pèmèt ou alé miyò. Pli ta, fodré évité fimen, paské sa ka agravé maladi-la é i pa bon pou lasanté. Pa ni rezon pou arèté lékol, paské menm kon lòt timoun, i enpòtan pou lavni-ou. Ou pé manké kous petèt si ou dwé al lopital, osinon si ou tonbé malad, osinon si ou two fatigué. Mé granmoun yo ké édé-w ratrapé retard-ou. Ou pé pratike niport ki spòt, pa ni okenn restriksyon, sòf si ou santi on gwo fatig akoz maladi-a osinon apré on opérasyon. É si ou two fatigué, pa ni wont fè on ti pé mwens ki lòt yo. Ou ka toujou posé kèsyon asi maladi-w ? Alò, gad lòt vidéos an séri Les mots de ventre, pou édé-w konprann miyò miquilles é difikulté q",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:1:gcf",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 1,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Sa sèvi pou treté maladi-la é fè-w reprann pwa. Sé sa yo ka rélé nitrisyon entéral. Sé on mélanj manjé likid yo administre an èd on sond ki pasé adan nen é ki al adan lestoma-la pandan nwit, pandan ou ka dòmi. Ou pé osi genyen sipleman alimantè an fòm ti bwik pou bwè chak jou é suiv on réjim adapté ki ké pèmèt ou alé miyò. Pli ta, fodré évité fimen, paské sa ka agravé maladi-la é i pa bon pou lasanté. Pa ni rezon pou arèté lékol, paské menm kon lòt timoun, i enpòtan pou lavni-ou. Ou pé manké kous petèt si ou dwé al lopital, osinon si ou tonbé malad, osinon si ou two fatigué. Mé granmoun yo ké édé-w ratrapé retard-ou. Ou pé pratike niport ki spòt, pa ni okenn restriksyon, sòf si ou santi on gwo fatig akoz maladi-a osinon apré on opérasyon. É si ou two fatigué, pa ni wont fè on ti pé mwens ki lòt yo. Ou ka toujou posé kèsyon asi maladi-w ? Alò, gad lòt vidéos an séri Les mots de ventre, pou édé-w konprann miyò miquilles é difikulté q",
+    "source_id": "video:75e3ee1c72dca13e:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:58.500576+00:00",
+    "source_text_sha256": "9cb8833b5fb2d03a12d6168c2854d8b3192c848d7ea9fbd7de15ba237e6966ce"
+  }
+}

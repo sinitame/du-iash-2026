@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:9",
+  "target_language": "gcf",
+  "source_text_sha256": "5a6333b276bd3e68305bae0bb4b325809dfd31f50f23374e2140a580d9d12eb0",
+  "translated_at": "2026-06-10T21:09:03.023460+00:00",
+  "model": "gpt-5-mini",
+  "text": "si ou vlé, ankourajé pitit-ou pou pozé yo. Chèk siy ka fè pè timoun-tout piti, pa egzanp kaka ki sòti épi san… Kapav expliké-y sa ka kalmé yo, tandiske santi-w désarmé osnon pa sav pa édé. Akòz maladi kwonik sa-a, ou kay pasé plis tan épi timoun ki malad-la pase épi lòt yo, mé pran tan ba lòt timoun-an osi pou pa fè yo jalou. Esez évité pou maladi-a pa vini sant antansyon tout fanmi-an. I pli fasil a di ki pli di pou fè.\n\nKISA MANJÉ OSWON KI VITAMIN KI ITIL ?\nPou kèk timoun, maladi-a ka mennen adéfisi an vitamin osnon an minéral (folat, cálcium osnon fè…). Doktè-w ka konn défisi sa yo é i pé preskrité siplémant. Sa ki pi enpòtan pou timoun-an sé ki i manjé an kantite asé : alò ba-y manjé sa i kontan. Sa pa toujou fasil, pa egzanp lè pwodwi lèt toujou ba-y mal an vant osnon dyaré, ké bizwen trouv on manjé pou ranplasé yo paskè sé on sours itil kalori é cálcium. I ni manjé konplémentè ki an fòm likid aromatizé.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:9:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 9,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "si ou vlé, ankourajé pitit-ou pou pozé yo. Chèk siy ka fè pè timoun-tout piti, pa egzanp kaka ki sòti épi san… Kapav expliké-y sa ka kalmé yo, tandiske santi-w désarmé osnon pa sav pa édé. Akòz maladi kwonik sa-a, ou kay pasé plis tan épi timoun ki malad-la pase épi lòt yo, mé pran tan ba lòt timoun-an osi pou pa fè yo jalou. Esez évité pou maladi-a pa vini sant antansyon tout fanmi-an. I pli fasil a di ki pli di pou fè.\n\nKISA MANJÉ OSWON KI VITAMIN KI ITIL ?\nPou kèk timoun, maladi-a ka mennen adéfisi an vitamin osnon an minéral (folat, cálcium osnon fè…). Doktè-w ka konn défisi sa yo é i pé preskrité siplémant. Sa ki pi enpòtan pou timoun-an sé ki i manjé an kantite asé : alò ba-y manjé sa i kontan. Sa pa toujou fasil, pa egzanp lè pwodwi lèt toujou ba-y mal an vant osnon dyaré, ké bizwen trouv on manjé pou ranplasé yo paskè sé on sours itil kalori é cálcium. I ni manjé konplémentè ki an fòm likid aromatizé.",
+    "source_id": "pdf:a74238ee30f57428:chunk:9",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:03.023460+00:00",
+    "source_text_sha256": "5a6333b276bd3e68305bae0bb4b325809dfd31f50f23374e2140a580d9d12eb0"
+  }
+}

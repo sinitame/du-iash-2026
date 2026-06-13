@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "2dc9375b40978cfa185e24f993b94987d6c6a40df3c384809ac15261b130f56e",
+  "translated_at": "2026-06-10T21:18:21.338464+00:00",
+  "model": "gpt-5-mini",
+  "text": "gadé tout, antisipe, antisipe, petèt, mé ki mwen ka fè la si fò mwen ta réaji, si mwen ta komans santi mwen malad, etc. Alò chay mantal-la ka fatigan. I pé gen on fatigay osi ki o nivo psikolojik, sé-à-dì adan dé fwa nou pa ka aksepté. Nou pa ka aksepté, nou pa ka aksepté ki nou ké viv épi on maladi kwonik é sé on fardo, é fardo-a ka fatigé. É an plis, i ni mové ijyèn osi, sé-à-dì manjé nimport kijan, paské nou ka di nou, finalman, si mwen manjé san fib, san fwi, san vitamin, m'a mwens chans pou geri, m'a plis mal nan vant. Si mwen twòp fatigué pou al fè spò, mé an réalité sé on sik visye. Sa vlé di spò ka redinamizé. Alò gardé on aktivité fizik ka refè enèji, manjé é mété fwi, légim, pwodui lèt, pwodui ki rich an vitamin, tousa ka ofri on efè peps. Lè fardo-a twòp lou, petèt fò nou aksepté pran on ti kout men adan on moun, é chay mantal-la menm bagay. I ni on moman don",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:1:gcf",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 1,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "gadé tout, antisipe, antisipe, petèt, mé ki mwen ka fè la si fò mwen ta réaji, si mwen ta komans santi mwen malad, etc. Alò chay mantal-la ka fatigan. I pé gen on fatigay osi ki o nivo psikolojik, sé-à-dì adan dé fwa nou pa ka aksepté. Nou pa ka aksepté, nou pa ka aksepté ki nou ké viv épi on maladi kwonik é sé on fardo, é fardo-a ka fatigé. É an plis, i ni mové ijyèn osi, sé-à-dì manjé nimport kijan, paské nou ka di nou, finalman, si mwen manjé san fib, san fwi, san vitamin, m'a mwens chans pou geri, m'a plis mal nan vant. Si mwen twòp fatigué pou al fè spò, mé an réalité sé on sik visye. Sa vlé di spò ka redinamizé. Alò gardé on aktivité fizik ka refè enèji, manjé é mété fwi, légim, pwodui lèt, pwodui ki rich an vitamin, tousa ka ofri on efè peps. Lè fardo-a twòp lou, petèt fò nou aksepté pran on ti kout men adan on moun, é chay mantal-la menm bagay. I ni on moman don",
+    "source_id": "video:89dd5c053905ca94:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:21.338464+00:00",
+    "source_text_sha256": "2dc9375b40978cfa185e24f993b94987d6c6a40df3c384809ac15261b130f56e"
+  }
+}

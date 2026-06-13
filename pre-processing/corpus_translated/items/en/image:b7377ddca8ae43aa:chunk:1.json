@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "526f4e8700756cb7113ac4054f23596acbb3c98fc4c3807996b9452d5c262179",
+  "translated_at": "2026-06-10T20:38:10.667782+00:00",
+  "model": "gpt-5-mini",
+  "text": "The professional environment, whatever it may be (your hierarchical superior, the human resources department) does not have the right to ask you personal questions. You therefore have no legal obligation to talk about your illness, which is part of your private life. No one will be able to reproach you later for not having disclosed it, for example at the time of hiring.\n\nEven if you have Recognition of the Status of Disabled Worker (see Rights and insurance - Fact sheet No. 1 Being recognized as a disabled worker), you are not obliged to declare it. The Afa advises requesting it as a preventive measure, given the time required to obtain it in case the illness evolves.\n\nThe occupational physician is the only person in the company authorized to collect medical information. Informing them may help you obtain workplace accommodations if necessary. But again, there is no obligation.\n\nTO WHOM, WHEN, HOW TO TALK ABOUT IT?",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:1:en",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 1,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "The professional environment, whatever it may be (your hierarchical superior, the human resources department) does not have the right to ask you personal questions. You therefore have no legal obligation to talk about your illness, which is part of your private life. No one will be able to reproach you later for not having disclosed it, for example at the time of hiring.\n\nEven if you have Recognition of the Status of Disabled Worker (see Rights and insurance - Fact sheet No. 1 Being recognized as a disabled worker), you are not obliged to declare it. The Afa advises requesting it as a preventive measure, given the time required to obtain it in case the illness evolves.\n\nThe occupational physician is the only person in the company authorized to collect medical information. Informing them may help you obtain workplace accommodations if necessary. But again, there is no obligation.\n\nTO WHOM, WHEN, HOW TO TALK ABOUT IT?",
+    "source_id": "image:b7377ddca8ae43aa:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:10.667782+00:00",
+    "source_text_sha256": "526f4e8700756cb7113ac4054f23596acbb3c98fc4c3807996b9452d5c262179"
+  }
+}

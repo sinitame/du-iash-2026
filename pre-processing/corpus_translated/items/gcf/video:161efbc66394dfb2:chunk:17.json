@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:17",
+  "target_language": "gcf",
+  "source_text_sha256": "f02d0dda7ddb06f6822f067bed345f7ea784d2856471b734b619f87998072690",
+  "translated_at": "2026-06-10T21:22:45.068991+00:00",
+  "model": "gpt-5-mini",
+  "text": "Fèmen. Ou jwenn plas kalm-la. Li anndan-w. Twa souf. Twa dousman. Mwen envite-w pran poz. Sa ka kòmanse bouche on ti jan zòrèy-w. Boujé on ti jan dwèt-w. Ou ké kapab, si ou pé mété-y. Imajinné kon si ou té ka jwé piano épi zòrèy-w épi dwèt-w pou on minit. Ou ké kapab pwotjé dwèt-w. Wi, ou pé pwotjé yo. Mé lè ou mété-y, ou pé fè on erè. Ou kòrèk. Ou ni toujou menm bagay-la. Mwen pé fè sa trankilman. Fè-y dousman. Ou santi l tout otou nombril-ou. Respire frèchè. Ou tapé. Ou ni fòs. Ou tapé molè a. Épi ou ké kapab kounyé-a pran plas. Ou rale. Ou bizwen sa pou pran tout plas-la. Ou bizwen li. Ou twòp trankil. Ou ké kapab repoze pye-w anlè tè a. Ou repoze men-w anlè kwis-w. Ou ké kapab remèt lavi adan kò-w. Ouvè je-w, di orevwa ba yo é souri a lavi.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:17:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 17,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Fèmen. Ou jwenn plas kalm-la. Li anndan-w. Twa souf. Twa dousman. Mwen envite-w pran poz. Sa ka kòmanse bouche on ti jan zòrèy-w. Boujé on ti jan dwèt-w. Ou ké kapab, si ou pé mété-y. Imajinné kon si ou té ka jwé piano épi zòrèy-w épi dwèt-w pou on minit. Ou ké kapab pwotjé dwèt-w. Wi, ou pé pwotjé yo. Mé lè ou mété-y, ou pé fè on erè. Ou kòrèk. Ou ni toujou menm bagay-la. Mwen pé fè sa trankilman. Fè-y dousman. Ou santi l tout otou nombril-ou. Respire frèchè. Ou tapé. Ou ni fòs. Ou tapé molè a. Épi ou ké kapab kounyé-a pran plas. Ou rale. Ou bizwen sa pou pran tout plas-la. Ou bizwen li. Ou twòp trankil. Ou ké kapab repoze pye-w anlè tè a. Ou repoze men-w anlè kwis-w. Ou ké kapab remèt lavi adan kò-w. Ouvè je-w, di orevwa ba yo é souri a lavi.",
+    "source_id": "video:161efbc66394dfb2:chunk:17",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:45.068991+00:00",
+    "source_text_sha256": "f02d0dda7ddb06f6822f067bed345f7ea784d2856471b734b619f87998072690"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:7",
+  "target_language": "en",
+  "source_text_sha256": "895c4a268a7959721536bbbfb5c448615fe465c282991637f87874ee5eb668ca",
+  "translated_at": "2026-06-10T20:43:41.287706+00:00",
+  "model": "gpt-5-mini",
+  "text": "iwi\nPeach\nBlueberries\nZucchini\nCauliflower or broccoli\nMushrooms\nSweet pepper\nPHASE 1\nPHASE 2\nWhich foods MUST and CAN I eat?6\nDownload this page as printable A4\nAllowed foods\nFor the intake of fiber and vitamins, while respecting the quantities and frequencies defined with your dietitian and favoring a varied, seasonal diet according to your preferences.\n5",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:7:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 7,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "iwi\nPeach\nBlueberries\nZucchini\nCauliflower or broccoli\nMushrooms\nSweet pepper\nPHASE 1\nPHASE 2\nWhich foods MUST and CAN I eat?6\nDownload this page as printable A4\nAllowed foods\nFor the intake of fiber and vitamins, while respecting the quantities and frequencies defined with your dietitian and favoring a varied, seasonal diet according to your preferences.\n5",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:7",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:41.287706+00:00",
+    "source_text_sha256": "895c4a268a7959721536bbbfb5c448615fe465c282991637f87874ee5eb668ca"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:72",
+  "target_language": "gcf",
+  "source_text_sha256": "957089a237520811031231fb59df4409d21a32b29bf94768df6ed3524ba242f6",
+  "translated_at": "2026-06-10T21:06:23.191534+00:00",
+  "model": "gpt-5-mini",
+  "text": "lt swen lasante. Inflamm Bowel Dis. 2006;12:70-3.\n62.\tvan Rheenen PF, Aloi M, Assa A, et al. Jestyon médikal maladi Crohn adan timoun: on mizajou gid ECCO ESPGHAN. J Crohns Colitis 2021;15:171-194.\n63.\tNarula N, Dhillon A, Zhang D, et al. Terapi nitrisyon antéral pou fè rivé rémission adan maladi Crohn. Cochrane Database Syst. Rev. 2018;4:CD000542.\n64.\tSwaminath A, Feathers A, Ananthakrishnan A, et al. Revizyon sistematik épi méta-analiz: terapi nitrisyon antéral pou fè rivé rémission adan maladi Crohn adan timoun. Aliment Pharmacol Ther. 2017;46:645-56.\n65.\tBorrelli O, Cordischi L, Cirulli M, et al. Dyèt polymérik pou kont li kont kortikostewoyd dan tretman maladi Crohn aktif adan timoun: on esé randomizé kontwolé ouvè-labèl. Clin Gastroenterol Hepatol. 2006;4:744-53.\n66.\tPigneur B, Lepage P, Mondot S, et al. Gerizon mukoza é konpozisyon bakteri an rèpons a nitrisyon antéral vèsus terapi indiksyon bazé asou estewoyd - on esé klinik prospektif randomizé adan timoun ki ni maladi Crohn. J Crohns Colitis 2019;13:846-55.\n67.\tRubio A, Pigneur B, Garnier-Lengliné H, et al. Efikasité nitrisyon eksklizif",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:72:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 72,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "lt swen lasante. Inflamm Bowel Dis. 2006;12:70-3.\n62.\tvan Rheenen PF, Aloi M, Assa A, et al. Jestyon médikal maladi Crohn adan timoun: on mizajou gid ECCO ESPGHAN. J Crohns Colitis 2021;15:171-194.\n63.\tNarula N, Dhillon A, Zhang D, et al. Terapi nitrisyon antéral pou fè rivé rémission adan maladi Crohn. Cochrane Database Syst. Rev. 2018;4:CD000542.\n64.\tSwaminath A, Feathers A, Ananthakrishnan A, et al. Revizyon sistematik épi méta-analiz: terapi nitrisyon antéral pou fè rivé rémission adan maladi Crohn adan timoun. Aliment Pharmacol Ther. 2017;46:645-56.\n65.\tBorrelli O, Cordischi L, Cirulli M, et al. Dyèt polymérik pou kont li kont kortikostewoyd dan tretman maladi Crohn aktif adan timoun: on esé randomizé kontwolé ouvè-labèl. Clin Gastroenterol Hepatol. 2006;4:744-53.\n66.\tPigneur B, Lepage P, Mondot S, et al. Gerizon mukoza é konpozisyon bakteri an rèpons a nitrisyon antéral vèsus terapi indiksyon bazé asou estewoyd - on esé klinik prospektif randomizé adan timoun ki ni maladi Crohn. J Crohns Colitis 2019;13:846-55.\n67.\tRubio A, Pigneur B, Garnier-Lengliné H, et al. Efikasité nitrisyon eksklizif",
+    "source_id": "pdf:398e12446d466067:chunk:72",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:23.191534+00:00",
+    "source_text_sha256": "957089a237520811031231fb59df4409d21a32b29bf94768df6ed3524ba242f6"
+  }
+}

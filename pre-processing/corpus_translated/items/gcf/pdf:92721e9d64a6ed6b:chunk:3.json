@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "58980d6be2fcfb39463e8efdd2a4dbe95805a3091df301d3c86a56494fe42817",
+  "translated_at": "2026-06-10T20:51:31.065391+00:00",
+  "model": "gpt-5-mini",
+  "text": "y ka chaché adapte réjim alimantè an fonksyon ak mikrobiòt chak moun pou édé kalmé sentòm yo.\nKOMAN MWEN PÉ AGI ASOU MIKROBIÒT MWEN ?\nMikrobiòt ou ka préféré kèk manje plis ki lòt :\nFib (fwi, légim, léguminè, séréyal konplè) → Ka nouri mikrobiòt ou. Sé prébiyotik.\nManjé fermente (yaout, kéfir, fwomaj) → Poté probiyotik, ki ké ranforsé mikrobiòt ou.\nNwa é grenn → Plen é fib é antioksidan, ka nouri é pwotéjé mikrobiòt ou\nPWOBLÈM : Présans MICI ka fè konsomasyon manjé sa yo pafwa difisil.",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:3:gcf",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 3,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "y ka chaché adapte réjim alimantè an fonksyon ak mikrobiòt chak moun pou édé kalmé sentòm yo.\nKOMAN MWEN PÉ AGI ASOU MIKROBIÒT MWEN ?\nMikrobiòt ou ka préféré kèk manje plis ki lòt :\nFib (fwi, légim, léguminè, séréyal konplè) → Ka nouri mikrobiòt ou. Sé prébiyotik.\nManjé fermente (yaout, kéfir, fwomaj) → Poté probiyotik, ki ké ranforsé mikrobiòt ou.\nNwa é grenn → Plen é fib é antioksidan, ka nouri é pwotéjé mikrobiòt ou\nPWOBLÈM : Présans MICI ka fè konsomasyon manjé sa yo pafwa difisil.",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:31.065391+00:00",
+    "source_text_sha256": "58980d6be2fcfb39463e8efdd2a4dbe95805a3091df301d3c86a56494fe42817"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:75",
+  "target_language": "gcf",
+  "source_text_sha256": "b769611434de5b8709830bbdddf2368a4f5129683558c5c6284ea1c59c2da950",
+  "translated_at": "2026-06-10T21:06:48.254418+00:00",
+  "model": "gpt-5-mini",
+  "text": "Gwoup Etid EACH.\nTéra endiksion é mantenans infliximab pou tretman maladi Crohn mòdéré a sévè adan timoun. Gastroenterology 2007;132:863-73.\n75. Hyams JS, Griffiths A, Markowitz J, et al. Sekirité é efikasité adalimumab pou maladi Crohn mòdéré a sévè adan timoun. Gastroenterology 2012;143:365-74.\n76. Kugathasan S, Denson LA, Walters TD, et al. Prediksyon kou maladi a ké vin konplike pou timoun ki nouvelman dyagnostiké èvè maladi Crohn: on etid kouch inisyal milisant. Lancet 2017;389:1710-8.\n77. Cozijnsen MA, van Pieterson M, Samsom JN, et al. Top-down Infliximab Study in Kids with Crohn’s disease [TISKids]: on esè randomizé kontrolé entènasyonal milisant. BMJ Open Gastroenterol. 2016;3:e000123.\n78. Jongsma MA, Aardoom M, Cozijnsen M, et al. Top-down infliximab sipéryè a step-up pou timoun ki gen maladi Crohn mòdéré a sévè: On esè randomizé kontrolé milisant. J Crohns Colitis 2020;14:S039.\n79. Winter DA, Joosse ME, de Wildt SN, et al. Pharmakokinézik, pharmakodinamik, é imyunjenisite infliximab adan maladi entesten inflamatoir pédiatrik: on revizyon sistematik é révizé konsidé",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:75:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 75,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Gwoup Etid EACH.\nTéra endiksion é mantenans infliximab pou tretman maladi Crohn mòdéré a sévè adan timoun. Gastroenterology 2007;132:863-73.\n75. Hyams JS, Griffiths A, Markowitz J, et al. Sekirité é efikasité adalimumab pou maladi Crohn mòdéré a sévè adan timoun. Gastroenterology 2012;143:365-74.\n76. Kugathasan S, Denson LA, Walters TD, et al. Prediksyon kou maladi a ké vin konplike pou timoun ki nouvelman dyagnostiké èvè maladi Crohn: on etid kouch inisyal milisant. Lancet 2017;389:1710-8.\n77. Cozijnsen MA, van Pieterson M, Samsom JN, et al. Top-down Infliximab Study in Kids with Crohn’s disease [TISKids]: on esè randomizé kontrolé entènasyonal milisant. BMJ Open Gastroenterol. 2016;3:e000123.\n78. Jongsma MA, Aardoom M, Cozijnsen M, et al. Top-down infliximab sipéryè a step-up pou timoun ki gen maladi Crohn mòdéré a sévè: On esè randomizé kontrolé milisant. J Crohns Colitis 2020;14:S039.\n79. Winter DA, Joosse ME, de Wildt SN, et al. Pharmakokinézik, pharmakodinamik, é imyunjenisite infliximab adan maladi entesten inflamatoir pédiatrik: on revizyon sistematik é révizé konsidé",
+    "source_id": "pdf:398e12446d466067:chunk:75",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:48.254418+00:00",
+    "source_text_sha256": "b769611434de5b8709830bbdddf2368a4f5129683558c5c6284ea1c59c2da950"
+  }
+}

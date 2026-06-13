@@ -1,0 +1,11 @@
+{
+  "id": "pdf:5dda4daf7f0dd8cd",
+  "status": "done",
+  "source_file": "additifs_alimentaires.pdf",
+  "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+  "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+  "modality": "pdf",
+  "language": "fr",
+  "source_sha256": "5dda4daf7f0dd8cddf3c8032091326571ba3206f24ea626b9a13213c3ddc31b8",
+  "created_at": "2026-06-10T16:11:54.904198+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:9",
+  "target_language": "gcf",
+  "source_text_sha256": "d2df880162f64c6eb98c93f2fe32f6d03b158f49de1bc53b0934d980dbe03bcb",
+  "translated_at": "2026-06-10T21:21:36.625620+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pi bon sé mété-w anlè ritm respirasyon pa-w. Enklina, mete koudò-w dèyè. Ou ké bloké respirasyon-w. Épi lè ou expiré, lè ou vlé, ou ké pé voye rès kolè-a.\n\nFè sa vitman osnon dousman, jan ou préfé. Épi lè ou expiré, gadé byen lwen. Ou ka woulé kò-w, fè mouvman pou imit mouvman adwat la. Trankil toujou.\n\nOu akeyi bâyé-la, tòsiyon, tòti, panik—ou ka santi yo parèt. Pran on ti moman, anviwon 30 segonn, pa kouri. Nou ké fè kounyé on egzèsis pou édé-w alé an 10 tan san tristès. Trankilman, dousman, m ka gidé-w.\n\nOu ké inspiré pa nen. Dousman, ou ka vini épi gardé koudò-w bò chak koté épi monté koudò-w anlè. Ou ké bloké respirasyon-w on ti tan, adan ritm pa-w, épi lè ou expiré fè-y osi dousman ki posib. Ou ké santi tay-a, épi ou ké relaché kò-a a distans épi relaché tristès la pou ki poumon yo ka respiré miyò.\n\nÉpi ou ké relaché, pran konsyans tout plas adan kò-a, trankilman, dousman, épi ramenn koudò-w bò chak koté. Épi ou ké relaché bra-w...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:9:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 9,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pi bon sé mété-w anlè ritm respirasyon pa-w. Enklina, mete koudò-w dèyè. Ou ké bloké respirasyon-w. Épi lè ou expiré, lè ou vlé, ou ké pé voye rès kolè-a.\n\nFè sa vitman osnon dousman, jan ou préfé. Épi lè ou expiré, gadé byen lwen. Ou ka woulé kò-w, fè mouvman pou imit mouvman adwat la. Trankil toujou.\n\nOu akeyi bâyé-la, tòsiyon, tòti, panik—ou ka santi yo parèt. Pran on ti moman, anviwon 30 segonn, pa kouri. Nou ké fè kounyé on egzèsis pou édé-w alé an 10 tan san tristès. Trankilman, dousman, m ka gidé-w.\n\nOu ké inspiré pa nen. Dousman, ou ka vini épi gardé koudò-w bò chak koté épi monté koudò-w anlè. Ou ké bloké respirasyon-w on ti tan, adan ritm pa-w, épi lè ou expiré fè-y osi dousman ki posib. Ou ké santi tay-a, épi ou ké relaché kò-a a distans épi relaché tristès la pou ki poumon yo ka respiré miyò.\n\nÉpi ou ké relaché, pran konsyans tout plas adan kò-a, trankilman, dousman, épi ramenn koudò-w bò chak koté. Épi ou ké relaché bra-w...",
+    "source_id": "video:161efbc66394dfb2:chunk:9",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:36.625620+00:00",
+    "source_text_sha256": "d2df880162f64c6eb98c93f2fe32f6d03b158f49de1bc53b0934d980dbe03bcb"
+  }
+}

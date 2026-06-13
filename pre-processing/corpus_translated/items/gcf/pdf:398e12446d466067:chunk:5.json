@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "adc6c09044a2c5c17cad0c4650355027bb504736007928dbe9ecb72c06cf5527",
+  "translated_at": "2026-06-10T20:52:15.356001+00:00",
+  "model": "gpt-5-mini",
+  "text": "MICI pédia-\ntrik adan zòn koté sa pa té rapòté an pasé (8).\nAn Frans, daprè zétid, MICI ka kòmansé adan 7 a 25% ka zafè pandan lenfans, èvè on rapò 3 ka MC pou 1 ka RCH (9). La distri-\nbysion MICI pédiatrik dapré sèks sé lenvèsé di sa ki ché adilt-la, èvè on prédo-\nminans gason pou MC é on prédo-\nminans fi pou RCH (9). Laj médyan\nlè yo fè diagnos MICI pédiatrik sé anviwon 14 an. L’incidence\nMICI pédiatrik an Frans ogmanté konsidérabman depi plis ki 20 an (10,11).\n\nFaktè risk MICI pédiatrik\nPi gwo faktè risk pou MICI sé ekzistans an-\ntésédan fanmié MICI ché on paran 1é dégré.\nAsosyasyon sala pli souvan jwenn ché timoun pase ché adilt, épi pli l’enfan an jén lè yo fè diagnos MICI plis asosyasyon an fò (12).\nMikrobiòt entesten an différent ché timoun ki gen MICI konparé èvè timoun ki an sante. Plizyè faktè anviwònman ki asosyé èvè risk pou dévlopé on MICI ta ka entèvni pasé enpak yo asou mikrobiòt entes-\nten an.\nMétòd akouchman an ka afekté déve",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:5:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 5,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "MICI pédia-\ntrik adan zòn koté sa pa té rapòté an pasé (8).\nAn Frans, daprè zétid, MICI ka kòmansé adan 7 a 25% ka zafè pandan lenfans, èvè on rapò 3 ka MC pou 1 ka RCH (9). La distri-\nbysion MICI pédiatrik dapré sèks sé lenvèsé di sa ki ché adilt-la, èvè on prédo-\nminans gason pou MC é on prédo-\nminans fi pou RCH (9). Laj médyan\nlè yo fè diagnos MICI pédiatrik sé anviwon 14 an. L’incidence\nMICI pédiatrik an Frans ogmanté konsidérabman depi plis ki 20 an (10,11).\n\nFaktè risk MICI pédiatrik\nPi gwo faktè risk pou MICI sé ekzistans an-\ntésédan fanmié MICI ché on paran 1é dégré.\nAsosyasyon sala pli souvan jwenn ché timoun pase ché adilt, épi pli l’enfan an jén lè yo fè diagnos MICI plis asosyasyon an fò (12).\nMikrobiòt entesten an différent ché timoun ki gen MICI konparé èvè timoun ki an sante. Plizyè faktè anviwònman ki asosyé èvè risk pou dévlopé on MICI ta ka entèvni pasé enpak yo asou mikrobiòt entes-\nten an.\nMétòd akouchman an ka afekté déve",
+    "source_id": "pdf:398e12446d466067:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:15.356001+00:00",
+    "source_text_sha256": "adc6c09044a2c5c17cad0c4650355027bb504736007928dbe9ecb72c06cf5527"
+  }
+}

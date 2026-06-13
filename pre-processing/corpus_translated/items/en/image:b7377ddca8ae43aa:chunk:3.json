@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "8577646a14e1127403abf214f89b2dd7bec3de32f95ccaa0694b08e0ecfa3529",
+  "translated_at": "2026-06-10T20:38:17.282770+00:00",
+  "model": "gpt-5-mini",
+  "text": "occupational health doctors do not always know\nthe consequences of IBD in the work context; if you decide\nto tell them, you should not hesitate to inform them precisely about your fatigue,\ntravel times during flare-ups and the possibilities\nfor adjustments or a change of position,\nif any exist within your workplace\nor company.\n\nM Talking to management :\n= There is clearly a risk in disclosing this at\nthe time of hiring (except of course if you are\nhired under an RQTH) or during the probationary\nperiod. The employer, worried about the impacts of\nthis situation, can refuse to hire you or end the probationary period without giving the real reasons\nsince they do not have to justify their decision.\n= On the other hand, you may be obliged to tell\nyour management if the disease evolves with\nlong or frequent absences or if you wish, for\nexample, to obtain adjustments to your hours or\nposition. Again, the disease may be named or not.",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:3:en",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 3,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "occupational health doctors do not always know\nthe consequences of IBD in the work context; if you decide\nto tell them, you should not hesitate to inform them precisely about your fatigue,\ntravel times during flare-ups and the possibilities\nfor adjustments or a change of position,\nif any exist within your workplace\nor company.\n\nM Talking to management :\n= There is clearly a risk in disclosing this at\nthe time of hiring (except of course if you are\nhired under an RQTH) or during the probationary\nperiod. The employer, worried about the impacts of\nthis situation, can refuse to hire you or end the probationary period without giving the real reasons\nsince they do not have to justify their decision.\n= On the other hand, you may be obliged to tell\nyour management if the disease evolves with\nlong or frequent absences or if you wish, for\nexample, to obtain adjustments to your hours or\nposition. Again, the disease may be named or not.",
+    "source_id": "image:b7377ddca8ae43aa:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:17.282770+00:00",
+    "source_text_sha256": "8577646a14e1127403abf214f89b2dd7bec3de32f95ccaa0694b08e0ecfa3529"
+  }
+}

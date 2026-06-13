@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:15",
+  "target_language": "en",
+  "source_text_sha256": "b8cc66eac22e341d8252a21b1e0999646d3b3a802faca8a47453b1f6892a2e37",
+  "translated_at": "2026-06-10T20:48:15.420502+00:00",
+  "model": "gpt-5-mini",
+  "text": "is at the level of the thorax. You are going to get it started so that there is the point. Now, on an inhalation you can draw your elbows back to open the whole airway/chest area. And on the exhalation, you will gently breathe love into your heart. And you rest for a little while. It’s for a moment in that area of the airway. Calm, very quiet. And we will practice it two more times. A new spiral breath. You will draw your elbows back. Move forward a little, a little pause. Hold the airway briefly with your relaxed chest. Then there is a filling. And on the exhalation, as softly as possible, you will breathe love into your heart. And you will take a short pause to welcome the sensations. Calm, very gently. Then one last time. A new spiral breath. You will draw your elbows back. And take the usual... your relaxed back that is there. You hold your breath for a short time. And when you are back, you will let go as gently as possible. You will breathe love into the area. And just allow a few sighs as a release. You let go. Then you will... you surround me. You will... you surround me. You will tr",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:15:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 15,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "is at the level of the thorax. You are going to get it started so that there is the point. Now, on an inhalation you can draw your elbows back to open the whole airway/chest area. And on the exhalation, you will gently breathe love into your heart. And you rest for a little while. It’s for a moment in that area of the airway. Calm, very quiet. And we will practice it two more times. A new spiral breath. You will draw your elbows back. Move forward a little, a little pause. Hold the airway briefly with your relaxed chest. Then there is a filling. And on the exhalation, as softly as possible, you will breathe love into your heart. And you will take a short pause to welcome the sensations. Calm, very gently. Then one last time. A new spiral breath. You will draw your elbows back. And take the usual... your relaxed back that is there. You hold your breath for a short time. And when you are back, you will let go as gently as possible. You will breathe love into the area. And just allow a few sighs as a release. You let go. Then you will... you surround me. You will... you surround me. You will tr",
+    "source_id": "video:161efbc66394dfb2:chunk:15",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:15.420502+00:00",
+    "source_text_sha256": "b8cc66eac22e341d8252a21b1e0999646d3b3a802faca8a47453b1f6892a2e37"
+  }
+}

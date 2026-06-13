@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:81870f2890d0333a:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "3c47eb3719ab670d22265b09ff2c21a0b72678d6ce74c687dc15e13bf8020ff4",
+  "translated_at": "2026-06-10T21:17:31.777394+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Mwen té ké di sé kon ou santi-w é kon ou vlé. Mé paran’w ja la osi : sa vlé di avan ou ni 18 an, adan sèvis pédiatrik fòk ou vini an konpannyé épi paran’w. Mé si posib, i té pli byen si té ni on tan koté fò fè konsiltasyon sèl, pou ou pé préparé pou pwochen lavi-w kon on gran, pou aprann konn moun ki adan antouaj-w adan diskisyon, pou pozé kesyon é pou sé ou menm ki pozisyonn an fas a gastro-entérolog. Épi adan lavi adilt, souvan yo di i bon ki paran-la la pou yo menm, paskè yo té pran swen zot pandan tèlman lané ; si tou d’un kou yo pa la, mwen pansé yo té ké santi yo dépossédé dè on bagay é yo té ké santi yo an stés. Donk pou premié konsiltasyon an, i byen ki yo la pou wè sa ki ka vini apré. É piti a piti, ou pé vini sèl, é petèt menm ou ké anvi vini sèl. Donk, sé kon sa. ...",
+  "row": {
+    "id": "video:81870f2890d0333a:chunk:0:gcf",
+    "document_id": "video:81870f2890d0333a",
+    "chunk_index": 0,
+    "source_file": "8417b11ab0eb57d01607a358cab7d277a1174609.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8417b11ab0eb57d01607a358cab7d277a1174609.mp4",
+    "text_path": "corpus/texts/videos/8417b11ab0eb57d01607a358cab7d277a1174609.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Mwen té ké di sé kon ou santi-w é kon ou vlé. Mé paran’w ja la osi : sa vlé di avan ou ni 18 an, adan sèvis pédiatrik fòk ou vini an konpannyé épi paran’w. Mé si posib, i té pli byen si té ni on tan koté fò fè konsiltasyon sèl, pou ou pé préparé pou pwochen lavi-w kon on gran, pou aprann konn moun ki adan antouaj-w adan diskisyon, pou pozé kesyon é pou sé ou menm ki pozisyonn an fas a gastro-entérolog. Épi adan lavi adilt, souvan yo di i bon ki paran-la la pou yo menm, paskè yo té pran swen zot pandan tèlman lané ; si tou d’un kou yo pa la, mwen pansé yo té ké santi yo dépossédé dè on bagay é yo té ké santi yo an stés. Donk pou premié konsiltasyon an, i byen ki yo la pou wè sa ki ka vini apré. É piti a piti, ou pé vini sèl, é petèt menm ou ké anvi vini sèl. Donk, sé kon sa. ...",
+    "source_id": "video:81870f2890d0333a:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:31.777394+00:00",
+    "source_text_sha256": "3c47eb3719ab670d22265b09ff2c21a0b72678d6ce74c687dc15e13bf8020ff4"
+  }
+}

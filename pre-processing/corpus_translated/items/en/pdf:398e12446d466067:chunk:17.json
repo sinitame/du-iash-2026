@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:17",
+  "target_language": "en",
+  "source_text_sha256": "ef45a61bea2bc108b180d7debd8ffc799d9302331f7c5a680f0f8018c9e3d7a3",
+  "translated_at": "2026-06-10T20:40:11.576020+00:00",
+  "model": "gpt-5-mini",
+  "text": "ue, especially in the affected segment\nabove the spared area\n2. Transient form\nContinuous disease starting from the rectum, may also show rectal sparing\nBiopsies sometimes focal; signs of chronicity or architectural distortion may be absent.\nUsually in young children with short symptom duration.\n3. Cecal involvement\nLeft-sided disease starting from the rectum with inflammation at the cecum and a healthy segment between the two areas\nTypical; biopsies from the involved area may show non-specific inflammation\n4. Upper GI tract involvement\nErosions or small ulcers in the stomach, neither serpiginous nor linear\nDiffuse or focal gastritis, without granulomas (except pericryptal)\n5. Severe acute colitis\nContinuous disease starting from the rectum\nMay show transmural inflammation or deep ulcers; other typical features. Absence of lymphoid aggregates, V-shaped fissure ulcers.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:17:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 17,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "ue, especially in the affected segment\nabove the spared area\n2. Transient form\nContinuous disease starting from the rectum, may also show rectal sparing\nBiopsies sometimes focal; signs of chronicity or architectural distortion may be absent.\nUsually in young children with short symptom duration.\n3. Cecal involvement\nLeft-sided disease starting from the rectum with inflammation at the cecum and a healthy segment between the two areas\nTypical; biopsies from the involved area may show non-specific inflammation\n4. Upper GI tract involvement\nErosions or small ulcers in the stomach, neither serpiginous nor linear\nDiffuse or focal gastritis, without granulomas (except pericryptal)\n5. Severe acute colitis\nContinuous disease starting from the rectum\nMay show transmural inflammation or deep ulcers; other typical features. Absence of lymphoid aggregates, V-shaped fissure ulcers.",
+    "source_id": "pdf:398e12446d466067:chunk:17",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:11.576020+00:00",
+    "source_text_sha256": "ef45a61bea2bc108b180d7debd8ffc799d9302331f7c5a680f0f8018c9e3d7a3"
+  }
+}

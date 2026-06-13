@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "69ce2408453c54a71dcae4fe8125dadde979cefe543e6efb7a0071090c3daa9b",
+  "translated_at": "2026-06-10T21:20:35.355985+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Bonjou, jodla, man pé pwopoze-w séans sa a an soufrologi pou édé-w régulé santiman-w. Petèt i ka rivé ou anxieux, ou ni lapèr, kolè, tristès é sé OK. Lidée sé édé-w repéré santiman-tala andidan kò-w é libéré yo miyò. Pou sa, jodla man ké pwopoze-w on séans ki ké édé-w aprann libéré twòp-la.\n\nDousman, trankilman, man ké envité-w gadé tout bò koté-w. Gadé chanm-la, onbjet yo, koulè yo, son ki atou'w; rapèl-w ou an sekirite. Lè sa bon pou ou, dousman, trankilman, man ké envité-w fèmé zié'w pou rété andidan tèt-ou, tout an sekirite.\n\nTrankilman, dousman, man ké pwopoze-w egzèsis pou édé-w libéré chak santiman. Anvan nou kòmansé, man pwopoze-w mété atansyon-w asou on santiman ki bien fò jodla, petèt. Ou pé ni dé an menm tan; esséyé mété atansyon-w asou santiman yo é man pwopoze-w vizyalizé on léchèl entansité ant zéro é dis. Ou ké esséyé vwè a ki nivo ou santi santiman-an andidan kò-w. Ès ki...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:0:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 0,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Bonjou, jodla, man pé pwopoze-w séans sa a an soufrologi pou édé-w régulé santiman-w. Petèt i ka rivé ou anxieux, ou ni lapèr, kolè, tristès é sé OK. Lidée sé édé-w repéré santiman-tala andidan kò-w é libéré yo miyò. Pou sa, jodla man ké pwopoze-w on séans ki ké édé-w aprann libéré twòp-la.\n\nDousman, trankilman, man ké envité-w gadé tout bò koté-w. Gadé chanm-la, onbjet yo, koulè yo, son ki atou'w; rapèl-w ou an sekirite. Lè sa bon pou ou, dousman, trankilman, man ké envité-w fèmé zié'w pou rété andidan tèt-ou, tout an sekirite.\n\nTrankilman, dousman, man ké pwopoze-w egzèsis pou édé-w libéré chak santiman. Anvan nou kòmansé, man pwopoze-w mété atansyon-w asou on santiman ki bien fò jodla, petèt. Ou pé ni dé an menm tan; esséyé mété atansyon-w asou santiman yo é man pwopoze-w vizyalizé on léchèl entansité ant zéro é dis. Ou ké esséyé vwè a ki nivo ou santi santiman-an andidan kò-w. Ès ki...",
+    "source_id": "video:161efbc66394dfb2:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:35.355985+00:00",
+    "source_text_sha256": "69ce2408453c54a71dcae4fe8125dadde979cefe543e6efb7a0071090c3daa9b"
+  }
+}

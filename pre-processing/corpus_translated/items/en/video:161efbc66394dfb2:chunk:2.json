@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "e0c9800ad14f11c341f47fcfe9dd67bb95ed09d3a7fe87ea92d32ded2d947acc",
+  "translated_at": "2026-06-10T20:47:29.207756+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sit up straight. And calmly welcome what is happening for you. Relax, you can now also gently observe your breathing. Let it happen, just observe what is happening. And maybe notice your belly that rises on the inhale and falls on the exhale. Or maybe it's your chest that rises when you inhale and falls when you exhale. And calmly observe this vital movement of breathing, without analysis and without judgment. Calmly, everyone.\n\nAnd I now invite you to become aware of your whole body, which is relaxed and at ease, each part of the body. And you can perhaps come to notice your navel. You may feel a sensation in that area and relax your whole body.\n\nOnce all parts of the body are well relaxed, I invite you to focus on the emotion of anger. For that, I will suggest dynamic relaxation exercises that will help to put some distance between you and this emotion. First of all, you will be able to locate it; you may feel a ball of anger inside your body. Depending on where it is located, you will",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:2:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 2,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Sit up straight. And calmly welcome what is happening for you. Relax, you can now also gently observe your breathing. Let it happen, just observe what is happening. And maybe notice your belly that rises on the inhale and falls on the exhale. Or maybe it's your chest that rises when you inhale and falls when you exhale. And calmly observe this vital movement of breathing, without analysis and without judgment. Calmly, everyone.\n\nAnd I now invite you to become aware of your whole body, which is relaxed and at ease, each part of the body. And you can perhaps come to notice your navel. You may feel a sensation in that area and relax your whole body.\n\nOnce all parts of the body are well relaxed, I invite you to focus on the emotion of anger. For that, I will suggest dynamic relaxation exercises that will help to put some distance between you and this emotion. First of all, you will be able to locate it; you may feel a ball of anger inside your body. Depending on where it is located, you will",
+    "source_id": "video:161efbc66394dfb2:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:29.207756+00:00",
+    "source_text_sha256": "e0c9800ad14f11c341f47fcfe9dd67bb95ed09d3a7fe87ea92d32ded2d947acc"
+  }
+}

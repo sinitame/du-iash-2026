@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:78",
+  "target_language": "en",
+  "source_text_sha256": "7d01ab01ef4d55a68672d02b0dfe4c3174d46a68dbc9a730b85bc8bc6c796a69",
+  "translated_at": "2026-06-10T20:42:24.348623+00:00",
+  "model": "gpt-5-mini",
+  "text": "ferative disorders in patients receiving thiopurines \nfor inflammatory bowel disease: a prospective observational \ncohort study. Lancet 2009;374:1617-25.\n90.\t \u0007Kotlyar DS, Lewis JD, Beaugerie L, et al. Risk of lymphoma in \npatients with inflammatory bowel disease treated with azathi-\noprine and 6-mercaptopurine: a meta-analysis. Clin Gastroen-\nterol Hepatol. 2015;13:847-58.\n91.\t \u0007Lemaitre  M, Kirchgesner  J, Rudnichi  A, et al. Association \nbetween use of thiopurines or tumor necrosis factor antagonists \nalone or in combination and risk of lymphoma in patients with \ninflammatory bowel disease. JAMA 2017;318:1679-86.\n92.\t \u0007Joosse ME, Aardoom MA, Kemos P, et al.; Paediatric IBD Porto \ngroup of ESPGHAN. Malignancy and mortality in paediat-\nric-onset inflammatory bowel disease: a 3-year prospective, \nmultinational study from the paediatric IBD Porto group of \nESPGHAN. Aliment Pharmacol Ther. 2018;48:523-37.\n93.\t \u0007Hyams JS, Dubinsky MC, Baldassano RN, et al. Infliximab is not \nassociated with increased risk of malignancy or hemophago-\ncytic lymphohistiocytosis in pediatric patients with inflammatory \nbowel disease. Gastroenterology 2017;152:1901-14.\n94.\t \u0007Kotlyar DS, Osterman MT, Diamon",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:78:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 78,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "ferative disorders in patients receiving thiopurines \nfor inflammatory bowel disease: a prospective observational \ncohort study. Lancet 2009;374:1617-25.\n90.\t \u0007Kotlyar DS, Lewis JD, Beaugerie L, et al. Risk of lymphoma in \npatients with inflammatory bowel disease treated with azathi-\noprine and 6-mercaptopurine: a meta-analysis. Clin Gastroen-\nterol Hepatol. 2015;13:847-58.\n91.\t \u0007Lemaitre  M, Kirchgesner  J, Rudnichi  A, et al. Association \nbetween use of thiopurines or tumor necrosis factor antagonists \nalone or in combination and risk of lymphoma in patients with \ninflammatory bowel disease. JAMA 2017;318:1679-86.\n92.\t \u0007Joosse ME, Aardoom MA, Kemos P, et al.; Paediatric IBD Porto \ngroup of ESPGHAN. Malignancy and mortality in paediat-\nric-onset inflammatory bowel disease: a 3-year prospective, \nmultinational study from the paediatric IBD Porto group of \nESPGHAN. Aliment Pharmacol Ther. 2018;48:523-37.\n93.\t \u0007Hyams JS, Dubinsky MC, Baldassano RN, et al. Infliximab is not \nassociated with increased risk of malignancy or hemophago-\ncytic lymphohistiocytosis in pediatric patients with inflammatory \nbowel disease. Gastroenterology 2017;152:1901-14.\n94.\t \u0007Kotlyar DS, Osterman MT, Diamon",
+    "source_id": "pdf:398e12446d466067:chunk:78",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:24.348623+00:00",
+    "source_text_sha256": "7d01ab01ef4d55a68672d02b0dfe4c3174d46a68dbc9a730b85bc8bc6c796a69"
+  }
+}

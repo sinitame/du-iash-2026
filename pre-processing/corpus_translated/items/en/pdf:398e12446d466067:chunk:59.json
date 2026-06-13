@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:59",
+  "target_language": "en",
+  "source_text_sha256": "c48e47820e26804f86d3258b4ee20a309b12e5d7fc3c07665430f94de41afcbe",
+  "translated_at": "2026-06-10T20:41:50.807715+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 14 ---\n190\nConclusion\nOverall, therapeutic goals and means remain comparable between children and adults. Nevertheless, in pediatric Crohn disease one should emphasize its deleterious impact on growth in stature, weight gain and pubertal maturation, parameters that are essential for monitoring inflammatory activity and for therapeutic evaluation. The diagnostic strategy therefore more readily takes into account the invasive or cumulative burden of additional tests. From a therapeutic perspective, exclusive enteral nutrition is a treatment of choice in pediatrics. It is also noted that pediatric studies on treatment are markedly fewer than those carried out in adult populations. As a result, certain drugs are not accessible due to a lack of marketing authorization for pediatric indications. Transition to adult care is a major step in the medical journey of these patients. It must be prepared and carried out with rigor.\nAcknowledgements: I warmly thank Dr NGWANOU (*) for the careful proofreading of this work and for his avi",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:59:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 59,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 14 ---\n190\nConclusion\nOverall, therapeutic goals and means remain comparable between children and adults. Nevertheless, in pediatric Crohn disease one should emphasize its deleterious impact on growth in stature, weight gain and pubertal maturation, parameters that are essential for monitoring inflammatory activity and for therapeutic evaluation. The diagnostic strategy therefore more readily takes into account the invasive or cumulative burden of additional tests. From a therapeutic perspective, exclusive enteral nutrition is a treatment of choice in pediatrics. It is also noted that pediatric studies on treatment are markedly fewer than those carried out in adult populations. As a result, certain drugs are not accessible due to a lack of marketing authorization for pediatric indications. Transition to adult care is a major step in the medical journey of these patients. It must be prepared and carried out with rigor.\nAcknowledgements: I warmly thank Dr NGWANOU (*) for the careful proofreading of this work and for his avi",
+    "source_id": "pdf:398e12446d466067:chunk:59",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:50.807715+00:00",
+    "source_text_sha256": "c48e47820e26804f86d3258b4ee20a309b12e5d7fc3c07665430f94de41afcbe"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:11",
+  "target_language": "gcf",
+  "source_text_sha256": "a20aa26b2c8d0ff979251f50905bd2bb3eac115b23d511b9804cd32b684adf46",
+  "translated_at": "2026-06-10T21:09:40.772781+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 4 ---\nV I V R E  A V È K\nKI SA POU DI OSNON PA DI TIMOUN MWEN ?\nKon pou édikasyon séksyèl, on timoun ka tann sé sa matirite-y ka pèmèt li tann. Sé i ki ké fè zòt konprann sa. Pa kaché zòt, ankourajé-y pou pozé kèsyon. Pédiat la ké swen li pli byen si i pé dialogé èvè li. Anpil timoun ka patisipé pli byen lè yo ja konprann. On ti fi expliké a manman-y ki i té aksepte san pè pou i té opéré paskè i té pé palé ouvètman é konprann sa ki té ké pasé.\nTimoun ki pli gran é adolesan ni dwa konnèt maladi-a ki trapé kò yo é ka chanjé'y. An kontré, pa bizwen expliqué a on ti timoun tout konplikasyon posib maladi-a.\nKI POU FÈ SI TIMOUN MWEN TWÒ MALAD \nPOU MANJÉ ?\nLè on timoun trò malad pou manjé, i pé résévwa tout manje ki nesesè pa on perfusion adan on gwo venn. Sé sa yo ka apelé nutrition parentéral (NP), exclusive (NPE) lè i pa pran anyen pa bouch.\nNou pé osi pòté on konpléman pa venn anplis on alimantasyon nòmal. La NP",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:11:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 11,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 4 ---\nV I V R E  A V È K\nKI SA POU DI OSNON PA DI TIMOUN MWEN ?\nKon pou édikasyon séksyèl, on timoun ka tann sé sa matirite-y ka pèmèt li tann. Sé i ki ké fè zòt konprann sa. Pa kaché zòt, ankourajé-y pou pozé kèsyon. Pédiat la ké swen li pli byen si i pé dialogé èvè li. Anpil timoun ka patisipé pli byen lè yo ja konprann. On ti fi expliké a manman-y ki i té aksepte san pè pou i té opéré paskè i té pé palé ouvètman é konprann sa ki té ké pasé.\nTimoun ki pli gran é adolesan ni dwa konnèt maladi-a ki trapé kò yo é ka chanjé'y. An kontré, pa bizwen expliqué a on ti timoun tout konplikasyon posib maladi-a.\nKI POU FÈ SI TIMOUN MWEN TWÒ MALAD \nPOU MANJÉ ?\nLè on timoun trò malad pou manjé, i pé résévwa tout manje ki nesesè pa on perfusion adan on gwo venn. Sé sa yo ka apelé nutrition parentéral (NP), exclusive (NPE) lè i pa pran anyen pa bouch.\nNou pé osi pòté on konpléman pa venn anplis on alimantasyon nòmal. La NP",
+    "source_id": "pdf:a74238ee30f57428:chunk:11",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:40.772781+00:00",
+    "source_text_sha256": "a20aa26b2c8d0ff979251f50905bd2bb3eac115b23d511b9804cd32b684adf46"
+  }
+}

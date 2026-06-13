@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "189b03fefd81f3fcac56b951722b2fba64f4e9984428b3b423653e840c0313c7",
+  "translated_at": "2026-06-10T20:47:29.693050+00:00",
+  "model": "gpt-5-mini",
+  "text": "Okay. You breathed in through your nose, and you held it as long as possible. You can maybe now keep the calm, the relaxation in your body. If you really feel anger, maybe that part of your body called the jaw tends to tighten. Calmly, I'm going to suggest a small exercise to help you release any anger you may have stored in that area. For that, now I'm going to ask you to stand up. Become aware: spread your feet about hip-width apart. Become aware of this new standing posture. Relax your pelvis, relax your shoulders. And in this posture, I suggest you focus on the emotion of anger that you are feeling right now. For that, take a deep breath in through your nose. And when you want to, we will exhale quickly. I suggest you make a loud sound as you do this exercise. And you release from your lower belly. You want to really relax, a true release. Try to notice what happens in the area of your jaws. At first your jaws may be very tight, but maybe little by little your jaws will relax.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:4:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 4,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Okay. You breathed in through your nose, and you held it as long as possible. You can maybe now keep the calm, the relaxation in your body. If you really feel anger, maybe that part of your body called the jaw tends to tighten. Calmly, I'm going to suggest a small exercise to help you release any anger you may have stored in that area. For that, now I'm going to ask you to stand up. Become aware: spread your feet about hip-width apart. Become aware of this new standing posture. Relax your pelvis, relax your shoulders. And in this posture, I suggest you focus on the emotion of anger that you are feeling right now. For that, take a deep breath in through your nose. And when you want to, we will exhale quickly. I suggest you make a loud sound as you do this exercise. And you release from your lower belly. You want to really relax, a true release. Try to notice what happens in the area of your jaws. At first your jaws may be very tight, but maybe little by little your jaws will relax.",
+    "source_id": "video:161efbc66394dfb2:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:29.693050+00:00",
+    "source_text_sha256": "189b03fefd81f3fcac56b951722b2fba64f4e9984428b3b423653e840c0313c7"
+  }
+}

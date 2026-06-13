@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "df338463470b4775f8e029af9fc20e943a8b8a6e56c91ece1f0605d92ec5404a",
+  "translated_at": "2026-06-10T20:38:43.193973+00:00",
+  "model": "gpt-5-mini",
+  "text": "It requires manufacturers to list them on the ingredients list, and they are often at the end of the list.",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:2:en",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 2,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "It requires manufacturers to list them on the ingredients list, and they are often at the end of the list.",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:43.193973+00:00",
+    "source_text_sha256": "df338463470b4775f8e029af9fc20e943a8b8a6e56c91ece1f0605d92ec5404a"
+  }
+}

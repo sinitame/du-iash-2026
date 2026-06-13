@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:35a9aff59fe8cd5f:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "d13317b14f411b87fbc5dbbb14d654b7795ee4a08b2886e7e4eea067de5f80ce",
+  "translated_at": "2026-06-10T21:19:57.350709+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Esé mwen ké bizwen fè on operasyon ? Adan maladi Crohn, chiriji ka vini lè i ni konplikasyon. Sé lézyon ki difisil pou jéré zis épi medikaman. Oswa lè plizé tretman fè échèk épi on lézyon inflamé ki pa réponn. É dès fwa, pou pwotéjé koud-la, nou ka koupé pati malad-la épi nou ka fè koud (suture). Mé pafwa, pou pwotéjé koud sala, fò nou mété on stomie anmontan, vou di nou ka dérivé kouran dijestif-la. Pou pwotéjé koud-la, pou i pa ni chaj, é pou gerizon fèt pli byen posib. Mé koud-la an jeneral sé tansitwè, é pi ta yo pé rétabli kontinuité tib dijestif-la. An ka rar, lè maladi pa ka byen kontwòlé, i ka fè anlo enflamasyon, é i pé fè fistil périnéal é anal ki asé sevè é difisil. An ka rar, pafwa, yo ka pwopoze stomie définitif pou jéré enflamasyon sala. Yo pa té pé résoud sa épi tretman médikal, mé sé ka rar.",
+  "row": {
+    "id": "video:35a9aff59fe8cd5f:chunk:0:gcf",
+    "document_id": "video:35a9aff59fe8cd5f",
+    "chunk_index": 0,
+    "source_file": "e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "text_path": "corpus/texts/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Esé mwen ké bizwen fè on operasyon ? Adan maladi Crohn, chiriji ka vini lè i ni konplikasyon. Sé lézyon ki difisil pou jéré zis épi medikaman. Oswa lè plizé tretman fè échèk épi on lézyon inflamé ki pa réponn. É dès fwa, pou pwotéjé koud-la, nou ka koupé pati malad-la épi nou ka fè koud (suture). Mé pafwa, pou pwotéjé koud sala, fò nou mété on stomie anmontan, vou di nou ka dérivé kouran dijestif-la. Pou pwotéjé koud-la, pou i pa ni chaj, é pou gerizon fèt pli byen posib. Mé koud-la an jeneral sé tansitwè, é pi ta yo pé rétabli kontinuité tib dijestif-la. An ka rar, lè maladi pa ka byen kontwòlé, i ka fè anlo enflamasyon, é i pé fè fistil périnéal é anal ki asé sevè é difisil. An ka rar, pafwa, yo ka pwopoze stomie définitif pou jéré enflamasyon sala. Yo pa té pé résoud sa épi tretman médikal, mé sé ka rar.",
+    "source_id": "video:35a9aff59fe8cd5f:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:57.350709+00:00",
+    "source_text_sha256": "d13317b14f411b87fbc5dbbb14d654b7795ee4a08b2886e7e4eea067de5f80ce"
+  }
+}

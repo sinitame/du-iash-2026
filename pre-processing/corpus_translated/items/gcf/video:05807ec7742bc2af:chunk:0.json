@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "5b0345c44d86e90df13b2381bfd62314d906e8c45b098e60e20ddf6b7ac2c004",
+  "translated_at": "2026-06-10T21:14:52.111696+00:00",
+  "model": "gpt-5-mini",
+  "text": "Robert Noeau, 33 péyi dé 10 !! Bon touné, apla ki rékonpanse ! ... ... Bonjou, jodla, an ka pwopoze-w on séans sofroloji pou édé-w pi byen jéré épi pi byen konprann doulè-a.  \nPou sa, an prémyé tan, an envité-w asizé byen konfòtab asi on chèz osnon asou on fotèy.  \nApre sa, ou ké mété pye-w byen plat asou latè.  \nAn envité-w trankilman mété men-w, bra-w trankil asou kwis-w, dousman, relaché kò-w.  \nKan sa bon pou-w, dousman gadé otou-w, tout bagay ki ladan pyès-la, sa ki pé fè-w santi-w an sekirite.  \nSi sa bon pou-w, an pwopoze-w dousman fè dé ti pas pou tounen anndan-w.  \nDousman, trankilman, kounyé-a an pwopoze-w pou apié orteiy-w; apré sa ou ké pé santi, woule pye-w épi peze pou wè ki pati.  \nApre sa, ou ké repoze pye-w byen plat asou latè.  \nOu ké santi bò ekstèn pye-w, woule pye-w asou bò ekstèn lan, apré sa santi bò anndan pye-w.  \nPwi ou ké roulé les...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:0:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 0,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Robert Noeau, 33 péyi dé 10 !! Bon touné, apla ki rékonpanse ! ... ... Bonjou, jodla, an ka pwopoze-w on séans sofroloji pou édé-w pi byen jéré épi pi byen konprann doulè-a.  \nPou sa, an prémyé tan, an envité-w asizé byen konfòtab asi on chèz osnon asou on fotèy.  \nApre sa, ou ké mété pye-w byen plat asou latè.  \nAn envité-w trankilman mété men-w, bra-w trankil asou kwis-w, dousman, relaché kò-w.  \nKan sa bon pou-w, dousman gadé otou-w, tout bagay ki ladan pyès-la, sa ki pé fè-w santi-w an sekirite.  \nSi sa bon pou-w, an pwopoze-w dousman fè dé ti pas pou tounen anndan-w.  \nDousman, trankilman, kounyé-a an pwopoze-w pou apié orteiy-w; apré sa ou ké pé santi, woule pye-w épi peze pou wè ki pati.  \nApre sa, ou ké repoze pye-w byen plat asou latè.  \nOu ké santi bò ekstèn pye-w, woule pye-w asou bò ekstèn lan, apré sa santi bò anndan pye-w.  \nPwi ou ké roulé les...",
+    "source_id": "video:05807ec7742bc2af:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:52.111696+00:00",
+    "source_text_sha256": "5b0345c44d86e90df13b2381bfd62314d906e8c45b098e60e20ddf6b7ac2c004"
+  }
+}

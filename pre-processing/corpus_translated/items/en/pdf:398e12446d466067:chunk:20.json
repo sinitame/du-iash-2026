@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:20",
+  "target_language": "en",
+  "source_text_sha256": "c80da7604661b5d46b8935068a7ef8bd405dfd6d60f45184af0bc55fd74271ef",
+  "translated_at": "2026-06-10T20:40:13.176326+00:00",
+  "model": "gpt-5-mini",
+  "text": "mild nonspecific inflammatory infiltrate in the lamina propria\n-\tUlceration/erosion of the mucosa\n-\tSigns of chronicity: architectural distortion of the crypts, Paneth cell metaplasia in the colon, goblet cell depletion\nTable 3: Paris classification for pediatric Crohn's disease (4)\nAge at diagnosis\nA1a:\t0-10 years\nA1b:\t10-17 years\nA2:\t17-40 years\nA3:\t> 40 years\nLocation (L = \"location\")\nL1:\tdistal third of the ileum ± limited cecal involvement\nL2:\tcolon only\nL3:\tileocolonic\nL4a:\tupper gastrointestinal involvement proximal to the ligament of Treitz\nL4b:\tjejunal and/or proximal two-thirds of the ileum\nBehavior (B = \"behavior\")\nB1:\tinflammatory\nB2:\tstricturing\nB3:\tfistulizing\nB2B3:\tboth stricturing and fistulizing, either at the same time or at different times\np:\tperianal disease\nGrowth (G = \"growth\")\nG0:\tno growth delay\nG1:\tgrowth delay",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:20:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 20,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "mild nonspecific inflammatory infiltrate in the lamina propria\n-\tUlceration/erosion of the mucosa\n-\tSigns of chronicity: architectural distortion of the crypts, Paneth cell metaplasia in the colon, goblet cell depletion\nTable 3: Paris classification for pediatric Crohn's disease (4)\nAge at diagnosis\nA1a:\t0-10 years\nA1b:\t10-17 years\nA2:\t17-40 years\nA3:\t> 40 years\nLocation (L = \"location\")\nL1:\tdistal third of the ileum ± limited cecal involvement\nL2:\tcolon only\nL3:\tileocolonic\nL4a:\tupper gastrointestinal involvement proximal to the ligament of Treitz\nL4b:\tjejunal and/or proximal two-thirds of the ileum\nBehavior (B = \"behavior\")\nB1:\tinflammatory\nB2:\tstricturing\nB3:\tfistulizing\nB2B3:\tboth stricturing and fistulizing, either at the same time or at different times\np:\tperianal disease\nGrowth (G = \"growth\")\nG0:\tno growth delay\nG1:\tgrowth delay",
+    "source_id": "pdf:398e12446d466067:chunk:20",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:13.176326+00:00",
+    "source_text_sha256": "c80da7604661b5d46b8935068a7ef8bd405dfd6d60f45184af0bc55fd74271ef"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:74",
+  "target_language": "en",
+  "source_text_sha256": "ae6dcffcb93e5fba24e2eb06c071241056a937e7b52e46d04e53f30f440fab9d",
+  "translated_at": "2026-06-10T20:42:22.044325+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 16 ---\n192\n70.\tKuenzig ME, Rezaie A, Kaplan GG, et al. Budesonide for the induction and maintenance of remission in Crohn’s Disease: systematic review and meta-analysis for the Cochrane Collaboration. J Can Assoc Gastroenterol. 2018;1:159-73.\n71.\tAgrawal A, Durrani S, Leiper K, Ellis A, Morris AI, Rhodes JM. Effect of systemic corticosteroid therapy on risk for intra-abdominal or pelvic abscess in non-operated Crohn’s disease. Clin Gastroenterol Hepatol. 2005;3:1215-20.\n72.\tSingh S, Facciorusso A, Dulai PS, et al. Comparative risk of serious infections with biologic and/or immunosuppressive therapy in patients with inflammatory bowel diseases: a systematic review and meta-Analysis. Clin Gastroenterol Hepatol. 2020;18:69-81.\n73.\tCostello R, Patel R, Humphreys J, et al. Patient perceptions of glucocorticoid side effects: a cross-sectional survey of users in an online health community. BMJ Open 2017;7:e014603.\n74.\tHyams J, Crandall W, Kugathasan S, et al. REACH Study Group. Induction and maintenance infliximab therapy for the treatment of moderate-to-severe Crohn’s disease in children. Gastroenterology 2007;132:863-73.\n75.\tHyams JS, Griffiths A, M",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:74:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 74,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 16 ---\n192\n70.\tKuenzig ME, Rezaie A, Kaplan GG, et al. Budesonide for the induction and maintenance of remission in Crohn’s Disease: systematic review and meta-analysis for the Cochrane Collaboration. J Can Assoc Gastroenterol. 2018;1:159-73.\n71.\tAgrawal A, Durrani S, Leiper K, Ellis A, Morris AI, Rhodes JM. Effect of systemic corticosteroid therapy on risk for intra-abdominal or pelvic abscess in non-operated Crohn’s disease. Clin Gastroenterol Hepatol. 2005;3:1215-20.\n72.\tSingh S, Facciorusso A, Dulai PS, et al. Comparative risk of serious infections with biologic and/or immunosuppressive therapy in patients with inflammatory bowel diseases: a systematic review and meta-Analysis. Clin Gastroenterol Hepatol. 2020;18:69-81.\n73.\tCostello R, Patel R, Humphreys J, et al. Patient perceptions of glucocorticoid side effects: a cross-sectional survey of users in an online health community. BMJ Open 2017;7:e014603.\n74.\tHyams J, Crandall W, Kugathasan S, et al. REACH Study Group. Induction and maintenance infliximab therapy for the treatment of moderate-to-severe Crohn’s disease in children. Gastroenterology 2007;132:863-73.\n75.\tHyams JS, Griffiths A, M",
+    "source_id": "pdf:398e12446d466067:chunk:74",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:22.044325+00:00",
+    "source_text_sha256": "ae6dcffcb93e5fba24e2eb06c071241056a937e7b52e46d04e53f30f440fab9d"
+  }
+}

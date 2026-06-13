@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "a8c8b6a27b87d73110725e26d9c68b02b144b9e35706b8a27ffd54ddd05a5e48",
+  "translated_at": "2026-06-10T20:51:19.588126+00:00",
+  "model": "gpt-5-mini",
+  "text": "an sòti an léta li té an orijin.\nGWÒP 2 • Engredyan kizin transfòmé\nLwil, sik, sèl... Sé engredyan nou mété pou kwiziné, mé nou pa manjé yo tousèl.\nGWÒP 3 • Aliman transfòmé\nIsi, nou jwenn aliman gwoup 1 ki yo té ajouté on pé sèl, sik osinon lwil : pen, fwomaj, konzèv légim.\nGWÒP 4 • Aliman ultra-transfòmé. Sé pwodui endistriyèl ki gen anlo engredyan nou pa jwenn adan on kwizin klasik (aditif, arom atifizyèl…). Egzanp : sodas, chips, nuggets, bonbon.\nMAKETING :\nVRE INFO OUBYEN VRE INTÒKS ?\nDé zétid montré ké pli on etikèt alimantè chajé èvè info, sé mwens bon kalite pwodui-la. An jénéral, aliman ultra-transfòmé ki mwens bon pou santé ka sèvi èvè stratéji maketing pli agrésif épi etikèt tro chajé.\n\"San sik ajouté\" pa vlé di pa ni sik (sik natirèl toujou la).\n\"Allégé\" ? Si yo allégé on koté, sé paské yo rajouté on bagay ad lòt koté pou jwenn on rézilta « similè ». Egzanp : aliman allégé an matyè grès souvan genyen...",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:4:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 4,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "an sòti an léta li té an orijin.\nGWÒP 2 • Engredyan kizin transfòmé\nLwil, sik, sèl... Sé engredyan nou mété pou kwiziné, mé nou pa manjé yo tousèl.\nGWÒP 3 • Aliman transfòmé\nIsi, nou jwenn aliman gwoup 1 ki yo té ajouté on pé sèl, sik osinon lwil : pen, fwomaj, konzèv légim.\nGWÒP 4 • Aliman ultra-transfòmé. Sé pwodui endistriyèl ki gen anlo engredyan nou pa jwenn adan on kwizin klasik (aditif, arom atifizyèl…). Egzanp : sodas, chips, nuggets, bonbon.\nMAKETING :\nVRE INFO OUBYEN VRE INTÒKS ?\nDé zétid montré ké pli on etikèt alimantè chajé èvè info, sé mwens bon kalite pwodui-la. An jénéral, aliman ultra-transfòmé ki mwens bon pou santé ka sèvi èvè stratéji maketing pli agrésif épi etikèt tro chajé.\n\"San sik ajouté\" pa vlé di pa ni sik (sik natirèl toujou la).\n\"Allégé\" ? Si yo allégé on koté, sé paské yo rajouté on bagay ad lòt koté pou jwenn on rézilta « similè ». Egzanp : aliman allégé an matyè grès souvan genyen...",
+    "source_id": "pdf:2499a50038a1326f:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:19.588126+00:00",
+    "source_text_sha256": "a8c8b6a27b87d73110725e26d9c68b02b144b9e35706b8a27ffd54ddd05a5e48"
+  }
+}

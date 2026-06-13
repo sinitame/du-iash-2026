@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:49",
+  "target_language": "gcf",
+  "source_text_sha256": "179e5c7075f892d4918e99f757b6a00f55f8574e74ea47ae894ed2b05e5cea1d",
+  "translated_at": "2026-06-10T20:54:28.240255+00:00",
+  "model": "gpt-5-mini",
+  "text": "pro-aktif\ntaux résidyèl pou gidé optimizasyon tretman-an.\n\nCombotérapi pa anti-TNF épi immunomodilatè\n6\nOn arèman imunosupresè a bizen diskité apré 6 a 12 mwa kombotérapi si infliximabemi résidyèl-la adan plaj sib la é si sib terapetik yo atenn. Pou pasyan ki pa té ekspoze a anti-TNF avan é kè ka pran adalimumab, on monoterapi sé on altènativ a kombotérapi.\n7\nPou pasyan ki ja imunizé kont IFX avan osinon pasyan ki o risk, kombotérapi ka parèt pli pridan. Pou pasyan ki ni maladi aktyv pandan y ap pran anti-TNF, yo rékomandé suiv pro-aktif taux résidyèl IFX ou ADA pou gidé chanjman terapetik yo : optimizasyon tretman-an ou fè on \"switch\".\n8\nPou pasyan anba anti-TNF koté rémisyon pa jwenn osinon pa mentni menm apré optimizasyon tretman-an é asosyasyon épi on immunomodilatè, yo pé konsidéré on tretman par ustekinumab ou vedolizumab.\n\nAntibyotérapi adjuvan adan maladi Crohn fistilizant pérenéal\n9\nMétronidazol 30 mg/kg/j, pa oral an 2 a 3 pran + ciprofloxacine",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:49:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 49,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "pro-aktif\ntaux résidyèl pou gidé optimizasyon tretman-an.\n\nCombotérapi pa anti-TNF épi immunomodilatè\n6\nOn arèman imunosupresè a bizen diskité apré 6 a 12 mwa kombotérapi si infliximabemi résidyèl-la adan plaj sib la é si sib terapetik yo atenn. Pou pasyan ki pa té ekspoze a anti-TNF avan é kè ka pran adalimumab, on monoterapi sé on altènativ a kombotérapi.\n7\nPou pasyan ki ja imunizé kont IFX avan osinon pasyan ki o risk, kombotérapi ka parèt pli pridan. Pou pasyan ki ni maladi aktyv pandan y ap pran anti-TNF, yo rékomandé suiv pro-aktif taux résidyèl IFX ou ADA pou gidé chanjman terapetik yo : optimizasyon tretman-an ou fè on \"switch\".\n8\nPou pasyan anba anti-TNF koté rémisyon pa jwenn osinon pa mentni menm apré optimizasyon tretman-an é asosyasyon épi on immunomodilatè, yo pé konsidéré on tretman par ustekinumab ou vedolizumab.\n\nAntibyotérapi adjuvan adan maladi Crohn fistilizant pérenéal\n9\nMétronidazol 30 mg/kg/j, pa oral an 2 a 3 pran + ciprofloxacine",
+    "source_id": "pdf:398e12446d466067:chunk:49",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:28.240255+00:00",
+    "source_text_sha256": "179e5c7075f892d4918e99f757b6a00f55f8574e74ea47ae894ed2b05e5cea1d"
+  }
+}

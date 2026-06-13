@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "9cf65b3cc22ce4cced1ee6ab8d684e8c5de0c72284399d87701214dc309d7dab",
+  "translated_at": "2026-06-10T20:44:34.982479+00:00",
+  "model": "gpt-5-mini",
+  "text": "Mami ki au baï.\nWhen you have Crohn's disease or ulcerative colitis, there are sometimes difficult moments. You may have pain, fatigue, or urgent needs to go to the bathroom. These symptoms can sometimes disturb your concentration in class and even force you to miss lessons. Sometimes you may feel unmotivated or stressed at the idea of catching up on missed classes. And you may be wondering whether to tell your classmates about your illness. These illnesses are rather taboo and that's understandable given the part of the body they mostly affect. It is therefore rather difficult to talk about them at school or middle school, but it is also very hard to keep it secret. When you're in class, you sometimes need to leave, which prompts questions from classmates. These unpleasant moments are often stressful. That's why you especially need to learn to relax and stay calm. In this video, we give you tips and the help that will allow you to have a stress-free schooling.\nTalk about my illness at school? Talking about your illness allows your teachers and classmates to understand what you are going through. Po",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:0:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 0,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Mami ki au baï.\nWhen you have Crohn's disease or ulcerative colitis, there are sometimes difficult moments. You may have pain, fatigue, or urgent needs to go to the bathroom. These symptoms can sometimes disturb your concentration in class and even force you to miss lessons. Sometimes you may feel unmotivated or stressed at the idea of catching up on missed classes. And you may be wondering whether to tell your classmates about your illness. These illnesses are rather taboo and that's understandable given the part of the body they mostly affect. It is therefore rather difficult to talk about them at school or middle school, but it is also very hard to keep it secret. When you're in class, you sometimes need to leave, which prompts questions from classmates. These unpleasant moments are often stressful. That's why you especially need to learn to relax and stay calm. In this video, we give you tips and the help that will allow you to have a stress-free schooling.\nTalk about my illness at school? Talking about your illness allows your teachers and classmates to understand what you are going through. Po",
+    "source_id": "video:ceebd17c1f9860a9:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:34.982479+00:00",
+    "source_text_sha256": "9cf65b3cc22ce4cced1ee6ab8d684e8c5de0c72284399d87701214dc309d7dab"
+  }
+}

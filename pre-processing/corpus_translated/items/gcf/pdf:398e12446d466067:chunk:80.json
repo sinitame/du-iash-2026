@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:80",
+  "target_language": "gcf",
+  "source_text_sha256": "8996a95de0de452d0d0f575d02cde00f5862523f87ba656767f9f23936c0d039",
+  "translated_at": "2026-06-10T21:07:13.529938+00:00",
+  "model": "gpt-5-mini",
+  "text": "maladi entesten anflamatwa:\non etid milti-sant ki sòti adan Pediatric IBD Porto Group di ESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\tLevine A, Wine E, Assa A, et al. Diyet pou éksklir maladi Crohn pli nitrisyon entéral pasyé ka mennen on rémisyon ki diré an on esé randomizé kontrolé. Gastroenterology 2019;157:440-50.\n99.\tRegueiro M, Schraut W, Baidoo L, et al. Infliximab ka anpéché rékurans maladi Crohn apré rézeksyon iléal. Gastroenterology 2009;136:441-50.\n100.\tRegueiro M, Feagan BG, Zou B, et al. PREVENT Study Group. Infliximab ka diminyé rékurans endoskopik, mé pa rékurans klinik, maladi Crohn apré rézeksyon iléokolonik. Gastroenterology 2016;150:1568-78.\n101.\tDe Cruz P, Kamm MA, Hamilton AL, et al. Efikasité thiopurines é adalimumab pou anpéché rékurans maladi Crohn adan pasyan ki an gran risk - on analiz etid POCER. Aliment Pharmacol Ther. 2015;42:867-79.\n102.\tDe Cruz P, Kamm MA, Hamilton AL, et al. Jesyon maladi Crohn apré rézeksyon entesten: on esé randomizé. Lancet 2015;385:1406-17.\n103.\tRutgeerts P, Geboes K, Vantrappen G, et al. Prédivbilité kou apré-opératwa maladi Crohn. Gastroenterology 1990",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:80:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 80,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "maladi entesten anflamatwa:\non etid milti-sant ki sòti adan Pediatric IBD Porto Group di ESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\tLevine A, Wine E, Assa A, et al. Diyet pou éksklir maladi Crohn pli nitrisyon entéral pasyé ka mennen on rémisyon ki diré an on esé randomizé kontrolé. Gastroenterology 2019;157:440-50.\n99.\tRegueiro M, Schraut W, Baidoo L, et al. Infliximab ka anpéché rékurans maladi Crohn apré rézeksyon iléal. Gastroenterology 2009;136:441-50.\n100.\tRegueiro M, Feagan BG, Zou B, et al. PREVENT Study Group. Infliximab ka diminyé rékurans endoskopik, mé pa rékurans klinik, maladi Crohn apré rézeksyon iléokolonik. Gastroenterology 2016;150:1568-78.\n101.\tDe Cruz P, Kamm MA, Hamilton AL, et al. Efikasité thiopurines é adalimumab pou anpéché rékurans maladi Crohn adan pasyan ki an gran risk - on analiz etid POCER. Aliment Pharmacol Ther. 2015;42:867-79.\n102.\tDe Cruz P, Kamm MA, Hamilton AL, et al. Jesyon maladi Crohn apré rézeksyon entesten: on esé randomizé. Lancet 2015;385:1406-17.\n103.\tRutgeerts P, Geboes K, Vantrappen G, et al. Prédivbilité kou apré-opératwa maladi Crohn. Gastroenterology 1990",
+    "source_id": "pdf:398e12446d466067:chunk:80",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:13.529938+00:00",
+    "source_text_sha256": "8996a95de0de452d0d0f575d02cde00f5862523f87ba656767f9f23936c0d039"
+  }
+}

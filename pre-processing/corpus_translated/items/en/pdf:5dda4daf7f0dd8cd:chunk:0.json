@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "a73adc6214aaa90062611c8805b385c7fb5f43ddea9b64ed47a62f4b3db2820a",
+  "translated_at": "2026-06-10T20:38:52.054579+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nWHAT ARE THEY USED FOR ?\n1 • To preserve longer: Some prevent foods from molding or spoiling too quickly (e.g.: E250 or sodium nitrite, notably used in ham).\n2 • To improve color: They make foods more attractive (e.g.: E160b, which gives an orange color to chips).\n3 • To give a better taste: Some additives enhance taste or smell (e.g.: E621, the glutamate found for example in savory snacks, instant noodles and many ready-made meals).\n4 • To give a pleasant texture: To thicken a sauce, make a cake tender (e.g.: E440, pectin in jams).\nWHAT IMPACT DO THEY HAVE ON OUR HEALTH ?\nSome are harmless (like the pectin from fruit or citric acid from lemon), but others are controversial, either because studies have proven their negative impact on health or because they are suspected of having one.\nFor example, recent studies have shown that some sweeteners or sugar substitutes (e.g.: aspartame, E951) increase the risk of cancer. They are nevertheless widely used in drinks, sodas, desserts, chewing gum and",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:0:en",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 0,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 1 ---\nWHAT ARE THEY USED FOR ?\n1 • To preserve longer: Some prevent foods from molding or spoiling too quickly (e.g.: E250 or sodium nitrite, notably used in ham).\n2 • To improve color: They make foods more attractive (e.g.: E160b, which gives an orange color to chips).\n3 • To give a better taste: Some additives enhance taste or smell (e.g.: E621, the glutamate found for example in savory snacks, instant noodles and many ready-made meals).\n4 • To give a pleasant texture: To thicken a sauce, make a cake tender (e.g.: E440, pectin in jams).\nWHAT IMPACT DO THEY HAVE ON OUR HEALTH ?\nSome are harmless (like the pectin from fruit or citric acid from lemon), but others are controversial, either because studies have proven their negative impact on health or because they are suspected of having one.\nFor example, recent studies have shown that some sweeteners or sugar substitutes (e.g.: aspartame, E951) increase the risk of cancer. They are nevertheless widely used in drinks, sodas, desserts, chewing gum and",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:52.054579+00:00",
+    "source_text_sha256": "a73adc6214aaa90062611c8805b385c7fb5f43ddea9b64ed47a62f4b3db2820a"
+  }
+}

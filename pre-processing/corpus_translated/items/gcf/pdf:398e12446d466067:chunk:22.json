@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:22",
+  "target_language": "gcf",
+  "source_text_sha256": "1c93bc145358313fd2cc66cf39193272fd82f516402a2c4becc4f9d5385e04c5",
+  "translated_at": "2026-06-10T20:53:06.154512+00:00",
+  "model": "gpt-5-mini",
+  "text": "Poussé mwayen : 30-50 ; \n\t\nPoussé sevè : >50\nLa rekto-kolit émorajik\nAn RCH, topografi lézyon yo diferan di séki kay adilt-la : lé réktit izolé yo pli ra é lé afèksyon pankolit pli frékàn.\nTablo 5 : Klasifikasyon Paris pou rekto-kolit émorajik pédyatrik (43)\nEkstansyon \nE1 :\tproktit\nE2 :\tkolit agoch (distal a ang splenik)\nE3 :\tkolit étandu (proksimal a ang splenik)\nE4 :\tpankolit (proksimal a ang épatik)\nSévérité\nS0 :\tjamé sevè\nS1 :\tomwen on poussé sevè (PUCAI > 65)\nSkò aktivité PUCAI (Pediatric Ulcerative Colitis Activity Index) ka sèvi pou evalyé aktivité maladi-a pandan dyagnostik é pandan swivi (figi 3).\nAn RCH pédyatrik, plizyè faktè pronostik te idantifié pa on konsansis ekspè (45) : risk kolektomi pli wo si i ni antécédan fanmi RCH, si afèksyon an étandu o moment dyagnostik ou si lézyon yo pwogresé avè tan. An kontrè, prezans on cholangit sklérozant primitif (CSP) parèt asosyé èvè on mwens rekou a chiriji.\nRisk pou dévlopme",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:22:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 22,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Poussé mwayen : 30-50 ; \n\t\nPoussé sevè : >50\nLa rekto-kolit émorajik\nAn RCH, topografi lézyon yo diferan di séki kay adilt-la : lé réktit izolé yo pli ra é lé afèksyon pankolit pli frékàn.\nTablo 5 : Klasifikasyon Paris pou rekto-kolit émorajik pédyatrik (43)\nEkstansyon \nE1 :\tproktit\nE2 :\tkolit agoch (distal a ang splenik)\nE3 :\tkolit étandu (proksimal a ang splenik)\nE4 :\tpankolit (proksimal a ang épatik)\nSévérité\nS0 :\tjamé sevè\nS1 :\tomwen on poussé sevè (PUCAI > 65)\nSkò aktivité PUCAI (Pediatric Ulcerative Colitis Activity Index) ka sèvi pou evalyé aktivité maladi-a pandan dyagnostik é pandan swivi (figi 3).\nAn RCH pédyatrik, plizyè faktè pronostik te idantifié pa on konsansis ekspè (45) : risk kolektomi pli wo si i ni antécédan fanmi RCH, si afèksyon an étandu o moment dyagnostik ou si lézyon yo pwogresé avè tan. An kontrè, prezans on cholangit sklérozant primitif (CSP) parèt asosyé èvè on mwens rekou a chiriji.\nRisk pou dévlopme",
+    "source_id": "pdf:398e12446d466067:chunk:22",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:06.154512+00:00",
+    "source_text_sha256": "1c93bc145358313fd2cc66cf39193272fd82f516402a2c4becc4f9d5385e04c5"
+  }
+}

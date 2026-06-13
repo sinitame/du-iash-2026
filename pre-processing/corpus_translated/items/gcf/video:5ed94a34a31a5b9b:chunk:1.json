@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "3133295751483c7d3ae65cb6d88497878ca98362854f75c6514ceb9ec1f46111",
+  "translated_at": "2026-06-10T21:12:38.047940+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sa ka pwodui solda yo yo ka apel anti-kòr. Bataj-la kòmanse épi lame-a pa fè pityé, sé difé. Jiska laba, tout moun ka fonksyonné menm jan. Mé ou menm, lame-a pa rivé arété batay-la é sa ka pwovoké plè adan trip-w. Pou éteindé anflamasyon-an, fò kontwolé pli byen défans iminitè-w épi medikaman. Nou pa konnèt toujou koz prési maladi sa yo; syantifik ka étidié yo pou savé koté yo vini é kon sa yo pé pli byen swen yo. Pétyèt sèten anomali adan ADN-ou ka favorizé parèt maladi-a, osinon sèten anti-jen lè yo enfekté-w yo ka déklanché'y. Oswè mòd lavi-w osinon anvironman-w pé jwé on wòl, mé nou pa sav kiyès. Sa nou sav plis présizeman, sé mikwobyòt entesten-w — bann mikwòb ki ladann natirèlman kon bon bakteri — bizwen on bon ékilib. Dézékilib sa yo pé favorizé pa manjé ultra-transformé, sèten medikaman, ouswa lòt faktè kon tabak é polisyon. Nou sav osi sé pa kontajé, pa éredityè, é pa akoz on sèl manjé.",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:1:gcf",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 1,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Sa ka pwodui solda yo yo ka apel anti-kòr. Bataj-la kòmanse épi lame-a pa fè pityé, sé difé. Jiska laba, tout moun ka fonksyonné menm jan. Mé ou menm, lame-a pa rivé arété batay-la é sa ka pwovoké plè adan trip-w. Pou éteindé anflamasyon-an, fò kontwolé pli byen défans iminitè-w épi medikaman. Nou pa konnèt toujou koz prési maladi sa yo; syantifik ka étidié yo pou savé koté yo vini é kon sa yo pé pli byen swen yo. Pétyèt sèten anomali adan ADN-ou ka favorizé parèt maladi-a, osinon sèten anti-jen lè yo enfekté-w yo ka déklanché'y. Oswè mòd lavi-w osinon anvironman-w pé jwé on wòl, mé nou pa sav kiyès. Sa nou sav plis présizeman, sé mikwobyòt entesten-w — bann mikwòb ki ladann natirèlman kon bon bakteri — bizwen on bon ékilib. Dézékilib sa yo pé favorizé pa manjé ultra-transformé, sèten medikaman, ouswa lòt faktè kon tabak é polisyon. Nou sav osi sé pa kontajé, pa éredityè, é pa akoz on sèl manjé.",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:12:38.047940+00:00",
+    "source_text_sha256": "3133295751483c7d3ae65cb6d88497878ca98362854f75c6514ceb9ec1f46111"
+  }
+}

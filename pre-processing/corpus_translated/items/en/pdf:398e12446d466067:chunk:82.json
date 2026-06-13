@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:82",
+  "target_language": "en",
+  "source_text_sha256": "f13526cd7311ba8c02d3ea5814c55db72d1f3a02610915b6108068658db9f156",
+  "translated_at": "2026-06-10T20:42:38.301685+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 17 ---\n193\nIBD\n107. \u0007de Ridder L, Waterman M, Turner D, et al. Use of biosimilars in paediatric inflammatory bowel disease: A Position Statement of the ESPGHAN Paediatric IBD Porto Group. J Pediatr Gastroenterol Nutr. 2015;61:503-508.\n108. \u0007Gianolio L, Armstrong K, Swann E, et al. Effectiveness of Switching to Subcutaneous Infliximab in Pediatric Inflammatory Bowel Disease Patients on Intravenous Maintenance Therapy. J Pediatr Gastroenterol Nutr. 2023;77:235-239.\n109. \u0007Duquerois AS, Martinez-Vinson C, Loppinet T, et al. A series of pediatric patients with inflammatory bowel disease switching from intravenous to subcutaneous infliximab maintenance therapy. Clin Res Hepatol Gastroenterol; 2025;49:102680.\n110. \u0007Ledder O, Assa A, Levine A, et al. Vedolizumab in paediatric inflammatory bowel disease: A retrospective multi-centre experience from the paediatric IBD Porto Group of ESPGHAN. J Crohns Colitis 2017;11:1230-1237.\n111. \u0007Dayan JR, Dolinger M, Benkov B, et al. Real world experience with ustekinumab in children and young adults at a tertiary care pediatric inflammatory bowel disease center. J Pediatr Gastroenterol Nutr. 2019;69:61-67.\n112. \u0007Hyams",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:82:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 82,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 17 ---\n193\nIBD\n107. \u0007de Ridder L, Waterman M, Turner D, et al. Use of biosimilars in paediatric inflammatory bowel disease: A Position Statement of the ESPGHAN Paediatric IBD Porto Group. J Pediatr Gastroenterol Nutr. 2015;61:503-508.\n108. \u0007Gianolio L, Armstrong K, Swann E, et al. Effectiveness of Switching to Subcutaneous Infliximab in Pediatric Inflammatory Bowel Disease Patients on Intravenous Maintenance Therapy. J Pediatr Gastroenterol Nutr. 2023;77:235-239.\n109. \u0007Duquerois AS, Martinez-Vinson C, Loppinet T, et al. A series of pediatric patients with inflammatory bowel disease switching from intravenous to subcutaneous infliximab maintenance therapy. Clin Res Hepatol Gastroenterol; 2025;49:102680.\n110. \u0007Ledder O, Assa A, Levine A, et al. Vedolizumab in paediatric inflammatory bowel disease: A retrospective multi-centre experience from the paediatric IBD Porto Group of ESPGHAN. J Crohns Colitis 2017;11:1230-1237.\n111. \u0007Dayan JR, Dolinger M, Benkov B, et al. Real world experience with ustekinumab in children and young adults at a tertiary care pediatric inflammatory bowel disease center. J Pediatr Gastroenterol Nutr. 2019;69:61-67.\n112. \u0007Hyams",
+    "source_id": "pdf:398e12446d466067:chunk:82",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:38.301685+00:00",
+    "source_text_sha256": "f13526cd7311ba8c02d3ea5814c55db72d1f3a02610915b6108068658db9f156"
+  }
+}

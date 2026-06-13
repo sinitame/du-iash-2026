@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "f1948d1b4ae1d3d331ee9b52c60eb2f0c81b542f3f0741aa1c637a4f7ac9eb84",
+  "translated_at": "2026-06-10T20:39:15.465301+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\nINVESTIGATION 2:\nLet's compare the marketing and the ingredient list\non a package of crème fraîche:\nCHALLENGE: BECOME A LABEL EXPERT!\nThe next time you go shopping, analyze a label by trying to spot ingredients with strange names, additives, and marketing traps. You'll see, it's a real detective game!\n• 9 INGREDIENTS!\nA \"classic\" cream has 2 or\n3 at most\n(cream + lactic cultures)\n• 5 ADDITIVES! Including\n2 emulsifiers: pectin,\ncellulose, cellulose gum, E471, E472\nCONCLUSION OF THE INVESTIGATION:\nIt's probably tasty because there are many additives, but this type of product should be consumed in moderation, especially in the case of IBD. A lot of information praising the product's quality. It's better to choose a classic cream.\nProduced with the support of",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:6:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 6,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 4 ---\nINVESTIGATION 2:\nLet's compare the marketing and the ingredient list\non a package of crème fraîche:\nCHALLENGE: BECOME A LABEL EXPERT!\nThe next time you go shopping, analyze a label by trying to spot ingredients with strange names, additives, and marketing traps. You'll see, it's a real detective game!\n• 9 INGREDIENTS!\nA \"classic\" cream has 2 or\n3 at most\n(cream + lactic cultures)\n• 5 ADDITIVES! Including\n2 emulsifiers: pectin,\ncellulose, cellulose gum, E471, E472\nCONCLUSION OF THE INVESTIGATION:\nIt's probably tasty because there are many additives, but this type of product should be consumed in moderation, especially in the case of IBD. A lot of information praising the product's quality. It's better to choose a classic cream.\nProduced with the support of",
+    "source_id": "pdf:2499a50038a1326f:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:15.465301+00:00",
+    "source_text_sha256": "f1948d1b4ae1d3d331ee9b52c60eb2f0c81b542f3f0741aa1c637a4f7ac9eb84"
+  }
+}

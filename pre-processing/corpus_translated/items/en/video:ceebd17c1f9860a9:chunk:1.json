@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "5cab8e179394f589a06a5b30dcc01f69fb431dd2b4a3e4ac757e2b146d065e3b",
+  "translated_at": "2026-06-10T20:44:33.758309+00:00",
+  "model": "gpt-5-mini",
+  "text": "Adjustments and supports that will allow you to have a school life without stress. Talk about my illness at school? Talk about your illness; it helps your teachers and classmates understand what you're going through. Why you sometimes have to be absent or go to the toilet? If your friends know, they can also support you and cheer you up when you're not feeling well. If you want to talk about it, choose a calm moment when you feel comfortable. It can be during a break or after class. Explain what an illness is in simple words. For example, I have an illness called Crohn's disease. That means my intestine is often inflamed and it can hurt me or make me tired. You can also talk about how you feel or how the illness affects you day to day. For example, sometimes I have to go to the toilet more often. Or I feel tired. Your friends might have questions. You can answer them, but only if you feel comfortable. If you don't want to talk to your classmates, here are a few tips. For example, a trusted adult who can help you manage the situation. A teacher, a school counselor, or your parents. If you have to be absent often, pre",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:1:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 1,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Adjustments and supports that will allow you to have a school life without stress. Talk about my illness at school? Talk about your illness; it helps your teachers and classmates understand what you're going through. Why you sometimes have to be absent or go to the toilet? If your friends know, they can also support you and cheer you up when you're not feeling well. If you want to talk about it, choose a calm moment when you feel comfortable. It can be during a break or after class. Explain what an illness is in simple words. For example, I have an illness called Crohn's disease. That means my intestine is often inflamed and it can hurt me or make me tired. You can also talk about how you feel or how the illness affects you day to day. For example, sometimes I have to go to the toilet more often. Or I feel tired. Your friends might have questions. You can answer them, but only if you feel comfortable. If you don't want to talk to your classmates, here are a few tips. For example, a trusted adult who can help you manage the situation. A teacher, a school counselor, or your parents. If you have to be absent often, pre",
+    "source_id": "video:ceebd17c1f9860a9:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:33.758309+00:00",
+    "source_text_sha256": "5cab8e179394f589a06a5b30dcc01f69fb431dd2b4a3e4ac757e2b146d065e3b"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c002376e5fff0ea6:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "62474ba248b5e8f5c6cafb7549df0dac3dae3c33b3601b4ddd3ebe21bf33889f",
+  "translated_at": "2026-06-10T20:49:38.647830+00:00",
+  "model": "gpt-5-mini",
+  "text": "An Frans (timoun é gran moun) ka viv épi on maladi Crohn ou on rectocolite hémorragique (RCH). 20% sé timoun.\n\nSé pa on maladi kontajé é on gran pwogrè fèt pou pli byen konn kòz maladi-a. Nou sav jòdi a i ni faktè jénetik é faktè déwò, kon lanvironnman. I pa sòti adan on manjé patikilyé. Épi sé pa non pli paské ou angoissé ousa nervé ki fè ou malad.",
+  "row": {
+    "id": "image:c002376e5fff0ea6:chunk:1:gcf",
+    "document_id": "image:c002376e5fff0ea6",
+    "chunk_index": 1,
+    "source_file": "questions_enfant.png",
+    "source_path": "/data/equipes/equipe-04/images/questions_enfant.png",
+    "text_path": "corpus/texts/images/questions_enfant.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "An Frans (timoun é gran moun) ka viv épi on maladi Crohn ou on rectocolite hémorragique (RCH). 20% sé timoun.\n\nSé pa on maladi kontajé é on gran pwogrè fèt pou pli byen konn kòz maladi-a. Nou sav jòdi a i ni faktè jénetik é faktè déwò, kon lanvironnman. I pa sòti adan on manjé patikilyé. Épi sé pa non pli paské ou angoissé ousa nervé ki fè ou malad.",
+    "source_id": "image:c002376e5fff0ea6:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:38.647830+00:00",
+    "source_text_sha256": "62474ba248b5e8f5c6cafb7549df0dac3dae3c33b3601b4ddd3ebe21bf33889f"
+  }
+}

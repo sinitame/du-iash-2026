@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "58a4d4c72b29ee8d4102bc3e00045602cd7092cdbdf5b077838a9d00533956f2",
+  "translated_at": "2026-06-10T20:43:31.700547+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nCrohn • UC • France\nContent drafted with a scientific committee composed of:\nProfessor Aurélien AMIOT • Gastroenterologist, AP-HP, Bicêtre Hospital\nMs Isabelle AUDRY • Dietitian, AP-HP, Bicêtre Hospital\nMr Éric BALEZ • Patient expert\nMs Anne BUISSON • Director of AFA Crohn RCH France\nDr Jean-Bernard DELOBEL • Gastroenterologist, GHT Armor, Saint-Brieuc Hospital\nProfessor Xavier HEBUTERNE • Gastroenterologist, CHU de Nice\nDr Bénédicte PIGNEUR • Pediatric gastroenterologist, AP-HP, Necker - Enfants Malades Hospital\n*Exclusion diet for Crohn’s disease (Crohn’s Disease Exclusion Diet in English).\nAll the questions you may have about the CDED*",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:0:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 0,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 1 ---\nCrohn • UC • France\nContent drafted with a scientific committee composed of:\nProfessor Aurélien AMIOT • Gastroenterologist, AP-HP, Bicêtre Hospital\nMs Isabelle AUDRY • Dietitian, AP-HP, Bicêtre Hospital\nMr Éric BALEZ • Patient expert\nMs Anne BUISSON • Director of AFA Crohn RCH France\nDr Jean-Bernard DELOBEL • Gastroenterologist, GHT Armor, Saint-Brieuc Hospital\nProfessor Xavier HEBUTERNE • Gastroenterologist, CHU de Nice\nDr Bénédicte PIGNEUR • Pediatric gastroenterologist, AP-HP, Necker - Enfants Malades Hospital\n*Exclusion diet for Crohn’s disease (Crohn’s Disease Exclusion Diet in English).\nAll the questions you may have about the CDED*",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:31.700547+00:00",
+    "source_text_sha256": "58a4d4c72b29ee8d4102bc3e00045602cd7092cdbdf5b077838a9d00533956f2"
+  }
+}

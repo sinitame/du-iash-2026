@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "b28252e6212ea545f56f8ae975ea248ef952b8efb32fc45e1bd7e9c5db82b93d",
+  "translated_at": "2026-06-10T20:45:30.034694+00:00",
+  "model": "gpt-5-mini",
+  "text": "On the outer edges of your arms, notice your forearms, then your hands all the way to the tips of your fingers. And to better become aware of these areas, gently bring your attention to your thyroid. It’s at the level of the throat. All these relaxed areas ease and soften quietly.\n\nNow, at this moment, you can become aware of the inside of your arms. I invite you to focus there, scanning slowly for sensations. Then from the top of your back, let relaxation flow down the middle of your back. \n\nAnd now bring your attention to the chest area. Become aware of all these zones. You can gently welcome a warmth inside.\n\nSoftly, I now propose that you locate where that warmth or sensation sits. Come to center your attention at the lower back area, resting in the sacrum, the buttocks, the coccyx, and then in your belly. The things that were tense there relax, quietly, very gently, like a calm color spreading.\n\nYou can now bring your attention to a point about 4 cm above your navel. And notice all those areas that may tighten or hold tension, becoming aware of them.",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:3:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 3,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "On the outer edges of your arms, notice your forearms, then your hands all the way to the tips of your fingers. And to better become aware of these areas, gently bring your attention to your thyroid. It’s at the level of the throat. All these relaxed areas ease and soften quietly.\n\nNow, at this moment, you can become aware of the inside of your arms. I invite you to focus there, scanning slowly for sensations. Then from the top of your back, let relaxation flow down the middle of your back. \n\nAnd now bring your attention to the chest area. Become aware of all these zones. You can gently welcome a warmth inside.\n\nSoftly, I now propose that you locate where that warmth or sensation sits. Come to center your attention at the lower back area, resting in the sacrum, the buttocks, the coccyx, and then in your belly. The things that were tense there relax, quietly, very gently, like a calm color spreading.\n\nYou can now bring your attention to a point about 4 cm above your navel. And notice all those areas that may tighten or hold tension, becoming aware of them.",
+    "source_id": "video:05807ec7742bc2af:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:30.034694+00:00",
+    "source_text_sha256": "b28252e6212ea545f56f8ae975ea248ef952b8efb32fc45e1bd7e9c5db82b93d"
+  }
+}

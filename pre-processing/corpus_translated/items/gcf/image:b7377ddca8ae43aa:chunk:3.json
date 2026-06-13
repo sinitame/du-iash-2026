@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "8577646a14e1127403abf214f89b2dd7bec3de32f95ccaa0694b08e0ecfa3529",
+  "translated_at": "2026-06-10T20:49:59.169504+00:00",
+  "model": "gpt-5-mini",
+  "text": "medsen travay pa toujou konn konsekans MICI adan kontèks travay-la, si ou désidé palé-y fò pa hésité pou ba-y tout détaillé asou fatig-ou, tan vwayaj lè gen poussée é posibilitè pou ajisté osnon chanjé poste, si sa egziste andidan léplas travay-ou osnon an konpagni-w.\n\nM Palé-y épi iyerachi-la :\n= || i klèman on risk si ou fè sa konnèt lè yo ka anboche-w (sauf byen sir si yo rékrité-w anba RQTH) osnon pandan peryòd d'essai. Patwon-la, ki ka enkyété asou impact sitiasyon-an, pé refizé anbòchaj-la osnon mété fen peryòd d'essai-a san ba veritab rezon paskè i pa bizwen justifié desizyon-y.\n= Par kont, ou pé oblijé palé-y ba iyerachi-ou si maladi-a évolyé é si ni arè long osnon souvan, osnon si ou vlé jwenn ajistman orè oswa chanjman poste. Anko, maladi-a pé nonmé oswa pa nonmé.",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:3:gcf",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 3,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "medsen travay pa toujou konn konsekans MICI adan kontèks travay-la, si ou désidé palé-y fò pa hésité pou ba-y tout détaillé asou fatig-ou, tan vwayaj lè gen poussée é posibilitè pou ajisté osnon chanjé poste, si sa egziste andidan léplas travay-ou osnon an konpagni-w.\n\nM Palé-y épi iyerachi-la :\n= || i klèman on risk si ou fè sa konnèt lè yo ka anboche-w (sauf byen sir si yo rékrité-w anba RQTH) osnon pandan peryòd d'essai. Patwon-la, ki ka enkyété asou impact sitiasyon-an, pé refizé anbòchaj-la osnon mété fen peryòd d'essai-a san ba veritab rezon paskè i pa bizwen justifié desizyon-y.\n= Par kont, ou pé oblijé palé-y ba iyerachi-ou si maladi-a évolyé é si ni arè long osnon souvan, osnon si ou vlé jwenn ajistman orè oswa chanjman poste. Anko, maladi-a pé nonmé oswa pa nonmé.",
+    "source_id": "image:b7377ddca8ae43aa:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:59.169504+00:00",
+    "source_text_sha256": "8577646a14e1127403abf214f89b2dd7bec3de32f95ccaa0694b08e0ecfa3529"
+  }
+}

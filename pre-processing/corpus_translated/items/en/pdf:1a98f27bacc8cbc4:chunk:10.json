@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:10",
+  "target_language": "en",
+  "source_text_sha256": "1b2057a3a18bb26b68de688d55cde7abd262589b49f14d5b3f238d8a9e47c02f",
+  "translated_at": "2026-06-10T20:44:02.542732+00:00",
+  "model": "gpt-5-mini",
+  "text": "Dietetic evaluation: anthropometry and eating habits.\n•  Education on Phase 1 of the CDED diet, including required and allowed foods.  \n•  Clinical assessment and prescription by the gastroenterologist. \nStart  \nof PHASE 1\n7\n\"At the beginning of the diet, I was apprehensive about taking the solution because I am not used to drinking milk. I got used to it since I concentrate it or flavor it with an apple or a banana and a few strawberries, in a smoothie. And soon, in Phase 2, I will be able to add cocoa. So I think I can continue it long-term, especially since I will halve the amount.\"\n61-year-old patient: was apprehensive about having to take the enteral nutrition solution\n\"We very quickly saw the benefits: a reduction in pain, which motivated our son to continue! \nHe did not come to the table with us when he was on exclusive enteral nutrition.\nHe also told his friends about it right away, who understood and made the effort by bringing, for example for outings with friends, a salad.\nWhen it was time to reintroduce the allowed foods, the whole family got involved. We never again bought meals tr",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:10:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 10,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Dietetic evaluation: anthropometry and eating habits.\n•  Education on Phase 1 of the CDED diet, including required and allowed foods.  \n•  Clinical assessment and prescription by the gastroenterologist. \nStart  \nof PHASE 1\n7\n\"At the beginning of the diet, I was apprehensive about taking the solution because I am not used to drinking milk. I got used to it since I concentrate it or flavor it with an apple or a banana and a few strawberries, in a smoothie. And soon, in Phase 2, I will be able to add cocoa. So I think I can continue it long-term, especially since I will halve the amount.\"\n61-year-old patient: was apprehensive about having to take the enteral nutrition solution\n\"We very quickly saw the benefits: a reduction in pain, which motivated our son to continue! \nHe did not come to the table with us when he was on exclusive enteral nutrition.\nHe also told his friends about it right away, who understood and made the effort by bringing, for example for outings with friends, a salad.\nWhen it was time to reintroduce the allowed foods, the whole family got involved. We never again bought meals tr",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:10",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:02.542732+00:00",
+    "source_text_sha256": "1b2057a3a18bb26b68de688d55cde7abd262589b49f14d5b3f238d8a9e47c02f"
+  }
+}

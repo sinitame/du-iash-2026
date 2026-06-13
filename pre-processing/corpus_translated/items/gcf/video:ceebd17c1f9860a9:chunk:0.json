@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "9cf65b3cc22ce4cced1ee6ab8d684e8c5de0c72284399d87701214dc309d7dab",
+  "translated_at": "2026-06-10T21:12:49.775675+00:00",
+  "model": "gpt-5-mini",
+  "text": "Manmi ki o baï.\nLè ou ni on maladi Crohn ouswa on rektokolit emorajik, i ni moman ki pafwa difisil. Ou pé gen doulè, santi ou fatigué ou byin ni ijans pou alé twalèt. Sentòm sa yo ka pafwa déranjé konsantrasyon ou an klas é menm fòsé ou manké kous. Par fwa ou pé santi ou démotivé ou stwé lè ou pansé rattrapé kous ou pèdi. Épi ou pé mandé tèt ou si fò ou palé di maladi a osnon pa ba kamarad. Maladi sa yo ka on sijè tabou é sé konprannab pasé sé pati kò yo ki plis afété. Alò i difisil pou palé asi sa a an lékol ouswa an kolèj, mé osi rèsté sékré-a i pé trè difisil. Lè nou an klas, gen fwa nou bizwen sòti, sa ka pwovoké kestyon an kamarad klas. Momann pa drôl sa yo souvan ka fè stès. Sé pou sa fò aprann détann nou é resté zen. Adan vidéo sala, nou ka ba’w astis é èd ki ké pèmèt ou fè lékol san stès. Palé di maladi mwen an lékol ? Palé di maladi a pèmèt pwofesèw é kamarad yo konprann sa ou ka viv. Po",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:0:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 0,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Manmi ki o baï.\nLè ou ni on maladi Crohn ouswa on rektokolit emorajik, i ni moman ki pafwa difisil. Ou pé gen doulè, santi ou fatigué ou byin ni ijans pou alé twalèt. Sentòm sa yo ka pafwa déranjé konsantrasyon ou an klas é menm fòsé ou manké kous. Par fwa ou pé santi ou démotivé ou stwé lè ou pansé rattrapé kous ou pèdi. Épi ou pé mandé tèt ou si fò ou palé di maladi a osnon pa ba kamarad. Maladi sa yo ka on sijè tabou é sé konprannab pasé sé pati kò yo ki plis afété. Alò i difisil pou palé asi sa a an lékol ouswa an kolèj, mé osi rèsté sékré-a i pé trè difisil. Lè nou an klas, gen fwa nou bizwen sòti, sa ka pwovoké kestyon an kamarad klas. Momann pa drôl sa yo souvan ka fè stès. Sé pou sa fò aprann détann nou é resté zen. Adan vidéo sala, nou ka ba’w astis é èd ki ké pèmèt ou fè lékol san stès. Palé di maladi mwen an lékol ? Palé di maladi a pèmèt pwofesèw é kamarad yo konprann sa ou ka viv. Po",
+    "source_id": "video:ceebd17c1f9860a9:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:12:49.775675+00:00",
+    "source_text_sha256": "9cf65b3cc22ce4cced1ee6ab8d684e8c5de0c72284399d87701214dc309d7dab"
+  }
+}

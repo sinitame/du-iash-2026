@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "5cab8e179394f589a06a5b30dcc01f69fb431dd2b4a3e4ac757e2b146d065e3b",
+  "translated_at": "2026-06-10T21:13:04.993097+00:00",
+  "model": "gpt-5-mini",
+  "text": "é lé èd ki ké pèmèt ou ni on sikolarité san strès. Palé di ma muquille adan lékol? Palé di maladi-w, sa ka pèmèt ansènyan-w é kamarad-w konprann sa ou ka viv. Poukisa ou bizwen pafwa absé oswa alé twalèt? Si zanmi-w konnen, yo ké kapab menm vin on soutyen pou-w é édé-w remonte moral lè sa pa ka alé. Si ou vlé palé, chwazi on moman kalm koté ou santi-w alèz. Sa pé adan on poz oswa apré klas. Ekspliké sa ki on miquille épi mo senp. Par egzànp, mwen ni on maladi ki yo nonmé Cron. Sa vlé di entesten mwen souvan anflamé é sa pé fè mwen mal oben fè mwen fatigué. Ou pé osi palé di sa ou santi é kijan maladi-a afèkté-w chak jou. Par egzànp, pafwa, mwen bizwen alé twalèt plis souvan. Oswa mwen santi mwen fatigué. Zanmi-w pé ni kèsyon. Ou pé répond, mé selman si ou santi-w alèz. Si ou pa vlé palé épi kamarad-w, men kèk astis. Par egzànp, on gran moun ki fè-w konfyans ki pé édé-w jéré sitiasyon-an. On prof, on konseye lèkol oswa paran-w. Si ou bizwen absé souvan, pré",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:1:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 1,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "é lé èd ki ké pèmèt ou ni on sikolarité san strès. Palé di ma muquille adan lékol? Palé di maladi-w, sa ka pèmèt ansènyan-w é kamarad-w konprann sa ou ka viv. Poukisa ou bizwen pafwa absé oswa alé twalèt? Si zanmi-w konnen, yo ké kapab menm vin on soutyen pou-w é édé-w remonte moral lè sa pa ka alé. Si ou vlé palé, chwazi on moman kalm koté ou santi-w alèz. Sa pé adan on poz oswa apré klas. Ekspliké sa ki on miquille épi mo senp. Par egzànp, mwen ni on maladi ki yo nonmé Cron. Sa vlé di entesten mwen souvan anflamé é sa pé fè mwen mal oben fè mwen fatigué. Ou pé osi palé di sa ou santi é kijan maladi-a afèkté-w chak jou. Par egzànp, pafwa, mwen bizwen alé twalèt plis souvan. Oswa mwen santi mwen fatigué. Zanmi-w pé ni kèsyon. Ou pé répond, mé selman si ou santi-w alèz. Si ou pa vlé palé épi kamarad-w, men kèk astis. Par egzànp, on gran moun ki fè-w konfyans ki pé édé-w jéré sitiasyon-an. On prof, on konseye lèkol oswa paran-w. Si ou bizwen absé souvan, pré",
+    "source_id": "video:ceebd17c1f9860a9:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:04.993097+00:00",
+    "source_text_sha256": "5cab8e179394f589a06a5b30dcc01f69fb431dd2b4a3e4ac757e2b146d065e3b"
+  }
+}

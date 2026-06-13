@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:14",
+  "target_language": "en",
+  "source_text_sha256": "bb272cfea8d16a7602c60f581746475aa3995b40da376fbb1cc3484b17f0f0c2",
+  "translated_at": "2026-06-10T20:44:18.212625+00:00",
+  "model": "gpt-5-mini",
+  "text": "py in Pediatric Crohn’s Disease—Are We Going to Change the \nGuidelines ? J. Clin. Med. 2021, 10, 3027.\n7. \u0007Russell EE, et al. Practical application of the Crohn’s disease exclusion diet as therapy in an adult \nAustralian population. J Gastroenterol Hepatol. 2024 Mar;39(3):446-456.\nAre you affected by ulcerative colitis, Crohn’s disease, or are you close to someone who is ill? \nContact afa Crohn RCH France, the only national association of patients and relatives committed \nto the fight against chronic inflammatory bowel diseases (IBD). Afa informs you, supports you \nand provides solutions to help you live better with the disease. Diet, well-being, family, studies, work, \ntravel... afa is your everyday ally! Don’t stay alone any longer, visit our website: www.afa.asso.fr\nBiogen France SAS\nTour Légende 20 place de la Défense  \n92800 Puteaux    \n398 410 126 RCS Nanterre \nwww.biogen.fr\nCDED in brief\n➔ \u0007The Crohn’s Disease Exclusion Diet (CDED in English) is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with a nutritional solution",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:14:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 14,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "py in Pediatric Crohn’s Disease—Are We Going to Change the \nGuidelines ? J. Clin. Med. 2021, 10, 3027.\n7. \u0007Russell EE, et al. Practical application of the Crohn’s disease exclusion diet as therapy in an adult \nAustralian population. J Gastroenterol Hepatol. 2024 Mar;39(3):446-456.\nAre you affected by ulcerative colitis, Crohn’s disease, or are you close to someone who is ill? \nContact afa Crohn RCH France, the only national association of patients and relatives committed \nto the fight against chronic inflammatory bowel diseases (IBD). Afa informs you, supports you \nand provides solutions to help you live better with the disease. Diet, well-being, family, studies, work, \ntravel... afa is your everyday ally! Don’t stay alone any longer, visit our website: www.afa.asso.fr\nBiogen France SAS\nTour Légende 20 place de la Défense  \n92800 Puteaux    \n398 410 126 RCS Nanterre \nwww.biogen.fr\nCDED in brief\n➔ \u0007The Crohn’s Disease Exclusion Diet (CDED in English) is a therapeutic dietary strategy based on the exclusion of certain foods, replaced by specific foods combined with a nutritional solution",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:14",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:18.212625+00:00",
+    "source_text_sha256": "bb272cfea8d16a7602c60f581746475aa3995b40da376fbb1cc3484b17f0f0c2"
+  }
+}

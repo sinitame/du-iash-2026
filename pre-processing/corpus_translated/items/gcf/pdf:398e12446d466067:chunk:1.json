@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "b77f39a59f49aa90351c98037cc7fa4d87e8040d9720e6fa97c0df3efd7ee639",
+  "translated_at": "2026-06-10T20:52:01.754642+00:00",
+  "model": "gpt-5-mini",
+  "text": "maché\nCAG : kolit akit grav\nASCA : antikò anti-Saccharomyces cerevisiae\nAZA : azathioprine\nCRP : pwoteyin C réaktif\nCSP : kolangit sklerozant primitif\nEBV : virus Epstein-Barr\nNEE : nitrisyon entéral eksklizif\nEO-IBD : maladi inflamatwa entesten ki parèt bonè\nIBD : maladi inflamatwa entesten\nIMC : endis mas kòporèl\nIFX : infliximab\nIRM : imajri pa rézonans mayetik\nLM : liberasyon modifié\nMC : maladi Crohn\nMICI : maladi inflamatwa kronik entesten\nMTX : méthotrexate\nNFS : numérasyon fòmil san\np-ANCA : antikò ki dirijé kont réjyon périnukléèr adan\nsitoplazm polinukléè netwofil\nPCDAI : endèks aktivité maladi Crohn pou timoun\nPO : pa bouch\nPUCAI : endèks aktivité kolit ulseratif pou timoun\nRCH : rektokolit emorajik\nSES-CD : nòt endoskopik senp pou maladi Crohn\nTNF : faktè nekwoz timè\nTPMT : tiopurin méthyltransféraz\nVEO-IBD : maladi inflamatwa entesten ki parèt trè bonè\nEntwodiksyon\nMICI pé ka diagnostiké pandan tout lavi.\nMé i ni spécificité ki pwòp a fòm péda-\ntrik. Pa egzamp, maladi Crohn plis souvan\ndiagnostiké adan staj enflamatwa,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:1:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 1,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "maché\nCAG : kolit akit grav\nASCA : antikò anti-Saccharomyces cerevisiae\nAZA : azathioprine\nCRP : pwoteyin C réaktif\nCSP : kolangit sklerozant primitif\nEBV : virus Epstein-Barr\nNEE : nitrisyon entéral eksklizif\nEO-IBD : maladi inflamatwa entesten ki parèt bonè\nIBD : maladi inflamatwa entesten\nIMC : endis mas kòporèl\nIFX : infliximab\nIRM : imajri pa rézonans mayetik\nLM : liberasyon modifié\nMC : maladi Crohn\nMICI : maladi inflamatwa kronik entesten\nMTX : méthotrexate\nNFS : numérasyon fòmil san\np-ANCA : antikò ki dirijé kont réjyon périnukléèr adan\nsitoplazm polinukléè netwofil\nPCDAI : endèks aktivité maladi Crohn pou timoun\nPO : pa bouch\nPUCAI : endèks aktivité kolit ulseratif pou timoun\nRCH : rektokolit emorajik\nSES-CD : nòt endoskopik senp pou maladi Crohn\nTNF : faktè nekwoz timè\nTPMT : tiopurin méthyltransféraz\nVEO-IBD : maladi inflamatwa entesten ki parèt trè bonè\nEntwodiksyon\nMICI pé ka diagnostiké pandan tout lavi.\nMé i ni spécificité ki pwòp a fòm péda-\ntrik. Pa egzamp, maladi Crohn plis souvan\ndiagnostiké adan staj enflamatwa,",
+    "source_id": "pdf:398e12446d466067:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:01.754642+00:00",
+    "source_text_sha256": "b77f39a59f49aa90351c98037cc7fa4d87e8040d9720e6fa97c0df3efd7ee639"
+  }
+}

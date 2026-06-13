@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:35a9aff59fe8cd5f:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "90871c0e7115e004b102b84c36cff6a0478d431ca8ab2643ff415227be1daac4",
+  "translated_at": "2026-06-10T20:47:17.003804+00:00",
+  "model": "gpt-5-mini",
+  "text": "difficult. In very rare cases, sometimes we end up proposing permanent stomas to manage this inflammation. We could not control it medically, but that remains exceptional. In ulcerative colitis, surgery can be necessary either because we are dealing with a severe colitis that we could not control medically and it is a rescue colectomy — we remove the colon. But today, with all the medicines we have, that is exceptional. Or it is a colon that, over time, has been repeatedly ill, not well treated and is no longer functional, and finally there are so many episodes of urgency and inflammation not controlled medically that we will perform a colectomy. And in fact, because the disease in ulcerative colitis affects only the colon, once we remove the colon there will remain a reservoir, and we will be able to reduce the treatments. On the other hand, indeed, we will replace the inflammatory disease with having less colon. And so sometimes patients will have more stools, one stool after each meal. In any case, they will need to adapt to their reservoir.",
+  "row": {
+    "id": "video:35a9aff59fe8cd5f:chunk:1:en",
+    "document_id": "video:35a9aff59fe8cd5f",
+    "chunk_index": 1,
+    "source_file": "e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "text_path": "corpus/texts/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "difficult. In very rare cases, sometimes we end up proposing permanent stomas to manage this inflammation. We could not control it medically, but that remains exceptional. In ulcerative colitis, surgery can be necessary either because we are dealing with a severe colitis that we could not control medically and it is a rescue colectomy — we remove the colon. But today, with all the medicines we have, that is exceptional. Or it is a colon that, over time, has been repeatedly ill, not well treated and is no longer functional, and finally there are so many episodes of urgency and inflammation not controlled medically that we will perform a colectomy. And in fact, because the disease in ulcerative colitis affects only the colon, once we remove the colon there will remain a reservoir, and we will be able to reduce the treatments. On the other hand, indeed, we will replace the inflammatory disease with having less colon. And so sometimes patients will have more stools, one stool after each meal. In any case, they will need to adapt to their reservoir.",
+    "source_id": "video:35a9aff59fe8cd5f:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:17.003804+00:00",
+    "source_text_sha256": "90871c0e7115e004b102b84c36cff6a0478d431ca8ab2643ff415227be1daac4"
+  }
+}

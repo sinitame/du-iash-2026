@@ -1,0 +1,11 @@
+{
+  "id": "image:c002376e5fff0ea6",
+  "status": "done",
+  "source_file": "questions_enfant.png",
+  "source_path": "/data/equipes/equipe-04/images/questions_enfant.png",
+  "text_path": "corpus/texts/images/questions_enfant.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "c002376e5fff0ea68290399d3ef4842faa58b7951f8b6198bd11075cb63f1459",
+  "created_at": "2026-06-10T16:25:37.427794+00:00"
+}

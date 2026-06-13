@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "c3673e9388071b5a7d0cba8e3b90ccb11b98486a4f679d2bf31b1244056a1531",
+  "translated_at": "2026-06-10T20:37:30.454096+00:00",
+  "model": "gpt-5-mini",
+  "text": "Also check whether the status of disabled worker\n(RQTH) leads to accommodations\nin these situations (this depends on companies\nand collective agreements, so it is not\nsystematic). If this is the case, do not hesitate to\nrequest the RÔTH (see the afa fact sheet on the subject)\nIf the employer refuses to let you be absent\nduring working hours, you will have to take\nleave or RTT to attend your consultations,\ntreatments or tests, or arrange with the employer the\nmaking up of work hours not completed.\nSome patients prefer to systematically\ntake leave, so as not to have to disclose their\nhealth condition to their employer: it is up to you to decide\naccording to your situation.\n\nIN DAY HOSPITAL\n\nInfusions for treatments or for iron,\ncoloscopies … are performed as day hospitalizations. In this case the hospital gives you a situation form, which has the same value as a sick leave certificate.\nYou must forward it to your employer and possibly\nto social security as with a usual sick leave (see your HR department if you have\nany doubts about the procedure to follow).",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:1:en",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 1,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Also check whether the status of disabled worker\n(RQTH) leads to accommodations\nin these situations (this depends on companies\nand collective agreements, so it is not\nsystematic). If this is the case, do not hesitate to\nrequest the RÔTH (see the afa fact sheet on the subject)\nIf the employer refuses to let you be absent\nduring working hours, you will have to take\nleave or RTT to attend your consultations,\ntreatments or tests, or arrange with the employer the\nmaking up of work hours not completed.\nSome patients prefer to systematically\ntake leave, so as not to have to disclose their\nhealth condition to their employer: it is up to you to decide\naccording to your situation.\n\nIN DAY HOSPITAL\n\nInfusions for treatments or for iron,\ncoloscopies … are performed as day hospitalizations. In this case the hospital gives you a situation form, which has the same value as a sick leave certificate.\nYou must forward it to your employer and possibly\nto social security as with a usual sick leave (see your HR department if you have\nany doubts about the procedure to follow).",
+    "source_id": "image:b620cbf2bdce20a7:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:30.454096+00:00",
+    "source_text_sha256": "c3673e9388071b5a7d0cba8e3b90ccb11b98486a4f679d2bf31b1244056a1531"
+  }
+}

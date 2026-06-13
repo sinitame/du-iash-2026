@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "2d25da4a1cf58532c09c64972e32e5d798780e43ca0ae79567880eb763284f99",
+  "translated_at": "2026-06-10T21:08:14.876624+00:00",
+  "model": "gpt-5-mini",
+  "text": "p di enpòtans asou chwa tratman adan maladi sala chéz timoun.\nMalgré si médisin yo ka sèvi menm jan ki pou gran moun (5 Acides Amino-Salicylés, Kortikoid, Azathioprine, Méthotrextate, anti-TNF…) jan pou sèvi yo ka diferan. \nPa egzanp kòtizon (Cortancyl®) dwé bay an kout tretman é pa janmen pwolongé paské i ni répercussion asou kwasans statural. Sé pou sa, an laj pédiatrik, maladi Crohn souvan treté pasé pa métòd nitrisyon entéral ki fè pwèv efikasité yo, pa selman pou kontrollé poussée maladi-a, mè osi asou kwasans statural.\nKI SÉ PRIMYÉ SIYN MALADI CROHN OU RÉKTOCOLIT ÉMORAJIK CHÉZ TIMOUN ?\nDyagnostik la souvan vit pou réktokolít émorajik lè i ni on dyaré ki gen san, san on koz enfeksyon.\nAn kontrè, adan maladi Crohn sé plis souvan ti siy é dyagnostik-la difisil. Douler adominal yo souvan é yo parèt avan dyaré-a. Pou lòt moun, dyaré-a sé primyé siy-la é",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:1:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 1,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "p di enpòtans asou chwa tratman adan maladi sala chéz timoun.\nMalgré si médisin yo ka sèvi menm jan ki pou gran moun (5 Acides Amino-Salicylés, Kortikoid, Azathioprine, Méthotrextate, anti-TNF…) jan pou sèvi yo ka diferan. \nPa egzanp kòtizon (Cortancyl®) dwé bay an kout tretman é pa janmen pwolongé paské i ni répercussion asou kwasans statural. Sé pou sa, an laj pédiatrik, maladi Crohn souvan treté pasé pa métòd nitrisyon entéral ki fè pwèv efikasité yo, pa selman pou kontrollé poussée maladi-a, mè osi asou kwasans statural.\nKI SÉ PRIMYÉ SIYN MALADI CROHN OU RÉKTOCOLIT ÉMORAJIK CHÉZ TIMOUN ?\nDyagnostik la souvan vit pou réktokolít émorajik lè i ni on dyaré ki gen san, san on koz enfeksyon.\nAn kontrè, adan maladi Crohn sé plis souvan ti siy é dyagnostik-la difisil. Douler adominal yo souvan é yo parèt avan dyaré-a. Pou lòt moun, dyaré-a sé primyé siy-la é",
+    "source_id": "pdf:a74238ee30f57428:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:14.876624+00:00",
+    "source_text_sha256": "2d25da4a1cf58532c09c64972e32e5d798780e43ca0ae79567880eb763284f99"
+  }
+}

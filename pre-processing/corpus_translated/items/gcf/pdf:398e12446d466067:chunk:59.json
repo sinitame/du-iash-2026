@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:59",
+  "target_language": "gcf",
+  "source_text_sha256": "c48e47820e26804f86d3258b4ee20a309b12e5d7fc3c07665430f94de41afcbe",
+  "translated_at": "2026-06-10T20:54:50.348266+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 14 ---\n190\nKonklizyon\nAn jénéral, bi é mwayen thérapeutique yo rété konparab ant timoun é ant adilt. Toufwa, fò nou mété an valè adan maladi Crohn pédiatrik enpak-la ki ka fè domaj asou kwasans an wotè, pwan pwa é matirasyon pubètè, paramèt enpòtan pou swiv aktivité inflamatwa a é pou évalué tretman-an. Strateji dyagnostik-la pran alò plis an kont faktè envaziv osinon kimenatif egzamen konplémantè yo. Adan pwen vi thérapeutique, nitrisyon antéral éksklizif sé on tretman ki chwazi an pédiatri. Nou wè osi ki travay pédiatri an matyè tretman yo nettman mwens anlo kon sa ki fèt asi popilasyon adilt. Pou sa, kèk molékil pa disponib paskè yo pa ni otorizasyon pou mété yo an maché pou endikasyon pédiatri. Transisyon an médsin adilt sé on etap majè nan parkou médical pasyan sa yo. Fò yo préparé é réyalizé'y épi rijè.\nRemèsiman : Man ka remèsyé fò Dr NGWANOU (*) pou lèkti atantif li fè asou travay-la é pou konsèy li avi",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:59:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 59,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 14 ---\n190\nKonklizyon\nAn jénéral, bi é mwayen thérapeutique yo rété konparab ant timoun é ant adilt. Toufwa, fò nou mété an valè adan maladi Crohn pédiatrik enpak-la ki ka fè domaj asou kwasans an wotè, pwan pwa é matirasyon pubètè, paramèt enpòtan pou swiv aktivité inflamatwa a é pou évalué tretman-an. Strateji dyagnostik-la pran alò plis an kont faktè envaziv osinon kimenatif egzamen konplémantè yo. Adan pwen vi thérapeutique, nitrisyon antéral éksklizif sé on tretman ki chwazi an pédiatri. Nou wè osi ki travay pédiatri an matyè tretman yo nettman mwens anlo kon sa ki fèt asi popilasyon adilt. Pou sa, kèk molékil pa disponib paskè yo pa ni otorizasyon pou mété yo an maché pou endikasyon pédiatri. Transisyon an médsin adilt sé on etap majè nan parkou médical pasyan sa yo. Fò yo préparé é réyalizé'y épi rijè.\nRemèsiman : Man ka remèsyé fò Dr NGWANOU (*) pou lèkti atantif li fè asou travay-la é pou konsèy li avi",
+    "source_id": "pdf:398e12446d466067:chunk:59",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:50.348266+00:00",
+    "source_text_sha256": "c48e47820e26804f86d3258b4ee20a309b12e5d7fc3c07665430f94de41afcbe"
+  }
+}

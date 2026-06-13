@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "9e177455a354fa8661738192e1ea7797ccb34d3419fe09ade162b8342464ee66",
+  "translated_at": "2026-06-10T21:17:54.949598+00:00",
+  "model": "gpt-5-mini",
+  "text": "Fè on ti tape asou kwis ou, tapoté men ou, pran on gwo soupi. Pa hésité pou étiré-w, pran tout plas ou bizwen. Ou kay dousman santi men ou asou kwis ou, santi kwis ou asou tè-a, épi lè ou prêt, man ka proposé-w, douman, lè ou réveyé, pou ofri dé souri a lavi.",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:3:gcf",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 3,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Fè on ti tape asou kwis ou, tapoté men ou, pran on gwo soupi. Pa hésité pou étiré-w, pran tout plas ou bizwen. Ou kay dousman santi men ou asou kwis ou, santi kwis ou asou tè-a, épi lè ou prêt, man ka proposé-w, douman, lè ou réveyé, pou ofri dé souri a lavi.",
+    "source_id": "video:93a0c37f32868909:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:54.949598+00:00",
+    "source_text_sha256": "9e177455a354fa8661738192e1ea7797ccb34d3419fe09ade162b8342464ee66"
+  }
+}

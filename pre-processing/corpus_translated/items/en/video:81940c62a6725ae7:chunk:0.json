@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:81940c62a6725ae7:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "7b236ca30cea55a6fe3c4222b12822988acecea8f0fe8b9253ade3f2ed7a10a2",
+  "translated_at": "2026-06-10T20:44:58.162364+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Can you explain rectocolitis — what is it? So rectocolitis is hemorrhagic; it's a kind of colitis, that is to say it's also a chronic inflammatory bowel disease. But it will affect only the colon, it will start in the rectum and extend more or less into the colon, so there will be no other involvement of the digestive tract. And it is a more superficial involvement. So it too has somewhat the same pathophysiology — the pathophysiology, that is, it's roughly the same causes. But I say they are close because there are things where the factors are not exactly the same. That is to say that in ulcerative colitis, dietary factors will still be a little less important. And the environmental factor that is different is tobacco. Because tobacco in Crohn's disease will worsen the illness, lead to treatment resistance, and surgery will be a factor of poor prognosis. Whereas in ulcerative colitis it is protective, but of course tobacco has so many consequences that one cannot start smoking to tr",
+  "row": {
+    "id": "video:81940c62a6725ae7:chunk:0:en",
+    "document_id": "video:81940c62a6725ae7",
+    "chunk_index": 0,
+    "source_file": "2a64de8296fd58dc38842b411a6ed60980bb9b9d.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/2a64de8296fd58dc38842b411a6ed60980bb9b9d.mp4",
+    "text_path": "corpus/texts/videos/2a64de8296fd58dc38842b411a6ed60980bb9b9d.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Can you explain rectocolitis — what is it? So rectocolitis is hemorrhagic; it's a kind of colitis, that is to say it's also a chronic inflammatory bowel disease. But it will affect only the colon, it will start in the rectum and extend more or less into the colon, so there will be no other involvement of the digestive tract. And it is a more superficial involvement. So it too has somewhat the same pathophysiology — the pathophysiology, that is, it's roughly the same causes. But I say they are close because there are things where the factors are not exactly the same. That is to say that in ulcerative colitis, dietary factors will still be a little less important. And the environmental factor that is different is tobacco. Because tobacco in Crohn's disease will worsen the illness, lead to treatment resistance, and surgery will be a factor of poor prognosis. Whereas in ulcerative colitis it is protective, but of course tobacco has so many consequences that one cannot start smoking to tr",
+    "source_id": "video:81940c62a6725ae7:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:58.162364+00:00",
+    "source_text_sha256": "7b236ca30cea55a6fe3c4222b12822988acecea8f0fe8b9253ade3f2ed7a10a2"
+  }
+}

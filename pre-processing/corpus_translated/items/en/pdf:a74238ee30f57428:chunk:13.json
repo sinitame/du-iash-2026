@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:13",
+  "target_language": "en",
+  "source_text_sha256": "3d3f68697d14ae7e7c8eeafd2f9dbc75c3d04f53b662caa25ad03bb87e51eaf2",
+  "translated_at": "2026-06-10T20:43:21.321947+00:00",
+  "model": "gpt-5-mini",
+  "text": "of the illness. They will therefore try to miss appointments, ignore symptoms to avoid being given medication. They may be afraid of surgery and ashamed to say so or to ask what the operation will be like. For some of them, short stature constantly reminds them of their illness even when they are doing well. It is the sign they suffer from most often.\nTo help them, the pediatrician works with a team that includes at least one psychologist and a social worker.\nWHAT SHOULD I DO IF MY CHILD IS DEPRESSED?\nYour child may become depressed during a relapse when they realize that the illness can come back. Their change in behavior may also be due to the treatment (Prednisone or others). Explain to them that it does not last, your doctor will be able to help because the symptoms are linked to the flare-up and the child returns to normal activity as soon as improvement occurs.\nARE THERE THINGS I SHOULD NOT DO?\nAs with all chronic illnesses, parents tend to overprotect their children (\"helicopter parents\").\nIt is natural and it often helps them to feel well; but as soon as your daughter or your",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:13:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 13,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "of the illness. They will therefore try to miss appointments, ignore symptoms to avoid being given medication. They may be afraid of surgery and ashamed to say so or to ask what the operation will be like. For some of them, short stature constantly reminds them of their illness even when they are doing well. It is the sign they suffer from most often.\nTo help them, the pediatrician works with a team that includes at least one psychologist and a social worker.\nWHAT SHOULD I DO IF MY CHILD IS DEPRESSED?\nYour child may become depressed during a relapse when they realize that the illness can come back. Their change in behavior may also be due to the treatment (Prednisone or others). Explain to them that it does not last, your doctor will be able to help because the symptoms are linked to the flare-up and the child returns to normal activity as soon as improvement occurs.\nARE THERE THINGS I SHOULD NOT DO?\nAs with all chronic illnesses, parents tend to overprotect their children (\"helicopter parents\").\nIt is natural and it often helps them to feel well; but as soon as your daughter or your",
+    "source_id": "pdf:a74238ee30f57428:chunk:13",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:21.321947+00:00",
+    "source_text_sha256": "3d3f68697d14ae7e7c8eeafd2f9dbc75c3d04f53b662caa25ad03bb87e51eaf2"
+  }
+}

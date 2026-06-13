@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "ce6b36d570a25025073ee3c41c57774d112ea599fd97f58d0a3cd3db51ca5491",
+  "translated_at": "2026-06-10T20:38:34.132462+00:00",
+  "model": "gpt-5-mini",
+  "text": "m\n>\n<\nLu\nœ\n>\n>\n\nLIVING WITH\n\nLIVING WITH YOUR IBD,\n\nBEFORE LEAVING :\n\n= you must be up to date with DT Polio vaccinations ;\n\næ if you are on anti-TNF therapy, the pneumococcal vaccine is recommended: Prevenar 13 then Pneurmo 23 with an 8‑week interval ;\n\nfor the yellow fever vaccine :\n- it is contraindicated if you are taking an anti-TNF treatment, an immunosuppressant (such as Imurel or others), or corticosteroids at more than 20 mg/day\n- if the vaccine is essential you must stop the treatment 3 months before the vaccine until 3 weeks after ;\n\nfor malaria: you should take the same treatments as people who do not have health problems. The treatment depends on the country or even the region of destination; you should get information from travel advice services, which generally exist in university hospitals (CHU).\n\n#04\n\nIBD AND TRAVEL\n\nEveryone dreams of distant horizons synonymous with discovery and holidays...\nThis fact sheet offers you an exhaustive list - \"to do list\" - aimed at giving yourself every means to \"keep a good distance from your IBD\" during your stay abroad.",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:0:en",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "m\n>\n<\nLu\nœ\n>\n>\n\nLIVING WITH\n\nLIVING WITH YOUR IBD,\n\nBEFORE LEAVING :\n\n= you must be up to date with DT Polio vaccinations ;\n\næ if you are on anti-TNF therapy, the pneumococcal vaccine is recommended: Prevenar 13 then Pneurmo 23 with an 8‑week interval ;\n\nfor the yellow fever vaccine :\n- it is contraindicated if you are taking an anti-TNF treatment, an immunosuppressant (such as Imurel or others), or corticosteroids at more than 20 mg/day\n- if the vaccine is essential you must stop the treatment 3 months before the vaccine until 3 weeks after ;\n\nfor malaria: you should take the same treatments as people who do not have health problems. The treatment depends on the country or even the region of destination; you should get information from travel advice services, which generally exist in university hospitals (CHU).\n\n#04\n\nIBD AND TRAVEL\n\nEveryone dreams of distant horizons synonymous with discovery and holidays...\nThis fact sheet offers you an exhaustive list - \"to do list\" - aimed at giving yourself every means to \"keep a good distance from your IBD\" during your stay abroad.",
+    "source_id": "image:bb811ee0ab1a696c:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:34.132462+00:00",
+    "source_text_sha256": "ce6b36d570a25025073ee3c41c57774d112ea599fd97f58d0a3cd3db51ca5491"
+  }
+}

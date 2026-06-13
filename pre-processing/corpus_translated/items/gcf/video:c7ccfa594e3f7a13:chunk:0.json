@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:c7ccfa594e3f7a13:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "f5c5687ef1bd8bf3f8eac51e903b4730548989422542688529ccea16cab39046",
+  "translated_at": "2026-06-10T21:16:55.459527+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ki sa EP yé ? ETP sé édikasyon terapetik pasyan an. Biéyé lédikasyon terapetik sé pou fè pasyan yo pa pèd kontwòl anlè maladi yo é lavi kotidyen yo, pou yo aprann viv byen épi maladi a. Sé pou ba yo tout zouti pou lavi a vin pli fasil, pli flid, pou yo konprann maladi yo, konn kiyès ki moun ki ka édé yo, konprann kijan pou antisipe pousé, kijan pou réaji lè gen pousé, pou bagay yo pa traîn, é kijan pou yo di bagay yo an fasil. Alò lédikasyon terapetik sé pou rédoné pouvwa a pasyan an, pa jis ordonans ki ka desann an vèrtikal. Sé vréman pasyan an ki an sant priz an chaj la.",
+  "row": {
+    "id": "video:c7ccfa594e3f7a13:chunk:0:gcf",
+    "document_id": "video:c7ccfa594e3f7a13",
+    "chunk_index": 0,
+    "source_file": "59a731b635a4d1d50bae17ea8260146731e72988.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/59a731b635a4d1d50bae17ea8260146731e72988.mp4",
+    "text_path": "corpus/texts/videos/59a731b635a4d1d50bae17ea8260146731e72988.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ki sa EP yé ? ETP sé édikasyon terapetik pasyan an. Biéyé lédikasyon terapetik sé pou fè pasyan yo pa pèd kontwòl anlè maladi yo é lavi kotidyen yo, pou yo aprann viv byen épi maladi a. Sé pou ba yo tout zouti pou lavi a vin pli fasil, pli flid, pou yo konprann maladi yo, konn kiyès ki moun ki ka édé yo, konprann kijan pou antisipe pousé, kijan pou réaji lè gen pousé, pou bagay yo pa traîn, é kijan pou yo di bagay yo an fasil. Alò lédikasyon terapetik sé pou rédoné pouvwa a pasyan an, pa jis ordonans ki ka desann an vèrtikal. Sé vréman pasyan an ki an sant priz an chaj la.",
+    "source_id": "video:c7ccfa594e3f7a13:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:55.459527+00:00",
+    "source_text_sha256": "f5c5687ef1bd8bf3f8eac51e903b4730548989422542688529ccea16cab39046"
+  }
+}

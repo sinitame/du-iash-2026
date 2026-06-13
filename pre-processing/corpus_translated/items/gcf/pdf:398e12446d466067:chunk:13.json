@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:13",
+  "target_language": "gcf",
+  "source_text_sha256": "2a9b3a04d892e13038a9776665f969645db940c5d69c27e5794b76b2c20923d0",
+  "translated_at": "2026-06-10T20:52:20.747959+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\n180\nByoloji\nBilan biyolojik inisyèl la dwèt enkli on NFS konplè, omwen dé makè enflamatwa asou san an, osi byen épi albumin, transaminaz é gamma‑GT. Donné ki sòti an rejis pédiatrik MICI yo montré ki an moman dyagnostik, 54 % timoun ki ni RCH lejé é 21 % timoun ki ni MC lejé ni rezilta nòmal pou valè emoglobin, albumin, CRP é VS (35). ASCA é p‑ANCA gen on bon spécifikité adan timoun (85 a 95 % daprè zétid) mè yo gen on sensibilité ba (20 a 60 %) (36). Yo pa fè yo systématikman an rutin. Kalprotektin fésal pli fò ki nenpòt lòt makè san pou dékté enflamasyon entestinal. On méta‑analiz asou 8 zétid pédiatrik montré on sensibilité ekselan (98 %) pou dozaj kalprotektin fésal pou dyagnostik MICI é on spécifikité pli modès (68 %) (37). Nòm adilt‑la pé sèvi koté timoun ki plis ki 4 an. On taux kalprotektin fésal pli wo ki 250 μg/g de sél koté on timoun ki swiv pou on MICI sé on fò agiman an favè on enflamatio",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:13:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 13,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 4 ---\n180\nByoloji\nBilan biyolojik inisyèl la dwèt enkli on NFS konplè, omwen dé makè enflamatwa asou san an, osi byen épi albumin, transaminaz é gamma‑GT. Donné ki sòti an rejis pédiatrik MICI yo montré ki an moman dyagnostik, 54 % timoun ki ni RCH lejé é 21 % timoun ki ni MC lejé ni rezilta nòmal pou valè emoglobin, albumin, CRP é VS (35). ASCA é p‑ANCA gen on bon spécifikité adan timoun (85 a 95 % daprè zétid) mè yo gen on sensibilité ba (20 a 60 %) (36). Yo pa fè yo systématikman an rutin. Kalprotektin fésal pli fò ki nenpòt lòt makè san pou dékté enflamasyon entestinal. On méta‑analiz asou 8 zétid pédiatrik montré on sensibilité ekselan (98 %) pou dozaj kalprotektin fésal pou dyagnostik MICI é on spécifikité pli modès (68 %) (37). Nòm adilt‑la pé sèvi koté timoun ki plis ki 4 an. On taux kalprotektin fésal pli wo ki 250 μg/g de sél koté on timoun ki swiv pou on MICI sé on fò agiman an favè on enflamatio",
+    "source_id": "pdf:398e12446d466067:chunk:13",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:20.747959+00:00",
+    "source_text_sha256": "2a9b3a04d892e13038a9776665f969645db940c5d69c27e5794b76b2c20923d0"
+  }
+}

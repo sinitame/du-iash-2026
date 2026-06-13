@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:8",
+  "target_language": "gcf",
+  "source_text_sha256": "bf07bf81b0f21342088707600b0408f95493e03bd2030d0205f2199122067711",
+  "translated_at": "2026-06-10T21:16:02.867092+00:00",
+  "model": "gpt-5-mini",
+  "text": "É, pétièt dé poul. An nou alé. Man pa ni tout bel pawòl pou di. Pou sa, mwen ké pwopoze kounyé-a on egzèsis, ankò menm jan. Ou ké trankilman lévé janm yo an orizontal, ou ké kontrakté. Dives sansasyon ké parèt. É si ou pé, ou ké eséyé rapoté on ti kras pye-w vè ou. Ou ké mété dèyè a pli byen pou pran an plas, pran on ti sipò, é lè ou fè sa, fè-y pli dous posib. Ou ké repoze pye-w. Épi ou kouché asou tè a, fwa-sa nou ké éveyé konsyans tout kò a, tout sa ki dékontré—pran tan. Pétièt ou ké santi plis bagay anba pye-w, anba janm-w, pétièt on pi bon konsyans pati kò-w. Pou sòti é rapoté, sé sa mwen envité-w fè kounyé-a trankilman. Ou ké inspiré, ou ké relaché. Eseye lévé bra-w vètikalman é lévé janm yo an orizontal. É ou ké inspiré é fè sa pli dous posib. Ou ké inspiré, ou ké kontrakté tout zòn kò-w: figi-w, kou-w, bra-w, kès la. Lè sa, lage tout, fè vant la vin pli dous, dékontrakte tansyon an. Pa fè sa twò vit, fè-y dousman. Sé men yo...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:8:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 8,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "É, pétièt dé poul. An nou alé. Man pa ni tout bel pawòl pou di. Pou sa, mwen ké pwopoze kounyé-a on egzèsis, ankò menm jan. Ou ké trankilman lévé janm yo an orizontal, ou ké kontrakté. Dives sansasyon ké parèt. É si ou pé, ou ké eséyé rapoté on ti kras pye-w vè ou. Ou ké mété dèyè a pli byen pou pran an plas, pran on ti sipò, é lè ou fè sa, fè-y pli dous posib. Ou ké repoze pye-w. Épi ou kouché asou tè a, fwa-sa nou ké éveyé konsyans tout kò a, tout sa ki dékontré—pran tan. Pétièt ou ké santi plis bagay anba pye-w, anba janm-w, pétièt on pi bon konsyans pati kò-w. Pou sòti é rapoté, sé sa mwen envité-w fè kounyé-a trankilman. Ou ké inspiré, ou ké relaché. Eseye lévé bra-w vètikalman é lévé janm yo an orizontal. É ou ké inspiré é fè sa pli dous posib. Ou ké inspiré, ou ké kontrakté tout zòn kò-w: figi-w, kou-w, bra-w, kès la. Lè sa, lage tout, fè vant la vin pli dous, dékontrakte tansyon an. Pa fè sa twò vit, fè-y dousman. Sé men yo...",
+    "source_id": "video:05807ec7742bc2af:chunk:8",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:02.867092+00:00",
+    "source_text_sha256": "bf07bf81b0f21342088707600b0408f95493e03bd2030d0205f2199122067711"
+  }
+}

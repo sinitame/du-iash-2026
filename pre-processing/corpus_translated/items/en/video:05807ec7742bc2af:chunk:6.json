@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:6",
+  "target_language": "en",
+  "source_text_sha256": "48e84bd17b16d9e95169a0e32ffe13aa969164b27766177ce470a66b0dfcfea4",
+  "translated_at": "2026-06-10T20:45:31.259740+00:00",
+  "model": "gpt-5-mini",
+  "text": "In this position, you will contract the muscles of your neck and nape. Without lifting your shoulders if possible. A very gentle, very calm build, and at your own pace when you feel like it, you can very slowly also exhale and gently bring your head back onto your shoulders. And you quietly observe the sensations. And when you feel like it, you release the contraction. Relax calmly.\n\nAnd then, we’ll continue — this time we’re on the thorax. You can calmly inhale through your nose. Bring your elbows to each side of your ribcage. Close your fists. And on an inhale, pull your shoulders back. And you will contract, as gently as possible, the upper part of your back, your chest, then the upper back. And you will stay like that for a short time, very gently, calmly. And on the exhale, you can breathe out and slowly bring your shoulders and your hands back. And you may notice new sensations in this area.\n\nThen now, very gently, very calmly, you can lower down. Roll down your back. And p",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:6:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 6,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "In this position, you will contract the muscles of your neck and nape. Without lifting your shoulders if possible. A very gentle, very calm build, and at your own pace when you feel like it, you can very slowly also exhale and gently bring your head back onto your shoulders. And you quietly observe the sensations. And when you feel like it, you release the contraction. Relax calmly.\n\nAnd then, we’ll continue — this time we’re on the thorax. You can calmly inhale through your nose. Bring your elbows to each side of your ribcage. Close your fists. And on an inhale, pull your shoulders back. And you will contract, as gently as possible, the upper part of your back, your chest, then the upper back. And you will stay like that for a short time, very gently, calmly. And on the exhale, you can breathe out and slowly bring your shoulders and your hands back. And you may notice new sensations in this area.\n\nThen now, very gently, very calmly, you can lower down. Roll down your back. And p",
+    "source_id": "video:05807ec7742bc2af:chunk:6",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:31.259740+00:00",
+    "source_text_sha256": "48e84bd17b16d9e95169a0e32ffe13aa969164b27766177ce470a66b0dfcfea4"
+  }
+}

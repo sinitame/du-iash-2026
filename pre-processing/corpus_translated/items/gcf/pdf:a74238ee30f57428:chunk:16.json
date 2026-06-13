@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:16",
+  "target_language": "gcf",
+  "source_text_sha256": "c7ad179035549a223b0003e5e30220da6e1de9642bc712f956d864b82cc695a4",
+  "translated_at": "2026-06-10T21:10:09.806238+00:00",
+  "model": "gpt-5-mini",
+  "text": "Savé koté twalet yo, enfirmri-a é menné si bizwen rad pou chanjé.\nES MWÉ DWÈT PRÉVNI PROFÉSÈ YO É KAMARAD LI ?\nSé pitit-w ki dwèt désidé. Kon maladi-a difisil pou espliké é timanmay ka pafwa krwèl an yo, pitit-w pé vwè pou pwotéjé tèt li pa pa di nèt. Respété chwa-y.\nNatirèlman, si ospitalizasyons oswa absans yo souvan, fòk ou avizé profésè yo osinon direktè yo. Fô yo osi pèmèt pitit-w sòti klas an mitan on kous lè i bizwen, oswa pòté kous-y ba li lè i manké anpil.\nKI RIZIK POU LÒT PITIT-M GEN MÈM MALADI A ?\nI posib, menm si pa souvan, on manm fanmi pé ni menm maladi-a. Etid ka montré ki anviwòn 15 a 20% malad ni an paran adan fanmi ki atenké MICI. Menm si nou sav jòdi a ki ni faktè jénétiq ki pafwa éredité adan maladi-sa yo, sa pa ase, é gen faktè anvironnman ki endispansab mè yo poko idantifié pou lannant; an kounyé-a i enposib prédi kilès ki pé ni li, é kon",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:16:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 16,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Savé koté twalet yo, enfirmri-a é menné si bizwen rad pou chanjé.\nES MWÉ DWÈT PRÉVNI PROFÉSÈ YO É KAMARAD LI ?\nSé pitit-w ki dwèt désidé. Kon maladi-a difisil pou espliké é timanmay ka pafwa krwèl an yo, pitit-w pé vwè pou pwotéjé tèt li pa pa di nèt. Respété chwa-y.\nNatirèlman, si ospitalizasyons oswa absans yo souvan, fòk ou avizé profésè yo osinon direktè yo. Fô yo osi pèmèt pitit-w sòti klas an mitan on kous lè i bizwen, oswa pòté kous-y ba li lè i manké anpil.\nKI RIZIK POU LÒT PITIT-M GEN MÈM MALADI A ?\nI posib, menm si pa souvan, on manm fanmi pé ni menm maladi-a. Etid ka montré ki anviwòn 15 a 20% malad ni an paran adan fanmi ki atenké MICI. Menm si nou sav jòdi a ki ni faktè jénétiq ki pafwa éredité adan maladi-sa yo, sa pa ase, é gen faktè anvironnman ki endispansab mè yo poko idantifié pou lannant; an kounyé-a i enposib prédi kilès ki pé ni li, é kon",
+    "source_id": "pdf:a74238ee30f57428:chunk:16",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:09.806238+00:00",
+    "source_text_sha256": "c7ad179035549a223b0003e5e30220da6e1de9642bc712f956d864b82cc695a4"
+  }
+}

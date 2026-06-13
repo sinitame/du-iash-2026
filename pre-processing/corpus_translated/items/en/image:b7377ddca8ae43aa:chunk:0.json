@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "c0a1c369775ecb57b605b2dc0e06a776651ffa1bbc0c08d55849a2f3f7bc7f6b",
+  "translated_at": "2026-06-10T20:39:00.164698+00:00",
+  "model": "gpt-5-mini",
+  "text": "| FACT SHEET\n\n_ #\nRIGHTS AND INSURANCE 05\n\nAT WORK\n\nTO TALK ABOUT IT OR NOT?\n\nIn a context where work is becoming both harder to obtain and more demanding, the question of mentioning one’s IBD remains a delicate subject. The majority of patients prefer not to talk about it, to be seen as \"normal\". But that is to deprive oneself of a source of support that can be valuable psychologically, and of course not to benefit from specific measures for access to employment and training or from workplace accommodations.\nIn any case, this remains an individual decision, which depends on the course of the disease and the constraints it imposes, on the perceived ability of your professional circle to accept this information and, finally, to draw positive consequences from it for you.\nIf you decide to talk about it, you need to be prepared: whom to tell, how, what\n\nu\nui\nO\nZ\n<\nœ\nD\nu\nu\n<\n+\nui\nu\nH\n©\nœ\na\n\nexplanations and which details to give or not, which words to use...\n\nAM I REQUIRED TO TALK ABOUT MY ILLNESS AT WORK?",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:0:en",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 0,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "| FACT SHEET\n\n_ #\nRIGHTS AND INSURANCE 05\n\nAT WORK\n\nTO TALK ABOUT IT OR NOT?\n\nIn a context where work is becoming both harder to obtain and more demanding, the question of mentioning one’s IBD remains a delicate subject. The majority of patients prefer not to talk about it, to be seen as \"normal\". But that is to deprive oneself of a source of support that can be valuable psychologically, and of course not to benefit from specific measures for access to employment and training or from workplace accommodations.\nIn any case, this remains an individual decision, which depends on the course of the disease and the constraints it imposes, on the perceived ability of your professional circle to accept this information and, finally, to draw positive consequences from it for you.\nIf you decide to talk about it, you need to be prepared: whom to tell, how, what\n\nu\nui\nO\nZ\n<\nœ\nD\nu\nu\n<\n+\nui\nu\nH\n©\nœ\na\n\nexplanations and which details to give or not, which words to use...\n\nAM I REQUIRED TO TALK ABOUT MY ILLNESS AT WORK?",
+    "source_id": "image:b7377ddca8ae43aa:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:00.164698+00:00",
+    "source_text_sha256": "c0a1c369775ecb57b605b2dc0e06a776651ffa1bbc0c08d55849a2f3f7bc7f6b"
+  }
+}

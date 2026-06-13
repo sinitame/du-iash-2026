@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:53",
+  "target_language": "gcf",
+  "source_text_sha256": "bb847016018e6f565472f4bba8a6198f24ab4e129ba7abfccec8f842f9d08cb5",
+  "translated_at": "2026-06-10T20:54:27.602816+00:00",
+  "model": "gpt-5-mini",
+  "text": "misyon \nkonplèt.\nPasé a 5-ASA pé konsidéré adan\nsèten ka, si 5-ASA pa té échwé avan é apré\non périòd rémission pwofond ki soutni.\nKòmantè : Tretman medikal pou RCH-la bizwen divizé ant sé sa ki ka indwi on rémission (5-ASA, kortikoyid, \ntretman anti-TNF, inhibitè kalkinèrin é, probablman, probiotik) é sé sa ki ka mentni rémission (5-ASA, \nthiopurines, tretman anti-TNF, vedolizumab é kèk probiotik).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:53:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 53,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "misyon \nkonplèt.\nPasé a 5-ASA pé konsidéré adan\nsèten ka, si 5-ASA pa té échwé avan é apré\non périòd rémission pwofond ki soutni.\nKòmantè : Tretman medikal pou RCH-la bizwen divizé ant sé sa ki ka indwi on rémission (5-ASA, kortikoyid, \ntretman anti-TNF, inhibitè kalkinèrin é, probablman, probiotik) é sé sa ki ka mentni rémission (5-ASA, \nthiopurines, tretman anti-TNF, vedolizumab é kèk probiotik).",
+    "source_id": "pdf:398e12446d466067:chunk:53",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:27.602816+00:00",
+    "source_text_sha256": "bb847016018e6f565472f4bba8a6198f24ab4e129ba7abfccec8f842f9d08cb5"
+  }
+}

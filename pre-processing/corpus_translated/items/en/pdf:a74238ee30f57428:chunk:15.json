@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:15",
+  "target_language": "en",
+  "source_text_sha256": "bf502b54671efcfe5184b1c80349e6b499921c808f593fbd3f5221a5da184f61",
+  "translated_at": "2026-06-10T20:43:25.305462+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 5 ---\nAFA - 32 rue de cambrai 75019 Paris - Tel: 01 42 00 00 40\ne-mail: info-accueil@afa.asso.fr - website: www.afa.asso.fr\nV I V R E  A V E C\nCAN THEY DO SPORTS OR ATTEND SCHOOL NORMALLY?\nChildren can do what they want and are able to undertake, except if, during a flare-up, the activity causes significant fatigue (competition), worsens digestive symptoms or joint pain. Sometimes the sports program must be adapted to the child’s condition. Children quickly learn to tolerate a certain level of pain or discomfort and live with it. They also know when it becomes unbearable.\nYou can give them the responsibility of deciding whether they are able to go to class. Forcing a child to go to class, or conversely to stay in bed, is not a solution and leads to conflicts. They should also be encouraged to find practical solutions to school problems: know where the toilets and the school nurse are, and bring spare clothes if needed.\nSHOULD I INFORM HIS/HER TEACHERS AND CLASSMATES?\nIt is up to your child to decide. As this disease is",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:15:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 15,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 5 ---\nAFA - 32 rue de cambrai 75019 Paris - Tel: 01 42 00 00 40\ne-mail: info-accueil@afa.asso.fr - website: www.afa.asso.fr\nV I V R E  A V E C\nCAN THEY DO SPORTS OR ATTEND SCHOOL NORMALLY?\nChildren can do what they want and are able to undertake, except if, during a flare-up, the activity causes significant fatigue (competition), worsens digestive symptoms or joint pain. Sometimes the sports program must be adapted to the child’s condition. Children quickly learn to tolerate a certain level of pain or discomfort and live with it. They also know when it becomes unbearable.\nYou can give them the responsibility of deciding whether they are able to go to class. Forcing a child to go to class, or conversely to stay in bed, is not a solution and leads to conflicts. They should also be encouraged to find practical solutions to school problems: know where the toilets and the school nurse are, and bring spare clothes if needed.\nSHOULD I INFORM HIS/HER TEACHERS AND CLASSMATES?\nIt is up to your child to decide. As this disease is",
+    "source_id": "pdf:a74238ee30f57428:chunk:15",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:25.305462+00:00",
+    "source_text_sha256": "bf502b54671efcfe5184b1c80349e6b499921c808f593fbd3f5221a5da184f61"
+  }
+}

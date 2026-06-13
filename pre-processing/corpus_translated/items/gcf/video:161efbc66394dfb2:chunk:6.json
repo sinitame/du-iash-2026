@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "0025c26defc6ad97688da37cccd03ca5ed261b34619c542667e20f7f4d1cda15",
+  "translated_at": "2026-06-10T21:21:26.199772+00:00",
+  "model": "gpt-5-mini",
+  "text": "Fè ponj-w anvan. Apre sa, fè ponj-w dèyè. Ou ké bloké respirasyon-w. É lè ou anvi, ou ké mété kolè-a an distans. Voye ponj-la pli lwen devan posib. Ah, i vit. Apre sa, ou rété vini, ou relaché dousman. Bravo pou akeyi sansasyon yo. Souf, ri, bawyé, rilaksasyon. Ou ka wè sa k ka pasé. Petyèt lépòl ou ka rèsté sere, bra-w, men-w, dwèt-w. Ou santi rilaksasyon-an. Nou ké pratike sa dé fwa ankò.\n\nAnkò, ou ké inspiré. Ou ké monte bra-w, fèmé ponj-w. Ou bloké respirasyon-w, ou ké fè mouvman an dèyè èvè entansyon pou mété kolè-a an distans. Ou bloké respirasyon-w. É lè ou anvi fwa sa, nou ké vwayé ponj-la pli dousman posib an devan. Tou sa akonpannyé pa respirasyon an. Ou souflé, souflé, souflé, souflé, souflé. Ou relaché pli dousman posib. É ou repoze. É mwen di, sé tousa, épi souf, bawyé, rilaksasyon.\n\nÉ pou twazyèm é dènye fwa, mwen mété-w a ritm-w, fè jan ou préfé. Fò i vit ouswa plis dous. Ankò, mwen pwopoze...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:6:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 6,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Fè ponj-w anvan. Apre sa, fè ponj-w dèyè. Ou ké bloké respirasyon-w. É lè ou anvi, ou ké mété kolè-a an distans. Voye ponj-la pli lwen devan posib. Ah, i vit. Apre sa, ou rété vini, ou relaché dousman. Bravo pou akeyi sansasyon yo. Souf, ri, bawyé, rilaksasyon. Ou ka wè sa k ka pasé. Petyèt lépòl ou ka rèsté sere, bra-w, men-w, dwèt-w. Ou santi rilaksasyon-an. Nou ké pratike sa dé fwa ankò.\n\nAnkò, ou ké inspiré. Ou ké monte bra-w, fèmé ponj-w. Ou bloké respirasyon-w, ou ké fè mouvman an dèyè èvè entansyon pou mété kolè-a an distans. Ou bloké respirasyon-w. É lè ou anvi fwa sa, nou ké vwayé ponj-la pli dousman posib an devan. Tou sa akonpannyé pa respirasyon an. Ou souflé, souflé, souflé, souflé, souflé. Ou relaché pli dousman posib. É ou repoze. É mwen di, sé tousa, épi souf, bawyé, rilaksasyon.\n\nÉ pou twazyèm é dènye fwa, mwen mété-w a ritm-w, fè jan ou préfé. Fò i vit ouswa plis dous. Ankò, mwen pwopoze...",
+    "source_id": "video:161efbc66394dfb2:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:26.199772+00:00",
+    "source_text_sha256": "0025c26defc6ad97688da37cccd03ca5ed261b34619c542667e20f7f4d1cda15"
+  }
+}

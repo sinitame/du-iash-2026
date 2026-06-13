@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "78f170465bb87f92bcb3268a56d694d62cde5686079cde13c923e12acc771ffd",
+  "translated_at": "2026-06-10T20:44:28.762441+00:00",
+  "model": "gpt-5-mini",
+  "text": "contact directly with your class. This arrangement is called TED-I. And your parents will find all the information on the site education.gov.fr. From the age of 16, you can apply for an RQTH, that is, recognition of the status of a disabled worker. It's a real help if you go on to higher education, if you are looking for an internship or a work-study placement in a company. And later, when you look for a job. This allows, for example, adaptations to make your life easier, or easier access to training and jobs. To benefit from these Z, it is important to talk about it with your parents, your teachers and your doctor. Many students benefit each year from these measures, which allow them to have schooling that is as normal as possible. And the same chances of succeeding as their classmates. I can do sport; as for all teens, sport is good to help you center yourself. And you can follow classes without problem. You must, however, take certain precautions. For example, you must stop doing sport during a flare-up. And above all, never push yourself when you feel tired. You are not se",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:4:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 4,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "contact directly with your class. This arrangement is called TED-I. And your parents will find all the information on the site education.gov.fr. From the age of 16, you can apply for an RQTH, that is, recognition of the status of a disabled worker. It's a real help if you go on to higher education, if you are looking for an internship or a work-study placement in a company. And later, when you look for a job. This allows, for example, adaptations to make your life easier, or easier access to training and jobs. To benefit from these Z, it is important to talk about it with your parents, your teachers and your doctor. Many students benefit each year from these measures, which allow them to have schooling that is as normal as possible. And the same chances of succeeding as their classmates. I can do sport; as for all teens, sport is good to help you center yourself. And you can follow classes without problem. You must, however, take certain precautions. For example, you must stop doing sport during a flare-up. And above all, never push yourself when you feel tired. You are not se",
+    "source_id": "video:ceebd17c1f9860a9:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:28.762441+00:00",
+    "source_text_sha256": "78f170465bb87f92bcb3268a56d694d62cde5686079cde13c923e12acc771ffd"
+  }
+}

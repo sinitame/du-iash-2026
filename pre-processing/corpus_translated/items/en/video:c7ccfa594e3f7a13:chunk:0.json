@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:c7ccfa594e3f7a13:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "f5c5687ef1bd8bf3f8eac51e903b4730548989422542688529ccea16cab39046",
+  "translated_at": "2026-06-10T20:46:03.155535+00:00",
+  "model": "gpt-5-mini",
+  "text": "What is ETP? ETP is therapeutic patient education. The aim of therapeutic education is to make sure that patients are not at a loss about their illness and their daily life, and that they learn to live well with their condition. It is therefore about giving them all the tools so that life is easier and smoother: that they understand their disease, that they know who the resource persons are, that they understand how to anticipate flare-ups, how to react in case of flare-ups so it doesn't drag on, and how to express things easily. So therapeutic education is actually about giving power back to the patient, and not having prescriptions simply handed down in a top-down way. The patient is truly at the center of care.",
+  "row": {
+    "id": "video:c7ccfa594e3f7a13:chunk:0:en",
+    "document_id": "video:c7ccfa594e3f7a13",
+    "chunk_index": 0,
+    "source_file": "59a731b635a4d1d50bae17ea8260146731e72988.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/59a731b635a4d1d50bae17ea8260146731e72988.mp4",
+    "text_path": "corpus/texts/videos/59a731b635a4d1d50bae17ea8260146731e72988.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "What is ETP? ETP is therapeutic patient education. The aim of therapeutic education is to make sure that patients are not at a loss about their illness and their daily life, and that they learn to live well with their condition. It is therefore about giving them all the tools so that life is easier and smoother: that they understand their disease, that they know who the resource persons are, that they understand how to anticipate flare-ups, how to react in case of flare-ups so it doesn't drag on, and how to express things easily. So therapeutic education is actually about giving power back to the patient, and not having prescriptions simply handed down in a top-down way. The patient is truly at the center of care.",
+    "source_id": "video:c7ccfa594e3f7a13:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:03.155535+00:00",
+    "source_text_sha256": "f5c5687ef1bd8bf3f8eac51e903b4730548989422542688529ccea16cab39046"
+  }
+}

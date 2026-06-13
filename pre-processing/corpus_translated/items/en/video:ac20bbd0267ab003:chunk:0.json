@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ac20bbd0267ab003:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "296310266f55b878891242d106e8772bff6b541bdebe88ddcfaa06c4d9f82b6a",
+  "translated_at": "2026-06-10T20:45:58.915200+00:00",
+  "model": "gpt-5-mini",
+  "text": "What are fibers? Fibers are super important. They are found in vegetables and fruits. And actually they are not digested. They pass straight into the intestine. And that allows the gut microbiota to use them, since it can digest them. And that will give richness to the microbiota. And that's why it's so important to eat fruits and vegetables to restore this richness of the microbiota. And that diet is also very important, and that it can help play an anti-inflammatory role.",
+  "row": {
+    "id": "video:ac20bbd0267ab003:chunk:0:en",
+    "document_id": "video:ac20bbd0267ab003",
+    "chunk_index": 0,
+    "source_file": "66ad31d2867fa9598a2e1523ddb74530a05aef4e.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/66ad31d2867fa9598a2e1523ddb74530a05aef4e.mp4",
+    "text_path": "corpus/texts/videos/66ad31d2867fa9598a2e1523ddb74530a05aef4e.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "What are fibers? Fibers are super important. They are found in vegetables and fruits. And actually they are not digested. They pass straight into the intestine. And that allows the gut microbiota to use them, since it can digest them. And that will give richness to the microbiota. And that's why it's so important to eat fruits and vegetables to restore this richness of the microbiota. And that diet is also very important, and that it can help play an anti-inflammatory role.",
+    "source_id": "video:ac20bbd0267ab003:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:58.915200+00:00",
+    "source_text_sha256": "296310266f55b878891242d106e8772bff6b541bdebe88ddcfaa06c4d9f82b6a"
+  }
+}

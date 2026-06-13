@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:11",
+  "target_language": "en",
+  "source_text_sha256": "8698c8836ef28ff56ee0cabfcd21950c60ad16ec48736bbe411d357e053da15b",
+  "translated_at": "2026-06-10T20:46:01.017115+00:00",
+  "model": "gpt-5-mini",
+  "text": "1, third and last time. I offer it to you again. You are going to inhale over four counts. You close your nose. One, two, three, four. And then, three, and I let go. We find predition there. One, two, three, I let go. And you exhale slowly through the mouth. You will be able to have two, two, three, four. Be quick. These are two, three, four. And then, we can clearly see that you have exhaled. And then, we can clearly see that you have exhaled. You calmly welcome sensations. In my tal which is called. Your body relaxing. And you warmly welcome the gloccal. Oh, how it is. Trunk and its analysis. And its judgment. And then, the peach, it has another one again. And then, it touches, it has another not.",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:11:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 11,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "1, third and last time. I offer it to you again. You are going to inhale over four counts. You close your nose. One, two, three, four. And then, three, and I let go. We find predition there. One, two, three, I let go. And you exhale slowly through the mouth. You will be able to have two, two, three, four. Be quick. These are two, three, four. And then, we can clearly see that you have exhaled. And then, we can clearly see that you have exhaled. You calmly welcome sensations. In my tal which is called. Your body relaxing. And you warmly welcome the gloccal. Oh, how it is. Trunk and its analysis. And its judgment. And then, the peach, it has another one again. And then, it touches, it has another not.",
+    "source_id": "video:05807ec7742bc2af:chunk:11",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:01.017115+00:00",
+    "source_text_sha256": "8698c8836ef28ff56ee0cabfcd21950c60ad16ec48736bbe411d357e053da15b"
+  }
+}

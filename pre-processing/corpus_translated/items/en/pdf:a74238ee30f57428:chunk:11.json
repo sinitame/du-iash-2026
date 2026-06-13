@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:11",
+  "target_language": "en",
+  "source_text_sha256": "a20aa26b2c8d0ff979251f50905bd2bb3eac115b23d511b9804cd32b684adf46",
+  "translated_at": "2026-06-10T20:43:10.225402+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\nL I V I N G  W I T H\nWHAT TO SAY OR NOT SAY TO MY CHILD?\nAs with sex education, a child hears what their maturity allows them to hear. The child will let you know. Do not shy away and encourage them to ask questions. The pediatrician will care for them better if they can have a dialogue with the child. Many children participate better once they have understood. A little girl told her mother that she had accepted being operated on without fear because she had been able to talk about it openly and understand what was going to happen.\nOlder children and adolescents have the right to know about this condition that affects their bodies and changes them. Conversely, it is not useful to explain all the possible complications of the disease to a young child.\nWHAT TO DO IF MY CHILD IS TOO SICK TO EAT?\nWhen a child is too sick to eat, they can receive all the necessary nutrients by an infusion into a large vein. This is called parenteral nutrition (PN), exclusive parenteral nutrition (EPN) when they take nothing by mouth.\nA supplement can also be given through the veins in addition to a normal diet. PN",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:11:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 11,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 4 ---\nL I V I N G  W I T H\nWHAT TO SAY OR NOT SAY TO MY CHILD?\nAs with sex education, a child hears what their maturity allows them to hear. The child will let you know. Do not shy away and encourage them to ask questions. The pediatrician will care for them better if they can have a dialogue with the child. Many children participate better once they have understood. A little girl told her mother that she had accepted being operated on without fear because she had been able to talk about it openly and understand what was going to happen.\nOlder children and adolescents have the right to know about this condition that affects their bodies and changes them. Conversely, it is not useful to explain all the possible complications of the disease to a young child.\nWHAT TO DO IF MY CHILD IS TOO SICK TO EAT?\nWhen a child is too sick to eat, they can receive all the necessary nutrients by an infusion into a large vein. This is called parenteral nutrition (PN), exclusive parenteral nutrition (EPN) when they take nothing by mouth.\nA supplement can also be given through the veins in addition to a normal diet. PN",
+    "source_id": "pdf:a74238ee30f57428:chunk:11",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:10.225402+00:00",
+    "source_text_sha256": "a20aa26b2c8d0ff979251f50905bd2bb3eac115b23d511b9804cd32b684adf46"
+  }
+}

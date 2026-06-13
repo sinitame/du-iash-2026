@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "e747eae455ddb6278944aaad3992c1e8f9a85d51dac7c9b5c8cc00816d13fa39",
+  "translated_at": "2026-06-10T20:50:25.128935+00:00",
+  "model": "gpt-5-mini",
+  "text": "OSWA\n>\n<\nmn\nœ\n>\n>\n\nVIV ÉPI\n\nVIV ÉPI\n\n€ SA MICI,\n\nPRÉPARÉ HOSPITALIZASYON OU\n\nAnvan menm ou ranté an lopital, i itil pou konn byen dwa ou é dévoir ou, jan yo ka pran an chaj, espesyalman pou frè otelyé, bagay pou pa bliyé pou prézèvé byennèt ou …\n\n1/ Préparé absans ou adomisil\n\nOu ka viv an fanmi osinon sèl, absans on pé jou bizwen préparé, espesyalman avè pwòch ou épi anplwayé a si fo. An fanmi, gad timoun yo bizwen préparé pou asiré yo kontinyé viv on fason ki adan abitid yo pli byen posib. Pwofesyonèl lasanté osinon sosyal yo pé édé, pa hésité palé avè yo asou tout sa. \n\nNou kons.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:0:gcf",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "OSWA\n>\n<\nmn\nœ\n>\n>\n\nVIV ÉPI\n\nVIV ÉPI\n\n€ SA MICI,\n\nPRÉPARÉ HOSPITALIZASYON OU\n\nAnvan menm ou ranté an lopital, i itil pou konn byen dwa ou é dévoir ou, jan yo ka pran an chaj, espesyalman pou frè otelyé, bagay pou pa bliyé pou prézèvé byennèt ou …\n\n1/ Préparé absans ou adomisil\n\nOu ka viv an fanmi osinon sèl, absans on pé jou bizwen préparé, espesyalman avè pwòch ou épi anplwayé a si fo. An fanmi, gad timoun yo bizwen préparé pou asiré yo kontinyé viv on fason ki adan abitid yo pli byen posib. Pwofesyonèl lasanté osinon sosyal yo pé édé, pa hésité palé avè yo asou tout sa. \n\nNou kons.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:25.128935+00:00",
+    "source_text_sha256": "e747eae455ddb6278944aaad3992c1e8f9a85d51dac7c9b5c8cc00816d13fa39"
+  }
+}

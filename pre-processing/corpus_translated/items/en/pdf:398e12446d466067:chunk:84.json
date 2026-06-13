@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:84",
+  "target_language": "en",
+  "source_text_sha256": "052c50911e6afbc818242454041751b19fac10f9e94aa956f02c306e89686406",
+  "translated_at": "2026-06-10T20:42:33.742683+00:00",
+  "model": "gpt-5-mini",
+  "text": "isease (VEDOKIDS): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116.\t \u0007Wlazlo M, Kierkus J. Dual biological therapy for the treatment of \npediatric inflammatory bowel disease: a review of the literature. \nJ Clin Med. 2022;11:2004.\n117.\t \u0007Yerushalmy-Feler A, Olbjorn C, Kolho KL, et al. Dual biologic or \nsmall molecule therapy in refractory pediatric inflammatory \nbowel disease (DOUBLE-PIBD): a multicenter study from the \nPediatric IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. \n2024;30:159-166.\n118.\t \u0007Runde J, Ryan K, Hirst J, et al. Upadacitinib is associated with \nclinical response and steroid-free remission for children and \nadolescents with inflammatory bowel disease. J Pediatr Gastro-\nenterol Nutr. 2025;80:133-140.\n119.\t \u0007Pasternak B, Patel A, Tran P, et al. Perioperative Management \nof Pediatric Crohn’s Disease. J Pediatr Gastroenterol Nutr. \n2023;76:137-141.\n120.\t \u0007Amil-Dias J, Kolacek S, Turner D, et al. Surgical management of \nCrohn disease in children: guidelines from the paediatric IBD \nPorto Group. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\t \u0007Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcer",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:84:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 84,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "isease (VEDOKIDS): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116.\t \u0007Wlazlo M, Kierkus J. Dual biological therapy for the treatment of \npediatric inflammatory bowel disease: a review of the literature. \nJ Clin Med. 2022;11:2004.\n117.\t \u0007Yerushalmy-Feler A, Olbjorn C, Kolho KL, et al. Dual biologic or \nsmall molecule therapy in refractory pediatric inflammatory \nbowel disease (DOUBLE-PIBD): a multicenter study from the \nPediatric IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. \n2024;30:159-166.\n118.\t \u0007Runde J, Ryan K, Hirst J, et al. Upadacitinib is associated with \nclinical response and steroid-free remission for children and \nadolescents with inflammatory bowel disease. J Pediatr Gastro-\nenterol Nutr. 2025;80:133-140.\n119.\t \u0007Pasternak B, Patel A, Tran P, et al. Perioperative Management \nof Pediatric Crohn’s Disease. J Pediatr Gastroenterol Nutr. \n2023;76:137-141.\n120.\t \u0007Amil-Dias J, Kolacek S, Turner D, et al. Surgical management of \nCrohn disease in children: guidelines from the paediatric IBD \nPorto Group. J Pediatr Gastroenterol Nutr. 2017;64: 818-835.\n121.\t \u0007Turner D, Ruemmele FM, Orlanski-Meyer E, et al. Management \nof paediatric ulcer",
+    "source_id": "pdf:398e12446d466067:chunk:84",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:33.742683+00:00",
+    "source_text_sha256": "052c50911e6afbc818242454041751b19fac10f9e94aa956f02c306e89686406"
+  }
+}

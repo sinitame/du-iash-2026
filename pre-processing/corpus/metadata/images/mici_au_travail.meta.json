@@ -1,0 +1,11 @@
+{
+  "id": "image:b7377ddca8ae43aa",
+  "status": "done",
+  "source_file": "mici_au_travail.png",
+  "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+  "text_path": "corpus/texts/images/mici_au_travail.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "b7377ddca8ae43aa0a8782728a9e71b16172105a2bc1105d95f6f592539bc7b3",
+  "created_at": "2026-06-10T16:25:53.244311+00:00"
+}

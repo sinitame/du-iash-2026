@@ -1,0 +1,11 @@
+{
+  "id": "image:02ce5191afb0549a",
+  "status": "done",
+  "source_file": "fatigue_depression.png",
+  "source_path": "/data/equipes/equipe-04/images/fatigue_depression.png",
+  "text_path": "corpus/texts/images/fatigue_depression.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "02ce5191afb0549a7e559e9387b737f32c7199d8b5e27651c07efad58e18d74a",
+  "created_at": "2026-06-10T16:25:06.529005+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:8",
+  "target_language": "en",
+  "source_text_sha256": "3ccaa75a2d251e7449381a840c91d1b1bc2ac0b8bb5295bb0d88180a46c7040b",
+  "translated_at": "2026-06-10T20:39:44.453781+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 3 ---\n179\nIBD\nThe use of antibiotics in the first years of life increases the risk of later developing Crohn's disease (18). A meta-analysis including 11 studies did not find evidence supporting a link between IBD and vaccinations, in particular the measles vaccine and BCG (19). The westernization of diets, notably in low- and middle-income countries, appears to contribute to the rising incidence of IBD, although observational studies are often limited by confounding factors. A large prospective European study found an association between red meat consumption and the risk of ulcerative colitis (HR 1.40) (20). Results regarding fat intake remain heterogeneous. In the EPIC study, higher consumption of animal fats was associated with an increased risk of UC (21). Conversely, increased consumption of omega-3 polyunsaturated fatty acids showed a protective effect against UC (22). A meta-analysis showed a protective association between vegetable consumption and the risk of UC (OR 0.71) (23).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:8:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 8,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 3 ---\n179\nIBD\nThe use of antibiotics in the first years of life increases the risk of later developing Crohn's disease (18). A meta-analysis including 11 studies did not find evidence supporting a link between IBD and vaccinations, in particular the measles vaccine and BCG (19). The westernization of diets, notably in low- and middle-income countries, appears to contribute to the rising incidence of IBD, although observational studies are often limited by confounding factors. A large prospective European study found an association between red meat consumption and the risk of ulcerative colitis (HR 1.40) (20). Results regarding fat intake remain heterogeneous. In the EPIC study, higher consumption of animal fats was associated with an increased risk of UC (21). Conversely, increased consumption of omega-3 polyunsaturated fatty acids showed a protective effect against UC (22). A meta-analysis showed a protective association between vegetable consumption and the risk of UC (OR 0.71) (23).",
+    "source_id": "pdf:398e12446d466067:chunk:8",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:44.453781+00:00",
+    "source_text_sha256": "3ccaa75a2d251e7449381a840c91d1b1bc2ac0b8bb5295bb0d88180a46c7040b"
+  }
+}

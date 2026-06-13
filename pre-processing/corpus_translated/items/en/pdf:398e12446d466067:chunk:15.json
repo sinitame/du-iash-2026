@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:15",
+  "target_language": "en",
+  "source_text_sha256": "7b108a4f23ca9053ef9d3d3c226db39cbb67b1576c328f680e88a479fc11e909",
+  "translated_at": "2026-06-10T20:40:14.493027+00:00",
+  "model": "gpt-5-mini",
+  "text": "nisantes to which children \nare much more sensitive. This imaging can be \npostponed in cases of typical UC, based on endoscopy \nand histology. It remains particularly important in \ncases of suspected Crohn’s disease, in patients whose \nileum could not be visualized, in patients presenting \nwith apparent ulcerative colitis with an atypical pre-\nsentation and in patients with indeterminate colitis. As \nin adults, capsule endoscopy has an elective indication in \ncases of predominant or isolated small bowel involvement, and to facilitate the differential \ndiagnosis between CD and UC (40). Children are most \noften able to swallow the capsule endoscope from the age \nof 8–10 years. It can be deployed endoscopically from \n10 kg.\nEndoscopy and primary lesions\nSystematic esophagogastroduodenoscopy and ileo-\ncolonoscopy are recommended. Even \nin the absence of macroscopic lesions of the upper digestive \ntract, performing multiple, segmental biopsies (2 per \nsegment) allows histopathology to demonstrate the presence of gr",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:15:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 15,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "nisantes to which children \nare much more sensitive. This imaging can be \npostponed in cases of typical UC, based on endoscopy \nand histology. It remains particularly important in \ncases of suspected Crohn’s disease, in patients whose \nileum could not be visualized, in patients presenting \nwith apparent ulcerative colitis with an atypical pre-\nsentation and in patients with indeterminate colitis. As \nin adults, capsule endoscopy has an elective indication in \ncases of predominant or isolated small bowel involvement, and to facilitate the differential \ndiagnosis between CD and UC (40). Children are most \noften able to swallow the capsule endoscope from the age \nof 8–10 years. It can be deployed endoscopically from \n10 kg.\nEndoscopy and primary lesions\nSystematic esophagogastroduodenoscopy and ileo-\ncolonoscopy are recommended. Even \nin the absence of macroscopic lesions of the upper digestive \ntract, performing multiple, segmental biopsies (2 per \nsegment) allows histopathology to demonstrate the presence of gr",
+    "source_id": "pdf:398e12446d466067:chunk:15",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:14.493027+00:00",
+    "source_text_sha256": "7b108a4f23ca9053ef9d3d3c226db39cbb67b1576c328f680e88a479fc11e909"
+  }
+}

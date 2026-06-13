@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:93a0c37f32868909:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "8edea1c749c487cc592f9862ed809cb73f9661477a6c79c9ef9f8c32316d8628",
+  "translated_at": "2026-06-10T21:17:34.357933+00:00",
+  "model": "gpt-5-mini",
+  "text": "Bonjou, jé pwopozew jodi-a on sèsyon sofrologi pou édéw détann é pou rilakséw. Pou sa, an dousman, mwen ké envitéw vini asizé byen konfotab asi on chèz ouswa asi on kanapé. \n\nApre, ou kay pozé pye-w byen plat asi tè-a. Trankilman, mwen envitéw dépozé men-w trankilman asi kwis-w. Apre sa, ou pé gadé dousman tout otou a-w, anviwonman-w, tout bagay ki otou a-w. \n\nLè ou santi'w an ségirité, mwen envitéw dousman fèmen zéyé-w. Kounya, si ou santi'w an ségirité, mwen pwopozew apiyé on ti kras asi pye-w pou pran konsyans pye dwat la. Pou sa, ou kay apiyé trankilman asi zòtèy-w, déwoulé pye-w, apiyé asi talo-w. Apre sa, ou remèt pye-w byen plat asi tè-a. \n\nApre, mwen envitéw apiyé asi bò déwò pye-w, apré apiyé asi bò anndan pye-w. Épi lè ou repoze pye-w, lasé yo reposé asi tè-a. Épi ou kay pran konsyans dé pwa pye-w asi tè-a. Ou pé pétèt imajiné kon si ou té ni...",
+  "row": {
+    "id": "video:93a0c37f32868909:chunk:0:gcf",
+    "document_id": "video:93a0c37f32868909",
+    "chunk_index": 0,
+    "source_file": "8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.mp4",
+    "text_path": "corpus/texts/videos/8d711474a53cabf41d68c52bd881d55b7dbd2541.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Bonjou, jé pwopozew jodi-a on sèsyon sofrologi pou édéw détann é pou rilakséw. Pou sa, an dousman, mwen ké envitéw vini asizé byen konfotab asi on chèz ouswa asi on kanapé. \n\nApre, ou kay pozé pye-w byen plat asi tè-a. Trankilman, mwen envitéw dépozé men-w trankilman asi kwis-w. Apre sa, ou pé gadé dousman tout otou a-w, anviwonman-w, tout bagay ki otou a-w. \n\nLè ou santi'w an ségirité, mwen envitéw dousman fèmen zéyé-w. Kounya, si ou santi'w an ségirité, mwen pwopozew apiyé on ti kras asi pye-w pou pran konsyans pye dwat la. Pou sa, ou kay apiyé trankilman asi zòtèy-w, déwoulé pye-w, apiyé asi talo-w. Apre sa, ou remèt pye-w byen plat asi tè-a. \n\nApre, mwen envitéw apiyé asi bò déwò pye-w, apré apiyé asi bò anndan pye-w. Épi lè ou repoze pye-w, lasé yo reposé asi tè-a. Épi ou kay pran konsyans dé pwa pye-w asi tè-a. Ou pé pétèt imajiné kon si ou té ni...",
+    "source_id": "video:93a0c37f32868909:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:34.357933+00:00",
+    "source_text_sha256": "8edea1c749c487cc592f9862ed809cb73f9661477a6c79c9ef9f8c32316d8628"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:24",
+  "target_language": "gcf",
+  "source_text_sha256": "11d12f29abf0c471f5131067a82ea88cdf2a00dbf6215b00af778a8b31ba481f",
+  "translated_at": "2026-06-10T20:52:57.805727+00:00",
+  "model": "gpt-5-mini",
+  "text": "Endis mas kò (IMC) ki jwenn anba 5e pèsantyèl adan 23% pasyan ki gen MC, kont 8% asi sa yo ka RCH (9).\n\nKwasans statural é dévlopman pibèté\n\nRitad statural, défini kon on tay ki anba 3e pèsantyèl oubyen -2 DS, pli frékan lè maladi a komansé bonè adan lavi, san lye èvè lokalizasyon osnon lajè atak enflamatwa yo. Adan kwòt EPIMAD-la ki té genyen 261 timoun, 10% té présanté on tay < -2 DS lè dyagnostik la, kont 7% pandan swivi a (49). Ralentisman kwasans-la ka dékte pròs 90% timoun dès dyagnostik-la, é i vini avan siy dijestif yo nan mwatye ka yo.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:24:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 24,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Endis mas kò (IMC) ki jwenn anba 5e pèsantyèl adan 23% pasyan ki gen MC, kont 8% asi sa yo ka RCH (9).\n\nKwasans statural é dévlopman pibèté\n\nRitad statural, défini kon on tay ki anba 3e pèsantyèl oubyen -2 DS, pli frékan lè maladi a komansé bonè adan lavi, san lye èvè lokalizasyon osnon lajè atak enflamatwa yo. Adan kwòt EPIMAD-la ki té genyen 261 timoun, 10% té présanté on tay < -2 DS lè dyagnostik la, kont 7% pandan swivi a (49). Ralentisman kwasans-la ka dékte pròs 90% timoun dès dyagnostik-la, é i vini avan siy dijestif yo nan mwatye ka yo.",
+    "source_id": "pdf:398e12446d466067:chunk:24",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:57.805727+00:00",
+    "source_text_sha256": "11d12f29abf0c471f5131067a82ea88cdf2a00dbf6215b00af778a8b31ba481f"
+  }
+}

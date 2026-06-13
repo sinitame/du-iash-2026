@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "231b14dc4757f0019292268dd448bbab73c6fc58008c1ee1f7d407024ae78b6f",
+  "translated_at": "2026-06-10T20:43:41.572517+00:00",
+  "model": "gpt-5-mini",
+  "text": "and ultra-processed foods, the diet promotes a protective bacterial balance3,4.\nA transient effect to treat the flare: the CDED is used over a defined period to stabilize the disease, before progressing to a more diversified diet. In addition, the CDED can be used as a transition treatment before another therapeutic management or in the perioperative setting5.\n2\n3\nIn practice, what does this involve?\nThe CDED is a progressive and structured therapeutic dietary strategy. It is divided into several phases allowing a gradual reintroduction of foods while ensuring control of inflammation.\nDuration\nCaloric intake\nAllowed diet\nAllowed diet\nEnteral nutrition solution\nEnteral nutrition solution\nAfter the first two phases, at 12 weeks and in consultation with your medical team, it may be considered:\n• the extension into phase 3, with or without enteral nutrition solution,\n• or a return to a diet based on nutritional recommendations, notably maintaining the exclusion of ultra-processed foods.\n6 WEEKS\n50%\n25%\n50%\n75%\n+\n+\n6 WEEKS",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:3:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 3,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "and ultra-processed foods, the diet promotes a protective bacterial balance3,4.\nA transient effect to treat the flare: the CDED is used over a defined period to stabilize the disease, before progressing to a more diversified diet. In addition, the CDED can be used as a transition treatment before another therapeutic management or in the perioperative setting5.\n2\n3\nIn practice, what does this involve?\nThe CDED is a progressive and structured therapeutic dietary strategy. It is divided into several phases allowing a gradual reintroduction of foods while ensuring control of inflammation.\nDuration\nCaloric intake\nAllowed diet\nAllowed diet\nEnteral nutrition solution\nEnteral nutrition solution\nAfter the first two phases, at 12 weeks and in consultation with your medical team, it may be considered:\n• the extension into phase 3, with or without enteral nutrition solution,\n• or a return to a diet based on nutritional recommendations, notably maintaining the exclusion of ultra-processed foods.\n6 WEEKS\n50%\n25%\n50%\n75%\n+\n+\n6 WEEKS",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:41.572517+00:00",
+    "source_text_sha256": "231b14dc4757f0019292268dd448bbab73c6fc58008c1ee1f7d407024ae78b6f"
+  }
+}

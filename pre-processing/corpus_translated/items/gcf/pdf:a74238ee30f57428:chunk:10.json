@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:10",
+  "target_language": "gcf",
+  "source_text_sha256": "669a4689e3b91359045d82e8027401298c8c1a231a66890476be7ed99a803b0c",
+  "translated_at": "2026-06-10T21:09:07.414506+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pou doulè an vant osinon dyaré, fo jwenn on manjé ranplasman paské i sé on sous itil pou kalori é kalsyòm.\nNou ni manjé konplémantè ki sé likid aromatizé é byen balansé. Yo pli byen toléré.\nAdan maladi Crohn, doktè-w pé bizwen itilizé on métòd alimantasyon kontini èvè sond : manjé-la ka rivé pa on ti tib ki pasé pa nen é alé jik adan lestomak.\nSa pé fèt lakay san bizwen kité lékol apré on séjou an lopital pou aprann.\nTrètman-sa (nitrisyon entéral) pémet kontwòlé pouse maladi-a é édé pou grandi.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:10:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 10,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Pou doulè an vant osinon dyaré, fo jwenn on manjé ranplasman paské i sé on sous itil pou kalori é kalsyòm.\nNou ni manjé konplémantè ki sé likid aromatizé é byen balansé. Yo pli byen toléré.\nAdan maladi Crohn, doktè-w pé bizwen itilizé on métòd alimantasyon kontini èvè sond : manjé-la ka rivé pa on ti tib ki pasé pa nen é alé jik adan lestomak.\nSa pé fèt lakay san bizwen kité lékol apré on séjou an lopital pou aprann.\nTrètman-sa (nitrisyon entéral) pémet kontwòlé pouse maladi-a é édé pou grandi.",
+    "source_id": "pdf:a74238ee30f57428:chunk:10",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:07.414506+00:00",
+    "source_text_sha256": "669a4689e3b91359045d82e8027401298c8c1a231a66890476be7ed99a803b0c"
+  }
+}

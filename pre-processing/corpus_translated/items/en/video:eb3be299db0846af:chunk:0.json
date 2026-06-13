@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:eb3be299db0846af:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "66b295a49b6fcbaa6a3d3697c44b717370668fac6601c55ba0b4b62d50d97904",
+  "translated_at": "2026-06-10T20:45:04.649770+00:00",
+  "model": "gpt-5-mini",
+  "text": "Digestion is a process that already begins in the mouth with chewing.  \nWhen we chew, enzymes in the saliva start to break down the food.  \nThen we swallow into the esophagus, which pushes the food into the stomach.  \nThe stomach is a big pouch with lots of muscles that churn the contents to turn them into a mush.  \nThis mush is then pushed into the duodenum and into the small intestine.  \nThis intestine is very important; it measures about four meters.  \nIf you look at the cells, they have lots of villi on their surface to further increase absorption.  \nIt is in this intestine, thanks to enzymes produced by the pancreas, that food is broken down into amino acids, fatty acids and simple sugars, which are absorbed and pass into the blood.  \nAnd thanks to that, when we are a child we grow and gain weight. As an adult, we maintain our weight.  \nAnd once all these nutrients have arrived to nourish us, the waste is pushed into the colon.  \nE",
+  "row": {
+    "id": "video:eb3be299db0846af:chunk:0:en",
+    "document_id": "video:eb3be299db0846af",
+    "chunk_index": 0,
+    "source_file": "314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "text_path": "corpus/texts/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Digestion is a process that already begins in the mouth with chewing.  \nWhen we chew, enzymes in the saliva start to break down the food.  \nThen we swallow into the esophagus, which pushes the food into the stomach.  \nThe stomach is a big pouch with lots of muscles that churn the contents to turn them into a mush.  \nThis mush is then pushed into the duodenum and into the small intestine.  \nThis intestine is very important; it measures about four meters.  \nIf you look at the cells, they have lots of villi on their surface to further increase absorption.  \nIt is in this intestine, thanks to enzymes produced by the pancreas, that food is broken down into amino acids, fatty acids and simple sugars, which are absorbed and pass into the blood.  \nAnd thanks to that, when we are a child we grow and gain weight. As an adult, we maintain our weight.  \nAnd once all these nutrients have arrived to nourish us, the waste is pushed into the colon.  \nE",
+    "source_id": "video:eb3be299db0846af:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:04.649770+00:00",
+    "source_text_sha256": "66b295a49b6fcbaa6a3d3697c44b717370668fac6601c55ba0b4b62d50d97904"
+  }
+}

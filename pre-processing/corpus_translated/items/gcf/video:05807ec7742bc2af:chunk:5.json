@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:5",
+  "target_language": "gcf",
+  "source_text_sha256": "3c778de6482eb919e19121b96cd9b944c15fa313927864cf3b9a9d60e81b039b",
+  "translated_at": "2026-06-10T21:15:38.248199+00:00",
+  "model": "gpt-5-mini",
+  "text": "r, dé kontrakté, chak pati kò-w.\nSi ou santi sa, fè-y dousman, trankilman a ritm-ou ; petèt inspiré tout afond pa nen.\nÉpi ou ké vini santi tout zòn figi-w pou anpéché i kripé.\nPou kòlè-a, ou pé gen on ti kontraksyon dous pou pa fè-w mal, é lè ou anvi, pli dous posib, ou ké souflé ; an konsyans ou ké wè ki ou kapab diminwé tansyon-an.\nOu relaché byen. Ou repran konsyans kò-w, ou retrouv trankilman sansasyon-w, é figi-w ka rilaché, tèt-w ka déwoulé.\nAlò, i vin on ti pli klè, mwen pèmèt-w sa sans pou tèt-ou. Pou kòlè-a ki té la, pran on gwo inspirasyon, ankò on inspirasyon.\nPa nen, ou ké kenbé respirasyon on ti tan, é ou mété menton-w touswèman tout prè poitrin.\nÉpi dousman, trankilman adan pozisyon-sa, ou ké kontrakté misk kou-w é nik-w. San lévé zépòl si posib.\nOn kontraksyon tous dous, tous trankil é a ritm-ou ; kan ou anvi, ou...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:5:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 5,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "r, dé kontrakté, chak pati kò-w.\nSi ou santi sa, fè-y dousman, trankilman a ritm-ou ; petèt inspiré tout afond pa nen.\nÉpi ou ké vini santi tout zòn figi-w pou anpéché i kripé.\nPou kòlè-a, ou pé gen on ti kontraksyon dous pou pa fè-w mal, é lè ou anvi, pli dous posib, ou ké souflé ; an konsyans ou ké wè ki ou kapab diminwé tansyon-an.\nOu relaché byen. Ou repran konsyans kò-w, ou retrouv trankilman sansasyon-w, é figi-w ka rilaché, tèt-w ka déwoulé.\nAlò, i vin on ti pli klè, mwen pèmèt-w sa sans pou tèt-ou. Pou kòlè-a ki té la, pran on gwo inspirasyon, ankò on inspirasyon.\nPa nen, ou ké kenbé respirasyon on ti tan, é ou mété menton-w touswèman tout prè poitrin.\nÉpi dousman, trankilman adan pozisyon-sa, ou ké kontrakté misk kou-w é nik-w. San lévé zépòl si posib.\nOn kontraksyon tous dous, tous trankil é a ritm-ou ; kan ou anvi, ou...",
+    "source_id": "video:05807ec7742bc2af:chunk:5",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:15:38.248199+00:00",
+    "source_text_sha256": "3c778de6482eb919e19121b96cd9b944c15fa313927864cf3b9a9d60e81b039b"
+  }
+}

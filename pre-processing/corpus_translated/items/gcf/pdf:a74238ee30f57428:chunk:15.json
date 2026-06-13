@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:15",
+  "target_language": "gcf",
+  "source_text_sha256": "bf502b54671efcfe5184b1c80349e6b499921c808f593fbd3f5221a5da184f61",
+  "translated_at": "2026-06-10T21:09:56.920541+00:00",
+  "model": "gpt-5-mini",
+  "text": "AFA - 32 rue de cambrai 75019 Paris - Tél : 01 42 00 00 40 \ne-mail : info-accueil@afa.asso.fr - site : www.afa.asso.fr\nV I V R E  A V E K\nESKO LI PÉ FÈ ESPÒ OSWA ALÉ LÉKOL \nNÒMALMAN ?\nTimoun yo pé fè sa yo vlé épi sa yo kapab antreprann, sòf si, pandan on pousad kot maladi-a ka évolyé, aktivité-la ka mété yo tro fatigué (konpétisyon), ka agravé sentom dijestif yo oswè doulè jwenti yo. Fòk pafwa ajisté pwogram espòtif la dapré létad timoun nan. Timoun yo aprann vit toléré on séten entansité doule oswè malèz é viv èvè li. Yo osi konn kilè i vin enposib pou sipòté.\nOu pé ban yo responsablité pou yo konn si yo kap alé an klas. Forsé on timoun alé an klas, oswè, o kontrè, fè li resté an kabann, pa on solisyon é sa ka mennen konfik. Fòk osi ankourajé yo chaché solisyon pou pwoblèm pratik lékol-la : konn koté twalèt yo, enfirmri a é pòté si bizwen on rad pou ranplasman.\nESKO MWEN DWÉ INFORMÉ PWOFESÈ LI É KAMARAD LI ?\nSé timoun nan ki ni dwa désidè. Kom si maladi-a ès...",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:15:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 15,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "AFA - 32 rue de cambrai 75019 Paris - Tél : 01 42 00 00 40 \ne-mail : info-accueil@afa.asso.fr - site : www.afa.asso.fr\nV I V R E  A V E K\nESKO LI PÉ FÈ ESPÒ OSWA ALÉ LÉKOL \nNÒMALMAN ?\nTimoun yo pé fè sa yo vlé épi sa yo kapab antreprann, sòf si, pandan on pousad kot maladi-a ka évolyé, aktivité-la ka mété yo tro fatigué (konpétisyon), ka agravé sentom dijestif yo oswè doulè jwenti yo. Fòk pafwa ajisté pwogram espòtif la dapré létad timoun nan. Timoun yo aprann vit toléré on séten entansité doule oswè malèz é viv èvè li. Yo osi konn kilè i vin enposib pou sipòté.\nOu pé ban yo responsablité pou yo konn si yo kap alé an klas. Forsé on timoun alé an klas, oswè, o kontrè, fè li resté an kabann, pa on solisyon é sa ka mennen konfik. Fòk osi ankourajé yo chaché solisyon pou pwoblèm pratik lékol-la : konn koté twalèt yo, enfirmri a é pòté si bizwen on rad pou ranplasman.\nESKO MWEN DWÉ INFORMÉ PWOFESÈ LI É KAMARAD LI ?\nSé timoun nan ki ni dwa désidè. Kom si maladi-a ès...",
+    "source_id": "pdf:a74238ee30f57428:chunk:15",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:56.920541+00:00",
+    "source_text_sha256": "bf502b54671efcfe5184b1c80349e6b499921c808f593fbd3f5221a5da184f61"
+  }
+}

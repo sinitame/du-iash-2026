@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:16",
+  "target_language": "en",
+  "source_text_sha256": "cd83ef27f0f4db78063d0302d7885c612749c0352a372910d487b57e59dd35f4",
+  "translated_at": "2026-06-10T20:40:03.734064+00:00",
+  "model": "gpt-5-mini",
+  "text": "the absence of macroscopic lesions of the upper gastrointestinal tract, performing multiple step biopsies (2 per segment) makes it possible to demonstrate on histopathology the presence of epithelioid and giant-cell granuloma in 10 to 20% of cases (40).\nThe diagnostic criteria for pediatric IBD are similar to those for adults. Recommendations for the diagnosis of pediatric IBD, called the \"Porto criteria\", were published by ESPGHAN (European Society for Paediatric Gastroenterology and Nutrition) (41).\n(Tables 1 and 2)\nTable 1: pediatric forms of UC at diagnosis (41)\nPresentation\nMacroscopic characteristics\nMicroscopic characteristics\nTypical\nContinuous disease starting from the rectum\nArchitectural distortion, basal lymphoplasmacytosis, more severe disease in the distal part, no granulomas\nAtypical\n1.\t Rectal sparing\nNo macroscopic disease at the rectum or rectosigmoid\nSame as the typical type, especially in the segment\naffected above the spared area\n2.\t Transient form\nContinuous disease starting from the rectum, which may\nalso show rectal sparing\nBiopsies sometimes focal, if",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:16:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 16,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "the absence of macroscopic lesions of the upper gastrointestinal tract, performing multiple step biopsies (2 per segment) makes it possible to demonstrate on histopathology the presence of epithelioid and giant-cell granuloma in 10 to 20% of cases (40).\nThe diagnostic criteria for pediatric IBD are similar to those for adults. Recommendations for the diagnosis of pediatric IBD, called the \"Porto criteria\", were published by ESPGHAN (European Society for Paediatric Gastroenterology and Nutrition) (41).\n(Tables 1 and 2)\nTable 1: pediatric forms of UC at diagnosis (41)\nPresentation\nMacroscopic characteristics\nMicroscopic characteristics\nTypical\nContinuous disease starting from the rectum\nArchitectural distortion, basal lymphoplasmacytosis, more severe disease in the distal part, no granulomas\nAtypical\n1.\t Rectal sparing\nNo macroscopic disease at the rectum or rectosigmoid\nSame as the typical type, especially in the segment\naffected above the spared area\n2.\t Transient form\nContinuous disease starting from the rectum, which may\nalso show rectal sparing\nBiopsies sometimes focal, if",
+    "source_id": "pdf:398e12446d466067:chunk:16",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:03.734064+00:00",
+    "source_text_sha256": "cd83ef27f0f4db78063d0302d7885c612749c0352a372910d487b57e59dd35f4"
+  }
+}

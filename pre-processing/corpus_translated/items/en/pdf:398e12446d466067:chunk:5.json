@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "adc6c09044a2c5c17cad0c4650355027bb504736007928dbe9ecb72c06cf5527",
+  "translated_at": "2026-06-10T20:39:56.621359+00:00",
+  "model": "gpt-5-mini",
+  "text": "IBD pedia-\ntric in regions where this \nhad not been reported in the \npast (8).\nIn France, according to studies, IBD \nbegins in 7 to 25% of cases in \nchildhood, with a ratio of 3 cases of \nCrohn’s disease (CD) to 1 case of ulcerative colitis (UC) (9). The distri-\nbution of pediatric IBD by sex is the reverse of what it \nis in adults, with a predo-\nminance of boys for CD and \nof girls for UC (9). The median age \nat diagnosis of pediatric IBD \nis around 14 years. The incidence \nof pediatric IBD in France has \nincreased considerably over \nmore than 20 years (10,11).\nRisk factors for pediatric IBD\nThe main risk factor for IBD is the existence of a family \nhistory of IBD in a first-\ndegree relative. This association is more common in children than in \nadults, especially the younger the child is at the time \nof IBD diagnosis (12).\nThe gut microbiota is different in children with \nIBD compared with healthy children. Several of the environmental \nfactors associated with the risk of developing \nIBD would act via their impact on the intes-\ntinal microbiota.\nThe mode of delivery influences the deve",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:5:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 5,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "IBD pedia-\ntric in regions where this \nhad not been reported in the \npast (8).\nIn France, according to studies, IBD \nbegins in 7 to 25% of cases in \nchildhood, with a ratio of 3 cases of \nCrohn’s disease (CD) to 1 case of ulcerative colitis (UC) (9). The distri-\nbution of pediatric IBD by sex is the reverse of what it \nis in adults, with a predo-\nminance of boys for CD and \nof girls for UC (9). The median age \nat diagnosis of pediatric IBD \nis around 14 years. The incidence \nof pediatric IBD in France has \nincreased considerably over \nmore than 20 years (10,11).\nRisk factors for pediatric IBD\nThe main risk factor for IBD is the existence of a family \nhistory of IBD in a first-\ndegree relative. This association is more common in children than in \nadults, especially the younger the child is at the time \nof IBD diagnosis (12).\nThe gut microbiota is different in children with \nIBD compared with healthy children. Several of the environmental \nfactors associated with the risk of developing \nIBD would act via their impact on the intes-\ntinal microbiota.\nThe mode of delivery influences the deve",
+    "source_id": "pdf:398e12446d466067:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:56.621359+00:00",
+    "source_text_sha256": "adc6c09044a2c5c17cad0c4650355027bb504736007928dbe9ecb72c06cf5527"
+  }
+}

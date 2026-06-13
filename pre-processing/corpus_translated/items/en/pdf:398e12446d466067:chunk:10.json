@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:10",
+  "target_language": "en",
+  "source_text_sha256": "4335cf5d66849c96b55a6c1779df0410836d76b1183fa73cbf08592dd48eff53",
+  "translated_at": "2026-06-10T20:39:51.198807+00:00",
+  "model": "gpt-5-mini",
+  "text": "In more than 10% of pediatric cases, the distinction between Crohn’s disease (CD) and ulcerative colitis (UC) is difficult. The disease is then identified as indeterminate colitis. During disease progression, some cases of indeterminate colitis may evolve into CD or UC (26).\n\nAno-perineal lesions of CD are common in children. Examination of the anal margin must be part of the clinical examination. Rapid recognition of patients with a high suspicion of IBD for prompt endoscopic evaluation is essential (27); the presence of perineal lesions such as: ulcer, fistula or abscess can be a sufficient reason to perform an endoscopic assessment regardless of other inflammatory markers (28). Other minor criteria may be present: chronic abdominal pain (> 4 weeks), diarrhea, IBD confirmed in a first-degree relative, involuntary weight loss, presence of extra-digestive manifestations (29-31). Evaluation of growth and puberty curves is essential to consider the diagnosis, particularly in CD (32,33). (Figure 2)\n\nExtra-digestive manifestations may precede the",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:10:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 10,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "In more than 10% of pediatric cases, the distinction between Crohn’s disease (CD) and ulcerative colitis (UC) is difficult. The disease is then identified as indeterminate colitis. During disease progression, some cases of indeterminate colitis may evolve into CD or UC (26).\n\nAno-perineal lesions of CD are common in children. Examination of the anal margin must be part of the clinical examination. Rapid recognition of patients with a high suspicion of IBD for prompt endoscopic evaluation is essential (27); the presence of perineal lesions such as: ulcer, fistula or abscess can be a sufficient reason to perform an endoscopic assessment regardless of other inflammatory markers (28). Other minor criteria may be present: chronic abdominal pain (> 4 weeks), diarrhea, IBD confirmed in a first-degree relative, involuntary weight loss, presence of extra-digestive manifestations (29-31). Evaluation of growth and puberty curves is essential to consider the diagnosis, particularly in CD (32,33). (Figure 2)\n\nExtra-digestive manifestations may precede the",
+    "source_id": "pdf:398e12446d466067:chunk:10",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:51.198807+00:00",
+    "source_text_sha256": "4335cf5d66849c96b55a6c1779df0410836d76b1183fa73cbf08592dd48eff53"
+  }
+}

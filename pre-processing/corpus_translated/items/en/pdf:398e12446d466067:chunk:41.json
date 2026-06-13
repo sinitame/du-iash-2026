@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:41",
+  "target_language": "en",
+  "source_text_sha256": "dbbf5790e6f26c00690cbbd91b01b4082e906aeb49aa1bd5ca2e6df4a2813b3d",
+  "translated_at": "2026-06-10T20:41:14.654103+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 10 ---\n186\nby anti-TNF (99-102). Endoscopic evaluation (Rutgeerts score) (103,104) at the time of the first post-operative colonoscopy makes it possible to anticipate recurrences. The Rutgeerts score is simple to perform but has not been validated in children.\nStrategies for the use of biologic therapies\nTherapeutic schemes, recommendations for optimization and monitoring are identical to adult recommendations. In patients starting treatment with infliximab, it is recommended to use combination therapy with an immunosuppressant. The combination infliximab + immunosuppressant reduces the risk of developing anti-infliximab antibodies and increases trough levels (105). The therapeutic management of loss of response is identical to that in adults.\nBiosimilars of infliximab and adalimumab\nThe appearance of IFX and ADA biosimilars has reduced the cost of these therapies, with efficacy and a safety profile in children similar to those of the originator products (106). There is no restriction on their use in children, whether as first- or second-line in a patient already tra",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:41:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 41,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 10 ---\n186\nby anti-TNF (99-102). Endoscopic evaluation (Rutgeerts score) (103,104) at the time of the first post-operative colonoscopy makes it possible to anticipate recurrences. The Rutgeerts score is simple to perform but has not been validated in children.\nStrategies for the use of biologic therapies\nTherapeutic schemes, recommendations for optimization and monitoring are identical to adult recommendations. In patients starting treatment with infliximab, it is recommended to use combination therapy with an immunosuppressant. The combination infliximab + immunosuppressant reduces the risk of developing anti-infliximab antibodies and increases trough levels (105). The therapeutic management of loss of response is identical to that in adults.\nBiosimilars of infliximab and adalimumab\nThe appearance of IFX and ADA biosimilars has reduced the cost of these therapies, with efficacy and a safety profile in children similar to those of the originator products (106). There is no restriction on their use in children, whether as first- or second-line in a patient already tra",
+    "source_id": "pdf:398e12446d466067:chunk:41",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:14.654103+00:00",
+    "source_text_sha256": "dbbf5790e6f26c00690cbbd91b01b4082e906aeb49aa1bd5ca2e6df4a2813b3d"
+  }
+}

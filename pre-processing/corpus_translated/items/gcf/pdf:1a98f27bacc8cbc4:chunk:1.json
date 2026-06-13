@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "a44feff9557d41a9716f9dcc7760a58a3cbd04c9fa02f2dd442ef602bf3de7ce",
+  "translated_at": "2026-06-10T21:10:34.171290+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nPAWÒL EKSPÈ\nSi ni on réchut pandan faz 2 ouswa 3 CDED, fo tounen an faz ki té avan. A la fin CDED, yo ka rékòmandé on pran swen nitrisyonèl ki adapté. On transisyon vèrs on alimantasyon pli divèsifié, koté manjé ultra-transformé yo pa ka antre, pé fèt épi on swivi dyétetik adapté.\n\nPAWÒL EKSPÈ\nCDED pa adapté pou tout pasyan. Pou mété'y an plas, fo on ordonans medikal é on swivi personnalisé pa a-w gastro-entérolog é on diététisyen espesyalizé.\nCDED pé sèvi poukont li oswa an asosyasyon èvè on tretman médikal.\n\nKi sa CDED-la ?\nKi sa CDED-la ?\nLéksklizyon di séten manjé, ranplasé pa on nitrisyon atifisyèl (òral ou pa sond), ta pé pèmèt déklanché rémisyon é fè lésion yo guerir adan maladi Crohn1. Nitrisyon Entéral Éksklizif (NEE) sé toujou on chimen ki difisil pou suiv pandan plizè semèn.\nCrohn’s Disease Exclusion Diet (CDED), ou réjim d’éksklizyon alimantè adan maladi Crohn, sé on strataj alimantè thérapéutik ki rété asi léksklizyon di séten manjé, ranplasé p",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:1:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 1,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 2 ---\nPAWÒL EKSPÈ\nSi ni on réchut pandan faz 2 ouswa 3 CDED, fo tounen an faz ki té avan. A la fin CDED, yo ka rékòmandé on pran swen nitrisyonèl ki adapté. On transisyon vèrs on alimantasyon pli divèsifié, koté manjé ultra-transformé yo pa ka antre, pé fèt épi on swivi dyétetik adapté.\n\nPAWÒL EKSPÈ\nCDED pa adapté pou tout pasyan. Pou mété'y an plas, fo on ordonans medikal é on swivi personnalisé pa a-w gastro-entérolog é on diététisyen espesyalizé.\nCDED pé sèvi poukont li oswa an asosyasyon èvè on tretman médikal.\n\nKi sa CDED-la ?\nKi sa CDED-la ?\nLéksklizyon di séten manjé, ranplasé pa on nitrisyon atifisyèl (òral ou pa sond), ta pé pèmèt déklanché rémisyon é fè lésion yo guerir adan maladi Crohn1. Nitrisyon Entéral Éksklizif (NEE) sé toujou on chimen ki difisil pou suiv pandan plizè semèn.\nCrohn’s Disease Exclusion Diet (CDED), ou réjim d’éksklizyon alimantè adan maladi Crohn, sé on strataj alimantè thérapéutik ki rété asi léksklizyon di séten manjé, ranplasé p",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:34.171290+00:00",
+    "source_text_sha256": "a44feff9557d41a9716f9dcc7760a58a3cbd04c9fa02f2dd442ef602bf3de7ce"
+  }
+}

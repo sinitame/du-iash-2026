@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:81",
+  "target_language": "gcf",
+  "source_text_sha256": "ac354c1c3821f0a9aedbdf827c707db631376818676ea366690c161ff7666262",
+  "translated_at": "2026-06-10T21:07:21.989675+00:00",
+  "model": "gpt-5-mini",
+  "text": "tinal resection : on tès randomizé.\nLancet 2015;385:1406-17.\n103. Rutgeerts P, Geboes K, Vantrappen G, et al. Ki jan pou prédi kou apré-operasyon maladi Crohn-la. Gastroenterology 1990;99:956-63.\n104. Hukkinen M, Pakarinen MP, Merras-Salmio L, et al. Kalprotektin fèkal pou prédi rékourans apré-operasyon maladi Crohn adan timoun é adolésan. J Pediatr Surg. 2016;51:1467-72.\n105. Colombel JF, Adedokun OJ, Gasink C, et al. Terapé konbiné épi infliximab é azathioprine amelyoré karakteristik famakokinétik infliximab-la é son efikasité : on analiz post-hoc. Clin Gastroenterol Hepatol. 2019;17:1525-32.\n106. Dipasquale V, Cicala G, Spina E, et al. Biosimilè adan maladi entesten enflamatwa pédiatrik : on révi sistematik é on eksperyans an lavi réyèl. Front Pharmacol 2022;13:846151.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:81:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 81,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "tinal resection : on tès randomizé.\nLancet 2015;385:1406-17.\n103. Rutgeerts P, Geboes K, Vantrappen G, et al. Ki jan pou prédi kou apré-operasyon maladi Crohn-la. Gastroenterology 1990;99:956-63.\n104. Hukkinen M, Pakarinen MP, Merras-Salmio L, et al. Kalprotektin fèkal pou prédi rékourans apré-operasyon maladi Crohn adan timoun é adolésan. J Pediatr Surg. 2016;51:1467-72.\n105. Colombel JF, Adedokun OJ, Gasink C, et al. Terapé konbiné épi infliximab é azathioprine amelyoré karakteristik famakokinétik infliximab-la é son efikasité : on analiz post-hoc. Clin Gastroenterol Hepatol. 2019;17:1525-32.\n106. Dipasquale V, Cicala G, Spina E, et al. Biosimilè adan maladi entesten enflamatwa pédiatrik : on révi sistematik é on eksperyans an lavi réyèl. Front Pharmacol 2022;13:846151.",
+    "source_id": "pdf:398e12446d466067:chunk:81",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:21.989675+00:00",
+    "source_text_sha256": "ac354c1c3821f0a9aedbdf827c707db631376818676ea366690c161ff7666262"
+  }
+}

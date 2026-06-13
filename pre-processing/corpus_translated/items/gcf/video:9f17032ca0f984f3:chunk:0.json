@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "744353173f7cf4fc44af4640f96f51f55ac47c82ed0e783ba5667286f274c73f",
+  "translated_at": "2026-06-10T21:17:20.829713+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sé natirèl pou santi tristès lè ou ni on MICI.\nLè ou ka souf, lè ou ni dyaré souvan osinon lè ou santi tèt ou pa bèl, i natirèl pou pa ni moral. Ou santi ou sèl, ou pansé sé ini, ou ka pléré anpil, épi ou ka santi pèsonn pa konprann ou. Zanmi yo pa toujou konprann sa on MICI sé, é yo pé maladwèt.\nSi ou vlé, ou pé esplike yo maladi a’w pou yo konprann’w miyò, é pou yo pòté sipò si ou ni bizwen. Si ou pa ni moral, palé èvè paran’w osinon èvè doktè’w, yo pé édé osinon jwenn on moun ki pé édé’w.\nOu pé osi rankontwé échanj èvè lòt adolesan ki ni on maladi Kròn ousa on rèktokolit emorajik. Pa egzanp, la FAF ka pwopoze jouné fanmi koté timoun é paran yo ka rankontwé é patajé eksperyans yo. É depi laj 12 an, ou pé patisipe on staj pou adolesan ki fèt chak été san paran yo, mé ou pé mennen on zanmi a chwa’w. Sé on bèl moman pou aprann jéré maladi a’w é fè nouvo zanmi. Pou édé’w pli byen konprann é jéré maladi a’w.",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:0:gcf",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 0,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Sé natirèl pou santi tristès lè ou ni on MICI.\nLè ou ka souf, lè ou ni dyaré souvan osinon lè ou santi tèt ou pa bèl, i natirèl pou pa ni moral. Ou santi ou sèl, ou pansé sé ini, ou ka pléré anpil, épi ou ka santi pèsonn pa konprann ou. Zanmi yo pa toujou konprann sa on MICI sé, é yo pé maladwèt.\nSi ou vlé, ou pé esplike yo maladi a’w pou yo konprann’w miyò, é pou yo pòté sipò si ou ni bizwen. Si ou pa ni moral, palé èvè paran’w osinon èvè doktè’w, yo pé édé osinon jwenn on moun ki pé édé’w.\nOu pé osi rankontwé échanj èvè lòt adolesan ki ni on maladi Kròn ousa on rèktokolit emorajik. Pa egzanp, la FAF ka pwopoze jouné fanmi koté timoun é paran yo ka rankontwé é patajé eksperyans yo. É depi laj 12 an, ou pé patisipe on staj pou adolesan ki fèt chak été san paran yo, mé ou pé mennen on zanmi a chwa’w. Sé on bèl moman pou aprann jéré maladi a’w é fè nouvo zanmi. Pou édé’w pli byen konprann é jéré maladi a’w.",
+    "source_id": "video:9f17032ca0f984f3:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:20.829713+00:00",
+    "source_text_sha256": "744353173f7cf4fc44af4640f96f51f55ac47c82ed0e783ba5667286f274c73f"
+  }
+}

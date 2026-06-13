@@ -1,0 +1,11 @@
+{
+  "id": "image:9097897d79118962",
+  "status": "done",
+  "source_file": "fatigue_traitement.png",
+  "source_path": "/data/equipes/equipe-04/images/fatigue_traitement.png",
+  "text_path": "corpus/texts/images/fatigue_traitement.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "9097897d7911896235bf180dd63e7bd1dadca7a92d0eaf959e5f232472e65962",
+  "created_at": "2026-06-10T16:25:25.435420+00:00"
+}

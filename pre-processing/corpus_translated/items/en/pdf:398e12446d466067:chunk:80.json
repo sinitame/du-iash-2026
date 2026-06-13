@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:80",
+  "target_language": "en",
+  "source_text_sha256": "8996a95de0de452d0d0f575d02cde00f5862523f87ba656767f9f23936c0d039",
+  "translated_at": "2026-06-10T20:42:37.121901+00:00",
+  "model": "gpt-5-mini",
+  "text": "Inflammatory bowel disease: \na multicenter study from the Pediatric IBD Porto Group of the \nESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\t Levine A, Wine E, Assa A, et al. Crohn’s disease exclusion diet \nplus partial enteral nutrition induces sustained remission in a \nrandomized controlled trial. Gastroenterology 2019;157:440-50.\n99.\t Regueiro M, Schraut W, Baidoo L, et al. Infliximab prevents \nCrohn’s disease recurrence after ileal resection. Gastroenter-\nology 2009;136:441-50.\n100.\t Regueiro M, Feagan BG, Zou B, et al. PREVENT Study Group. \nInfliximab reduces endoscopic, but not clinical, recurrence of \nCrohn’s disease after ileocolonic resection. Gastroenterology \n2016;150:1568-78.\n101.\t De Cruz P, Kamm MA, Hamilton AL, et al. Efficacy of thiopurines \nand adalimumab in preventing Crohn’s disease recurrence in \nhigh-risk patients - a POCER study analysis. Aliment Pharmacol \nTher. 2015;42:867-79.\n102.\t De Cruz P, Kamm MA, Hamilton AL, et al. Crohn’s disease \nmanagement after intestinal resection: a randomised trial. \nLancet 2015;385:1406-17.\n103.\t Rutgeerts P, Geboes K, Vantrappen G, et al. Predictability of \nthe postoperative course of Crohn’s disease. Gastroenterology \n1990",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:80:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 80,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Inflammatory bowel disease: \na multicenter study from the Pediatric IBD Porto Group of the \nESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\t Levine A, Wine E, Assa A, et al. Crohn’s disease exclusion diet \nplus partial enteral nutrition induces sustained remission in a \nrandomized controlled trial. Gastroenterology 2019;157:440-50.\n99.\t Regueiro M, Schraut W, Baidoo L, et al. Infliximab prevents \nCrohn’s disease recurrence after ileal resection. Gastroenter-\nology 2009;136:441-50.\n100.\t Regueiro M, Feagan BG, Zou B, et al. PREVENT Study Group. \nInfliximab reduces endoscopic, but not clinical, recurrence of \nCrohn’s disease after ileocolonic resection. Gastroenterology \n2016;150:1568-78.\n101.\t De Cruz P, Kamm MA, Hamilton AL, et al. Efficacy of thiopurines \nand adalimumab in preventing Crohn’s disease recurrence in \nhigh-risk patients - a POCER study analysis. Aliment Pharmacol \nTher. 2015;42:867-79.\n102.\t De Cruz P, Kamm MA, Hamilton AL, et al. Crohn’s disease \nmanagement after intestinal resection: a randomised trial. \nLancet 2015;385:1406-17.\n103.\t Rutgeerts P, Geboes K, Vantrappen G, et al. Predictability of \nthe postoperative course of Crohn’s disease. Gastroenterology \n1990",
+    "source_id": "pdf:398e12446d466067:chunk:80",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:37.121901+00:00",
+    "source_text_sha256": "8996a95de0de452d0d0f575d02cde00f5862523f87ba656767f9f23936c0d039"
+  }
+}

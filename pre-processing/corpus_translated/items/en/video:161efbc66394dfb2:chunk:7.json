@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:7",
+  "target_language": "en",
+  "source_text_sha256": "d008d3b34522fa958b103943848979703daa9553985ce148b88ca9f8a62a2019",
+  "translated_at": "2026-06-10T20:47:49.461889+00:00",
+  "model": "gpt-5-mini",
+  "text": "it's all down there with a yawn, relaxation. And for the third and last time, I leave you to your own pace, do as you prefer. Either quick or very gentle. Again, I invite you to inhale. Raise your fist forward, seek your fist. You bring your fist back, you hold your breath. And when you want to, you will imagine putting your anger at a distance. Either quick or very gentle. And you come back very slowly into your sensations. Yawning, a sigh, release, relaxation. And you can now practice on the other side. For that, I will change your supports. And I said that you will pay attention to your sensations. And I will change your supports. You will swap your supports. You will inhale. Raise your fist forward, close your fist back. You hold your breath. And on the exhale, you send your fist back. You send it very far forward. Again. And you come back very slowly. And you welcome. Yawning, a sigh, relaxation. Quiet. We will practice two more times, again. You will inhale, you bring your fist forward. You hold your breath. You close your fist back. With the intention of putting that anger at a distance.",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:7:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 7,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "it's all down there with a yawn, relaxation. And for the third and last time, I leave you to your own pace, do as you prefer. Either quick or very gentle. Again, I invite you to inhale. Raise your fist forward, seek your fist. You bring your fist back, you hold your breath. And when you want to, you will imagine putting your anger at a distance. Either quick or very gentle. And you come back very slowly into your sensations. Yawning, a sigh, release, relaxation. And you can now practice on the other side. For that, I will change your supports. And I said that you will pay attention to your sensations. And I will change your supports. You will swap your supports. You will inhale. Raise your fist forward, close your fist back. You hold your breath. And on the exhale, you send your fist back. You send it very far forward. Again. And you come back very slowly. And you welcome. Yawning, a sigh, relaxation. Quiet. We will practice two more times, again. You will inhale, you bring your fist forward. You hold your breath. You close your fist back. With the intention of putting that anger at a distance.",
+    "source_id": "video:161efbc66394dfb2:chunk:7",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:49.461889+00:00",
+    "source_text_sha256": "d008d3b34522fa958b103943848979703daa9553985ce148b88ca9f8a62a2019"
+  }
+}

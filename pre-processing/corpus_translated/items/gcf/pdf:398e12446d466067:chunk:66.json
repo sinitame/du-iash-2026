@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:66",
+  "target_language": "gcf",
+  "source_text_sha256": "c427c71b00e8640d04a3ee9fa127fe96cc73b21f5d6d761997f962b155a63556",
+  "translated_at": "2026-06-10T20:55:23.825524+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 15 ---\n191\nMICI\n31.\t \u0007Fiorino G, Bonovas S, Gilardi D, et al. Validasyon endis siyal d’alèt pou dyagnostik bonè maladi Crohn: on etid obsèvatwè prospektif IG-IBD an mitan medsen jeneral. J Crohn’s Colitis. 2020;14:1777-1779.\n32.\t \u0007Oliveira SB, Monteiro IM. Dyagnostik é jesyon maladi entesten enfamatwa adan timoun. BMJ. 2017;357:j2083.\n33.\t \u0007Amaro F, Chiarelli F. Kwasans é pubèté adan timoun ki ni maladi entesten enfamatwa. Biomedicines. 2020;8:458.\n34.\t \u0007Jang HJ, Kang B, Choe BH. Diferans nan manifestasyon ekstra-entenstinal maladi entesten enfamatwa pou timoun é pou adilt. Transl Pediatr. 2019;8:4-15.\n35.\t \u0007Mack DR, Langton C, Markowitz J, et al. Valè laboratwa pou timoun ki fèk jwenn dyagnostik maladi entesten enfamatwa. Pediatrics 2007;119:1113-9.\n36.\t \u0007Birimberg-Schwartz L, Wilson DC, Kolho KL, et al. pANCA é ASCA adan timoun ki ni IBD-Pas klasé, kolit Crohn, é kolit ulseratif — on rapò lonjitidinal sòti nan IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. 2016;22:1908-1914.\n37.\t \u0007Koninckx CR, Donat E, Benninga M, et al. Itlizasyon tès calprotectin fèkal adan twoub pédyatrik: on papye pozisyon",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:66:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 66,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 15 ---\n191\nMICI\n31.\t \u0007Fiorino G, Bonovas S, Gilardi D, et al. Validasyon endis siyal d’alèt pou dyagnostik bonè maladi Crohn: on etid obsèvatwè prospektif IG-IBD an mitan medsen jeneral. J Crohn’s Colitis. 2020;14:1777-1779.\n32.\t \u0007Oliveira SB, Monteiro IM. Dyagnostik é jesyon maladi entesten enfamatwa adan timoun. BMJ. 2017;357:j2083.\n33.\t \u0007Amaro F, Chiarelli F. Kwasans é pubèté adan timoun ki ni maladi entesten enfamatwa. Biomedicines. 2020;8:458.\n34.\t \u0007Jang HJ, Kang B, Choe BH. Diferans nan manifestasyon ekstra-entenstinal maladi entesten enfamatwa pou timoun é pou adilt. Transl Pediatr. 2019;8:4-15.\n35.\t \u0007Mack DR, Langton C, Markowitz J, et al. Valè laboratwa pou timoun ki fèk jwenn dyagnostik maladi entesten enfamatwa. Pediatrics 2007;119:1113-9.\n36.\t \u0007Birimberg-Schwartz L, Wilson DC, Kolho KL, et al. pANCA é ASCA adan timoun ki ni IBD-Pas klasé, kolit Crohn, é kolit ulseratif — on rapò lonjitidinal sòti nan IBD Porto Group of ESPGHAN. Inflamm Bowel Dis. 2016;22:1908-1914.\n37.\t \u0007Koninckx CR, Donat E, Benninga M, et al. Itlizasyon tès calprotectin fèkal adan twoub pédyatrik: on papye pozisyon",
+    "source_id": "pdf:398e12446d466067:chunk:66",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:23.825524+00:00",
+    "source_text_sha256": "c427c71b00e8640d04a3ee9fa127fe96cc73b21f5d6d761997f962b155a63556"
+  }
+}

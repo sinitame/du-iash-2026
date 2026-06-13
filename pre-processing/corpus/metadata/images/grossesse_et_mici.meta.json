@@ -1,0 +1,11 @@
+{
+  "id": "image:e12cd738bc600eaa",
+  "status": "done",
+  "source_file": "grossesse_et_mici.png",
+  "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+  "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "e12cd738bc600eaa4486f35dce97c4ff962708eca2d40e53c5d682bdcb2bd4ff",
+  "created_at": "2026-06-10T16:25:33.270077+00:00"
+}

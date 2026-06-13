@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:5dda4daf7f0dd8cd:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "09fb01aeb9724160896adf9031dd44079ea90178c0431613aab8d64c1ca6ca67",
+  "translated_at": "2026-06-10T20:38:54.303523+00:00",
+  "model": "gpt-5-mini",
+  "text": "additives are not all the same.\nSome additives are harmless. For others, studies are ongoing or have already proven their negative impact on our health. Products containing food additives are therefore not necessarily to be banned; it seems preferable to limit their quan-\ntity. Hence the importance of knowing how to read labels to be able to make an informed choice.\nProduced with the support of",
+  "row": {
+    "id": "pdf:5dda4daf7f0dd8cd:chunk:4:en",
+    "document_id": "pdf:5dda4daf7f0dd8cd",
+    "chunk_index": 4,
+    "source_file": "additifs_alimentaires.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/additifs_alimentaires.pdf",
+    "text_path": "corpus/texts/pdfs/additifs_alimentaires.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "additives are not all the same.\nSome additives are harmless. For others, studies are ongoing or have already proven their negative impact on our health. Products containing food additives are therefore not necessarily to be banned; it seems preferable to limit their quan-\ntity. Hence the importance of knowing how to read labels to be able to make an informed choice.\nProduced with the support of",
+    "source_id": "pdf:5dda4daf7f0dd8cd:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:54.303523+00:00",
+    "source_text_sha256": "09fb01aeb9724160896adf9031dd44079ea90178c0431613aab8d64c1ca6ca67"
+  }
+}

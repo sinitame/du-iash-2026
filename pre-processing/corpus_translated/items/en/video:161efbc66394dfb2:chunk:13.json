@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:13",
+  "target_language": "en",
+  "source_text_sha256": "0f3fa4de4054267dab9067a26af0f54b4e24182bae6ceb407a8b75f39195e44f",
+  "translated_at": "2026-06-10T20:48:05.726416+00:00",
+  "model": "gpt-5-mini",
+  "text": "Exercises again. You are going to breathe in and feel it on your sternum. You hold for a short moment with each breath and then, now, you will breathe out a little. And you relax everything very gently. And you quietly notice whatever sensations are there, very gently. And now, about your fear, I invite you to come and notice it calmly. Gently place your hands where it helps. You can very gently take a breath and feel your belly rise and fall; be very, very gentle. On the exhale, let go as slowly and as gently as possible. And you are on the exhale. And you are in the flow, as gently as possible. Very, very gently. And you relax quietly and you are at the heart of the sensations in your abdomen. Everything that comes along the way. We will repeat and do this a few times. Now I bring my hands near your name and you inhale as gently as possible into rest, very, very gently; do not anticipate and just breathe. And you feel safe and very calm. And when it feels a bit strong, you may feel it come on too quickly and very...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:13:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 13,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Exercises again. You are going to breathe in and feel it on your sternum. You hold for a short moment with each breath and then, now, you will breathe out a little. And you relax everything very gently. And you quietly notice whatever sensations are there, very gently. And now, about your fear, I invite you to come and notice it calmly. Gently place your hands where it helps. You can very gently take a breath and feel your belly rise and fall; be very, very gentle. On the exhale, let go as slowly and as gently as possible. And you are on the exhale. And you are in the flow, as gently as possible. Very, very gently. And you relax quietly and you are at the heart of the sensations in your abdomen. Everything that comes along the way. We will repeat and do this a few times. Now I bring my hands near your name and you inhale as gently as possible into rest, very, very gently; do not anticipate and just breathe. And you feel safe and very calm. And when it feels a bit strong, you may feel it come on too quickly and very...",
+    "source_id": "video:161efbc66394dfb2:chunk:13",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:05.726416+00:00",
+    "source_text_sha256": "0f3fa4de4054267dab9067a26af0f54b4e24182bae6ceb407a8b75f39195e44f"
+  }
+}

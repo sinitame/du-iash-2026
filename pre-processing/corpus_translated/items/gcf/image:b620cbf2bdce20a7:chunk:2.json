@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "1708ed631550aafbad5ff59fd62c5646e65acfe907fee678314b7f85c3a851df",
+  "translated_at": "2026-06-10T20:49:08.913487+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ou ké donk an arè maladi pandan sa jou\nnée-a (arè maladi pa ka détinyé an dé\nmi-jouné) é, daprè dwa-w é sitiyasyon-w,\nou pé ké jwenn indemnité jounalyé adan Sécurité sociale.\nPou moun ki an ALD, delè karans 3 jou pou vèrsman indemnité\njounalyé-a pa aplike ki an sèl fwa pa on\npériòd 3 an.\nPandan an arè maladi, anpatwon pé vèrsé on\nsiplément pou rémunération, règl-la dépann\ndé tan ou ni asi lantrepriz-la (an jénéral on\nan minimòm) épi konvansyon kolektif ki aplikab.\nSé menm bagay pou règl ki konsidè jou karans yo.\n\nafa - 32 rue de cambrai 75019 Pari\ne-mail - site : www.afa.asso.fr\n\nOktòb 2021\n\nAtansyon, apré 3 an fò ou travay on an avan\npou pé ké jwenn ankò arè maladi peye (adan sèten kès Sécurité\nsociale, pasé an lopital jou pandan périòd on an sa a ka\nentèrwonp rékonstriksyon dwa yo, si ou ni difikilté\nsagnalé sa ba afa)",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:2:gcf",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 2,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Ou ké donk an arè maladi pandan sa jou\nnée-a (arè maladi pa ka détinyé an dé\nmi-jouné) é, daprè dwa-w é sitiyasyon-w,\nou pé ké jwenn indemnité jounalyé adan Sécurité sociale.\nPou moun ki an ALD, delè karans 3 jou pou vèrsman indemnité\njounalyé-a pa aplike ki an sèl fwa pa on\npériòd 3 an.\nPandan an arè maladi, anpatwon pé vèrsé on\nsiplément pou rémunération, règl-la dépann\ndé tan ou ni asi lantrepriz-la (an jénéral on\nan minimòm) épi konvansyon kolektif ki aplikab.\nSé menm bagay pou règl ki konsidè jou karans yo.\n\nafa - 32 rue de cambrai 75019 Pari\ne-mail - site : www.afa.asso.fr\n\nOktòb 2021\n\nAtansyon, apré 3 an fò ou travay on an avan\npou pé ké jwenn ankò arè maladi peye (adan sèten kès Sécurité\nsociale, pasé an lopital jou pandan périòd on an sa a ka\nentèrwonp rékonstriksyon dwa yo, si ou ni difikilté\nsagnalé sa ba afa)",
+    "source_id": "image:b620cbf2bdce20a7:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:08.913487+00:00",
+    "source_text_sha256": "1708ed631550aafbad5ff59fd62c5646e65acfe907fee678314b7f85c3a851df"
+  }
+}

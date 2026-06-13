@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "bb56921a7d35f7891b3bd69356571cdce04b2d7afc4479a3e9cdb620747ea0bb",
+  "translated_at": "2026-06-10T21:18:50.207096+00:00",
+  "model": "gpt-5-mini",
+  "text": "swa yo ka ba’w adan kay la osnon an perfizyon anlè lopital. An plis, i posib swiv on réjim partikilyé ki pé osi efikas kon on tretman pou fon. Lòt médikaman pé osi kalmé doulè a é édé’w guéri. Lè médikaman yo pa ka marchè, oubyen lè trip la two abimé, pafwa fo fè on operasyon. Sa souvant trè efikas, menm si i pa toujou définitif. Pou egzamp, lè dé orgàn ki pa dwèt relié yonn èvè lòt — yo ka apelé sa on fistul — oubyen lè on pati tib dijestif la vin étwéy, yo ka apelé sa on sténoz. Chirijyen an ka oté pati malad yo. Pafwa trip la relié a po a; yo ka apelé sa on stomie. An jénéral yo kouvè’y épi on pòch plastik. Pou sav si médikaman yo ka fonksyonné é si maladi a aktif, fo fè ekzamen médikal régilyèman. Ékografi, ki pèmèt wè andidan kò a lè yo sèvi épi on sond d’ultrason yo mété asi vant ou. Calprotectine fécale, ki pèmèt ekzaminé sèl-la pou évalué eta anflamasyon nan trip la.",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:1:gcf",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 1,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "swa yo ka ba’w adan kay la osnon an perfizyon anlè lopital. An plis, i posib swiv on réjim partikilyé ki pé osi efikas kon on tretman pou fon. Lòt médikaman pé osi kalmé doulè a é édé’w guéri. Lè médikaman yo pa ka marchè, oubyen lè trip la two abimé, pafwa fo fè on operasyon. Sa souvant trè efikas, menm si i pa toujou définitif. Pou egzamp, lè dé orgàn ki pa dwèt relié yonn èvè lòt — yo ka apelé sa on fistul — oubyen lè on pati tib dijestif la vin étwéy, yo ka apelé sa on sténoz. Chirijyen an ka oté pati malad yo. Pafwa trip la relié a po a; yo ka apelé sa on stomie. An jénéral yo kouvè’y épi on pòch plastik. Pou sav si médikaman yo ka fonksyonné é si maladi a aktif, fo fè ekzamen médikal régilyèman. Ékografi, ki pèmèt wè andidan kò a lè yo sèvi épi on sond d’ultrason yo mété asi vant ou. Calprotectine fécale, ki pèmèt ekzaminé sèl-la pou évalué eta anflamasyon nan trip la.",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:18:50.207096+00:00",
+    "source_text_sha256": "bb56921a7d35f7891b3bd69356571cdce04b2d7afc4479a3e9cdb620747ea0bb"
+  }
+}

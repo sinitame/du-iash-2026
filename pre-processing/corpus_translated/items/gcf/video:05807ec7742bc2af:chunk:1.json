@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "e223407d1fa6329aa82f37276d15907d0978a9073d66caad93da1e325193c965",
+  "translated_at": "2026-06-10T21:14:58.771425+00:00",
+  "model": "gpt-5-mini",
+  "text": "Alò, byen, appiyé asi tè-a. Ou ké kapab santi bò trè ekstèn pye-w, dwèt pye yo épi talon yo, apré sa appiyé asi bòd entènn pye-w. Lè sa, ou ké roulé pwa-a asi pye-w épi ou ké pozé pye-w byen appiyé.\n\nOu pé imajiné kon si ou ni rasin byen ankré adan tè-a, pou santi anba pye-w kiyès pati ki ka pòt pwa-a épi pou byen konekté èvè tè-a.\n\nEs ki i pli pré 2,0 ousa i pli pré 2?\n\nTout dousman, trankilman, mwen envité-w pran konsyans, nonm sansasyon ki ka meziré entansité santiman-w la, épi son fòs, on ti pé, pwopoze adan jès-la pou vini pli sou pati sa-a.\n\nOu ké déwoulé pye-w, ou ké appiyé plis kounyé-a, épi ou ké repoze sans ou asi do-w. Ou ké eseyé remèt trankilman do-w dwat; pou sa, ou pé santi on ti tansyon adan zepòl yo, é pou pafè poz-la, ou pé bese on ti kras machwè-w, é trankilman kenbé tèt-w dwat.\n\nOu obsèvé trankilman sansasyon adan do-w ki ka détann, ki ka relaché, épi pran konsyans do-w. Kounyé-a ki ou pran konsyans",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:1:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 1,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Alò, byen, appiyé asi tè-a. Ou ké kapab santi bò trè ekstèn pye-w, dwèt pye yo épi talon yo, apré sa appiyé asi bòd entènn pye-w. Lè sa, ou ké roulé pwa-a asi pye-w épi ou ké pozé pye-w byen appiyé.\n\nOu pé imajiné kon si ou ni rasin byen ankré adan tè-a, pou santi anba pye-w kiyès pati ki ka pòt pwa-a épi pou byen konekté èvè tè-a.\n\nEs ki i pli pré 2,0 ousa i pli pré 2?\n\nTout dousman, trankilman, mwen envité-w pran konsyans, nonm sansasyon ki ka meziré entansité santiman-w la, épi son fòs, on ti pé, pwopoze adan jès-la pou vini pli sou pati sa-a.\n\nOu ké déwoulé pye-w, ou ké appiyé plis kounyé-a, épi ou ké repoze sans ou asi do-w. Ou ké eseyé remèt trankilman do-w dwat; pou sa, ou pé santi on ti tansyon adan zepòl yo, é pou pafè poz-la, ou pé bese on ti kras machwè-w, é trankilman kenbé tèt-w dwat.\n\nOu obsèvé trankilman sansasyon adan do-w ki ka détann, ki ka relaché, épi pran konsyans do-w. Kounyé-a ki ou pran konsyans",
+    "source_id": "video:05807ec7742bc2af:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:58.771425+00:00",
+    "source_text_sha256": "e223407d1fa6329aa82f37276d15907d0978a9073d66caad93da1e325193c965"
+  }
+}

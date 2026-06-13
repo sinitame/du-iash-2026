@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "96a5aade64cfceb1064eac5fd7030e646153c66d28c2dfefd85ac15658866e6a",
+  "translated_at": "2026-06-10T20:46:39.384296+00:00",
+  "model": "gpt-5-mini",
+  "text": "the inside of the body using an ultrasound probe that is placed on your belly. The fecal calprotectin test, which allows us to examine your stools to assess the level of inflammation in your intestine. The blood test, during which a small sample of your blood is taken for analysis. The endoscopy, performed while you sleep, during which a tiny camera attached to a flexible tube with a light is inserted into your intestine via the mouth or the nose. And finally, the MRI or CT scan, which are large shiny machines that allow us to get very clear images of your belly without opening it. Do you still have questions about your illness? Then watch the other videos in the series Les Modes Vintres to help you better understand the disease and the difficulties you face every day. Understanding your illness and your treatment is the best way to keep your spirits up and to fight to get better.",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:2:en",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 2,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "the inside of the body using an ultrasound probe that is placed on your belly. The fecal calprotectin test, which allows us to examine your stools to assess the level of inflammation in your intestine. The blood test, during which a small sample of your blood is taken for analysis. The endoscopy, performed while you sleep, during which a tiny camera attached to a flexible tube with a light is inserted into your intestine via the mouth or the nose. And finally, the MRI or CT scan, which are large shiny machines that allow us to get very clear images of your belly without opening it. Do you still have questions about your illness? Then watch the other videos in the series Les Modes Vintres to help you better understand the disease and the difficulties you face every day. Understanding your illness and your treatment is the best way to keep your spirits up and to fight to get better.",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:39.384296+00:00",
+    "source_text_sha256": "96a5aade64cfceb1064eac5fd7030e646153c66d28c2dfefd85ac15658866e6a"
+  }
+}

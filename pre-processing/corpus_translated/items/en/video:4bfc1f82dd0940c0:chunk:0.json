@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "b2109b6a8b2e7c146039f5c6df155c7911e37b25fd56497bce923d0a6e41afb0",
+  "translated_at": "2026-06-10T20:46:38.348452+00:00",
+  "model": "gpt-5-mini",
+  "text": "Can we treat my miki? Miki are illnesses that you carry inside you, and that can turn on and off at different times. For now, it is not possible to cure them. That’s why it’s important to be well followed, especially to avoid or limit the risk of relapse of the disease. And fortunately, there are medicines that can help you feel better. When you are having a flare-up of the disease, we use medications depending on how serious your crisis is, such as the five hasards, corticohyd, immunosuppressants or biotherapies. Some medicines help put out the fire, like corticohyd. Others work more in the long term to keep the calm phases, like immunosuppressants or biotherapies. That’s why, to avoid getting sick again, you may be prescribed immunosuppressants to take daily for several years, or very targeted biotherapies against inflammation in the form of injections given at home or by infusion in the hospital. Finally, it is also possible to follow a specific diet that can be as effective as a maintenance treatment. Other medications",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:0:en",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 0,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Can we treat my miki? Miki are illnesses that you carry inside you, and that can turn on and off at different times. For now, it is not possible to cure them. That’s why it’s important to be well followed, especially to avoid or limit the risk of relapse of the disease. And fortunately, there are medicines that can help you feel better. When you are having a flare-up of the disease, we use medications depending on how serious your crisis is, such as the five hasards, corticohyd, immunosuppressants or biotherapies. Some medicines help put out the fire, like corticohyd. Others work more in the long term to keep the calm phases, like immunosuppressants or biotherapies. That’s why, to avoid getting sick again, you may be prescribed immunosuppressants to take daily for several years, or very targeted biotherapies against inflammation in the form of injections given at home or by infusion in the hospital. Finally, it is also possible to follow a specific diet that can be as effective as a maintenance treatment. Other medications",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:38.348452+00:00",
+    "source_text_sha256": "b2109b6a8b2e7c146039f5c6df155c7911e37b25fd56497bce923d0a6e41afb0"
+  }
+}

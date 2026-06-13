@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:9097897d79118962:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "300dcee533277ed7d4f0a2a42cfd2d7c79506176083e5e63cf0e6d15b56eb2e7",
+  "translated_at": "2026-06-10T20:37:40.933502+00:00",
+  "model": "gpt-5-mini",
+  "text": "Methotrexate is a medication that can cause fatigue in the hours and sometimes days following its administration (by intramuscular, subcutaneous, or oral route) in a non-negligible percentage of patients. Unlike azathioprine or Purinethol, this effect does not always lessen over time and may require discontinuation of the treatment. Nevertheless, this decision can only be made in agreement with the responsible practitioner and must be weighed against the risks of disease worsening.\n\nIMPACT OF ANTI-TNE\nON FATIGUE\n\nNumerous studies show that anti-TNFα agents significantly improve fatigue scores and quality of life scores. There are also some conflicting data reporting an excess of fatigue in patients treated with anti-TNFα, but this may be related to more severe and/or more active disease.",
+  "row": {
+    "id": "image:9097897d79118962:chunk:1:en",
+    "document_id": "image:9097897d79118962",
+    "chunk_index": 1,
+    "source_file": "fatigue_traitement.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_traitement.png",
+    "text_path": "corpus/texts/images/fatigue_traitement.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Methotrexate is a medication that can cause fatigue in the hours and sometimes days following its administration (by intramuscular, subcutaneous, or oral route) in a non-negligible percentage of patients. Unlike azathioprine or Purinethol, this effect does not always lessen over time and may require discontinuation of the treatment. Nevertheless, this decision can only be made in agreement with the responsible practitioner and must be weighed against the risks of disease worsening.\n\nIMPACT OF ANTI-TNE\nON FATIGUE\n\nNumerous studies show that anti-TNFα agents significantly improve fatigue scores and quality of life scores. There are also some conflicting data reporting an excess of fatigue in patients treated with anti-TNFα, but this may be related to more severe and/or more active disease.",
+    "source_id": "image:9097897d79118962:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:40.933502+00:00",
+    "source_text_sha256": "300dcee533277ed7d4f0a2a42cfd2d7c79506176083e5e63cf0e6d15b56eb2e7"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:73",
+  "target_language": "en",
+  "source_text_sha256": "3f7b00a93444349ce7b525262511ed0a27820b5c3b72ed04f3060157b0c7601f",
+  "translated_at": "2026-06-10T20:42:16.967381+00:00",
+  "model": "gpt-5-mini",
+  "text": "therapy - a randomized prospective clinical trial in children with Crohn’s disease. J Crohns Colitis 2019;13:846-55.\n67. Rubio A, Pigneur B, Garnier-Lengliné H, et al. The efficacy of exclusive nutritional therapy in pediatric Crohn’s disease, comparing fractionated oral vs. continuous enteral feeding. Aliment Pharmacol Ther. 2011;33:1332-9.\n68. Catto S, Dugelay E, Viala J, et al. Exclusive enteral nutrition for induction of remission in pediatric Crohn’s disease: short- and long-term tolerance and acceptance. JPGN Rep. 2024;6:11-18.\n69. Levine A, Kori M, Dinari G, et al. Israeli Pediatric Budesonide Study Group. Comparison of two dosing methods for induction of response and remission with oral budesonide in active pediatric Crohn’s disease: a randomized placebo-controlled trial. Inflamm Bowel Dis. 2009;15:1055-61.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:73:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 73,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "therapy - a randomized prospective clinical trial in children with Crohn’s disease. J Crohns Colitis 2019;13:846-55.\n67. Rubio A, Pigneur B, Garnier-Lengliné H, et al. The efficacy of exclusive nutritional therapy in pediatric Crohn’s disease, comparing fractionated oral vs. continuous enteral feeding. Aliment Pharmacol Ther. 2011;33:1332-9.\n68. Catto S, Dugelay E, Viala J, et al. Exclusive enteral nutrition for induction of remission in pediatric Crohn’s disease: short- and long-term tolerance and acceptance. JPGN Rep. 2024;6:11-18.\n69. Levine A, Kori M, Dinari G, et al. Israeli Pediatric Budesonide Study Group. Comparison of two dosing methods for induction of response and remission with oral budesonide in active pediatric Crohn’s disease: a randomized placebo-controlled trial. Inflamm Bowel Dis. 2009;15:1055-61.",
+    "source_id": "pdf:398e12446d466067:chunk:73",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:16.967381+00:00",
+    "source_text_sha256": "3f7b00a93444349ce7b525262511ed0a27820b5c3b72ed04f3060157b0c7601f"
+  }
+}

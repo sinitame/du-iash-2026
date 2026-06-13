@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:84e4c5ee89a4d55a:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "8d73aa2af263b0cd30c9b0fab70ba9f6d1a204ad450f2534de3f9183f224b980",
+  "translated_at": "2026-06-10T21:19:20.525549+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Es ké m' ké ni lòt sentòm ki pa jis dijestif ? Alò, maladi enflamatwa ki grav, pé ni manifestasyon enflamatwa ki kay sòti asou lòt ògàn é an patikilyé asou atikilasyon. Afè enflamatwa asou atikilasyon sé on afè ki espesyal : sé doulè ki pé vini bonè adan maten é on sansasyon pou pa pé sèvi atikilasyon yo adan maten-an, sa nou ka voyé déwouyaj matinal : adan trant prémyé minit-la, nou on ti kon on ti vyé, sa fè mal, nou maladé mouvé, épi pli plis pandan jouné-a sa alé miyò. Konsa, sé on atak enflamatwa é fò nou pran an chaj li. Doulè ki vini ad fen jouné-a, sé plis on pwoblèm mekanik é i pé pa ni awè épi maladi-la. Apre sa, pé ni lòt afè. Donk lè on ni doulè adò, sé pa nòmal koté an timoun ouswa an adilt, nou ké alé wè doulè adò-la. Maladi enflamatwa, an vré, ka fè déminéralizé, é sa pé bay fracture, konpresyon vétébral. Donk si zot ni doulè ad...",
+  "row": {
+    "id": "video:84e4c5ee89a4d55a:chunk:0:gcf",
+    "document_id": "video:84e4c5ee89a4d55a",
+    "chunk_index": 0,
+    "source_file": "cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "text_path": "corpus/texts/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Es ké m' ké ni lòt sentòm ki pa jis dijestif ? Alò, maladi enflamatwa ki grav, pé ni manifestasyon enflamatwa ki kay sòti asou lòt ògàn é an patikilyé asou atikilasyon. Afè enflamatwa asou atikilasyon sé on afè ki espesyal : sé doulè ki pé vini bonè adan maten é on sansasyon pou pa pé sèvi atikilasyon yo adan maten-an, sa nou ka voyé déwouyaj matinal : adan trant prémyé minit-la, nou on ti kon on ti vyé, sa fè mal, nou maladé mouvé, épi pli plis pandan jouné-a sa alé miyò. Konsa, sé on atak enflamatwa é fò nou pran an chaj li. Doulè ki vini ad fen jouné-a, sé plis on pwoblèm mekanik é i pé pa ni awè épi maladi-la. Apre sa, pé ni lòt afè. Donk lè on ni doulè adò, sé pa nòmal koté an timoun ouswa an adilt, nou ké alé wè doulè adò-la. Maladi enflamatwa, an vré, ka fè déminéralizé, é sa pé bay fracture, konpresyon vétébral. Donk si zot ni doulè ad...",
+    "source_id": "video:84e4c5ee89a4d55a:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:20.525549+00:00",
+    "source_text_sha256": "8d73aa2af263b0cd30c9b0fab70ba9f6d1a204ad450f2534de3f9183f224b980"
+  }
+}

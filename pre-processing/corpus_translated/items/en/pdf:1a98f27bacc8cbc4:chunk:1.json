@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "a44feff9557d41a9716f9dcc7760a58a3cbd04c9fa02f2dd442ef602bf3de7ce",
+  "translated_at": "2026-06-10T20:43:38.439202+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\nA WORD FROM THE EXPERTS\nIn case of relapse during phases 2 or 3 of the CDED, a return to the previous phase will be necessary. At the end of the CDED, appropriate nutritional care is recommended. A transition to a more diversified diet, excluding ultra-processed foods, can be considered with appropriate dietetic follow-up.\nA WORD FROM THE EXPERTS\nThe CDED is not suitable for all patients. Its implementation requires a medical prescription and personalized follow-up by your gastroenterologist as well as a specialized dietitian.\nThe CDED can be used alone or in combination with medical treatment.\nWhat is the CDED ?\nWhat is the CDED ?\nThe exclusion of certain foods, replaced by artificial nutrition (oral or by tube), could allow induction of remission and healing in Crohn’s disease1. Exclusive Enteral Nutrition (EEN) is nevertheless difficult to follow for several weeks.\nThe Crohn’s Disease Exclusion Diet (CDED), or the exclusion diet for Crohn’s disease, is a therapeutic dietary strategy based on the exclusion of certain foods, replaced p",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:1:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 1,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 2 ---\nA WORD FROM THE EXPERTS\nIn case of relapse during phases 2 or 3 of the CDED, a return to the previous phase will be necessary. At the end of the CDED, appropriate nutritional care is recommended. A transition to a more diversified diet, excluding ultra-processed foods, can be considered with appropriate dietetic follow-up.\nA WORD FROM THE EXPERTS\nThe CDED is not suitable for all patients. Its implementation requires a medical prescription and personalized follow-up by your gastroenterologist as well as a specialized dietitian.\nThe CDED can be used alone or in combination with medical treatment.\nWhat is the CDED ?\nWhat is the CDED ?\nThe exclusion of certain foods, replaced by artificial nutrition (oral or by tube), could allow induction of remission and healing in Crohn’s disease1. Exclusive Enteral Nutrition (EEN) is nevertheless difficult to follow for several weeks.\nThe Crohn’s Disease Exclusion Diet (CDED), or the exclusion diet for Crohn’s disease, is a therapeutic dietary strategy based on the exclusion of certain foods, replaced p",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:38.439202+00:00",
+    "source_text_sha256": "a44feff9557d41a9716f9dcc7760a58a3cbd04c9fa02f2dd442ef602bf3de7ce"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "b3893bedf166893b22c2cf22fd435dff177a95f787c7e4ccffa9cd7e5bf9ab06",
+  "translated_at": "2026-06-10T20:39:14.413862+00:00",
+  "model": "gpt-5-mini",
+  "text": "\" ? If it's light in one way, it's because something else has been added elsewhere to achieve a \"similar\" result. Example: reduced-fat foods often contain emulsifiers for texture.\nOverall, the more a product touts its qualities,\nthe more you should be cautious. As the proverb says: \"Culture is like jam: the less you have, the more you spread it.\"",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:5:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 5,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "\" ? If it's light in one way, it's because something else has been added elsewhere to achieve a \"similar\" result. Example: reduced-fat foods often contain emulsifiers for texture.\nOverall, the more a product touts its qualities,\nthe more you should be cautious. As the proverb says: \"Culture is like jam: the less you have, the more you spread it.\"",
+    "source_id": "pdf:2499a50038a1326f:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:14.413862+00:00",
+    "source_text_sha256": "b3893bedf166893b22c2cf22fd435dff177a95f787c7e4ccffa9cd7e5bf9ab06"
+  }
+}

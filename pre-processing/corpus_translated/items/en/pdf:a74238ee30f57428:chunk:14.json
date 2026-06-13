@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:14",
+  "target_language": "en",
+  "source_text_sha256": "9ebc430ae60309b5e3080a0a9cc9004396820fbeac073d1ad2dd28f5a546866f",
+  "translated_at": "2026-06-10T20:43:17.260087+00:00",
+  "model": "gpt-5-mini",
+  "text": "As with all chronic illnesses, parents tend to overprotect their children (\"helicopter parents\").\nThis is natural and often helps them feel well; but as soon as your daughter or your son is old enough, it is important that they learn to take care of themselves, to be independent, to manage their own treatment, or to call the doctor directly when they need to. This illness can lead to tensions between parents and children, especially during adolescence.\nParents' worry shows itself when the child does not eat or loses weight; you should then talk with them because they may need to discuss it. This discussion can also take place with your doctor.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:14:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 14,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "As with all chronic illnesses, parents tend to overprotect their children (\"helicopter parents\").\nThis is natural and often helps them feel well; but as soon as your daughter or your son is old enough, it is important that they learn to take care of themselves, to be independent, to manage their own treatment, or to call the doctor directly when they need to. This illness can lead to tensions between parents and children, especially during adolescence.\nParents' worry shows itself when the child does not eat or loses weight; you should then talk with them because they may need to discuss it. This discussion can also take place with your doctor.",
+    "source_id": "pdf:a74238ee30f57428:chunk:14",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:17.260087+00:00",
+    "source_text_sha256": "9ebc430ae60309b5e3080a0a9cc9004396820fbeac073d1ad2dd28f5a546866f"
+  }
+}

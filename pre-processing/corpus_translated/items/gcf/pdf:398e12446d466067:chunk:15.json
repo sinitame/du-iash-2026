@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:15",
+  "target_language": "gcf",
+  "source_text_sha256": "7b108a4f23ca9053ef9d3d3c226db39cbb67b1576c328f680e88a479fc11e909",
+  "translated_at": "2026-06-10T20:52:37.919863+00:00",
+  "model": "gpt-5-mini",
+  "text": "nisantes kot timoun yo pli sansib.\nSa imajri-la pé fèt pli ta an ka RCH tipik, asi baz endoskopi é istoloji. I toujou enpòtan an plis adan ka soupsyon maladi de Crohn, adan pasyan kot iléon pa té pé vizyalizé, adan pasyan ki ka montré on rectocolite hémorragique parèt épi on présentasyon atipik é adan pasyan ki gen on kolit indetermine. Kon adilt-la, vidéo-kapsil endoskopik-la jwenn on indikasyon elektiv an ka atak ki préferansyèl osnon izolé adan intestin grèl, é pou fasilité dyagnostik différans ant MC é RCH (40). Timoun yo, an jeneral, ka avalé vidéo-kapsil la depi laj 8–10 an. I pé largé pa vwa endoskopik depi 10 kg.\n\nEndoskopi é lésyon primè\nYo ka rekòmandé fè systématikman on endoskopi œso-gastro-duodénal é on iléo-coloscopie. Menm si pa ni lésyon makwoskopik anlè trakt digèsif sipéryè a, fè biyopsi miltip étajé (2 pa segments) pèmèt montré an anatomopatoloji prezans de gr",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:15:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 15,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "nisantes kot timoun yo pli sansib.\nSa imajri-la pé fèt pli ta an ka RCH tipik, asi baz endoskopi é istoloji. I toujou enpòtan an plis adan ka soupsyon maladi de Crohn, adan pasyan kot iléon pa té pé vizyalizé, adan pasyan ki ka montré on rectocolite hémorragique parèt épi on présentasyon atipik é adan pasyan ki gen on kolit indetermine. Kon adilt-la, vidéo-kapsil endoskopik-la jwenn on indikasyon elektiv an ka atak ki préferansyèl osnon izolé adan intestin grèl, é pou fasilité dyagnostik différans ant MC é RCH (40). Timoun yo, an jeneral, ka avalé vidéo-kapsil la depi laj 8–10 an. I pé largé pa vwa endoskopik depi 10 kg.\n\nEndoskopi é lésyon primè\nYo ka rekòmandé fè systématikman on endoskopi œso-gastro-duodénal é on iléo-coloscopie. Menm si pa ni lésyon makwoskopik anlè trakt digèsif sipéryè a, fè biyopsi miltip étajé (2 pa segments) pèmèt montré an anatomopatoloji prezans de gr",
+    "source_id": "pdf:398e12446d466067:chunk:15",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:37.919863+00:00",
+    "source_text_sha256": "7b108a4f23ca9053ef9d3d3c226db39cbb67b1576c328f680e88a479fc11e909"
+  }
+}

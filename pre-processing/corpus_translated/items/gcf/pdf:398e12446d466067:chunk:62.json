@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:62",
+  "target_language": "gcf",
+  "source_text_sha256": "79d9ee6df5fb3c392f8d3db8753e80d1b40582863b8220d7eddcb107a0c8cc67",
+  "translated_at": "2026-06-10T20:55:14.411363+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ng SC, Shi HY, Hamidi N. Ensidans é prévalans mondyal maladi entesten enflamatwa an 21yèm siékl: on révizyon sistématik adan létid ki bazé asou popilasyon. Lancet 2017; 390:2769-2778.\n11. Ghione S, Sarter H, Armengol-Debeir L, et al. Ogmantasyon dramatik an ensidans kolit ulcératif é maladi Crohn (1988-2011): on létid bazé asou popilasyon adolesan an Frans. Am J Gastroenterol. 2018;113:265-272.\n12. Borowitz SM. Epidémioloji maladi entesten enflamatwa: endikasyon asou patojenez. Front Pediatr. 2023;10:1103713.\n13. Khan R, Kuenzig ME, Benchimol EI. Epidémioloji maladi entesten enflamatwa pédiatrik. Gastroenterol Clin North Am. 2023;52:483-496.\n14. Li Y, Tian Y, Zhu W, et al. Akouchman pa césarienne é risk maladi entesten enflamatwa: on révizyon sistématik é méta-analiz. Scand J Gastroenterol. 2014;49:834-44.\n15. Bruce A, Black M, Bhattacharya S. Mòd akouchman é risk maladi entesten enflamatwa adan pitit: révizyon sistématik é méta-analiz asou létid obsèvatwa. Inflamm Bowel Dis. 2014;20:1217-26.\n16. Barclay AR, Russell RK, Wilson ML, et al. Révizyon sistématik: wòl bay tèt an dévlopman pédiatrik inf",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:62:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 62,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Ng SC, Shi HY, Hamidi N. Ensidans é prévalans mondyal maladi entesten enflamatwa an 21yèm siékl: on révizyon sistématik adan létid ki bazé asou popilasyon. Lancet 2017; 390:2769-2778.\n11. Ghione S, Sarter H, Armengol-Debeir L, et al. Ogmantasyon dramatik an ensidans kolit ulcératif é maladi Crohn (1988-2011): on létid bazé asou popilasyon adolesan an Frans. Am J Gastroenterol. 2018;113:265-272.\n12. Borowitz SM. Epidémioloji maladi entesten enflamatwa: endikasyon asou patojenez. Front Pediatr. 2023;10:1103713.\n13. Khan R, Kuenzig ME, Benchimol EI. Epidémioloji maladi entesten enflamatwa pédiatrik. Gastroenterol Clin North Am. 2023;52:483-496.\n14. Li Y, Tian Y, Zhu W, et al. Akouchman pa césarienne é risk maladi entesten enflamatwa: on révizyon sistématik é méta-analiz. Scand J Gastroenterol. 2014;49:834-44.\n15. Bruce A, Black M, Bhattacharya S. Mòd akouchman é risk maladi entesten enflamatwa adan pitit: révizyon sistématik é méta-analiz asou létid obsèvatwa. Inflamm Bowel Dis. 2014;20:1217-26.\n16. Barclay AR, Russell RK, Wilson ML, et al. Révizyon sistématik: wòl bay tèt an dévlopman pédiatrik inf",
+    "source_id": "pdf:398e12446d466067:chunk:62",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:14.411363+00:00",
+    "source_text_sha256": "79d9ee6df5fb3c392f8d3db8753e80d1b40582863b8220d7eddcb107a0c8cc67"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:9",
+  "target_language": "en",
+  "source_text_sha256": "9ef5e93e275fec46895cd88805770ca263d66f9bc27ec1fa7a46e28b6c60cec6",
+  "translated_at": "2026-06-10T20:39:58.055803+00:00",
+  "model": "gpt-5-mini",
+  "text": "Polyunsaturated omega-3s showed a protective effect against UC (22). A meta-analysis showed a protective association between vegetable consumption and the risk of UC (OR 0.71) (23). A cohort study conducted in 21 countries showed that consumption of ultra-processed foods was associated with an increased risk of IBD (24). A meta-analysis showed that patients with IBD more frequently had vitamin D deficiency (25).\nClinique, biologie, \nendoscopie et imagerie\nClinical\nIn pediatric CD, only 25% of patients present the classic triad: abdominal pain, diarrhea and weight loss (9). CD can present with vague abdominal pain, unexplained anemia, recurrent fever, weight loss or growth retardation. Pediatric UC often presents with severe symptoms: profuse and nocturnal diarrhea, often mucoid and bloody, and weight loss. In more than 10% of pediatric cases, the distinction between CD and UC is difficult. The disease is then identified as indeterminate colitis. During disease progression, some cases",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:9:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 9,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Polyunsaturated omega-3s showed a protective effect against UC (22). A meta-analysis showed a protective association between vegetable consumption and the risk of UC (OR 0.71) (23). A cohort study conducted in 21 countries showed that consumption of ultra-processed foods was associated with an increased risk of IBD (24). A meta-analysis showed that patients with IBD more frequently had vitamin D deficiency (25).\nClinique, biologie, \nendoscopie et imagerie\nClinical\nIn pediatric CD, only 25% of patients present the classic triad: abdominal pain, diarrhea and weight loss (9). CD can present with vague abdominal pain, unexplained anemia, recurrent fever, weight loss or growth retardation. Pediatric UC often presents with severe symptoms: profuse and nocturnal diarrhea, often mucoid and bloody, and weight loss. In more than 10% of pediatric cases, the distinction between CD and UC is difficult. The disease is then identified as indeterminate colitis. During disease progression, some cases",
+    "source_id": "pdf:398e12446d466067:chunk:9",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:58.055803+00:00",
+    "source_text_sha256": "9ef5e93e275fec46895cd88805770ca263d66f9bc27ec1fa7a46e28b6c60cec6"
+  }
+}

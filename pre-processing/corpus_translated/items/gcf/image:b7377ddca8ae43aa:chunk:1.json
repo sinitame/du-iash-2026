@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b7377ddca8ae43aa:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "526f4e8700756cb7113ac4054f23596acbb3c98fc4c3807996b9452d5c262179",
+  "translated_at": "2026-06-10T20:49:58.477816+00:00",
+  "model": "gpt-5-mini",
+  "text": "Anvironnman pwofesyonèl-la kèl ki sòti (siperyè yérarchik, direksyon resous imen) pa ni dwa mandé-w kestyon pèsonèl. Alòs, ou pa ni okenn obligasyon légal pou palé di maladi-w, ki sé zafè lavi privé. Pèsòn pa ké kapab blamé-w pli ta si ou pa té di sa, pa ekzamp lè yo té ka anboche-w.\n\nMenm si ou ni on Rekonèsans Kwalité Travayè Andikapé (wè Dwa é Asirans - Fich n°1 Êtr rekonèt travayè andikapé), ou pa oblije fè-y sav. L'afa ka konseyi pou mandé-y préventivman, konsidré tan yo pran pou jwenn li si maladi a évolé.\n\nMédsen travay la sé sèl moun adan l'entreprise ki habilité pou ranmase enfòmasyon médical. Mete-li okouran pé édé-w jwenn aménajman pou plas travay la si sa néssésè. Mé ankò, pa ni okenn obligasyon.\n\nA KI, KAN, KIJAN PALÉ DI SA ?",
+  "row": {
+    "id": "image:b7377ddca8ae43aa:chunk:1:gcf",
+    "document_id": "image:b7377ddca8ae43aa",
+    "chunk_index": 1,
+    "source_file": "mici_au_travail.png",
+    "source_path": "/data/equipes/equipe-04/images/mici_au_travail.png",
+    "text_path": "corpus/texts/images/mici_au_travail.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Anvironnman pwofesyonèl-la kèl ki sòti (siperyè yérarchik, direksyon resous imen) pa ni dwa mandé-w kestyon pèsonèl. Alòs, ou pa ni okenn obligasyon légal pou palé di maladi-w, ki sé zafè lavi privé. Pèsòn pa ké kapab blamé-w pli ta si ou pa té di sa, pa ekzamp lè yo té ka anboche-w.\n\nMenm si ou ni on Rekonèsans Kwalité Travayè Andikapé (wè Dwa é Asirans - Fich n°1 Êtr rekonèt travayè andikapé), ou pa oblije fè-y sav. L'afa ka konseyi pou mandé-y préventivman, konsidré tan yo pran pou jwenn li si maladi a évolé.\n\nMédsen travay la sé sèl moun adan l'entreprise ki habilité pou ranmase enfòmasyon médical. Mete-li okouran pé édé-w jwenn aménajman pou plas travay la si sa néssésè. Mé ankò, pa ni okenn obligasyon.\n\nA KI, KAN, KIJAN PALÉ DI SA ?",
+    "source_id": "image:b7377ddca8ae43aa:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:58.477816+00:00",
+    "source_text_sha256": "526f4e8700756cb7113ac4054f23596acbb3c98fc4c3807996b9452d5c262179"
+  }
+}

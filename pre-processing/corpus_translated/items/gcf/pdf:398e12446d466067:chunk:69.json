@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:69",
+  "target_language": "gcf",
+  "source_text_sha256": "f3c79e637a98140fd55840016fce88ec7e79f6f87ce0134a2e5c1fa496a5814a",
+  "translated_at": "2026-06-10T21:06:18.021679+00:00",
+  "model": "gpt-5-mini",
+  "text": "kolit pou optimizé jèrman optimi-\nzasyon: Revizyon sistematik é deklarasyon konsansis sòti adan \nPwogram Ahead pou maladi entèstin enflamatwa pédiatrik. Gastro-\nenterology. 2021;160: 378-402.\n46.\tHochart A, Gower-Rousseau C, Sarter H, et al. Pwoktit ulseratif sé on lokalizazion frékant pou UC ki koumansé adan timoun é sé pa on maladi ti kras: on etid bazé asou popilasyon. Gut 2017;66: \n1912-1917.\n47.\tTal N, Tzivinikos C, Gasparetto M, et al. Karaktè klinik é istwa natirèl pasyan pédiatrik ki ni pwoktit ulseratif: on etid miltisant sòti nan Gwoup Pediatric IBD Porto di ESPGHAN. J Crohns Colitis 2023;17:1939-1948.\n48.\tTurner D, Hyams J, Markowitz J, et al. Pediatric IBD Collaborative Research Group. Evalyasyon endèks aktivité kolit ulseratif pédiatrik (PUCAI). Inflamm Bowel Dis. 2009;15:1218-23.\n49.\tVasseur F, Gower-Rousseau C, Vernier-Massouille G, et al. Eta nitrisyonèl é kwasans adan maladi Crohn pédiatrik: on etid bazé asou popilasyon. Am J Gastroenterol. 2010;105:1893-1900.\n50.\tKomaki Y, Komaki F, Yamada A, et al. Risk kansè adan pasyan ki gen maladi entèstin enflamatwa pédiatrik: on revizyon sistematik é métanaliz. J Pediatr. 2021;229: 102-11",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:69:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 69,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "kolit pou optimizé jèrman optimi-\nzasyon: Revizyon sistematik é deklarasyon konsansis sòti adan \nPwogram Ahead pou maladi entèstin enflamatwa pédiatrik. Gastro-\nenterology. 2021;160: 378-402.\n46.\tHochart A, Gower-Rousseau C, Sarter H, et al. Pwoktit ulseratif sé on lokalizazion frékant pou UC ki koumansé adan timoun é sé pa on maladi ti kras: on etid bazé asou popilasyon. Gut 2017;66: \n1912-1917.\n47.\tTal N, Tzivinikos C, Gasparetto M, et al. Karaktè klinik é istwa natirèl pasyan pédiatrik ki ni pwoktit ulseratif: on etid miltisant sòti nan Gwoup Pediatric IBD Porto di ESPGHAN. J Crohns Colitis 2023;17:1939-1948.\n48.\tTurner D, Hyams J, Markowitz J, et al. Pediatric IBD Collaborative Research Group. Evalyasyon endèks aktivité kolit ulseratif pédiatrik (PUCAI). Inflamm Bowel Dis. 2009;15:1218-23.\n49.\tVasseur F, Gower-Rousseau C, Vernier-Massouille G, et al. Eta nitrisyonèl é kwasans adan maladi Crohn pédiatrik: on etid bazé asou popilasyon. Am J Gastroenterol. 2010;105:1893-1900.\n50.\tKomaki Y, Komaki F, Yamada A, et al. Risk kansè adan pasyan ki gen maladi entèstin enflamatwa pédiatrik: on revizyon sistematik é métanaliz. J Pediatr. 2021;229: 102-11",
+    "source_id": "pdf:398e12446d466067:chunk:69",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:18.021679+00:00",
+    "source_text_sha256": "f3c79e637a98140fd55840016fce88ec7e79f6f87ce0134a2e5c1fa496a5814a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:33",
+  "target_language": "gcf",
+  "source_text_sha256": "8c3dc0f5348cb543fac3d3c5c9fed745da194a67bd532fa49a391df1e7cffee9",
+  "translated_at": "2026-06-10T20:53:28.529050+00:00",
+  "model": "gpt-5-mini",
+  "text": "épi antibyotik,\nchiriji, ouswa tou dé\nB2 (sténosant**)\nDilatasyon pré-sténotik, siy/sentòm obstriktif (ouswa tou dé)\nWo\nAnti-TNF an premié liy\nB3 (pénétrant***)\n—\nWo\nRéseksyon entestinal asosyé épi on tratman postoperatwa pa anti-TNF\nB3 (pénétrant***)\n—\nWo\nChiriji asosyé épi on tratman postoperatwa pa anti-TNF\nAbréviasyon : TNF = faktè nèkroz timoral\n* Maladi ekstansiv : enflamasyon pan-antérik (ti-entesten pwoksimal, iléon terminal é kolòn).\n** Sténosant : rétrèssman lòminal konstann montré pa ekzamen radyolojik oswa endoskopik.\n*** Pénétrant : perforasyon entestinal, fistil intra-abdominal, mas enflamatwa é/ou abse pandan maladi-a (san konplikasyon chirijikal).",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:33:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 33,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "épi antibyotik,\nchiriji, ouswa tou dé\nB2 (sténosant**)\nDilatasyon pré-sténotik, siy/sentòm obstriktif (ouswa tou dé)\nWo\nAnti-TNF an premié liy\nB3 (pénétrant***)\n—\nWo\nRéseksyon entestinal asosyé épi on tratman postoperatwa pa anti-TNF\nB3 (pénétrant***)\n—\nWo\nChiriji asosyé épi on tratman postoperatwa pa anti-TNF\nAbréviasyon : TNF = faktè nèkroz timoral\n* Maladi ekstansiv : enflamasyon pan-antérik (ti-entesten pwoksimal, iléon terminal é kolòn).\n** Sténosant : rétrèssman lòminal konstann montré pa ekzamen radyolojik oswa endoskopik.\n*** Pénétrant : perforasyon entestinal, fistil intra-abdominal, mas enflamatwa é/ou abse pandan maladi-a (san konplikasyon chirijikal).",
+    "source_id": "pdf:398e12446d466067:chunk:33",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:28.529050+00:00",
+    "source_text_sha256": "8c3dc0f5348cb543fac3d3c5c9fed745da194a67bd532fa49a391df1e7cffee9"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:37",
+  "target_language": "gcf",
+  "source_text_sha256": "a7aeb84638cd5885aae26639a78832c454158999b5fa89dd9d8de5fe1daa4337",
+  "translated_at": "2026-06-10T20:53:44.559697+00:00",
+  "model": "gpt-5-mini",
+  "text": "s 8 semenn. Timoun ki pézé < 30 kg, épi ipoalbuminemi osinon épi on maladi ki byen gaye souvan bizwen dòz pli wo oswa interval pli kout (79).\nAdalimumab : > 40 kg : 160 mg S0, 80 mg S2, pwi 40 mg chak 2 semenn ; < 40 kg : 80/40/20 mg chak 2 semenn. Konsidéré lé donné asi sous-dosaj adan timoun piti, dòz pli wo pé bizwen adan sèten ka.\nLòt opsyon\nOn tretman épi thalidomide pé indwi on rémisyon adan timoun ki refraktè, épi i ka bay on gwo to sikatrisasyon mukoz a 12 mwa (80,81). Toutfwa, efè endésirab li yo (sédasyon, neuropati périphérique, tératogénicité) ka limité itilizasyon li a sitiasyon konpléks (82).\nTretman pou antretyen rémisyon\nMéthotrexate (MTX)\nMTX ka rékomandé kon immunosupresè pou antretyen an premye liy ou an ka échec/oswa entolérance a thiopurines. Adménistré pa wout sou-kutané, intramusculèr oswa oral on fwa pa semenn a dòz 15 mg/m² (maks 25 mg), i permet on rémisyon klinik adan 25–53 % ka yo a 12 mwa (83,84). Administrasyon oral folat [5 mg, 24 a 72 èdtan apré métho",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:37:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 37,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "s 8 semenn. Timoun ki pézé < 30 kg, épi ipoalbuminemi osinon épi on maladi ki byen gaye souvan bizwen dòz pli wo oswa interval pli kout (79).\nAdalimumab : > 40 kg : 160 mg S0, 80 mg S2, pwi 40 mg chak 2 semenn ; < 40 kg : 80/40/20 mg chak 2 semenn. Konsidéré lé donné asi sous-dosaj adan timoun piti, dòz pli wo pé bizwen adan sèten ka.\nLòt opsyon\nOn tretman épi thalidomide pé indwi on rémisyon adan timoun ki refraktè, épi i ka bay on gwo to sikatrisasyon mukoz a 12 mwa (80,81). Toutfwa, efè endésirab li yo (sédasyon, neuropati périphérique, tératogénicité) ka limité itilizasyon li a sitiasyon konpléks (82).\nTretman pou antretyen rémisyon\nMéthotrexate (MTX)\nMTX ka rékomandé kon immunosupresè pou antretyen an premye liy ou an ka échec/oswa entolérance a thiopurines. Adménistré pa wout sou-kutané, intramusculèr oswa oral on fwa pa semenn a dòz 15 mg/m² (maks 25 mg), i permet on rémisyon klinik adan 25–53 % ka yo a 12 mwa (83,84). Administrasyon oral folat [5 mg, 24 a 72 èdtan apré métho",
+    "source_id": "pdf:398e12446d466067:chunk:37",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:44.559697+00:00",
+    "source_text_sha256": "a7aeb84638cd5885aae26639a78832c454158999b5fa89dd9d8de5fe1daa4337"
+  }
+}

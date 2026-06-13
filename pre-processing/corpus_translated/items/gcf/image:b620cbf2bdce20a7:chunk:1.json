@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:b620cbf2bdce20a7:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "c3673e9388071b5a7d0cba8e3b90ccb11b98486a4f679d2bf31b1244056a1531",
+  "translated_at": "2026-06-10T20:49:22.578135+00:00",
+  "model": "gpt-5-mini",
+  "text": "Vérifié osi si sitiasyon travayè andikapé (RQTH) pa ka bay dwa pou on akomodasyon adan sitiasyon tala (sa ka dépann asi konpayi é konvansyon koléktif, alò sé pa toujou systématik). Si sé ka-la, pa hésité mandé RÔTH (wè fiche afa asi sijè-a)\n\nSi patron an refizé lasé ou abséni pandan tan travay la, fò ou pran konjé oswa RTT pou al fè konsiltasyon, swen oswa ekzamen, oswa òganizé èvè patron an pou rattrapé lè travay ki pa fèt yo. Kèk malad pli préferé toujou pran konjé pou pa oblijé di patron an létat sante yo : sé a ou pou désidé an fonksyon sitiasyon ou.\n\nAN LOPITAL DJOU\n\nPerfizyon pou tretman oswa pou bay fè, koloskopi… yo fèt an hospitalizasyon djou. Adan ka-la, lopital ka ba ou on bilten sitiasyon ki ni menm valè kon on aré travay. Ou bizwen voyé’y bay patron ou épi, si sa nesesè, bay sécurité sociale menm kon on aré maladi abityèl (wè sèvis RH ou si ou ni dout asou démarche pou fè).",
+  "row": {
+    "id": "image:b620cbf2bdce20a7:chunk:1:gcf",
+    "document_id": "image:b620cbf2bdce20a7",
+    "chunk_index": 1,
+    "source_file": "absences_pour_soins_medicaux.png",
+    "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+    "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Vérifié osi si sitiasyon travayè andikapé (RQTH) pa ka bay dwa pou on akomodasyon adan sitiasyon tala (sa ka dépann asi konpayi é konvansyon koléktif, alò sé pa toujou systématik). Si sé ka-la, pa hésité mandé RÔTH (wè fiche afa asi sijè-a)\n\nSi patron an refizé lasé ou abséni pandan tan travay la, fò ou pran konjé oswa RTT pou al fè konsiltasyon, swen oswa ekzamen, oswa òganizé èvè patron an pou rattrapé lè travay ki pa fèt yo. Kèk malad pli préferé toujou pran konjé pou pa oblijé di patron an létat sante yo : sé a ou pou désidé an fonksyon sitiasyon ou.\n\nAN LOPITAL DJOU\n\nPerfizyon pou tretman oswa pou bay fè, koloskopi… yo fèt an hospitalizasyon djou. Adan ka-la, lopital ka ba ou on bilten sitiasyon ki ni menm valè kon on aré travay. Ou bizwen voyé’y bay patron ou épi, si sa nesesè, bay sécurité sociale menm kon on aré maladi abityèl (wè sèvis RH ou si ou ni dout asou démarche pou fè).",
+    "source_id": "image:b620cbf2bdce20a7:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:22.578135+00:00",
+    "source_text_sha256": "c3673e9388071b5a7d0cba8e3b90ccb11b98486a4f679d2bf31b1244056a1531"
+  }
+}

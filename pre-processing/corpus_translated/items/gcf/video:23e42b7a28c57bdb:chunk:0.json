@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:23e42b7a28c57bdb:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "89eb394bee566de8abd441c8dcda2851871c9d793772107c8a44174c52018072",
+  "translated_at": "2026-06-10T21:16:40.845165+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Oh, an pousé, ki m' ké manjé ? Alò, lè ou an pousé, pafwa ni gastroentérolog ki ka rekomandé réjim san fib. Mé sé jis paské fib-la pé, pé... anfin, nou al plis an twalèt lè nou manjé fib. Mé an vré, pa ni on vré réjim pou wè. An pansé fo kontinyé manjé menm si ou an pousé é évité manjé ki ka provoké enflamasyon. Alò soda, alkol ka bay dyaré. Bagay kon sa. ... ... ... ...",
+  "row": {
+    "id": "video:23e42b7a28c57bdb:chunk:0:gcf",
+    "document_id": "video:23e42b7a28c57bdb",
+    "chunk_index": 0,
+    "source_file": "5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.mp4",
+    "text_path": "corpus/texts/videos/5254c1d0d83e7d7fab9167d6f6ad6b0f8cd87705.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Oh, an pousé, ki m' ké manjé ? Alò, lè ou an pousé, pafwa ni gastroentérolog ki ka rekomandé réjim san fib. Mé sé jis paské fib-la pé, pé... anfin, nou al plis an twalèt lè nou manjé fib. Mé an vré, pa ni on vré réjim pou wè. An pansé fo kontinyé manjé menm si ou an pousé é évité manjé ki ka provoké enflamasyon. Alò soda, alkol ka bay dyaré. Bagay kon sa. ... ... ... ...",
+    "source_id": "video:23e42b7a28c57bdb:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:40.845165+00:00",
+    "source_text_sha256": "89eb394bee566de8abd441c8dcda2851871c9d793772107c8a44174c52018072"
+  }
+}

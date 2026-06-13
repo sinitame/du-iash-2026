@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:c8da6da5030282c2:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "3cc5fd10f21aac5a707b8daeefe05bab867f170da8d3728bb1574aafacb1f7e2",
+  "translated_at": "2026-06-10T21:22:43.157595+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Éséy klinik yo ka maché ki jan ? Alò, éséy klinik yo, an jénéral, sé on medikaman... ki ja té testé, mé nou vlé wè jis koté i ké mété pasyan an an remisyon. Alò, yo ké pwopozé medikaman an an kesyon, mété'y an konkerans èvè on lòt bagay, é an réyalité chwa-a fèt o aza ; on pasyan ké résévwa medikaman yo vlé obsèvè-a pou vérifié konbyen remisyon i ka bay, é on lòt pasyan ké résévwa on lot medikaman, swa on ki ja ekziste osnon on koté nou konn to remisyon-an, swa pa ni anyen ditou. Sé on di éséy kont plasibo. Mé i vrèman itil, paskè, adan dépi-tou, i byen kontwolé épi on koloskopi an débu, on koloskopi an mitan é on koloskopi an fen, anpil pran san, dòzaj medikaman, alò i vrèman trè kontwolé, é i itil paskè sa pèmèt presizeman sav é prédi ; pa egzanp, on clic-simab, nou sav i ka maché adan on pasyan asou dis. Alò, sa enpòtan sav sa, é épi sa pèmèt mété adan maché molékil ki maché, é voilà, alò i enpòtan. Épi la i ka maché konmsa, é sé klian.",
+  "row": {
+    "id": "video:c8da6da5030282c2:chunk:0:gcf",
+    "document_id": "video:c8da6da5030282c2",
+    "chunk_index": 0,
+    "source_file": "fc21a56ace3612e312731178c9dc3914e60de7f5.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/fc21a56ace3612e312731178c9dc3914e60de7f5.mp4",
+    "text_path": "corpus/texts/videos/fc21a56ace3612e312731178c9dc3914e60de7f5.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Éséy klinik yo ka maché ki jan ? Alò, éséy klinik yo, an jénéral, sé on medikaman... ki ja té testé, mé nou vlé wè jis koté i ké mété pasyan an an remisyon. Alò, yo ké pwopozé medikaman an an kesyon, mété'y an konkerans èvè on lòt bagay, é an réyalité chwa-a fèt o aza ; on pasyan ké résévwa medikaman yo vlé obsèvè-a pou vérifié konbyen remisyon i ka bay, é on lòt pasyan ké résévwa on lot medikaman, swa on ki ja ekziste osnon on koté nou konn to remisyon-an, swa pa ni anyen ditou. Sé on di éséy kont plasibo. Mé i vrèman itil, paskè, adan dépi-tou, i byen kontwolé épi on koloskopi an débu, on koloskopi an mitan é on koloskopi an fen, anpil pran san, dòzaj medikaman, alò i vrèman trè kontwolé, é i itil paskè sa pèmèt presizeman sav é prédi ; pa egzanp, on clic-simab, nou sav i ka maché adan on pasyan asou dis. Alò, sa enpòtan sav sa, é épi sa pèmèt mété adan maché molékil ki maché, é voilà, alò i enpòtan. Épi la i ka maché konmsa, é sé klian.",
+    "source_id": "video:c8da6da5030282c2:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:22:43.157595+00:00",
+    "source_text_sha256": "3cc5fd10f21aac5a707b8daeefe05bab867f170da8d3728bb1574aafacb1f7e2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:30",
+  "target_language": "en",
+  "source_text_sha256": "7e80f6f8f126a3cdd680743ee59059e5653bcb18476dc6baba16ed2ab644a770",
+  "translated_at": "2026-06-10T20:40:54.678827+00:00",
+  "model": "gpt-5-mini",
+  "text": "prescriptions, the dispensing of\nmedications or communication with physicians and\ncare teams (59,61). Tools such as the Transition\nReadiness Assessment Questionnaire (TRAQ) or the Transition\nCare Index allow assessment and improvement of this preparation. Pediatric care is distinguished by attention\nto growth, puberty and nutrition, whereas\nadult care includes issues of fertility, pregnancy,\ncancer surveillance and management of\ncomorbidities (59).\nThe barriers identified to a successful transition are multiple: attachment to the pediatrician and fear of abandonment, low\nself-esteem, lack of self-management skills,\norganizational difficulties and, in some contexts,\neconomic barriers. The timing of transfer should remain\nflexible, ideally during a period of clinical remission, in order to\nlimit the risk of loss of follow-up. Parents should\nbe supported in the process to encourage their child's increasing\nautonomy, while a transition coordinator, if present, facilitates continuity and prevents loss of\ncontact with the medical teams",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:30:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 30,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "prescriptions, the dispensing of\nmedications or communication with physicians and\ncare teams (59,61). Tools such as the Transition\nReadiness Assessment Questionnaire (TRAQ) or the Transition\nCare Index allow assessment and improvement of this preparation. Pediatric care is distinguished by attention\nto growth, puberty and nutrition, whereas\nadult care includes issues of fertility, pregnancy,\ncancer surveillance and management of\ncomorbidities (59).\nThe barriers identified to a successful transition are multiple: attachment to the pediatrician and fear of abandonment, low\nself-esteem, lack of self-management skills,\norganizational difficulties and, in some contexts,\neconomic barriers. The timing of transfer should remain\nflexible, ideally during a period of clinical remission, in order to\nlimit the risk of loss of follow-up. Parents should\nbe supported in the process to encourage their child's increasing\nautonomy, while a transition coordinator, if present, facilitates continuity and prevents loss of\ncontact with the medical teams",
+    "source_id": "pdf:398e12446d466067:chunk:30",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:54.678827+00:00",
+    "source_text_sha256": "7e80f6f8f126a3cdd680743ee59059e5653bcb18476dc6baba16ed2ab644a770"
+  }
+}

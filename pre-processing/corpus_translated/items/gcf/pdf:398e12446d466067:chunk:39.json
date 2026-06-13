@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:39",
+  "target_language": "gcf",
+  "source_text_sha256": "6679646e5d3abaeef2704587221dc01ee313bdd0f174f965872f814559eb0662",
+  "translated_at": "2026-06-10T20:53:37.585530+00:00",
+  "model": "gpt-5-mini",
+  "text": "dé 1,0-1,5 mg/kg/j pou pré-kèrsè a, 6-mercaptopurine.\nDòz konplè a pé mété touswité, san ogmantasyon pwogresif. Risk ogmanté pou lymphom, enkli lymphom T épatosplènik (HSTCL) adan jenn gason, menm si i rar, fo palé klèman di sa (89,94). Fò fè atansyon espesyal a enfeksyon EBV primè lè y ap pran thiopurines, paskè yo ka asosiyé èvè on risk lymphoproliférasyon (95-97).\n\nNitrisyon antéral pou tretman antretyen\nNitrisyon antéral pou antretyen pé pwolonjé rémisyon aprè on induction ki reyisi, sitou aprè EEN. Yo paka démontré on éfikasité alontèm plis; sa plis parèt adan on mank d’obzervans a tretman-an an mwayen tèm pase adan on veritab inefikasité tretman-an. Itilizasyon li pandan y ap atann pou mété an plas on lòt terapi pli souvan préferab. Altènativ pli resan, kon Crohn’s Disease Exclusion Diet ansanm èvè on nitrisyon pasyèl, montré rezilta prometè pou tolérance é pou mantni rémisyon a 12 semenn (98). Rèjim alimantè pasyèl oswa adapté yo toujou konsidéré kon expérimantal.\n\nApre-chiriji",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:39:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 39,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "dé 1,0-1,5 mg/kg/j pou pré-kèrsè a, 6-mercaptopurine.\nDòz konplè a pé mété touswité, san ogmantasyon pwogresif. Risk ogmanté pou lymphom, enkli lymphom T épatosplènik (HSTCL) adan jenn gason, menm si i rar, fo palé klèman di sa (89,94). Fò fè atansyon espesyal a enfeksyon EBV primè lè y ap pran thiopurines, paskè yo ka asosiyé èvè on risk lymphoproliférasyon (95-97).\n\nNitrisyon antéral pou tretman antretyen\nNitrisyon antéral pou antretyen pé pwolonjé rémisyon aprè on induction ki reyisi, sitou aprè EEN. Yo paka démontré on éfikasité alontèm plis; sa plis parèt adan on mank d’obzervans a tretman-an an mwayen tèm pase adan on veritab inefikasité tretman-an. Itilizasyon li pandan y ap atann pou mété an plas on lòt terapi pli souvan préferab. Altènativ pli resan, kon Crohn’s Disease Exclusion Diet ansanm èvè on nitrisyon pasyèl, montré rezilta prometè pou tolérance é pou mantni rémisyon a 12 semenn (98). Rèjim alimantè pasyèl oswa adapté yo toujou konsidéré kon expérimantal.\n\nApre-chiriji",
+    "source_id": "pdf:398e12446d466067:chunk:39",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:37.585530+00:00",
+    "source_text_sha256": "6679646e5d3abaeef2704587221dc01ee313bdd0f174f965872f814559eb0662"
+  }
+}

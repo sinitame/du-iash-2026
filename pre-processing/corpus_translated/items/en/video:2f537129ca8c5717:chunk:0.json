@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:2f537129ca8c5717:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "9f47949502a264e3d209d09a51437d769bfa7114e676feb9fac3d07c5f214914",
+  "translated_at": "2026-06-10T20:46:50.511435+00:00",
+  "model": "gpt-5-mini",
+  "text": "I can stabilize it, well, that's said. Over the past 20 years, a great deal of research has been undertaken with many treatments. So it's easier today to stabilize these diseases because, indeed, we try treatments, biologic therapies that are targeted at inflammation and that can indeed produce longer periods of remission. So it is possible to stabilize the disease.",
+  "row": {
+    "id": "video:2f537129ca8c5717:chunk:0:en",
+    "document_id": "video:2f537129ca8c5717",
+    "chunk_index": 0,
+    "source_file": "b0e404340df502444ec0f963316452ad092e1b7d.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/b0e404340df502444ec0f963316452ad092e1b7d.mp4",
+    "text_path": "corpus/texts/videos/b0e404340df502444ec0f963316452ad092e1b7d.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "I can stabilize it, well, that's said. Over the past 20 years, a great deal of research has been undertaken with many treatments. So it's easier today to stabilize these diseases because, indeed, we try treatments, biologic therapies that are targeted at inflammation and that can indeed produce longer periods of remission. So it is possible to stabilize the disease.",
+    "source_id": "video:2f537129ca8c5717:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:50.511435+00:00",
+    "source_text_sha256": "9f47949502a264e3d209d09a51437d769bfa7114e676feb9fac3d07c5f214914"
+  }
+}

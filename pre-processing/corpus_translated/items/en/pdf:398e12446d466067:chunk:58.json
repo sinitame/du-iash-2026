@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:58",
+  "target_language": "en",
+  "source_text_sha256": "678ac4a696e665f6925b0c6075fa1f377799d6fbeb0b17717dbd2efad554ab9f",
+  "translated_at": "2026-06-10T20:41:54.299678+00:00",
+  "model": "gpt-5-mini",
+  "text": "atrial\nlimited)\nHeadaches, fatigue,\nENT infections, infusion reactions\nMonitoring tolerance, infections\nProbiotics\n(VSL#3)\nAdjuncts\nVSL#3: doses according to study.\nBloating, digestive discomfort\nClinical monitoring\nCurcumin\nAnti-inflammatory supplement\n2–4 g/day induction, 1–2 g/day maintenance\nVery well tolerated, rare digestive problems\nNo specific follow-up required",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:58:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 58,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "atrial\nlimited)\nHeadaches, fatigue,\nENT infections, infusion reactions\nMonitoring tolerance, infections\nProbiotics\n(VSL#3)\nAdjuncts\nVSL#3: doses according to study.\nBloating, digestive discomfort\nClinical monitoring\nCurcumin\nAnti-inflammatory supplement\n2–4 g/day induction, 1–2 g/day maintenance\nVery well tolerated, rare digestive problems\nNo specific follow-up required",
+    "source_id": "pdf:398e12446d466067:chunk:58",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:54.299678+00:00",
+    "source_text_sha256": "678ac4a696e665f6925b0c6075fa1f377799d6fbeb0b17717dbd2efad554ab9f"
+  }
+}

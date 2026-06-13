@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:9",
+  "target_language": "en",
+  "source_text_sha256": "cacdcbc2ffa52a7085429f0cd535f3c1145b617c33f3709b817be6f63267e035",
+  "translated_at": "2026-06-10T20:43:59.951487+00:00",
+  "model": "gpt-5-mini",
+  "text": "Period of transition and gradual reduction of the enteral nutrition solution.\nStopping the CDED\n•  Perte de poids involontaire : recalcul des apports énergétiques et ajustement \ndu soluté de nutrition entérale +/- ajustement des recommandations \ndiététiques.\n•  Poor adherence to the enteral nutrition solution: adjustment of the flavor or concentration to your preferences, monitoring of nutritional adequacy.\n•  Poor adherence to mandatory foods: review of recipes and adjustment of support.\nAdjustment of the CDED\n•  Active Crohn's disease, confirmed by imaging and biological markers.\n•  Consultation with the gastroenterologist and meeting with the whole team (gastroenterologist, dietitian, ...) for shared medical decision-making.\n•  Verification of tolerance to the enteral nutrition solution and to mandatory foods, and monitoring of therapeutic adherence for 12 weeks.\nDecision to start the CDED\n•  Dietary assessment: anthropometry and eating habits.\n•  Education on phase 1 of the CDED diet, including mandatory and allowed foods.\n•  Clinical evaluation and prescription",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:9:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 9,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Period of transition and gradual reduction of the enteral nutrition solution.\nStopping the CDED\n•  Perte de poids involontaire : recalcul des apports énergétiques et ajustement \ndu soluté de nutrition entérale +/- ajustement des recommandations \ndiététiques.\n•  Poor adherence to the enteral nutrition solution: adjustment of the flavor or concentration to your preferences, monitoring of nutritional adequacy.\n•  Poor adherence to mandatory foods: review of recipes and adjustment of support.\nAdjustment of the CDED\n•  Active Crohn's disease, confirmed by imaging and biological markers.\n•  Consultation with the gastroenterologist and meeting with the whole team (gastroenterologist, dietitian, ...) for shared medical decision-making.\n•  Verification of tolerance to the enteral nutrition solution and to mandatory foods, and monitoring of therapeutic adherence for 12 weeks.\nDecision to start the CDED\n•  Dietary assessment: anthropometry and eating habits.\n•  Education on phase 1 of the CDED diet, including mandatory and allowed foods.\n•  Clinical evaluation and prescription",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:9",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:59.951487+00:00",
+    "source_text_sha256": "cacdcbc2ffa52a7085429f0cd535f3c1145b617c33f3709b817be6f63267e035"
+  }
+}

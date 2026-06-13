@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:52",
+  "target_language": "en",
+  "source_text_sha256": "3b719e1f44cff65a44366476eab5aaba3b121d833260155d2dbe0c9e18ed9d98",
+  "translated_at": "2026-06-10T20:41:36.306391+00:00",
+  "model": "gpt-5-mini",
+  "text": "’Improvement (decrease in PUCAI of less than 20 points) after 7 to 10 days, or in case of an increase in PUCAI of 20 points at any time, consider intensifying treatment. Steroid dependence must be avoided.\n5\t\nSee part 2 of these recommendations.\n6\t\nResponse is defined by a decrease in the PUCAI score of at least 20 points. However, the goal of induction therapy is complete remission in the long term.\n7\t\nFor example, in cases of prior intolerance or resistance to steroids, or when infliximab is indicated anyway as maintenance therapy after thiopurine failure.\n8\t\nMeasurement of TPMT (genotyping or enzymatic activity) at baseline, as well as levels of 6-TG and 6-MMP after 2 to 3 months, can help optimize thiopurine dosing.\n9\t\nIf infliximab was used in thiopurine-naive disease, thiopurines can be added and infliximab stopped after 4 to 8 months in case of complete remission. Switching to 5-ASA can be considered in some cases, if 5-ASA has not previously failed and after a period of sustained deep remission.\nComments: The treatments",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:52:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 52,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "’Improvement (decrease in PUCAI of less than 20 points) after 7 to 10 days, or in case of an increase in PUCAI of 20 points at any time, consider intensifying treatment. Steroid dependence must be avoided.\n5\t\nSee part 2 of these recommendations.\n6\t\nResponse is defined by a decrease in the PUCAI score of at least 20 points. However, the goal of induction therapy is complete remission in the long term.\n7\t\nFor example, in cases of prior intolerance or resistance to steroids, or when infliximab is indicated anyway as maintenance therapy after thiopurine failure.\n8\t\nMeasurement of TPMT (genotyping or enzymatic activity) at baseline, as well as levels of 6-TG and 6-MMP after 2 to 3 months, can help optimize thiopurine dosing.\n9\t\nIf infliximab was used in thiopurine-naive disease, thiopurines can be added and infliximab stopped after 4 to 8 months in case of complete remission. Switching to 5-ASA can be considered in some cases, if 5-ASA has not previously failed and after a period of sustained deep remission.\nComments: The treatments",
+    "source_id": "pdf:398e12446d466067:chunk:52",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:36.306391+00:00",
+    "source_text_sha256": "3b719e1f44cff65a44366476eab5aaba3b121d833260155d2dbe0c9e18ed9d98"
+  }
+}

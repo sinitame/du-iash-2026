@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:25",
+  "target_language": "en",
+  "source_text_sha256": "d365f83ecfa28351212aaebb865aacb95304fa6527f6804f167b63ad8c217553",
+  "translated_at": "2026-06-10T20:40:26.483369+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 7 ---\n183\nIBD\nScreening is based on dynamic criteria: an annual growth of less than 4–5 cm from age 3 up to puberty, or a drop of one SD on the height curve. The therapeutic goal is to reach a final height close to the genetic target, calculated as follows: Girl: [Father’s height + Mother’s height - 13]/2, Boy: [Father’s height + Mother’s height + 13]/2. The expected adult height should ideally be within ±6 cm of this target.\nAn X‑ray of the left wrist allows assessment of bone age, which is essential in cases of growth delay. If growth is severely affected by an uncontrolled chronic disease, growth hormone therapy may be considered. Inflammation can impair bone mineralization from the time of diagnosis. This will be assessed by bone densitometry.\nPubertal development is evaluated according to Tanner stages (I to V). The absence of signs at 13 years in girls (breast development) or at 14 years in boys (increase in testicular volume) defines delayed puberty.\nCancer\nPatients with IBD beginning in childhood have an increased risk of cancer compared with th",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:25:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 25,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 7 ---\n183\nIBD\nScreening is based on dynamic criteria: an annual growth of less than 4–5 cm from age 3 up to puberty, or a drop of one SD on the height curve. The therapeutic goal is to reach a final height close to the genetic target, calculated as follows: Girl: [Father’s height + Mother’s height - 13]/2, Boy: [Father’s height + Mother’s height + 13]/2. The expected adult height should ideally be within ±6 cm of this target.\nAn X‑ray of the left wrist allows assessment of bone age, which is essential in cases of growth delay. If growth is severely affected by an uncontrolled chronic disease, growth hormone therapy may be considered. Inflammation can impair bone mineralization from the time of diagnosis. This will be assessed by bone densitometry.\nPubertal development is evaluated according to Tanner stages (I to V). The absence of signs at 13 years in girls (breast development) or at 14 years in boys (increase in testicular volume) defines delayed puberty.\nCancer\nPatients with IBD beginning in childhood have an increased risk of cancer compared with th",
+    "source_id": "pdf:398e12446d466067:chunk:25",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:26.483369+00:00",
+    "source_text_sha256": "d365f83ecfa28351212aaebb865aacb95304fa6527f6804f167b63ad8c217553"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:50",
+  "target_language": "en",
+  "source_text_sha256": "946bd02078c6c63fae5052c4db3ba10bb816aeee6c0fbafcdff94ea7abd4c302",
+  "translated_at": "2026-06-10T20:41:27.561479+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ustekinumab or vedolizumab may be considered.\n\nAdjunctive antibiotic therapy in perineal fistulizing Crohn's disease\n9\nMetronidazole 30 mg/kg/day, orally in 2 to 3 doses + ciprofloxacin 20 mg/kg/day, orally, in 2 doses.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:50:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 50,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Ustekinumab or vedolizumab may be considered.\n\nAdjunctive antibiotic therapy in perineal fistulizing Crohn's disease\n9\nMetronidazole 30 mg/kg/day, orally in 2 to 3 doses + ciprofloxacin 20 mg/kg/day, orally, in 2 doses.",
+    "source_id": "pdf:398e12446d466067:chunk:50",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:27.561479+00:00",
+    "source_text_sha256": "946bd02078c6c63fae5052c4db3ba10bb816aeee6c0fbafcdff94ea7abd4c302"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:9",
+  "target_language": "en",
+  "source_text_sha256": "5a6333b276bd3e68305bae0bb4b325809dfd31f50f23374e2140a580d9d12eb0",
+  "translated_at": "2026-06-10T20:43:29.276402+00:00",
+  "model": "gpt-5-mini",
+  "text": "if you wish, and encourage your child to ask them. Some signs can be frightening for very young children, for example bloody stools… Being able to explain things to them is reassuring, whereas feeling helpless or ignorant is not helpful. Because of this chronic illness, you will probably spend more time with the sick child than with the others, but be sure to set aside time for them so as not to make them jealous. Try to avoid letting the illness become the centre of attention for the whole family. That’s easier said than done.\nWHAT FOODS OR VITAMINS ARE USEFUL?\nFor some children, the disease causes deficiencies in vitamins or minerals (folates, calcium or iron…). Your doctor knows about these deficiencies and can prescribe supplements. The most important thing for the child is to eat enough: so let them eat what they like. This is not easy, for example when dairy always gives them a stomach ache or diarrhoea; you will need to find a replacement food because it is a useful source of calories and calcium. There are supplementary foods that are flavored liquids",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:9:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 9,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "if you wish, and encourage your child to ask them. Some signs can be frightening for very young children, for example bloody stools… Being able to explain things to them is reassuring, whereas feeling helpless or ignorant is not helpful. Because of this chronic illness, you will probably spend more time with the sick child than with the others, but be sure to set aside time for them so as not to make them jealous. Try to avoid letting the illness become the centre of attention for the whole family. That’s easier said than done.\nWHAT FOODS OR VITAMINS ARE USEFUL?\nFor some children, the disease causes deficiencies in vitamins or minerals (folates, calcium or iron…). Your doctor knows about these deficiencies and can prescribe supplements. The most important thing for the child is to eat enough: so let them eat what they like. This is not easy, for example when dairy always gives them a stomach ache or diarrhoea; you will need to find a replacement food because it is a useful source of calories and calcium. There are supplementary foods that are flavored liquids",
+    "source_id": "pdf:a74238ee30f57428:chunk:9",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:29.276402+00:00",
+    "source_text_sha256": "5a6333b276bd3e68305bae0bb4b325809dfd31f50f23374e2140a580d9d12eb0"
+  }
+}

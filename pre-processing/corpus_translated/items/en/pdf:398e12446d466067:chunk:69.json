@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:69",
+  "target_language": "en",
+  "source_text_sha256": "f3c79e637a98140fd55840016fce88ec7e79f6f87ce0134a2e5c1fa496a5814a",
+  "translated_at": "2026-06-10T20:42:11.357151+00:00",
+  "model": "gpt-5-mini",
+  "text": "colitis for management optimization: Systematic review and consensus statements from the pediatric inflammatory bowel disease - Ahead Program. Gastroenterology. 2021;160: 378-402.\n46. Hochart A, Gower-Rousseau C, Sarter H, et al. Ulcerative proctitis is a frequent location of paediatric-onset UC and not a minor disease: a population-based study. Gut 2017;66: 1912-1917.\n47. Tal N, Tzivinikos C, Gasparetto M, et al. Clinical features and natural history of paediatric patients with ulcerative proctitis: a multicentre study from the Paediatric IBD Porto Group of ESPGHAN. J Crohns Colitis 2023;17:1939-1948.\n48. Turner D, Hyams J, Markowitz J, et al. Pediatric IBD Collaborative Research Group. Appraisal of the pediatric ulcerative colitis activity index (PUCAI). Inflamm Bowel Dis. 2009;15:1218-23.\n49. Vasseur F, Gower-Rousseau C, Vernier-Massouille G, et al. Nutritional status and growth in pediatric Crohn’s disease: a population-based study. Am J Gastroenterol. 2010;105:1893-1900.\n50. Komaki Y, Komaki F, Yamada A, et al. Risk of cancers in patients with pediatric inflammatory bowel diseases: A systematic review and meta-analysis. J Pediatr. 2021;229: 102-11",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:69:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 69,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "colitis for management optimization: Systematic review and consensus statements from the pediatric inflammatory bowel disease - Ahead Program. Gastroenterology. 2021;160: 378-402.\n46. Hochart A, Gower-Rousseau C, Sarter H, et al. Ulcerative proctitis is a frequent location of paediatric-onset UC and not a minor disease: a population-based study. Gut 2017;66: 1912-1917.\n47. Tal N, Tzivinikos C, Gasparetto M, et al. Clinical features and natural history of paediatric patients with ulcerative proctitis: a multicentre study from the Paediatric IBD Porto Group of ESPGHAN. J Crohns Colitis 2023;17:1939-1948.\n48. Turner D, Hyams J, Markowitz J, et al. Pediatric IBD Collaborative Research Group. Appraisal of the pediatric ulcerative colitis activity index (PUCAI). Inflamm Bowel Dis. 2009;15:1218-23.\n49. Vasseur F, Gower-Rousseau C, Vernier-Massouille G, et al. Nutritional status and growth in pediatric Crohn’s disease: a population-based study. Am J Gastroenterol. 2010;105:1893-1900.\n50. Komaki Y, Komaki F, Yamada A, et al. Risk of cancers in patients with pediatric inflammatory bowel diseases: A systematic review and meta-analysis. J Pediatr. 2021;229: 102-11",
+    "source_id": "pdf:398e12446d466067:chunk:69",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:11.357151+00:00",
+    "source_text_sha256": "f3c79e637a98140fd55840016fce88ec7e79f6f87ce0134a2e5c1fa496a5814a"
+  }
+}

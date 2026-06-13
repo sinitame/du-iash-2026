@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "c5964c353db1a9bc7ac5c9cd7410530d3ec1c0879e273f78e3b4b151681ac170",
+  "translated_at": "2026-06-10T21:13:24.285342+00:00",
+  "model": "gpt-5-mini",
+  "text": "pli fasil pou mété an plas vitman solisyon pou fè lavi kotidyen-ou pli fasil. Ou pé osi benefisyé on tan an plis pandan egzamen. Sa vlé di ou ni plis tan pou pasé éprèv-ou. Sa pé vréman édé lè ou pa santi-ou an bòn fòm ouswa si ou bizwen al twalèt pandan egzamen-an. Pou absans yo, abityèlman épi on ti òganizasyon bò kolèj osnon lycée, pwofesè-ou osnon kamarad-ou ké pran swen pou ba-w kours ou té pèd, ki ké pèmèt ou ratrapé. Si ou bizwen manké an pil kours, i ni dispozitif kon sèvis asistans pédagojik adomisil, oswa sa yo ka rélé sa pade. I pèmèt ou kontinyé swiv kours-la depi lakay-ou épi èd on pwofesè. Si yo lopitalizé-ou, ou pé benefisyé lékol adan lopital, épi pwofesè ki ka akonpagné-ou dan aprantisaj-ou épi an lyen épi lékol koté-ou. I menm ni robòt épi on ekran ki pèmèt ou èt an kontak dirèkman épi klas-ou. Sa dispozitif-la ka rélé TED-I. Épi paran-ou ké jwenn tout lenfòmasyon asou sit education.gov.fr. Dépi laj 16 an, ou pé fè on demann pou",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:3:gcf",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 3,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "pli fasil pou mété an plas vitman solisyon pou fè lavi kotidyen-ou pli fasil. Ou pé osi benefisyé on tan an plis pandan egzamen. Sa vlé di ou ni plis tan pou pasé éprèv-ou. Sa pé vréman édé lè ou pa santi-ou an bòn fòm ouswa si ou bizwen al twalèt pandan egzamen-an. Pou absans yo, abityèlman épi on ti òganizasyon bò kolèj osnon lycée, pwofesè-ou osnon kamarad-ou ké pran swen pou ba-w kours ou té pèd, ki ké pèmèt ou ratrapé. Si ou bizwen manké an pil kours, i ni dispozitif kon sèvis asistans pédagojik adomisil, oswa sa yo ka rélé sa pade. I pèmèt ou kontinyé swiv kours-la depi lakay-ou épi èd on pwofesè. Si yo lopitalizé-ou, ou pé benefisyé lékol adan lopital, épi pwofesè ki ka akonpagné-ou dan aprantisaj-ou épi an lyen épi lékol koté-ou. I menm ni robòt épi on ekran ki pèmèt ou èt an kontak dirèkman épi klas-ou. Sa dispozitif-la ka rélé TED-I. Épi paran-ou ké jwenn tout lenfòmasyon asou sit education.gov.fr. Dépi laj 16 an, ou pé fè on demann pou",
+    "source_id": "video:ceebd17c1f9860a9:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:24.285342+00:00",
+    "source_text_sha256": "c5964c353db1a9bc7ac5c9cd7410530d3ec1c0879e273f78e3b4b151681ac170"
+  }
+}

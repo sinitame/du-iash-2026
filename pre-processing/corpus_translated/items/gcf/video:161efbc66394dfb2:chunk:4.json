@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "189b03fefd81f3fcac56b951722b2fba64f4e9984428b3b423653e840c0313c7",
+  "translated_at": "2026-06-10T21:21:08.717427+00:00",
+  "model": "gpt-5-mini",
+  "text": "Ou inpiré pa nen, épi ou mété-l a distans pli lwen ki posib. Ou ké santi pétèt kounyé trankilité é détant adan kò-w. Si ou santi vréman an kolè, pétèt pati kò-a ki ka nonm machwè-la ni tandans pou sere. An kalm, mwen ké pwopoze on ti egzèsis pou édé-w libéré tout kolè-la ou té pé gen stoké adan zòn-la. Pou sa kounyé, mwen ké pwopoze-w fè-y. Ou ké pran konsyans, ou ké ékarsé pyé-w anviwon lajè basen-w. Ou ké pran konsyans asou nouvo postür doubout-la. Ou ké relaché basen-w, relaché zépól-w. Épi adan postür sa-a, mwen pwopoze-w konsantwé-w asou santiman kolè-a ou ka santi. Pou sa, pran an gwo inspirasyon pa nen. Épi lè ou anvi, sòti lè-a vit. Mwen pwopoze-w fè on egzèsis koté ou fè on son fò. Épi ou relaché dousman. Sé pou ou détann byen, relaché-w. Gadé kijan sa ka pasé adan zòn machwè-w. Pétèt machwè-a té sere, mé kounyé i pé kòmansé détann...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:4:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 4,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Ou inpiré pa nen, épi ou mété-l a distans pli lwen ki posib. Ou ké santi pétèt kounyé trankilité é détant adan kò-w. Si ou santi vréman an kolè, pétèt pati kò-a ki ka nonm machwè-la ni tandans pou sere. An kalm, mwen ké pwopoze on ti egzèsis pou édé-w libéré tout kolè-la ou té pé gen stoké adan zòn-la. Pou sa kounyé, mwen ké pwopoze-w fè-y. Ou ké pran konsyans, ou ké ékarsé pyé-w anviwon lajè basen-w. Ou ké pran konsyans asou nouvo postür doubout-la. Ou ké relaché basen-w, relaché zépól-w. Épi adan postür sa-a, mwen pwopoze-w konsantwé-w asou santiman kolè-a ou ka santi. Pou sa, pran an gwo inspirasyon pa nen. Épi lè ou anvi, sòti lè-a vit. Mwen pwopoze-w fè on egzèsis koté ou fè on son fò. Épi ou relaché dousman. Sé pou ou détann byen, relaché-w. Gadé kijan sa ka pasé adan zòn machwè-w. Pétèt machwè-a té sere, mé kounyé i pé kòmansé détann...",
+    "source_id": "video:161efbc66394dfb2:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:08.717427+00:00",
+    "source_text_sha256": "189b03fefd81f3fcac56b951722b2fba64f4e9984428b3b423653e840c0313c7"
+  }
+}

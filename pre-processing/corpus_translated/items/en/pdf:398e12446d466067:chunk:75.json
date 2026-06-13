@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:75",
+  "target_language": "en",
+  "source_text_sha256": "b769611434de5b8709830bbdddf2368a4f5129683558c5c6284ea1c59c2da950",
+  "translated_at": "2026-06-10T20:42:20.471972+00:00",
+  "model": "gpt-5-mini",
+  "text": "EACH Study Group. \nInduction and maintenance infliximab therapy for the treatment \nof moderate-to severe Crohn’s disease in children. Gastroenter-\nology 2007;132:863-73.\n75.\tHyams JS, Griffiths A, Markowitz J, et al. Safety and efficacy \nof adalimumab for moderate to severe Crohn’s disease in \nchildren. Gastroenterology 2012;143:365-74.\n76.\tKugathasan S, Denson LA, Walters TD, et al. Prediction of \ncomplicated disease course for children newly diagnosed with \nCrohn’s disease: a multicentre inception cohort study. Lancet \n2017;389:1710-8.\n77.\tCozijnsen MA, van Pieterson M, Samsom JN, et al. Top-down \nInfliximab Study in Kids with Crohn’s disease [TISKids]: an inter-\nnational multicentre randomised controlled trial. BMJ Open \nGastroenterol. 2016;3:e000123.\n78.\tJongsma MA, Aardoom M, Cozijnsen M, et al. Top-down \ninfliximab superior to step-up in children with moderate-to-\nsevere Crohn’s disease: A multicentre randomised controlled \ntrial. J Crohns Colitis 2020;14:S039.\n79.\tWinter DA, Joosse ME, de Wildt SN, et al. Pharmacokinetics, \npharmacodynamics, and immunogenicity of infliximab in \npediatric inflammatory bowel disease: a systematic review \nand revised dosing conside",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:75:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 75,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "EACH Study Group. \nInduction and maintenance infliximab therapy for the treatment \nof moderate-to severe Crohn’s disease in children. Gastroenter-\nology 2007;132:863-73.\n75.\tHyams JS, Griffiths A, Markowitz J, et al. Safety and efficacy \nof adalimumab for moderate to severe Crohn’s disease in \nchildren. Gastroenterology 2012;143:365-74.\n76.\tKugathasan S, Denson LA, Walters TD, et al. Prediction of \ncomplicated disease course for children newly diagnosed with \nCrohn’s disease: a multicentre inception cohort study. Lancet \n2017;389:1710-8.\n77.\tCozijnsen MA, van Pieterson M, Samsom JN, et al. Top-down \nInfliximab Study in Kids with Crohn’s disease [TISKids]: an inter-\nnational multicentre randomised controlled trial. BMJ Open \nGastroenterol. 2016;3:e000123.\n78.\tJongsma MA, Aardoom M, Cozijnsen M, et al. Top-down \ninfliximab superior to step-up in children with moderate-to-\nsevere Crohn’s disease: A multicentre randomised controlled \ntrial. J Crohns Colitis 2020;14:S039.\n79.\tWinter DA, Joosse ME, de Wildt SN, et al. Pharmacokinetics, \npharmacodynamics, and immunogenicity of infliximab in \npediatric inflammatory bowel disease: a systematic review \nand revised dosing conside",
+    "source_id": "pdf:398e12446d466067:chunk:75",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:20.471972+00:00",
+    "source_text_sha256": "b769611434de5b8709830bbdddf2368a4f5129683558c5c6284ea1c59c2da950"
+  }
+}

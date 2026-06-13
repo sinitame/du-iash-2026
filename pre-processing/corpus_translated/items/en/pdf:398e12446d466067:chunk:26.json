@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:26",
+  "target_language": "en",
+  "source_text_sha256": "f5cc7b29024772e97f961b6469b8934fd700e7e9e45bfe322494d1099ec9e92f",
+  "translated_at": "2026-06-10T20:40:34.308899+00:00",
+  "model": "gpt-5-mini",
+  "text": "In boys (increase in testicular volume) defines delayed puberty.\nCancer\nPatients with IBD beginning in childhood have an increased risk of cancer compared with the general population. A meta-analysis of 66 studies including more than 38,000 children with IBD reported a standardized incidence ratio (SIR) of 2.39 (p < 0.0001; 95% CI: 2.00-2.86)50, mainly related to colorectal cancers and hematologic malignancies. Another meta-analysis estimated the relative risk at 2.46 (95% CI: 2.06-2.93), with a risk of 2.03 for CD (95% CI: 1.67-2.46) and 2.61 for UC (95% CI: 2.00-3.40) (51). Because of this increased risk, specific surveillance is recommended after 10 years of disease duration.\nTransition\nTransfer of care occurs when a patient, together with their medical record, moves from one healthcare professional to another at a specific point in time. In contrast, transition of care is an evolving process. It involves the “intentional and planned movement of adolescents and young adults with chronic physical and medical conditions from a child-centered care system of...",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:26:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 26,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "In boys (increase in testicular volume) defines delayed puberty.\nCancer\nPatients with IBD beginning in childhood have an increased risk of cancer compared with the general population. A meta-analysis of 66 studies including more than 38,000 children with IBD reported a standardized incidence ratio (SIR) of 2.39 (p < 0.0001; 95% CI: 2.00-2.86)50, mainly related to colorectal cancers and hematologic malignancies. Another meta-analysis estimated the relative risk at 2.46 (95% CI: 2.06-2.93), with a risk of 2.03 for CD (95% CI: 1.67-2.46) and 2.61 for UC (95% CI: 2.00-3.40) (51). Because of this increased risk, specific surveillance is recommended after 10 years of disease duration.\nTransition\nTransfer of care occurs when a patient, together with their medical record, moves from one healthcare professional to another at a specific point in time. In contrast, transition of care is an evolving process. It involves the “intentional and planned movement of adolescents and young adults with chronic physical and medical conditions from a child-centered care system of...",
+    "source_id": "pdf:398e12446d466067:chunk:26",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:34.308899+00:00",
+    "source_text_sha256": "f5cc7b29024772e97f961b6469b8934fd700e7e9e45bfe322494d1099ec9e92f"
+  }
+}

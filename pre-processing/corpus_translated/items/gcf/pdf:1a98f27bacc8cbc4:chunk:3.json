@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:3",
+  "target_language": "gcf",
+  "source_text_sha256": "231b14dc4757f0019292268dd448bbab73c6fc58008c1ee1f7d407024ae78b6f",
+  "translated_at": "2026-06-10T21:10:58.379585+00:00",
+  "model": "gpt-5-mini",
+  "text": "é manjé ki twòp transformé, réjim-la ka favorizé on lékilib bakteri ki ka pwotjé3,4.\nOn efè transitoir pou treté poussé la : CDED-la sèvi pandan on peryòd désidé pou stabilizé maladi a, avan on pasé vèrs on alimantasyon pli divèsifié. Anplis, CDED pé sèvi kon on tretman tranzisyon avan on lòt pran an chaj thérapeutik osnon an sitiasyon péri-opératwa5.\n2\n3\nAn pratik, sa ka konsisté an ki ?\nCDED sé on stratéji alimantè thérapeutik ki pwogresif é struktiré. I divizé an plizè faz ki pèmèt on réentwodiksyon pwogresif manjé yo pandan i asiré on kontrol enflamasyon an.\n\nTan\nApòt kalori\nManjé otorisé\nManjé otorisé\nSolisyon nitrisyon antéral\nSolisyon nitrisyon antéral\nApre dé prémyé faz yo, a 12 semenn é an konsiltasyon épi ekip medikal ou, i pé envisajé :\n• pwolongasyon an faz 3, avèk osnon san solisyon nitrisyon antéral,\n• oubyen retou a on alimantasyon bazé asi rekomandasyon nitrisyonèl, espesyalman an mentni eksklizyon manjé ki twòp transformé.\n6 SEMENN\n50%\n25%\n50%\n75%\n+\n+\n6 SEMENN",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:3:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 3,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "é manjé ki twòp transformé, réjim-la ka favorizé on lékilib bakteri ki ka pwotjé3,4.\nOn efè transitoir pou treté poussé la : CDED-la sèvi pandan on peryòd désidé pou stabilizé maladi a, avan on pasé vèrs on alimantasyon pli divèsifié. Anplis, CDED pé sèvi kon on tretman tranzisyon avan on lòt pran an chaj thérapeutik osnon an sitiasyon péri-opératwa5.\n2\n3\nAn pratik, sa ka konsisté an ki ?\nCDED sé on stratéji alimantè thérapeutik ki pwogresif é struktiré. I divizé an plizè faz ki pèmèt on réentwodiksyon pwogresif manjé yo pandan i asiré on kontrol enflamasyon an.\n\nTan\nApòt kalori\nManjé otorisé\nManjé otorisé\nSolisyon nitrisyon antéral\nSolisyon nitrisyon antéral\nApre dé prémyé faz yo, a 12 semenn é an konsiltasyon épi ekip medikal ou, i pé envisajé :\n• pwolongasyon an faz 3, avèk osnon san solisyon nitrisyon antéral,\n• oubyen retou a on alimantasyon bazé asi rekomandasyon nitrisyonèl, espesyalman an mentni eksklizyon manjé ki twòp transformé.\n6 SEMENN\n50%\n25%\n50%\n75%\n+\n+\n6 SEMENN",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:3",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:58.379585+00:00",
+    "source_text_sha256": "231b14dc4757f0019292268dd448bbab73c6fc58008c1ee1f7d407024ae78b6f"
+  }
+}

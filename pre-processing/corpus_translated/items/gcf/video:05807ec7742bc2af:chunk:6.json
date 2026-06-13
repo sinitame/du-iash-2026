@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:6",
+  "target_language": "gcf",
+  "source_text_sha256": "48e84bd17b16d9e95169a0e32ffe13aa969164b27766177ce470a66b0dfcfea4",
+  "translated_at": "2026-06-10T21:15:39.729274+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pozisyon, ou ké vini kontraké misk kou ou é nèk ou. San lévé zépòl ou si sa posib. On kontraksion dou, trankil, adan rit ou; kan ou anvi, ou pé douman souf é ramenn tèt ou ankò trankil asou zépòl ou. Épi ou obsèvè sansasyon yo trankilman. É si ou santi yo twò anlè, ou lâché tout biten-an. Lâché trankilman. Épi ankò, nou ké kontinyé fwa-sa, nou koté thorax-la ? Ou ké pé, ou ké... Ou ké inspiré trankilman pa nen. Ou ké vini plié koud yo chak koté zépòl ou. Ou ké fèmen poing ou. É asou on inspirasyon, ou ké rétiré zépòl ou an déyè. Épi ou ké kontraké pli dou posib pati anlè do ou, thorax-la, puis ankò anlè do a. Épi ou ké rété on ti tan konmsa, dou, trankilman. Épi a l'expirasyon, ou wè, ou pé soufé é ramenn zépòl ou é men ou trankilman. Épi ou pé obsèvé pétèt nouvo sansasyon adan zòn-la. Apre, douman, trankilman, ou ké désann. Nou ké woulé anlè do ou. É p",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:6:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 6,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pozisyon, ou ké vini kontraké misk kou ou é nèk ou. San lévé zépòl ou si sa posib. On kontraksion dou, trankil, adan rit ou; kan ou anvi, ou pé douman souf é ramenn tèt ou ankò trankil asou zépòl ou. Épi ou obsèvè sansasyon yo trankilman. É si ou santi yo twò anlè, ou lâché tout biten-an. Lâché trankilman. Épi ankò, nou ké kontinyé fwa-sa, nou koté thorax-la ? Ou ké pé, ou ké... Ou ké inspiré trankilman pa nen. Ou ké vini plié koud yo chak koté zépòl ou. Ou ké fèmen poing ou. É asou on inspirasyon, ou ké rétiré zépòl ou an déyè. Épi ou ké kontraké pli dou posib pati anlè do ou, thorax-la, puis ankò anlè do a. Épi ou ké rété on ti tan konmsa, dou, trankilman. Épi a l'expirasyon, ou wè, ou pé soufé é ramenn zépòl ou é men ou trankilman. Épi ou pé obsèvé pétèt nouvo sansasyon adan zòn-la. Apre, douman, trankilman, ou ké désann. Nou ké woulé anlè do ou. É p",
+    "source_id": "video:05807ec7742bc2af:chunk:6",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:15:39.729274+00:00",
+    "source_text_sha256": "48e84bd17b16d9e95169a0e32ffe13aa969164b27766177ce470a66b0dfcfea4"
+  }
+}

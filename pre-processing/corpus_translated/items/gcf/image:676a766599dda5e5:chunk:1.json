@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:676a766599dda5e5:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "b2df1fe4fdd74ae0980f225fdfb7731fa3e09578863611178b29f51cb64ccb1e",
+  "translated_at": "2026-06-10T20:49:42.184510+00:00",
+  "model": "gpt-5-mini",
+  "text": "+ Pou on séjou adan on péyi dé Lényon Ewòp, mandé avan ou pati on Kat Éwòpiyen pou Sekrité Sosyal (an anglé European Health Insurance Card), ki\npèmèt sistèm sante piblik péyi destinasyon an pran chaj swen médikal. An fonksyon dé sitiasyon, ou pé pa bizwen peye frè médikal an avans,\noswa ou pé peye an avans épi fè yo ranbousé-w swa adan péyi kot ou ka séjé, swa an Frans (gadé lyen pi ba pou plis dé detay pa péyi). Ou pé fè demann-la\nan liy asou sit AMELI.\n\n+ Kat éwòpiyen pou Sekrité Sosyal-la ka sèvi osi an Island, Laswis é Norvèj.\n\n+ Ordonnans fransé yo ka aksepté adan péyi éwopéyen (an anglé épi non jenérik pwodui yo).\n\nhttps://europa.eu/youreurope/citizens/health/\nprescription-medicine-abroad/prescriptions/index_\nfr.htm",
+  "row": {
+    "id": "image:676a766599dda5e5:chunk:1:gcf",
+    "document_id": "image:676a766599dda5e5",
+    "chunk_index": 1,
+    "source_file": "stage_etudes_etranger_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/stage_etudes_etranger_mici.png",
+    "text_path": "corpus/texts/images/stage_etudes_etranger_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "+ Pou on séjou adan on péyi dé Lényon Ewòp, mandé avan ou pati on Kat Éwòpiyen pou Sekrité Sosyal (an anglé European Health Insurance Card), ki\npèmèt sistèm sante piblik péyi destinasyon an pran chaj swen médikal. An fonksyon dé sitiasyon, ou pé pa bizwen peye frè médikal an avans,\noswa ou pé peye an avans épi fè yo ranbousé-w swa adan péyi kot ou ka séjé, swa an Frans (gadé lyen pi ba pou plis dé detay pa péyi). Ou pé fè demann-la\nan liy asou sit AMELI.\n\n+ Kat éwòpiyen pou Sekrité Sosyal-la ka sèvi osi an Island, Laswis é Norvèj.\n\n+ Ordonnans fransé yo ka aksepté adan péyi éwopéyen (an anglé épi non jenérik pwodui yo).\n\nhttps://europa.eu/youreurope/citizens/health/\nprescription-medicine-abroad/prescriptions/index_\nfr.htm",
+    "source_id": "image:676a766599dda5e5:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:42.184510+00:00",
+    "source_text_sha256": "b2df1fe4fdd74ae0980f225fdfb7731fa3e09578863611178b29f51cb64ccb1e"
+  }
+}

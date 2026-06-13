@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5a07de54f9241a3:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "cc4e40c132554912a93120252205b6eabdea4ec1faed4945e74a2cc061aa9a62",
+  "translated_at": "2026-06-10T20:38:43.948974+00:00",
+  "model": "gpt-5-mini",
+  "text": "LIVING WITH YOUR IBD,\n\nThe AIS version used by most companies:\n“You are permitted to carry vital medications on board but you must contact us and inform us of your intention to do so before travel. The medication must be kept in your possession at all times in the cabin and you must have a medical certificate or a prescription confirming that you need these medications.\nIt is not possible for the cabin crew to dispose of used syringes, so you must bring a sharps container in your carry‑on baggage.\nPassengers should be able to manage their own medications and medical procedures because the cabin crew is not authorized to assist you with this. The cabin crew is not able to store medications in a refrigerator for you.”\n\nRIDE\n\nIn case of “loss” or delay of baggage, this would put you in difficulty during the stay.",
+  "row": {
+    "id": "image:c5a07de54f9241a3:chunk:0:en",
+    "document_id": "image:c5a07de54f9241a3",
+    "chunk_index": 0,
+    "source_file": "vivre_mici_avion.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_avion.png",
+    "text_path": "corpus/texts/images/vivre_mici_avion.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "LIVING WITH YOUR IBD,\n\nThe AIS version used by most companies:\n“You are permitted to carry vital medications on board but you must contact us and inform us of your intention to do so before travel. The medication must be kept in your possession at all times in the cabin and you must have a medical certificate or a prescription confirming that you need these medications.\nIt is not possible for the cabin crew to dispose of used syringes, so you must bring a sharps container in your carry‑on baggage.\nPassengers should be able to manage their own medications and medical procedures because the cabin crew is not authorized to assist you with this. The cabin crew is not able to store medications in a refrigerator for you.”\n\nRIDE\n\nIn case of “loss” or delay of baggage, this would put you in difficulty during the stay.",
+    "source_id": "image:c5a07de54f9241a3:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:43.948974+00:00",
+    "source_text_sha256": "cc4e40c132554912a93120252205b6eabdea4ec1faed4945e74a2cc061aa9a62"
+  }
+}

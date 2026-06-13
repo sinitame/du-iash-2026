@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:10",
+  "target_language": "gcf",
+  "source_text_sha256": "cfa1d251b311c8a64562c60ef5a455aa1a744eb880211682360b2b49a8e0d8ed",
+  "translated_at": "2026-06-10T21:21:48.063601+00:00",
+  "model": "gpt-5-mini",
+  "text": "pou ou pé ni plis plas pou pòmon. Épi ou ké rèlaché, pran konsyans di tout plas a dwat trankilman, dousman, é ramenn kòt yo chak bò. Épi ou ké rèlaché bra yo é pati anlè kò a. Épi ou obsèvé sansasyon. Sé on sansasyon. Sé on ti jan kon si ou té ni on pé plis plas, kon si té on pé plis plas pou pòmon an, pran on pé plis plas pou respire. Ou ké pratike ankò dé fwa. La, mwen envité-w mété lanmen-w asou kès-la. Ou ké inspiré, puis remeté tous dousman kòt yo chak bò an eseyan ramenn kòt yo otan ki posib anlè. Ou ké pran on ti tan koté ou ké eseyé si ou pé santi kijan respire a ranpli plenn. Épi ou ké pran on ti tan koté ou ké rèlaché pi dousman posib pandan w ka pran konsyans chak kòt. Kon si kontou kès-la ka vini plis lejé trankilman, dousman. Épi ou pa ké sèvi lòt pati kò-a. Épi obsève respirasyon an kon si ti bagay toupizé ka fè l respiré. On pran on ti poz isi. Épi ankò on trwazyèm é dènnyé fwa. Mantenan, mwen proposé on nouvo",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:10:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 10,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "pou ou pé ni plis plas pou pòmon. Épi ou ké rèlaché, pran konsyans di tout plas a dwat trankilman, dousman, é ramenn kòt yo chak bò. Épi ou ké rèlaché bra yo é pati anlè kò a. Épi ou obsèvé sansasyon. Sé on sansasyon. Sé on ti jan kon si ou té ni on pé plis plas, kon si té on pé plis plas pou pòmon an, pran on pé plis plas pou respire. Ou ké pratike ankò dé fwa. La, mwen envité-w mété lanmen-w asou kès-la. Ou ké inspiré, puis remeté tous dousman kòt yo chak bò an eseyan ramenn kòt yo otan ki posib anlè. Ou ké pran on ti tan koté ou ké eseyé si ou pé santi kijan respire a ranpli plenn. Épi ou ké pran on ti tan koté ou ké rèlaché pi dousman posib pandan w ka pran konsyans chak kòt. Kon si kontou kès-la ka vini plis lejé trankilman, dousman. Épi ou pa ké sèvi lòt pati kò-a. Épi obsève respirasyon an kon si ti bagay toupizé ka fè l respiré. On pran on ti poz isi. Épi ankò on trwazyèm é dènnyé fwa. Mantenan, mwen proposé on nouvo",
+    "source_id": "video:161efbc66394dfb2:chunk:10",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:21:48.063601+00:00",
+    "source_text_sha256": "cfa1d251b311c8a64562c60ef5a455aa1a744eb880211682360b2b49a8e0d8ed"
+  }
+}

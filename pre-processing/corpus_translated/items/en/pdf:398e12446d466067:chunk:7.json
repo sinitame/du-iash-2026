@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:7",
+  "target_language": "en",
+  "source_text_sha256": "d1caa21688fd51fe54bffb393cd06e208c99908c36a5871113ced35f219c73d6",
+  "translated_at": "2026-06-10T20:39:39.835452+00:00",
+  "model": "gpt-5-mini",
+  "text": "and the occurrence of pediatric IBD (17). Several studies have reported an increased frequency of perinatal and infant infections. (Figure 1)\nFigure 1: illustration of the environmental factors that contribute to increasing the risk (on the left) or decreasing the risk (on the right) of developing IBD. From Khan R et al (13)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:7:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 7,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "and the occurrence of pediatric IBD (17). Several studies have reported an increased frequency of perinatal and infant infections. (Figure 1)\nFigure 1: illustration of the environmental factors that contribute to increasing the risk (on the left) or decreasing the risk (on the right) of developing IBD. From Khan R et al (13)",
+    "source_id": "pdf:398e12446d466067:chunk:7",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:39.835452+00:00",
+    "source_text_sha256": "d1caa21688fd51fe54bffb393cd06e208c99908c36a5871113ced35f219c73d6"
+  }
+}

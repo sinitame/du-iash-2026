@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:8",
+  "target_language": "en",
+  "source_text_sha256": "017ada285a48244f349171b4084be6e269c2681f95302cefadfea79c097ccf73",
+  "translated_at": "2026-06-10T20:43:53.736983+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\nI'm interested, what are the steps and resources to implement the CDED?2,7\nSome testimonies from patients  \nwith Crohn's disease  \nfollowing the CDED...\n6\n•  Week 2 – Quick assessment: clinical symptoms, weight and treatment adherence.\n•  Week 6 – Review: assessment of the response to phase 1. If the response is satisfactory, move to phase 2.\n•  Week 12 – Review: assessment of clinical response and disease activity to decide whether to continue the CDED or transition to a varied and balanced diet.\nProgression  \nand follow-up  \nof the CDED\n•  No response to the CDED at week 6: an alternative therapy will be considered, or an addition to the 12-week protocol.\n•  At the end of the 12-week period: according to medical advice and the patient's motivations, a return to a more diversified diet that respects nutritional recommendations and excludes ultra-processed foods, with a transition period and gradual reduction of the enteral nutrition solution.\nDiscontinuation  \nof the CDED\n•  Unintended weight loss: recalculation of energy intake and adjustment of the enteral nutrition solution",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:8:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 8,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 4 ---\nI'm interested, what are the steps and resources to implement the CDED?2,7\nSome testimonies from patients  \nwith Crohn's disease  \nfollowing the CDED...\n6\n•  Week 2 – Quick assessment: clinical symptoms, weight and treatment adherence.\n•  Week 6 – Review: assessment of the response to phase 1. If the response is satisfactory, move to phase 2.\n•  Week 12 – Review: assessment of clinical response and disease activity to decide whether to continue the CDED or transition to a varied and balanced diet.\nProgression  \nand follow-up  \nof the CDED\n•  No response to the CDED at week 6: an alternative therapy will be considered, or an addition to the 12-week protocol.\n•  At the end of the 12-week period: according to medical advice and the patient's motivations, a return to a more diversified diet that respects nutritional recommendations and excludes ultra-processed foods, with a transition period and gradual reduction of the enteral nutrition solution.\nDiscontinuation  \nof the CDED\n•  Unintended weight loss: recalculation of energy intake and adjustment of the enteral nutrition solution",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:8",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:53.736983+00:00",
+    "source_text_sha256": "017ada285a48244f349171b4084be6e269c2681f95302cefadfea79c097ccf73"
+  }
+}

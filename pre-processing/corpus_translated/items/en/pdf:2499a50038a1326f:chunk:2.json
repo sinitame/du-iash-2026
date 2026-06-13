@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "ad4a18dd154fb1edc190115d2fcebe3039bdf803209f6c4acf53a19a1b7f20aa",
+  "translated_at": "2026-06-10T20:39:05.263373+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 2 ---\n• 11 INGREDIENTS\n• One single additive: ascorbic acid\n• From organic farming\n= few or no pesticides\n• 23 INGREDIENTS\n• 3 additives: E471, E282, ascorbic\nacid, including 1 emulsifier\nCONCLUSION OF THE INVESTIGATION:\nThe bread on the left should be preferred because its ingredient list is much shorter and it contains only 1 additive.\nINVESTIGATION 1:\nLet’s compare the ingredient lists of two sliced breads from the supermarket",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:2:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 2,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 2 ---\n• 11 INGREDIENTS\n• One single additive: ascorbic acid\n• From organic farming\n= few or no pesticides\n• 23 INGREDIENTS\n• 3 additives: E471, E282, ascorbic\nacid, including 1 emulsifier\nCONCLUSION OF THE INVESTIGATION:\nThe bread on the left should be preferred because its ingredient list is much shorter and it contains only 1 additive.\nINVESTIGATION 1:\nLet’s compare the ingredient lists of two sliced breads from the supermarket",
+    "source_id": "pdf:2499a50038a1326f:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:05.263373+00:00",
+    "source_text_sha256": "ad4a18dd154fb1edc190115d2fcebe3039bdf803209f6c4acf53a19a1b7f20aa"
+  }
+}

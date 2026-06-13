@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:e12cd738bc600eaa:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "4536afcda3fe58f7c5a7d225b97585d20bb2092b2b8903350c1800a19cd58e43",
+  "translated_at": "2026-06-10T20:49:19.926065+00:00",
+  "model": "gpt-5-mini",
+  "text": "on\nZ\n=\n\nTRATMAN\n\nFERTILITÉ - KONSEPSYON\nFétilité pasyant ki ni on MICI inaktif é ki pa ni antésédan chirijikal sé menm jan kon fétilité fanm ki pa ni MICI. Konespsyon-an miyé si yo ka konsidéwè-y pandan on péyòd kalm maladi-a pou kouté grosès-la alé pli byen. Adan fè, lè maladi-a déklanché pandan moman kreyasyon tibé-la é pandan grosès-la, sa ka ogmanté risk retad kwasans, akouchman\n\n#14\n\nGROSÈS É MICI\n\nKan on ni on MICI é on pwobjè grosès, sé nòmal pou ni kèsyon ! Daprè ankèt «Regards Croisés sur les MICI» ki afa fè an 2020, on moun asou senk ka témwé di yo rénonsé pwobjè timoun-la, menm si anlo fanm ki ni MICI rivé réalizé-y ! Fèy-tala ka enfòmé zòt asi fétilité é si fò kontinyé osnon pa kontinyé tratman zòt an ka fè pandan grosès osinon pandan lètman.",
+  "row": {
+    "id": "image:e12cd738bc600eaa:chunk:0:gcf",
+    "document_id": "image:e12cd738bc600eaa",
+    "chunk_index": 0,
+    "source_file": "grossesse_et_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/grossesse_et_mici.png",
+    "text_path": "corpus/texts/images/grossesse_et_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "on\nZ\n=\n\nTRATMAN\n\nFERTILITÉ - KONSEPSYON\nFétilité pasyant ki ni on MICI inaktif é ki pa ni antésédan chirijikal sé menm jan kon fétilité fanm ki pa ni MICI. Konespsyon-an miyé si yo ka konsidéwè-y pandan on péyòd kalm maladi-a pou kouté grosès-la alé pli byen. Adan fè, lè maladi-a déklanché pandan moman kreyasyon tibé-la é pandan grosès-la, sa ka ogmanté risk retad kwasans, akouchman\n\n#14\n\nGROSÈS É MICI\n\nKan on ni on MICI é on pwobjè grosès, sé nòmal pou ni kèsyon ! Daprè ankèt «Regards Croisés sur les MICI» ki afa fè an 2020, on moun asou senk ka témwé di yo rénonsé pwobjè timoun-la, menm si anlo fanm ki ni MICI rivé réalizé-y ! Fèy-tala ka enfòmé zòt asi fétilité é si fò kontinyé osnon pa kontinyé tratman zòt an ka fè pandan grosès osinon pandan lètman.",
+    "source_id": "image:e12cd738bc600eaa:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:19.926065+00:00",
+    "source_text_sha256": "4536afcda3fe58f7c5a7d225b97585d20bb2092b2b8903350c1800a19cd58e43"
+  }
+}

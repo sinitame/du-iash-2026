@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:35",
+  "target_language": "en",
+  "source_text_sha256": "3de7519b7ae5c769b16492e040432159bcd855363e3a7df5c4fde8086451c631",
+  "translated_at": "2026-06-10T20:40:58.202732+00:00",
+  "model": "gpt-5-mini",
+  "text": "(monomeric vs polymeric) or the route of administration (oral vs nasogastric tube) (63,67). In practice, psychological and dietary support is strongly recommended (68).\n\nCorticosteroids\nWhen EEN is not feasible or after failure of the latter (2 to 4 weeks), systemic corticosteroids constitute a preferred alternative. The initial dose of prednisolone depends on body weight (1 mg/kg, maximum 40 mg) and should be gradually reduced as soon as clinical remission is achieved, at the latest 4 weeks after the start of treatment. In the case of mild ileocecal involvement [L1], if EEN is insufficiently effective, ileal-release budesonide is preferable to prednisolone. In patients over 40 kg, the initial dose of budesonide is 9 mg once daily for 6 weeks, then reduced as follows: 6 mg once daily for 2 weeks, then 3 mg once daily for 2 weeks. Budesonide is recommended for localized ileocecal disease (69,70). The use of corticosteroids should remain limited, given the adverse effects (syndrome of",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:35:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 35,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "(monomeric vs polymeric) or the route of administration (oral vs nasogastric tube) (63,67). In practice, psychological and dietary support is strongly recommended (68).\n\nCorticosteroids\nWhen EEN is not feasible or after failure of the latter (2 to 4 weeks), systemic corticosteroids constitute a preferred alternative. The initial dose of prednisolone depends on body weight (1 mg/kg, maximum 40 mg) and should be gradually reduced as soon as clinical remission is achieved, at the latest 4 weeks after the start of treatment. In the case of mild ileocecal involvement [L1], if EEN is insufficiently effective, ileal-release budesonide is preferable to prednisolone. In patients over 40 kg, the initial dose of budesonide is 9 mg once daily for 6 weeks, then reduced as follows: 6 mg once daily for 2 weeks, then 3 mg once daily for 2 weeks. Budesonide is recommended for localized ileocecal disease (69,70). The use of corticosteroids should remain limited, given the adverse effects (syndrome of",
+    "source_id": "pdf:398e12446d466067:chunk:35",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:58.202732+00:00",
+    "source_text_sha256": "3de7519b7ae5c769b16492e040432159bcd855363e3a7df5c4fde8086451c631"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "id": "video:23fe501751699a9e",
+  "status": "done",
+  "source_file": "6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.mp4",
+  "source_path": "/data/equipes/equipe-04/videos/6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.mp4",
+  "text_path": "corpus/texts/videos/6e5bfa3f305afb77f0d7cbbb4cc4b0c5da6c0263.txt",
+  "modality": "video",
+  "language": "fr",
+  "source_sha256": "23fe501751699a9e7e02716659c369f44bbdcc1dbe8c007d027901dbe977f154",
+  "created_at": "2026-06-10T16:48:34.329356+00:00"
+}

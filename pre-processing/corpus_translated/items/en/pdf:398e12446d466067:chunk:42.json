@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:42",
+  "target_language": "en",
+  "source_text_sha256": "18e8b746c00f0bf256e86ea5c01e39834d8dc3371624a2ab89742db54d8a9abf",
+  "translated_at": "2026-06-10T20:41:15.917568+00:00",
+  "model": "gpt-5-mini",
+  "text": "safety data in children similar to those of the originator molecules (106). There is no restriction on their use in children, whether as first- or second-line therapy in a patient already treated with IFX or ADA (107).\nUse of subcutaneous infliximab\nSubcutaneous infliximab does not have marketing authorization (MA) in France for patients under 18 years. However, two studies have evaluated the switch from intravenous infliximab to the subcutaneous form in children. In the first, conducted on seven patients, all remained in remission for 40 weeks without adverse effects or new antibodies, with stable serum levels (108). The second, including 21 adolescents, shows maintained remission at six months, with excellent tolerability. These studies suggest that the transition to subcutaneous infliximab is safe, effective, and well accepted, while requiring additional studies to adjust dosing in children under 50 kg (109).\nOther biologic therapies\nIn patients who fail to achieve or maintain clinical remission on anti-TNF therapy, despite optimization of the anti-TNF dose and the use of immunomodulators, ustekinumab or vedolizu",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:42:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 42,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "safety data in children similar to those of the originator molecules (106). There is no restriction on their use in children, whether as first- or second-line therapy in a patient already treated with IFX or ADA (107).\nUse of subcutaneous infliximab\nSubcutaneous infliximab does not have marketing authorization (MA) in France for patients under 18 years. However, two studies have evaluated the switch from intravenous infliximab to the subcutaneous form in children. In the first, conducted on seven patients, all remained in remission for 40 weeks without adverse effects or new antibodies, with stable serum levels (108). The second, including 21 adolescents, shows maintained remission at six months, with excellent tolerability. These studies suggest that the transition to subcutaneous infliximab is safe, effective, and well accepted, while requiring additional studies to adjust dosing in children under 50 kg (109).\nOther biologic therapies\nIn patients who fail to achieve or maintain clinical remission on anti-TNF therapy, despite optimization of the anti-TNF dose and the use of immunomodulators, ustekinumab or vedolizu",
+    "source_id": "pdf:398e12446d466067:chunk:42",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:15.917568+00:00",
+    "source_text_sha256": "18e8b746c00f0bf256e86ea5c01e39834d8dc3371624a2ab89742db54d8a9abf"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "5b0345c44d86e90df13b2381bfd62314d906e8c45b098e60e20ddf6b7ac2c004",
+  "translated_at": "2026-06-10T20:45:50.730069+00:00",
+  "model": "gpt-5-mini",
+  "text": "Robert noeau, 33 pays de 10 !! Good turn, rewarding applause! ... ... Hello, today I offer you a sophrology session to help you better manage and better cope with your pain. For this, first I invite you to sit comfortably on a chair or an armchair. Then, place your feet firmly on the floor. I gently invite you to place your hands, your arms relaxed on your thighs, softly, gently, (piver ta vie). When it feels good for you, I gently invite you to look around you, at the objects, everything that is happening in this room, which can feel safe for you. Then, if that is OK for you, I gently suggest closing your eyelids to return to your inner space. Calmly, very gently, I now suggest that you press on your toes, then you will be able to feel, roll your feet and press on different areas. Then you will rest your feet, well anchored on the floor. You will be able to notice the very outer edges of your feet, roll the feet, then press on the inner edges of your feet. Then you will roll the",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:0:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 0,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Robert noeau, 33 pays de 10 !! Good turn, rewarding applause! ... ... Hello, today I offer you a sophrology session to help you better manage and better cope with your pain. For this, first I invite you to sit comfortably on a chair or an armchair. Then, place your feet firmly on the floor. I gently invite you to place your hands, your arms relaxed on your thighs, softly, gently, (piver ta vie). When it feels good for you, I gently invite you to look around you, at the objects, everything that is happening in this room, which can feel safe for you. Then, if that is OK for you, I gently suggest closing your eyelids to return to your inner space. Calmly, very gently, I now suggest that you press on your toes, then you will be able to feel, roll your feet and press on different areas. Then you will rest your feet, well anchored on the floor. You will be able to notice the very outer edges of your feet, roll the feet, then press on the inner edges of your feet. Then you will roll the",
+    "source_id": "video:05807ec7742bc2af:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:50.730069+00:00",
+    "source_text_sha256": "5b0345c44d86e90df13b2381bfd62314d906e8c45b098e60e20ddf6b7ac2c004"
+  }
+}

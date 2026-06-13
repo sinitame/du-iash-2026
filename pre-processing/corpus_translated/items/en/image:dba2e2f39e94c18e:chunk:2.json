@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:2",
+  "target_language": "en",
+  "source_text_sha256": "0d39ae2cb4882411fdb6b440d7a09bbf46e1afb617ecfe0289a13f8c913e842a",
+  "translated_at": "2026-06-10T20:38:42.269550+00:00",
+  "model": "gpt-5-mini",
+  "text": "Practically all patients with Crohn’s disease or ulcerative colitis will, during the course of their illness, require hospitalization. Most often, it can — and should — be planned to avoid having to manage complications or problems at times when the only thing that should matter is preserving moral comfort in a situation of physical discomfort due to hospitalization.\n\nAfa is available for any information: 0 811 091 623 (Monday to Friday from 2:00 pm to 6:00 pm) or info-accueil@afa.asso.fr\nSanté Info Droits, the CISS legal and social helpline: 0 810 004 333 (Monday, Wednesday and Friday from 2:00 pm to 6:00 pm / Tuesday and Thursday from 2:00 pm to 8:00 pm)\n\nThe trusted person:\nDuring any hospitalization in a health care facility, the patient is offered the opportunity to designate a trusted person. The trusted person can be a parent, a relative or the primary care physician. They will be consulted, for example, if the patient is unable to express their wishes and receive the necessary information. This designation is made in writing. This designation is valid for the duration of the hospitalization, unless the patient decides otherwise.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:2:en",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 2,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Practically all patients with Crohn’s disease or ulcerative colitis will, during the course of their illness, require hospitalization. Most often, it can — and should — be planned to avoid having to manage complications or problems at times when the only thing that should matter is preserving moral comfort in a situation of physical discomfort due to hospitalization.\n\nAfa is available for any information: 0 811 091 623 (Monday to Friday from 2:00 pm to 6:00 pm) or info-accueil@afa.asso.fr\nSanté Info Droits, the CISS legal and social helpline: 0 810 004 333 (Monday, Wednesday and Friday from 2:00 pm to 6:00 pm / Tuesday and Thursday from 2:00 pm to 8:00 pm)\n\nThe trusted person:\nDuring any hospitalization in a health care facility, the patient is offered the opportunity to designate a trusted person. The trusted person can be a parent, a relative or the primary care physician. They will be consulted, for example, if the patient is unable to express their wishes and receive the necessary information. This designation is made in writing. This designation is valid for the duration of the hospitalization, unless the patient decides otherwise.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:2",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:42.269550+00:00",
+    "source_text_sha256": "0d39ae2cb4882411fdb6b440d7a09bbf46e1afb617ecfe0289a13f8c913e842a"
+  }
+}

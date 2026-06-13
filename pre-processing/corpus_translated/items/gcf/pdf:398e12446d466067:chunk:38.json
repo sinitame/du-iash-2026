@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:38",
+  "target_language": "gcf",
+  "source_text_sha256": "6592d894680ababda94f17d1839dc60ad19dc2198952932817a9869cefbce2f0",
+  "translated_at": "2026-06-10T20:53:46.481170+00:00",
+  "model": "gpt-5-mini",
+  "text": "Administrasyon chak simenn a dòz 15 mg/m² (maks 25 mg), i pèmèt on rémisyon klinik adan 25-53 % ka an 12 mwa (83,84). Administrasyon oral folat [5 mg, 24 a 72 è apwé méthotrexate on fwa pa semenn, ouswa 1 mg on fwa pa jou pandan 5 jou pa semenn] rékòmandé pou anrédui toksisite asou fwa é efè adèsirab gastro-entestinal (85). Asou plan sekirite, efè adèsirab ki pli fwékan té konpri nauzé é vomisman, lévasyon tès fwa, mal tèt, enfeksyon é toksisite an san (84,86). Adan 226 timoun ki ni MC, pa té ni okenn différans ant pran oral é vwa sou-kutané méthotrexate, ni pou rémisyon san kortikoid, ni pou ogmantasyon tretman, ni pou efè adèsirab (87).\nThiopurines (AZA, 6-MP)\nThiopurine yo pé tenu rémisyon (88). Dòz rekòmandé sé 2,0-2,5 mg/kg/j pou azathioprine é 1,0-1,5 mg/kg/j pou prékèssè a, 6-mercaptopurine. Yo pé kòmanse épi dòz konplè désdébi, san ogmantasyon pwogresif. Risk ki ogmanté pou lenfòm, enkli lenfòm",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:38:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 38,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Administrasyon chak simenn a dòz 15 mg/m² (maks 25 mg), i pèmèt on rémisyon klinik adan 25-53 % ka an 12 mwa (83,84). Administrasyon oral folat [5 mg, 24 a 72 è apwé méthotrexate on fwa pa semenn, ouswa 1 mg on fwa pa jou pandan 5 jou pa semenn] rékòmandé pou anrédui toksisite asou fwa é efè adèsirab gastro-entestinal (85). Asou plan sekirite, efè adèsirab ki pli fwékan té konpri nauzé é vomisman, lévasyon tès fwa, mal tèt, enfeksyon é toksisite an san (84,86). Adan 226 timoun ki ni MC, pa té ni okenn différans ant pran oral é vwa sou-kutané méthotrexate, ni pou rémisyon san kortikoid, ni pou ogmantasyon tretman, ni pou efè adèsirab (87).\nThiopurines (AZA, 6-MP)\nThiopurine yo pé tenu rémisyon (88). Dòz rekòmandé sé 2,0-2,5 mg/kg/j pou azathioprine é 1,0-1,5 mg/kg/j pou prékèssè a, 6-mercaptopurine. Yo pé kòmanse épi dòz konplè désdébi, san ogmantasyon pwogresif. Risk ki ogmanté pou lenfòm, enkli lenfòm",
+    "source_id": "pdf:398e12446d466067:chunk:38",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:46.481170+00:00",
+    "source_text_sha256": "6592d894680ababda94f17d1839dc60ad19dc2198952932817a9869cefbce2f0"
+  }
+}

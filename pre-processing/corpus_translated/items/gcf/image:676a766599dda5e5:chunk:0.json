@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:676a766599dda5e5:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "7f8ad35afa8250a445c0fca10b6ffeb525ebd4323c5619c4ac6e2ea0f3cc227c",
+  "translated_at": "2026-06-10T20:49:35.095808+00:00",
+  "model": "gpt-5-mini",
+  "text": "FÈ ON STAJ OUBYEN ON PÉRIOD ZÉTID A L'ÉTRANGÉ AVÈK ON MICI\n\nFè on staj a l'étranjé ou fè on pati di zétid i ka vin an plis an plis komen. Pasaj-la ka édé mété plis valè anlè karyè fòmasyon-an, mé i osi on laspéryans lavi bien anrichisan, ki disponib pou on jenn malad épi on MICI toutotan pwojè-a byen préparé.\nFèy sa pa ka kouvèti tout sitiasyon, mé i ka pòté kèlk pwen pou réfléchi ; i pé kondwi vin pli konplèt an fonksyon dé eksperyans manm nou yo (pa hésité pou kontakte nou).\n\nGÉNÉRALITÉS\n\nSi staj-la ou péryod zétid-la fèt a la kad la scolarité adan on lézétabliseman ansèyman fransé, étidyan-an ka résté enskri adan lézétabliseman-an, é i kontinyé jik Sécurité Sociale an Frans, é dès-lasa i ka jwenn ranbousman pou ekzamen, konsiltasyon osnon médikaman ki fèt an Frans ou ki achté an Frans pandan péryod konsédé-a.\n\nPli gran kestyon ki ka ponn lè on moun ka fè on séjò zétid a l'étranjé sé sa ki konsèné pran-chaj swen osnon traitman ki fèt lo plas.\n\nAN EWÒP (lè pran-chaj-la kontinyé an Frans)",
+  "row": {
+    "id": "image:676a766599dda5e5:chunk:0:gcf",
+    "document_id": "image:676a766599dda5e5",
+    "chunk_index": 0,
+    "source_file": "stage_etudes_etranger_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/stage_etudes_etranger_mici.png",
+    "text_path": "corpus/texts/images/stage_etudes_etranger_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "FÈ ON STAJ OUBYEN ON PÉRIOD ZÉTID A L'ÉTRANGÉ AVÈK ON MICI\n\nFè on staj a l'étranjé ou fè on pati di zétid i ka vin an plis an plis komen. Pasaj-la ka édé mété plis valè anlè karyè fòmasyon-an, mé i osi on laspéryans lavi bien anrichisan, ki disponib pou on jenn malad épi on MICI toutotan pwojè-a byen préparé.\nFèy sa pa ka kouvèti tout sitiasyon, mé i ka pòté kèlk pwen pou réfléchi ; i pé kondwi vin pli konplèt an fonksyon dé eksperyans manm nou yo (pa hésité pou kontakte nou).\n\nGÉNÉRALITÉS\n\nSi staj-la ou péryod zétid-la fèt a la kad la scolarité adan on lézétabliseman ansèyman fransé, étidyan-an ka résté enskri adan lézétabliseman-an, é i kontinyé jik Sécurité Sociale an Frans, é dès-lasa i ka jwenn ranbousman pou ekzamen, konsiltasyon osnon médikaman ki fèt an Frans ou ki achté an Frans pandan péryod konsédé-a.\n\nPli gran kestyon ki ka ponn lè on moun ka fè on séjò zétid a l'étranjé sé sa ki konsèné pran-chaj swen osnon traitman ki fèt lo plas.\n\nAN EWÒP (lè pran-chaj-la kontinyé an Frans)",
+    "source_id": "image:676a766599dda5e5:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:35.095808+00:00",
+    "source_text_sha256": "7f8ad35afa8250a445c0fca10b6ffeb525ebd4323c5619c4ac6e2ea0f3cc227c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:75e3ee1c72dca13e:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "59a4d634b429e003e8553311b92c064c4e268a493597037a18e4b6f535337e99",
+  "translated_at": "2026-06-10T20:44:39.789570+00:00",
+  "model": "gpt-5-mini",
+  "text": "Will my disease stop me from growing normally? With these diseases, you can be smaller and thinner than others, at least at the beginning. Eating when you're not hungry or have a stomach ache isn't easy. In addition, inflammation uses a lot of energy. So even if you eat as much as other children, it's not enough for your body. You will have trouble growing properly. But if you take your treatments correctly and follow your doctor's advice, you will reach a normal adult height. There is no particular diet; you mainly need to grow. So we let you eat what you want, according to your tolerance and what you like. But don't forget that to properly feed your microbiota, you should avoid ready-made foods, like tray meals, and eat a balanced diet. When you don't feel well, it is recommended to avoid raw vegetables and milk, because they are hard to digest. You may be offered artificial feeding to treat the disease and help you regain weight. This is called enteral nutrition. It is a mixture of liquid foods given using a tube that passes through the nose.",
+  "row": {
+    "id": "video:75e3ee1c72dca13e:chunk:0:en",
+    "document_id": "video:75e3ee1c72dca13e",
+    "chunk_index": 0,
+    "source_file": "1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.mp4",
+    "text_path": "corpus/texts/videos/1666fc946618a1256e4ebeccc75a81d34efabaed.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Will my disease stop me from growing normally? With these diseases, you can be smaller and thinner than others, at least at the beginning. Eating when you're not hungry or have a stomach ache isn't easy. In addition, inflammation uses a lot of energy. So even if you eat as much as other children, it's not enough for your body. You will have trouble growing properly. But if you take your treatments correctly and follow your doctor's advice, you will reach a normal adult height. There is no particular diet; you mainly need to grow. So we let you eat what you want, according to your tolerance and what you like. But don't forget that to properly feed your microbiota, you should avoid ready-made foods, like tray meals, and eat a balanced diet. When you don't feel well, it is recommended to avoid raw vegetables and milk, because they are hard to digest. You may be offered artificial feeding to treat the disease and help you regain weight. This is called enteral nutrition. It is a mixture of liquid foods given using a tube that passes through the nose.",
+    "source_id": "video:75e3ee1c72dca13e:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:39.789570+00:00",
+    "source_text_sha256": "59a4d634b429e003e8553311b92c064c4e268a493597037a18e4b6f535337e99"
+  }
+}

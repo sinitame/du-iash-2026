@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:16",
+  "target_language": "gcf",
+  "source_text_sha256": "cd83ef27f0f4db78063d0302d7885c612749c0352a372910d487b57e59dd35f4",
+  "translated_at": "2026-06-10T20:52:27.095449+00:00",
+  "model": "gpt-5-mini",
+  "text": "l’abansé dé lézyon makwoskopik adan traktis dijestif sipéryè, réalizé plizyè biyopsi étajé (2 pa segment) ka permet mété an lévidans adan anatomopatoloji prezans on granulòm épithélioyd é giganto-selilè adan 10 a 20% ka (40).\nKritè dyagnostik MICI pédyatrique yo analog a sa ki adan granmoun. Rekomandasyon pou dyagnostik MICI pédyatrique, yo apelé « kritè Porto », ESPGHAN (European Society for Paediatric Gastroenterology and Nutrition) pibliyé yo (41).\n(Tableaux 1 et 2)\nTableau 1 : fòm pédyatrique RCH an dyagnostik (41)\nPrésentation\nCaractéristiques macroscopiques\nCaractéristiques microscopiques\nTypique\nMaladi kontini apati rèktom\nDistòsyon achitektyral, limfoplasmositoz bazal, maladi pli sevè an pati distal, pa ni granulòm\nAtypique\n1.  Éparnyaj rèktal\nAbsans maladi makwoskopik asi rèktom ouswa rèktosigmoïd\nMenm kon tip tipik, sitou adan segment ki afeké anlè zòn ki éparnyé\n2.  Fòm fugas\nMaladi kontini apati rèktom, ki pé osi montré on éparnyaj rèktal\nBiyopsi pafwa fokal, si",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:16:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 16,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "l’abansé dé lézyon makwoskopik adan traktis dijestif sipéryè, réalizé plizyè biyopsi étajé (2 pa segment) ka permet mété an lévidans adan anatomopatoloji prezans on granulòm épithélioyd é giganto-selilè adan 10 a 20% ka (40).\nKritè dyagnostik MICI pédyatrique yo analog a sa ki adan granmoun. Rekomandasyon pou dyagnostik MICI pédyatrique, yo apelé « kritè Porto », ESPGHAN (European Society for Paediatric Gastroenterology and Nutrition) pibliyé yo (41).\n(Tableaux 1 et 2)\nTableau 1 : fòm pédyatrique RCH an dyagnostik (41)\nPrésentation\nCaractéristiques macroscopiques\nCaractéristiques microscopiques\nTypique\nMaladi kontini apati rèktom\nDistòsyon achitektyral, limfoplasmositoz bazal, maladi pli sevè an pati distal, pa ni granulòm\nAtypique\n1.  Éparnyaj rèktal\nAbsans maladi makwoskopik asi rèktom ouswa rèktosigmoïd\nMenm kon tip tipik, sitou adan segment ki afeké anlè zòn ki éparnyé\n2.  Fòm fugas\nMaladi kontini apati rèktom, ki pé osi montré on éparnyaj rèktal\nBiyopsi pafwa fokal, si",
+    "source_id": "pdf:398e12446d466067:chunk:16",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:27.095449+00:00",
+    "source_text_sha256": "cd83ef27f0f4db78063d0302d7885c612749c0352a372910d487b57e59dd35f4"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:57",
+  "target_language": "gcf",
+  "source_text_sha256": "64b5deda597349893e8fbee27e31ad26dd0c35e5a5df9187dfb97ef7b46f294a",
+  "translated_at": "2026-06-10T20:55:02.103185+00:00",
+  "model": "gpt-5-mini",
+  "text": "tout lé \n1-2 simenn, apré sa tout lé 3 mwa, \npwoteksyon solèy\n6-Mercaptopurine \n(6-MP)\nImunomodilatè \n(thiopurin)\n1–1,5 mg/kg/j\nMenm kon azathioprine\nMenm kon AZA, dòzaj 6-TGN/6-MMP si pa efikas ouswa toksisite\nMéthotrexate\nAntimétabòlít \n(rarman itilizé)\nDapré pwotokòl, vo s/c \nchak simenn\nNaze, toksisite fwa, \nsitopéni\nKontwòl NFS, ALAT/ASAT regilyé\nTacrolimus (FK-506)\nInibitè calcineurin\nObjèktif : 10–15 ng/mL apré sa \n5–10 ng/mL \nNefrotoksisite, tèt fè mal, \ntranbleman, tansyon wo (HTA)\nDòzaj san, créatinine, \ntansyon\nInfliximab\nAnti-TNF-α \n(byolòjik)\n5 mg/kg IV a simenn \n0, 2, 6 apré sa chak \n8 simenn\nRéyaksyon infusion, \nenfeksyon, psoriasis, \nantikò kont médikaman\nSivéyans klinik, \ndépistaj TB/VHB, dòzaj \ntaux résidyèl\nAdalimumab / \nGolimumab\nAnti-TNF-α \n(byolòjik s/c)\nDapré pwotokòl \npédyatrique (dépendan pwa)\nRéyaksyon lokal, \nenfeksyon, rash, fòmasyon \nantikò\nMenm kon infliximab\nVedolizumab\nAnti-intégrin α4β7\n300 mg IV (adilt ; \ndonnées pédyatrique \nlimité)\nTèt fè mal, fatik, \nenfeksyon ORL, réyaksyon \nperfizyon\nSivéyans tolérans, \nenfeksyon\nPwobyotik \n(VSL#3)\nAdjiven\nVSL#3 : dòz dapré \nétude.\nBallonnman, incon",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:57:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 57,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "tout lé \n1-2 simenn, apré sa tout lé 3 mwa, \npwoteksyon solèy\n6-Mercaptopurine \n(6-MP)\nImunomodilatè \n(thiopurin)\n1–1,5 mg/kg/j\nMenm kon azathioprine\nMenm kon AZA, dòzaj 6-TGN/6-MMP si pa efikas ouswa toksisite\nMéthotrexate\nAntimétabòlít \n(rarman itilizé)\nDapré pwotokòl, vo s/c \nchak simenn\nNaze, toksisite fwa, \nsitopéni\nKontwòl NFS, ALAT/ASAT regilyé\nTacrolimus (FK-506)\nInibitè calcineurin\nObjèktif : 10–15 ng/mL apré sa \n5–10 ng/mL \nNefrotoksisite, tèt fè mal, \ntranbleman, tansyon wo (HTA)\nDòzaj san, créatinine, \ntansyon\nInfliximab\nAnti-TNF-α \n(byolòjik)\n5 mg/kg IV a simenn \n0, 2, 6 apré sa chak \n8 simenn\nRéyaksyon infusion, \nenfeksyon, psoriasis, \nantikò kont médikaman\nSivéyans klinik, \ndépistaj TB/VHB, dòzaj \ntaux résidyèl\nAdalimumab / \nGolimumab\nAnti-TNF-α \n(byolòjik s/c)\nDapré pwotokòl \npédyatrique (dépendan pwa)\nRéyaksyon lokal, \nenfeksyon, rash, fòmasyon \nantikò\nMenm kon infliximab\nVedolizumab\nAnti-intégrin α4β7\n300 mg IV (adilt ; \ndonnées pédyatrique \nlimité)\nTèt fè mal, fatik, \nenfeksyon ORL, réyaksyon \nperfizyon\nSivéyans tolérans, \nenfeksyon\nPwobyotik \n(VSL#3)\nAdjiven\nVSL#3 : dòz dapré \nétude.\nBallonnman, incon",
+    "source_id": "pdf:398e12446d466067:chunk:57",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:02.103185+00:00",
+    "source_text_sha256": "64b5deda597349893e8fbee27e31ad26dd0c35e5a5df9187dfb97ef7b46f294a"
+  }
+}

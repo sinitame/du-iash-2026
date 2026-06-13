@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:bb811ee0ab1a696c:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "477c830c66e751714e2dc0e71692baafcf2ab83ebee5bc93e8ee98e140c03c1a",
+  "translated_at": "2026-06-10T20:50:27.385245+00:00",
+  "model": "gpt-5-mini",
+  "text": "alé épi tretman ou. Si ou bizwen plis ki on mwa tretman, mandé médsen an pou ka mété-y asi l'ordonnans-la ;\næ alé épi ordonnans-la rédigé épi Denominasyon Komin Entènasyonal (DCI) pwodui yo.\nEgzanp : azathioprine olyé Imurel, adalimumab olyé Humira.\n= médikaman yo dwé adan anbalaj orijinal yo ;\nPou kesyon spécifik konsènan transpò biotérapi yo an frèt, wè fich « Vwayaj an avyon épi tretman » ;",
+  "row": {
+    "id": "image:bb811ee0ab1a696c:chunk:2:gcf",
+    "document_id": "image:bb811ee0ab1a696c",
+    "chunk_index": 2,
+    "source_file": "vivre_mici_voyage.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+    "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "alé épi tretman ou. Si ou bizwen plis ki on mwa tretman, mandé médsen an pou ka mété-y asi l'ordonnans-la ;\næ alé épi ordonnans-la rédigé épi Denominasyon Komin Entènasyonal (DCI) pwodui yo.\nEgzanp : azathioprine olyé Imurel, adalimumab olyé Humira.\n= médikaman yo dwé adan anbalaj orijinal yo ;\nPou kesyon spécifik konsènan transpò biotérapi yo an frèt, wè fich « Vwayaj an avyon épi tretman » ;",
+    "source_id": "image:bb811ee0ab1a696c:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:27.385245+00:00",
+    "source_text_sha256": "477c830c66e751714e2dc0e71692baafcf2ab83ebee5bc93e8ee98e140c03c1a"
+  }
+}

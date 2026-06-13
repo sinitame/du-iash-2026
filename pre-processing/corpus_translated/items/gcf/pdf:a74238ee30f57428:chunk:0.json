@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "777210cd93de3f96d1a9ce6d7698aa670c2209380ba4b69ff70ad3036f2baec7",
+  "translated_at": "2026-06-10T21:08:10.493938+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nF I C H\nV I V R E  A V ÈK\nV I V R E  A V ÈK\n#01\nKÈSTYON PAREN\nTi moun-w ni maladi Kròn osnon réktokolit emorajik ? I nòmal pou ni kèstyon ! Nou ka démêlé adan fich-sa sa ki vré é sa ki fo é nou ka ba-w kèk konsèy pou édé ti moun-w viv byen malgrè maladi-a.\nÈS I GNIN YON DIFÉRANS ANT MICI CHEZ TIMOUN É CHEZ ADILT ?\nI pa ni diférans ant réktokolit emorajik timoun-an é sa adilt-la. Mé tretman yo bizwen ajisté atansyon, espesyalman konsènan itilizasyon kortikoyid ki bizwen toujou kout tan pasé paskè yo ka afèkté kwasans lan.\nPi gran diférans ki konsénn maladi Kròn ant timoun é adilt sé réperksyon asi kwasans an tail é pwa é asi pibèté ki pé ralanti osinon kanpé. Pou sa, pédiat é chirijyen mété anlo enpòtans anlè chwa tretman yo koté timoun.\nMenm si médikaman yo ki sèvi yo menm kon pou adilt (5 Acides Amino-Salicylés, Corticoïdes, Azathiopri",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:0:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 0,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 1 ---\nF I C H\nV I V R E  A V ÈK\nV I V R E  A V ÈK\n#01\nKÈSTYON PAREN\nTi moun-w ni maladi Kròn osnon réktokolit emorajik ? I nòmal pou ni kèstyon ! Nou ka démêlé adan fich-sa sa ki vré é sa ki fo é nou ka ba-w kèk konsèy pou édé ti moun-w viv byen malgrè maladi-a.\nÈS I GNIN YON DIFÉRANS ANT MICI CHEZ TIMOUN É CHEZ ADILT ?\nI pa ni diférans ant réktokolit emorajik timoun-an é sa adilt-la. Mé tretman yo bizwen ajisté atansyon, espesyalman konsènan itilizasyon kortikoyid ki bizwen toujou kout tan pasé paskè yo ka afèkté kwasans lan.\nPi gran diférans ki konsénn maladi Kròn ant timoun é adilt sé réperksyon asi kwasans an tail é pwa é asi pibèté ki pé ralanti osinon kanpé. Pou sa, pédiat é chirijyen mété anlo enpòtans anlè chwa tretman yo koté timoun.\nMenm si médikaman yo ki sèvi yo menm kon pou adilt (5 Acides Amino-Salicylés, Corticoïdes, Azathiopri",
+    "source_id": "pdf:a74238ee30f57428:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:10.493938+00:00",
+    "source_text_sha256": "777210cd93de3f96d1a9ce6d7698aa670c2209380ba4b69ff70ad3036f2baec7"
+  }
+}

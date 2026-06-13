@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:7",
+  "target_language": "gcf",
+  "source_text_sha256": "366234f58476cc10775288e53c2ca75a4c4efee48db1a6f42d9c095f6034ce3b",
+  "translated_at": "2026-06-10T21:08:49.565397+00:00",
+  "model": "gpt-5-mini",
+  "text": "ormon kwasans\nyo nòmal. An fèt, timoun nan souvan manjé pli piti ki fo pou bizwen li, paské i pa ni lafen. An plis, manjé pé mennen doulè vant, anvi vomi oswa dyaré. I pa absòbé ase kalori é i pèd yo an kaka.\nKortikoyid yo pé osi arèté kwasans la, sitou lè yo bay yo pandan lontan é menm si yo bay yo 1 jou sou 2. Efè kortikoyid yo é efè maladi a lo kwasans difisil pou distenge, sé pou sa fo chwazi é pran prekosyon pou bay pi bon tretman ki ké ni pi piti efè segondè.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:7:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 7,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ormon kwasans\nyo nòmal. An fèt, timoun nan souvan manjé pli piti ki fo pou bizwen li, paské i pa ni lafen. An plis, manjé pé mennen doulè vant, anvi vomi oswa dyaré. I pa absòbé ase kalori é i pèd yo an kaka.\nKortikoyid yo pé osi arèté kwasans la, sitou lè yo bay yo pandan lontan é menm si yo bay yo 1 jou sou 2. Efè kortikoyid yo é efè maladi a lo kwasans difisil pou distenge, sé pou sa fo chwazi é pran prekosyon pou bay pi bon tretman ki ké ni pi piti efè segondè.",
+    "source_id": "pdf:a74238ee30f57428:chunk:7",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:49.565397+00:00",
+    "source_text_sha256": "366234f58476cc10775288e53c2ca75a4c4efee48db1a6f42d9c095f6034ce3b"
+  }
+}

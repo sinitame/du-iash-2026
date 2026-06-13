@@ -1,0 +1,11 @@
+{
+  "id": "image:dba2e2f39e94c18e",
+  "status": "done",
+  "source_file": "vivre_mici_hospitalisation.png",
+  "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+  "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "dba2e2f39e94c18e5ef80c9003eba2c0ac3ff17361053e95053977294ddf5120",
+  "created_at": "2026-06-10T16:26:13.535724+00:00"
+}

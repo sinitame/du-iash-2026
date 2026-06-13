@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "8c5d48a58457f3cc6c2086818a46d26b7d09a1b490256a3675fd4def448e23cb",
+  "translated_at": "2026-06-10T20:38:57.407315+00:00",
+  "model": "gpt-5-mini",
+  "text": "GUIDE TO MAKING THE RIGHT CHOICE\nLearning to read food labels is super important! It lets you know exactly what you are eating and helps you make informed choices. The information on labels should be clear and easy to understand so you can decide with full knowledge. It's even more crucial if you have IBD (Inflammatory Bowel Disease) and want to take care of your diet.",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:1:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 1,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "GUIDE TO MAKING THE RIGHT CHOICE\nLearning to read food labels is super important! It lets you know exactly what you are eating and helps you make informed choices. The information on labels should be clear and easy to understand so you can decide with full knowledge. It's even more crucial if you have IBD (Inflammatory Bowel Disease) and want to take care of your diet.",
+    "source_id": "pdf:2499a50038a1326f:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:57.407315+00:00",
+    "source_text_sha256": "8c5d48a58457f3cc6c2086818a46d26b7d09a1b490256a3675fd4def448e23cb"
+  }
+}

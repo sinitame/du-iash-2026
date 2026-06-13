@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:19",
+  "target_language": "gcf",
+  "source_text_sha256": "4f326e779c02ac547a08581d8c6ac6e1fb337a627d6d0614835f6d7216da8a5d",
+  "translated_at": "2026-06-10T20:52:35.099157+00:00",
+  "model": "gpt-5-mini",
+  "text": ": fòm pédyatrique MC adan djagnostik (41)\nKategori\nKaraktèristik tipik\nKaraktèristik ki pa spécifik\nMakroskopik\n-\t Ulserasyon aftéuz adan mukoz la\n-\t Ulserasyon linéyé ou serpijineuz\n-\t Aspè an pavé\n-\t Sténoz ou rétrésisman intestinal épi dilatasyon pré-sténotik\n-\t Épèsisman paryétal intestinal épi rétrésisman luminal (imajri ou chiriji)\n-\t Lézyon péryanal : fistil, abzè, sténoz anal, ulcè adan kanal anal, gwo marisk enflamatwa\n-\t Lézyon an «saut» (skip lesions)\n-\t Ulcè jéjunal ou iléal\n-\t Èdèm\n-\t Eritèm\n-\t Friabilite\n-\t Granularité\n-\t Ekzudat\n-\t Pèd desen vaskilè\n-\t Ulserasyon aftéuz izolé\n-\t Lézyon péryanal : fisir anal médyan, ti marisk\n\nMikroskopik\n-\t Granilòm non kazéoz (ki lwen dé kript ki fann)\n-\t Inflamasyon kwonik fokal, infiltrasyon enflamatwa transmural, fibroz sou-mukoz\n-\t Granilòm adjasan a on kript ki fann\n-\t Enfiltasyon enflamatwa lejé ki pa spécifik adan lamina propria\n-\t Ulserasyon/erozyon mukoz la\n-\t Siyn kwonikité : altérasyon achitektiral dé kript, métaplazi a sélil dè",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:19:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 19,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": ": fòm pédyatrique MC adan djagnostik (41)\nKategori\nKaraktèristik tipik\nKaraktèristik ki pa spécifik\nMakroskopik\n-\t Ulserasyon aftéuz adan mukoz la\n-\t Ulserasyon linéyé ou serpijineuz\n-\t Aspè an pavé\n-\t Sténoz ou rétrésisman intestinal épi dilatasyon pré-sténotik\n-\t Épèsisman paryétal intestinal épi rétrésisman luminal (imajri ou chiriji)\n-\t Lézyon péryanal : fistil, abzè, sténoz anal, ulcè adan kanal anal, gwo marisk enflamatwa\n-\t Lézyon an «saut» (skip lesions)\n-\t Ulcè jéjunal ou iléal\n-\t Èdèm\n-\t Eritèm\n-\t Friabilite\n-\t Granularité\n-\t Ekzudat\n-\t Pèd desen vaskilè\n-\t Ulserasyon aftéuz izolé\n-\t Lézyon péryanal : fisir anal médyan, ti marisk\n\nMikroskopik\n-\t Granilòm non kazéoz (ki lwen dé kript ki fann)\n-\t Inflamasyon kwonik fokal, infiltrasyon enflamatwa transmural, fibroz sou-mukoz\n-\t Granilòm adjasan a on kript ki fann\n-\t Enfiltasyon enflamatwa lejé ki pa spécifik adan lamina propria\n-\t Ulserasyon/erozyon mukoz la\n-\t Siyn kwonikité : altérasyon achitektiral dé kript, métaplazi a sélil dè",
+    "source_id": "pdf:398e12446d466067:chunk:19",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:35.099157+00:00",
+    "source_text_sha256": "4f326e779c02ac547a08581d8c6ac6e1fb337a627d6d0614835f6d7216da8a5d"
+  }
+}

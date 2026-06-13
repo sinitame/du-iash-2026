@@ -1,0 +1,11 @@
+{
+  "id": "image:818673e80f975a59",
+  "status": "done",
+  "source_file": "fatigue_carence.png",
+  "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+  "text_path": "corpus/texts/images/fatigue_carence.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "818673e80f975a59bf08bad48b0b6e160539d63d57b933816c5aeac5f9f8237a",
+  "created_at": "2026-06-10T16:25:12.430726+00:00"
+}

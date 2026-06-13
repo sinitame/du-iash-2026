@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:36",
+  "target_language": "gcf",
+  "source_text_sha256": "128438cf6cbbab18caa2c447a123ee81349f6fdfc782c054d41d4c9a1c30707b",
+  "translated_at": "2026-06-10T20:53:36.496996+00:00",
+  "model": "gpt-5-mini",
+  "text": "pandan 2 semenn. Budésonide ka rekomandé pou afeksyon iléo-caecales lokalizé (69,70). Itilizasyon kortikostewoyd dwèt resté limité, an kont konsiderasyon efè endezirab (sendwòm Cushing, retad kwochans, risk enfeksyon) (71-73).\n\nByotérapi anti-TNF\nAnti-TNF (infliximab, adalimumab) sé trètman endiksyon chwazi adan pasyan ki an gwo risk. Yo osi endike apré echèk imunomodilatè. Donn pédyatrique vini antòman di tès REACH (infliximab) (74) é IMAgINE (adalimumab) (75). Étid prospektiv RISK montré ké on trètman anti-TNF bonè rédi pwogrésyon vè fenotip pénétran (B3) (76). Tès TISKIDS konfime siperyorité on estrateji «top-down» épi infliximab : 41 % remisyon klinik a 52 semenn kont 12 % épi trètman konsèvatè (p= 0,002) (77,78).\n\nInfliximab : L’endiksyon ka fèt a 5 mg/kg a semenn 0, 2 é 6, épi antretien chak 8 semenn. Timoun < 30 kg, sé ki ni ipoalbuminemi oswa maladi étandu souvan bizwen dòz pli wo osnon entèval pli kout (79).\n\nAdalimumab : > 40 kg : 160 mg S0, 80 m",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:36:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 36,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "pandan 2 semenn. Budésonide ka rekomandé pou afeksyon iléo-caecales lokalizé (69,70). Itilizasyon kortikostewoyd dwèt resté limité, an kont konsiderasyon efè endezirab (sendwòm Cushing, retad kwochans, risk enfeksyon) (71-73).\n\nByotérapi anti-TNF\nAnti-TNF (infliximab, adalimumab) sé trètman endiksyon chwazi adan pasyan ki an gwo risk. Yo osi endike apré echèk imunomodilatè. Donn pédyatrique vini antòman di tès REACH (infliximab) (74) é IMAgINE (adalimumab) (75). Étid prospektiv RISK montré ké on trètman anti-TNF bonè rédi pwogrésyon vè fenotip pénétran (B3) (76). Tès TISKIDS konfime siperyorité on estrateji «top-down» épi infliximab : 41 % remisyon klinik a 52 semenn kont 12 % épi trètman konsèvatè (p= 0,002) (77,78).\n\nInfliximab : L’endiksyon ka fèt a 5 mg/kg a semenn 0, 2 é 6, épi antretien chak 8 semenn. Timoun < 30 kg, sé ki ni ipoalbuminemi oswa maladi étandu souvan bizwen dòz pli wo osnon entèval pli kout (79).\n\nAdalimumab : > 40 kg : 160 mg S0, 80 m",
+    "source_id": "pdf:398e12446d466067:chunk:36",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:36.496996+00:00",
+    "source_text_sha256": "128438cf6cbbab18caa2c447a123ee81349f6fdfc782c054d41d4c9a1c30707b"
+  }
+}

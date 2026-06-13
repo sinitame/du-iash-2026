@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:64",
+  "target_language": "en",
+  "source_text_sha256": "f7777ca607f7ddf267364bad402ae85ea72d79078bd34198995b3ac12250c5b6",
+  "translated_at": "2026-06-10T20:42:07.347531+00:00",
+  "model": "gpt-5-mini",
+  "text": ". J Crohns Colitis 2022;16:1187-96.\n21. De Silva PS, Olsen A, Christensen J, et al. An association between dietary arachidonic acid, measured in adipose tissue, and ulcerative colitis. Gastroenterology 2010;139:1912-7.\n22. John S, Luben R, Shrestha SS, et al. Dietary n-3 polyunsaturated fatty acids and the aetiology of ulcerative colitis: a UK prospective cohort study. Eur J Gastroenterol Hepatol. 2010;22:602-6.\n23. Li F, Liu X, Wang W, et al. Consumption of vegetables and fruit and the risk of inflammatory bowel disease: a meta-analysis. Eur J Gastroenterol Hepatol. 2015;27:623-30.\n24. Narula N, Wong ECL, Dehghan M, et al. Association of ultra-processed food intake with risk of inflammatory bowel disease: prospective cohort study. BMJ. 2021;374:n1554.\n25. Del Pinto R, Pietropaoli D, Chandar AK, et al. Association Between Inflammatory Bowel Disease and Vitamin D Deficiency: A Systematic Review and Meta-analysis. Inflamm Bowel Dis. 2015;21:2708-17.\n26. Ledder O, Sonnino M, Birimberger-Schwartz L, et al. Appraisal of the PIBD-classes criteria: a multicenter validation. J Crohn’s colitis. 2020;14:1672-1679.\n27. Ricciuto A, Mack DR, Huynh HQ, et al. Dia",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:64:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 64,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": ". J Crohns Colitis 2022;16:1187-96.\n21. De Silva PS, Olsen A, Christensen J, et al. An association between dietary arachidonic acid, measured in adipose tissue, and ulcerative colitis. Gastroenterology 2010;139:1912-7.\n22. John S, Luben R, Shrestha SS, et al. Dietary n-3 polyunsaturated fatty acids and the aetiology of ulcerative colitis: a UK prospective cohort study. Eur J Gastroenterol Hepatol. 2010;22:602-6.\n23. Li F, Liu X, Wang W, et al. Consumption of vegetables and fruit and the risk of inflammatory bowel disease: a meta-analysis. Eur J Gastroenterol Hepatol. 2015;27:623-30.\n24. Narula N, Wong ECL, Dehghan M, et al. Association of ultra-processed food intake with risk of inflammatory bowel disease: prospective cohort study. BMJ. 2021;374:n1554.\n25. Del Pinto R, Pietropaoli D, Chandar AK, et al. Association Between Inflammatory Bowel Disease and Vitamin D Deficiency: A Systematic Review and Meta-analysis. Inflamm Bowel Dis. 2015;21:2708-17.\n26. Ledder O, Sonnino M, Birimberger-Schwartz L, et al. Appraisal of the PIBD-classes criteria: a multicenter validation. J Crohn’s colitis. 2020;14:1672-1679.\n27. Ricciuto A, Mack DR, Huynh HQ, et al. Dia",
+    "source_id": "pdf:398e12446d466067:chunk:64",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:07.347531+00:00",
+    "source_text_sha256": "f7777ca607f7ddf267364bad402ae85ea72d79078bd34198995b3ac12250c5b6"
+  }
+}

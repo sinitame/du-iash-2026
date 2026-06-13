@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "e0c9800ad14f11c341f47fcfe9dd67bb95ed09d3a7fe87ea92d32ded2d947acc",
+  "translated_at": "2026-06-10T21:20:44.901703+00:00",
+  "model": "gpt-5-mini",
+  "text": "Rété byen dwèt. Épi ou ka aksepte trankilman sa ki ka pasé ba-w. Détann kò a, ou pé kounyé a, dousman osi, obsèvwé respirasyon-w. Lésé sa fèt, jis obsèvwé sa ki ka pasé. Épi petèt, santi vant-ou ka gonflé lè ou anspiré é ka dégonflé lè ou expiré. Oswa petèt sé poumòn-ou ki ka gonflé lè ou anspiré é ka dégonflé lè ou expiré. É sé trankilman obzèvwé mouvman vital sa a ki sé respirasyon-la, san analiz, san jijman. Trankilman, tout moun. Mwen pwopoze-w kounyé a pran konsyans tout kò-w, ki byen raléché é détann, chak pati kò-a. Ou pé vini petèt obsèvwé zòn-la, santi i detann, é raléché tout kò-a. Lè tout pati kò-a ké byen raléché é détann, mwen envité-w konsantwé-w asou emosyon kolè a. Pou sa, mwen ké pwopoze-w egzèsis relaxasyon dinamik ki ké édé mété distans ant ou é emosyon-la. Dabò, ou ké pé répéwé-y, ou pé santi petèt on boul kolè anndan kò-w. Si dépan ki koté i sitiyé, ou ké...",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:2:gcf",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 2,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Rété byen dwèt. Épi ou ka aksepte trankilman sa ki ka pasé ba-w. Détann kò a, ou pé kounyé a, dousman osi, obsèvwé respirasyon-w. Lésé sa fèt, jis obsèvwé sa ki ka pasé. Épi petèt, santi vant-ou ka gonflé lè ou anspiré é ka dégonflé lè ou expiré. Oswa petèt sé poumòn-ou ki ka gonflé lè ou anspiré é ka dégonflé lè ou expiré. É sé trankilman obzèvwé mouvman vital sa a ki sé respirasyon-la, san analiz, san jijman. Trankilman, tout moun. Mwen pwopoze-w kounyé a pran konsyans tout kò-w, ki byen raléché é détann, chak pati kò-a. Ou pé vini petèt obsèvwé zòn-la, santi i detann, é raléché tout kò-a. Lè tout pati kò-a ké byen raléché é détann, mwen envité-w konsantwé-w asou emosyon kolè a. Pou sa, mwen ké pwopoze-w egzèsis relaxasyon dinamik ki ké édé mété distans ant ou é emosyon-la. Dabò, ou ké pé répéwé-y, ou pé santi petèt on boul kolè anndan kò-w. Si dépan ki koté i sitiyé, ou ké...",
+    "source_id": "video:161efbc66394dfb2:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:20:44.901703+00:00",
+    "source_text_sha256": "e0c9800ad14f11c341f47fcfe9dd67bb95ed09d3a7fe87ea92d32ded2d947acc"
+  }
+}

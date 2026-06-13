@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:46",
+  "target_language": "en",
+  "source_text_sha256": "e56458ee686d4a57468547b34adf2e04c2e88f04f8605bdfa353e5c6e3f2177a",
+  "translated_at": "2026-06-10T20:41:22.093091+00:00",
+  "model": "gpt-5-mini",
+  "text": "Multidisciplinary.\nTherapeutic strategy decision tree (62)\n(Figure 4)\nSurgical treatment (119)\nSurgery is indicated only in cases of complications such as strictures, abscesses, fistulas or perforations, always aiming to limit the length of resected segments (120). The incidence of surgical interventions is higher in children. Preoperative nutritional optimization, whether exclusive enteral or parenteral, is essential and reduces the risk of complications, promotes better recovery and can delay or lessen the extent of the surgical procedure. EEN has been shown to reduce postoperative length of stay.\nTreatment of ulcerative colitis\nIn pediatrics, UC differs from Crohn’s disease by a generally less heterogeneous phenotype. The pediatric form accounts for approximately 15 to 20% of all cases (9). Recommendations on the medical management of pediatric UC and severe acute colitis have been published by ESPGHAN and ECCO (121,122).\n(Figure 5 and Table 7)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:46:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 46,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Multidisciplinary.\nTherapeutic strategy decision tree (62)\n(Figure 4)\nSurgical treatment (119)\nSurgery is indicated only in cases of complications such as strictures, abscesses, fistulas or perforations, always aiming to limit the length of resected segments (120). The incidence of surgical interventions is higher in children. Preoperative nutritional optimization, whether exclusive enteral or parenteral, is essential and reduces the risk of complications, promotes better recovery and can delay or lessen the extent of the surgical procedure. EEN has been shown to reduce postoperative length of stay.\nTreatment of ulcerative colitis\nIn pediatrics, UC differs from Crohn’s disease by a generally less heterogeneous phenotype. The pediatric form accounts for approximately 15 to 20% of all cases (9). Recommendations on the medical management of pediatric UC and severe acute colitis have been published by ESPGHAN and ECCO (121,122).\n(Figure 5 and Table 7)",
+    "source_id": "pdf:398e12446d466067:chunk:46",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:22.093091+00:00",
+    "source_text_sha256": "e56458ee686d4a57468547b34adf2e04c2e88f04f8605bdfa353e5c6e3f2177a"
+  }
+}

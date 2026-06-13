@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:81940c62a6725ae7:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "7b236ca30cea55a6fe3c4222b12822988acecea8f0fe8b9253ade3f2ed7a10a2",
+  "translated_at": "2026-06-10T21:13:59.348942+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Ou pé eksplike mwen réktokolit émorajik-la ? Alò réktokolit émorajik sé on kalit émorajik, sé an pé on kolit, sé di an fond sé an maladi inflamatwa kronik adan entesten. Mé i ka koutché sèlman kolon-an, i ka komansé adan réktom é i ka monté plis ouswè an kolon, donk pa ké ni lòt atak asou lòt pati sistém dijestif-la. É sé on atak ki pa two pwofon.\n\nAlò menmjan, i ni preskè menm fizyopatoloji-a; fizyopatoloji sé di sé menm kòz yo. Mé mwen ka di yo pa totalman menm paské ni bagay koté sé pa tout a fè menm faktè yo. Sasé di, an réktokolit émorajik, faktè alimantè yo ké on ti jan mwens enpòtan.\n\nÉ faktè anviwònman ki diferan-la sé tabak. Paske tabak adan maladi Kròn ka agravé maladi-a, mennen résistans an tretman, é an ka chiriji ka vini on faktè pou on mové pronostik. Alò, adan réktokolit émorajik, i ka gen on efè pwoteksyon, mé bien sûr tabak ka ni tèlman konsekans ké nou pa pé vini fimen pou tr...",
+  "row": {
+    "id": "video:81940c62a6725ae7:chunk:0:gcf",
+    "document_id": "video:81940c62a6725ae7",
+    "chunk_index": 0,
+    "source_file": "2a64de8296fd58dc38842b411a6ed60980bb9b9d.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/2a64de8296fd58dc38842b411a6ed60980bb9b9d.mp4",
+    "text_path": "corpus/texts/videos/2a64de8296fd58dc38842b411a6ed60980bb9b9d.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Ou pé eksplike mwen réktokolit émorajik-la ? Alò réktokolit émorajik sé on kalit émorajik, sé an pé on kolit, sé di an fond sé an maladi inflamatwa kronik adan entesten. Mé i ka koutché sèlman kolon-an, i ka komansé adan réktom é i ka monté plis ouswè an kolon, donk pa ké ni lòt atak asou lòt pati sistém dijestif-la. É sé on atak ki pa two pwofon.\n\nAlò menmjan, i ni preskè menm fizyopatoloji-a; fizyopatoloji sé di sé menm kòz yo. Mé mwen ka di yo pa totalman menm paské ni bagay koté sé pa tout a fè menm faktè yo. Sasé di, an réktokolit émorajik, faktè alimantè yo ké on ti jan mwens enpòtan.\n\nÉ faktè anviwònman ki diferan-la sé tabak. Paske tabak adan maladi Kròn ka agravé maladi-a, mennen résistans an tretman, é an ka chiriji ka vini on faktè pou on mové pronostik. Alò, adan réktokolit émorajik, i ka gen on efè pwoteksyon, mé bien sûr tabak ka ni tèlman konsekans ké nou pa pé vini fimen pou tr...",
+    "source_id": "video:81940c62a6725ae7:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:13:59.348942+00:00",
+    "source_text_sha256": "7b236ca30cea55a6fe3c4222b12822988acecea8f0fe8b9253ade3f2ed7a10a2"
+  }
+}

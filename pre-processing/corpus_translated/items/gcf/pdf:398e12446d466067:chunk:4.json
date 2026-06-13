@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:4",
+  "target_language": "gcf",
+  "source_text_sha256": "08c04e38240eccb5d42d69039d61c8e2d76494502079ca42bfe0980bba10a911",
+  "translated_at": "2026-06-10T20:51:46.191534+00:00",
+  "model": "gpt-5-mini",
+  "text": "Défisi iminitè primitif (2,5,6). \nJiska jodla, étiyoloji monojénik ki idantifié adan VEO-IBD pé klasé an sis gran kategori (ki pafwa ka sipèrpozé) : déréglaj iminitè jénéral, défisi lymphosit T é B, anomali fonksyon fagositik, sindròm ip-enflamatwa é oto-enflamatwa, dézfonksyon baryé épitelyal é lòt kondisyon (2,5,6). Mèm si on pwopòsyon pasyan ki atenn VEO-IBD ni on étiyoloji monojénik ki kaché anba a, pi fò nan yo (> 70-80 %) pa ni on koz jénétik spécifik ki idantifié (7).\n\nAdan lemonn, incidence MICI pédiatrik pli fò an Kanada, an Ewòp Dinò, é an Nouvèl-Zéland. I pli ba an Ewòp Sid, an Afrik, an Azi é an Amerik di Sid (8). Adan 37 étidi ki té évalué incidence adan tan, 31 té montré on ogmantasyon di incidence a. Nou ka wè osi on émerjans di MICI pédiatrik adan rézyon koté yo pa té ja raporé sa avan (8).\n\nAn Frans, daprè létdi, MICI ka kòmanse adan 7 à 25 % ka a an timounaj, épi on rapò 3 ka d",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:4:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 4,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Défisi iminitè primitif (2,5,6). \nJiska jodla, étiyoloji monojénik ki idantifié adan VEO-IBD pé klasé an sis gran kategori (ki pafwa ka sipèrpozé) : déréglaj iminitè jénéral, défisi lymphosit T é B, anomali fonksyon fagositik, sindròm ip-enflamatwa é oto-enflamatwa, dézfonksyon baryé épitelyal é lòt kondisyon (2,5,6). Mèm si on pwopòsyon pasyan ki atenn VEO-IBD ni on étiyoloji monojénik ki kaché anba a, pi fò nan yo (> 70-80 %) pa ni on koz jénétik spécifik ki idantifié (7).\n\nAdan lemonn, incidence MICI pédiatrik pli fò an Kanada, an Ewòp Dinò, é an Nouvèl-Zéland. I pli ba an Ewòp Sid, an Afrik, an Azi é an Amerik di Sid (8). Adan 37 étidi ki té évalué incidence adan tan, 31 té montré on ogmantasyon di incidence a. Nou ka wè osi on émerjans di MICI pédiatrik adan rézyon koté yo pa té ja raporé sa avan (8).\n\nAn Frans, daprè létdi, MICI ka kòmanse adan 7 à 25 % ka a an timounaj, épi on rapò 3 ka d",
+    "source_id": "pdf:398e12446d466067:chunk:4",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:46.191534+00:00",
+    "source_text_sha256": "08c04e38240eccb5d42d69039d61c8e2d76494502079ca42bfe0980bba10a911"
+  }
+}

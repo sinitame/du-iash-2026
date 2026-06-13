@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:f80b9760c4c81cc7:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "6f3f7695cdf94022882c28fe265df78402f9a903d2447f9bf935b44818c5c642",
+  "translated_at": "2026-06-10T20:45:49.125985+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Do you have the right to examine me and what does the law say? Yes. You do not have the right to examine someone if they do not want it, and I even think that we must ask for your consent before examining you and that you explicitly agree. After that, there are sometimes tests that we absolutely need in order to decide something or to have a precise idea, and if you do not agree and think the test is really important, we have to explain how important the test is so that you understand and can come to a decision. But I believe that if you do not agree, even if they examine you, one cannot intrude into you without your consent and that would, as they say, be counterproductive, because to move forward we actually need a therapeutic alliance, so we cannot do things against you.",
+  "row": {
+    "id": "video:f80b9760c4c81cc7:chunk:0:en",
+    "document_id": "video:f80b9760c4c81cc7",
+    "chunk_index": 0,
+    "source_file": "4a4c3fb03f1074caa121751c265b88f3800b9db8.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/4a4c3fb03f1074caa121751c265b88f3800b9db8.mp4",
+    "text_path": "corpus/texts/videos/4a4c3fb03f1074caa121751c265b88f3800b9db8.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Do you have the right to examine me and what does the law say? Yes. You do not have the right to examine someone if they do not want it, and I even think that we must ask for your consent before examining you and that you explicitly agree. After that, there are sometimes tests that we absolutely need in order to decide something or to have a precise idea, and if you do not agree and think the test is really important, we have to explain how important the test is so that you understand and can come to a decision. But I believe that if you do not agree, even if they examine you, one cannot intrude into you without your consent and that would, as they say, be counterproductive, because to move forward we actually need a therapeutic alliance, so we cannot do things against you.",
+    "source_id": "video:f80b9760c4c81cc7:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:49.125985+00:00",
+    "source_text_sha256": "6f3f7695cdf94022882c28fe265df78402f9a903d2447f9bf935b44818c5c642"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:76",
+  "target_language": "en",
+  "source_text_sha256": "5e970a706e90da74a2a46b2261141f3f40fddb40a26d6da057ccfd65e2870811",
+  "translated_at": "2026-06-10T20:42:26.778561+00:00",
+  "model": "gpt-5-mini",
+  "text": "inter DA, Joosse ME, de Wildt SN, et al. Pharmacokinetics, \npharmacodynamics, and immunogenicity of infliximab in \npediatric inflammatory bowel disease: a systematic review \nand revised dosing considerations. J Pediatr Gastroenterol Nutr. \n2020;70:763-76.\n80.\tLazzerini M, Martelossi S, Magazzù G, et al. Effect of thalidomide on clinical remission in children and adolescents with refractory Crohn disease: a randomized clinical trial. JAMA. 2013;310:2164-73.\n81.\tLazzerini M, Villanacci V, Pellegrin MC, et al. Endoscopic and histologic healing in children with inflammatory bowel diseases treated with thalidomide. Clin Gastroenterol Hepatol. 2017;15:1382-9.\n82.\tYang C, Singh P, Singh H, et al. Systematic review: thalidomide and thalidomide analogues for treatment of inflammatory bowel disease. Aliment Pharmacol Ther. 2015;41:1079-93.\n83.\tColman RJ, Lawton RC, Dubinsky MC, Rubin DT. Methotrexate for the treatment of pediatric Crohn’s disease: a systematic review and meta analysis. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate for the Management of Crohn’s disease in children. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:76:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 76,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "inter DA, Joosse ME, de Wildt SN, et al. Pharmacokinetics, \npharmacodynamics, and immunogenicity of infliximab in \npediatric inflammatory bowel disease: a systematic review \nand revised dosing considerations. J Pediatr Gastroenterol Nutr. \n2020;70:763-76.\n80.\tLazzerini M, Martelossi S, Magazzù G, et al. Effect of thalidomide on clinical remission in children and adolescents with refractory Crohn disease: a randomized clinical trial. JAMA. 2013;310:2164-73.\n81.\tLazzerini M, Villanacci V, Pellegrin MC, et al. Endoscopic and histologic healing in children with inflammatory bowel diseases treated with thalidomide. Clin Gastroenterol Hepatol. 2017;15:1382-9.\n82.\tYang C, Singh P, Singh H, et al. Systematic review: thalidomide and thalidomide analogues for treatment of inflammatory bowel disease. Aliment Pharmacol Ther. 2015;41:1079-93.\n83.\tColman RJ, Lawton RC, Dubinsky MC, Rubin DT. Methotrexate for the treatment of pediatric Crohn’s disease: a systematic review and meta analysis. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate for the Management of Crohn’s disease in children. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S,",
+    "source_id": "pdf:398e12446d466067:chunk:76",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:26.778561+00:00",
+    "source_text_sha256": "5e970a706e90da74a2a46b2261141f3f40fddb40a26d6da057ccfd65e2870811"
+  }
+}

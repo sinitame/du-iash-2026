@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c002376e5fff0ea6:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "772cfe8c84882479deab09bd8427fabfefcd8c21e02a33fd34c1893dbbac1e71",
+  "translated_at": "2026-06-10T20:49:46.277046+00:00",
+  "model": "gpt-5-mini",
+  "text": "| I\n\nDÉ AVÈK\nVIVR AVÈK V\n\nOu ni on maladi Crohn ki ka fè sen ? Sé nòmal si ou ni kestion !\nOu ké jwenn répons adan fich-la ! Fô ou pa résté sèl èvè kestion-w :\npalé-y èvè paran-w osnon médsen-w !\n\nLi difisil palé konsèné gerizon définitif paské yo pa konn toujou asé kòz maladi-a. Chanséman ni médikaman pou kalmé lépòk pousé (crises), pou fè-w an bon fòm é fè siy ki pa nòmal yo disparèt pandan long tan. I posib maladi-a ké fè rétounen, mé menm adan ka grav osnon konpliké, rézilta finalman bon.\n\nWi, sé nòmal lè ou ni doulè, dyaré osnon lè ou santi-w «mòch» paské médikaman : ou santi-w sèl, ou pansé sé enjis, ou kriyé é ou santi-y konmsi pèsonn pa konprann-w. Fô palé dè sa èvè paran-w osnon médsen-w, yo pé édé-w oubyen jwenn on moun ki pé fè sa. Ou pé osi mandé pou vwè on moun ki ni menm laj èvè-w é ki ni menm maladi-a. Ou ké rann-w kont alò ou pa sèl.\n\nNon, ou pa sèl. Anviwon 250000 moun an",
+  "row": {
+    "id": "image:c002376e5fff0ea6:chunk:0:gcf",
+    "document_id": "image:c002376e5fff0ea6",
+    "chunk_index": 0,
+    "source_file": "questions_enfant.png",
+    "source_path": "/data/equipes/equipe-04/images/questions_enfant.png",
+    "text_path": "corpus/texts/images/questions_enfant.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "| I\n\nDÉ AVÈK\nVIVR AVÈK V\n\nOu ni on maladi Crohn ki ka fè sen ? Sé nòmal si ou ni kestion !\nOu ké jwenn répons adan fich-la ! Fô ou pa résté sèl èvè kestion-w :\npalé-y èvè paran-w osnon médsen-w !\n\nLi difisil palé konsèné gerizon définitif paské yo pa konn toujou asé kòz maladi-a. Chanséman ni médikaman pou kalmé lépòk pousé (crises), pou fè-w an bon fòm é fè siy ki pa nòmal yo disparèt pandan long tan. I posib maladi-a ké fè rétounen, mé menm adan ka grav osnon konpliké, rézilta finalman bon.\n\nWi, sé nòmal lè ou ni doulè, dyaré osnon lè ou santi-w «mòch» paské médikaman : ou santi-w sèl, ou pansé sé enjis, ou kriyé é ou santi-y konmsi pèsonn pa konprann-w. Fô palé dè sa èvè paran-w osnon médsen-w, yo pé édé-w oubyen jwenn on moun ki pé fè sa. Ou pé osi mandé pou vwè on moun ki ni menm laj èvè-w é ki ni menm maladi-a. Ou ké rann-w kont alò ou pa sèl.\n\nNon, ou pa sèl. Anviwon 250000 moun an",
+    "source_id": "image:c002376e5fff0ea6:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:46.277046+00:00",
+    "source_text_sha256": "772cfe8c84882479deab09bd8427fabfefcd8c21e02a33fd34c1893dbbac1e71"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:161efbc66394dfb2:chunk:12",
+  "target_language": "en",
+  "source_text_sha256": "e473ef025affe97ac546001665854dff9d8db8096fbba3f09915eca57c90560e",
+  "translated_at": "2026-06-10T20:47:47.821898+00:00",
+  "model": "gpt-5-mini",
+  "text": "Place your hands on your sternum, one against the other, to make you aware of your diaphragm movement. Do this calmly, very gently. I invite you to take a breath in through your nose. Then you will breathe out slowly through your mouth. Very gently, very calmly. I tell you to relax your arms along your body.\n\nNow I will ask whether you have become aware of the diaphragm muscle that we have under the ribs. Were you able to feel that muscle? If you are not sufficiently aware of it, I suggest you practise these exercises two more times. You can inhale through your nose, keeping your hands on those areas of the sternum, and you will exhale with a short, sharp breath. And you relax very gently. You may become aware of the diaphragm, perhaps little by little during your exhalation; do this gently for two minutes.\n\nIf it’s still not OK for you, I invite you one last time to practise these exercises again. You will inhale, place your hands on the sternum, hold your breath for a short time, and now you will exhale a little. And you relax very gently. And you",
+  "row": {
+    "id": "video:161efbc66394dfb2:chunk:12:en",
+    "document_id": "video:161efbc66394dfb2",
+    "chunk_index": 12,
+    "source_file": "e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.mp4",
+    "text_path": "corpus/texts/videos/e89dad37d22451bd3dde20fcb1a1f4d777a03bdb.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Place your hands on your sternum, one against the other, to make you aware of your diaphragm movement. Do this calmly, very gently. I invite you to take a breath in through your nose. Then you will breathe out slowly through your mouth. Very gently, very calmly. I tell you to relax your arms along your body.\n\nNow I will ask whether you have become aware of the diaphragm muscle that we have under the ribs. Were you able to feel that muscle? If you are not sufficiently aware of it, I suggest you practise these exercises two more times. You can inhale through your nose, keeping your hands on those areas of the sternum, and you will exhale with a short, sharp breath. And you relax very gently. You may become aware of the diaphragm, perhaps little by little during your exhalation; do this gently for two minutes.\n\nIf it’s still not OK for you, I invite you one last time to practise these exercises again. You will inhale, place your hands on the sternum, hold your breath for a short time, and now you will exhale a little. And you relax very gently. And you",
+    "source_id": "video:161efbc66394dfb2:chunk:12",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:47.821898+00:00",
+    "source_text_sha256": "e473ef025affe97ac546001665854dff9d8db8096fbba3f09915eca57c90560e"
+  }
+}

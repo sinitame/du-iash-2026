@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "8b65912505c05e53ea4d7a08d320092fcbc946db3ba3f820f3ca4cc031578d61",
+  "translated_at": "2026-06-10T20:37:10.944899+00:00",
+  "model": "gpt-5-mini",
+  "text": "Z\nO\nH\nZ\nLu\n>\nsu\nœ\na\n\nFATIGUE\n\nAND MICI\n\nPREVENTION\n\n#06\n\nWHAT IS FATIGUE?\n\nIt is difficult to give a definition of fatigue but, in a pragmatic way, one can suggest that it is a complaint resulting from an imbalance between what must be accomplished and what can be done. We distinguish physiological fatigues after physical exertion or from lack of sleep, for example, which are improved by rest, and pathological fatigues that are little improved by rest or sleep. The latter can be somatic, that is related to an identified pathology, or psychological in the context of anxiety or depressive syndromes. In the context of MICI, somatic fatigue and psychological fatigue are often mixed.\n\nWHAT ROLE DOES FATIGUE PLAY IN MICI?\n\nFatigue is extremely common in MICI since it is reported in 44-86% of cases during flares, and this fatigue persists in 22-41% of patients during remission. It is frequently associated with sleep disturbances and negatively impacts quality of life, which is now a criterion evaluated in most studies concerning MICI.",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:0:en",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 0,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "Z\nO\nH\nZ\nLu\n>\nsu\nœ\na\n\nFATIGUE\n\nAND MICI\n\nPREVENTION\n\n#06\n\nWHAT IS FATIGUE?\n\nIt is difficult to give a definition of fatigue but, in a pragmatic way, one can suggest that it is a complaint resulting from an imbalance between what must be accomplished and what can be done. We distinguish physiological fatigues after physical exertion or from lack of sleep, for example, which are improved by rest, and pathological fatigues that are little improved by rest or sleep. The latter can be somatic, that is related to an identified pathology, or psychological in the context of anxiety or depressive syndromes. In the context of MICI, somatic fatigue and psychological fatigue are often mixed.\n\nWHAT ROLE DOES FATIGUE PLAY IN MICI?\n\nFatigue is extremely common in MICI since it is reported in 44-86% of cases during flares, and this fatigue persists in 22-41% of patients during remission. It is frequently associated with sleep disturbances and negatively impacts quality of life, which is now a criterion evaluated in most studies concerning MICI.",
+    "source_id": "image:c5def79d154ac486:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:10.944899+00:00",
+    "source_text_sha256": "8b65912505c05e53ea4d7a08d320092fcbc946db3ba3f820f3ca4cc031578d61"
+  }
+}

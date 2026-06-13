@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:4",
+  "target_language": "en",
+  "source_text_sha256": "a8c8b6a27b87d73110725e26d9c68b02b144b9e35706b8a27ffd54ddd05a5e48",
+  "translated_at": "2026-06-10T20:39:08.666496+00:00",
+  "model": "gpt-5-mini",
+  "text": "from its original state.\nGROUP 2 • Processed culinary ingredients\nOil, sugar, salt... These are ingredients we add for cooking, but that we don’t eat on their own.\nGROUP 3 • Processed foods\nHere, we find group 1 foods to which a little salt, sugar or oil has been added: bread, cheese, canned vegetables.\nGROUP 4 • Ultra-processed foods. These are industrial products with lots of ingredients you don’t find in a typical kitchen (additives, artificial flavors…). Examples: sodas, chips, nuggets, candies.\nMARKETING:\nTRUE INFORMATION OR REAL MISINFORMATION?\nStudies have shown that the more a food label is filled with information, the lower the quality of the product. In general, ultra-processed and less healthy foods use more aggressive marketing strategies and super busy labels.\n“No added sugar” does not mean sugar-free (natural sugar is still there).\n“Light”? If it’s reduced in one way, it’s because something has been added elsewhere to achieve a “similar” result. Example: foods reduced in fat often contain e",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:4:en",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 4,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "from its original state.\nGROUP 2 • Processed culinary ingredients\nOil, sugar, salt... These are ingredients we add for cooking, but that we don’t eat on their own.\nGROUP 3 • Processed foods\nHere, we find group 1 foods to which a little salt, sugar or oil has been added: bread, cheese, canned vegetables.\nGROUP 4 • Ultra-processed foods. These are industrial products with lots of ingredients you don’t find in a typical kitchen (additives, artificial flavors…). Examples: sodas, chips, nuggets, candies.\nMARKETING:\nTRUE INFORMATION OR REAL MISINFORMATION?\nStudies have shown that the more a food label is filled with information, the lower the quality of the product. In general, ultra-processed and less healthy foods use more aggressive marketing strategies and super busy labels.\n“No added sugar” does not mean sugar-free (natural sugar is still there).\n“Light”? If it’s reduced in one way, it’s because something has been added elsewhere to achieve a “similar” result. Example: foods reduced in fat often contain e",
+    "source_id": "pdf:2499a50038a1326f:chunk:4",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:08.666496+00:00",
+    "source_text_sha256": "a8c8b6a27b87d73110725e26d9c68b02b144b9e35706b8a27ffd54ddd05a5e48"
+  }
+}

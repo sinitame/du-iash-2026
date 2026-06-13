@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:f80b9760c4c81cc7:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "6f3f7695cdf94022882c28fe265df78402f9a903d2447f9bf935b44818c5c642",
+  "translated_at": "2026-06-10T21:16:33.154224+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Èske i ni on dwa pou ekzamen? Wi. Yo pa ni dwa egzaminé-w si ou pa vlé, é mwen menm mwen pansé fòk yo mandé konsantman'w avan yo egzaminé-w é pou ou exprimé dakò. Apré, i ni lè koté ni egzamen koté nou ni toutafè bizwen pou nou pé désidé on bagay oswè pou ni on lidé prézi, é si ou pa dakò mé ou konprann egzamen an enpòtan, fòk yo expliké-w a ki pwen egzamen an enpòtan pou ou konprann é pou ou ka avansé. Mé mwen, mwen pansé si ou pa dakò, menm si yo egzaminé-w, yo pa pé fè on intrizyon andidan'w san konsantman'w, é sa ta pa bon, sa ta kont pak térapéutik, paské pou nou ka avansé, an réyalité nou bizwen on atitid térapéutik, alò yo pa pé fè bagay kontw.",
+  "row": {
+    "id": "video:f80b9760c4c81cc7:chunk:0:gcf",
+    "document_id": "video:f80b9760c4c81cc7",
+    "chunk_index": 0,
+    "source_file": "4a4c3fb03f1074caa121751c265b88f3800b9db8.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/4a4c3fb03f1074caa121751c265b88f3800b9db8.mp4",
+    "text_path": "corpus/texts/videos/4a4c3fb03f1074caa121751c265b88f3800b9db8.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Èske i ni on dwa pou ekzamen? Wi. Yo pa ni dwa egzaminé-w si ou pa vlé, é mwen menm mwen pansé fòk yo mandé konsantman'w avan yo egzaminé-w é pou ou exprimé dakò. Apré, i ni lè koté ni egzamen koté nou ni toutafè bizwen pou nou pé désidé on bagay oswè pou ni on lidé prézi, é si ou pa dakò mé ou konprann egzamen an enpòtan, fòk yo expliké-w a ki pwen egzamen an enpòtan pou ou konprann é pou ou ka avansé. Mé mwen, mwen pansé si ou pa dakò, menm si yo egzaminé-w, yo pa pé fè on intrizyon andidan'w san konsantman'w, é sa ta pa bon, sa ta kont pak térapéutik, paské pou nou ka avansé, an réyalité nou bizwen on atitid térapéutik, alò yo pa pé fè bagay kontw.",
+    "source_id": "video:f80b9760c4c81cc7:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:33.154224+00:00",
+    "source_text_sha256": "6f3f7695cdf94022882c28fe265df78402f9a903d2447f9bf935b44818c5c642"
+  }
+}

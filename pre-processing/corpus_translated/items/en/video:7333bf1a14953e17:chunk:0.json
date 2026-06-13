@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:7333bf1a14953e17:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "74e6281319a71cafd0cf5895b8638855c1768453fd3c5d2de82532784fab5dd7",
+  "translated_at": "2026-06-10T20:45:00.415705+00:00",
+  "model": "gpt-5-mini",
+  "text": "Well, the colonoscopy—do I need to prepare for it? Yes, because you actually need to arrive with a completely clean colon, so you'll have to drink a solution that will make you go to the toilet and empty your colon. You'll also need to follow a low-residue diet so that it's easier to evacuate. So yes, it's an exam that requires preparation.",
+  "row": {
+    "id": "video:7333bf1a14953e17:chunk:0:en",
+    "document_id": "video:7333bf1a14953e17",
+    "chunk_index": 0,
+    "source_file": "3afbc7e8e0d92ab606ccc108b59a83048a856e69.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3afbc7e8e0d92ab606ccc108b59a83048a856e69.mp4",
+    "text_path": "corpus/texts/videos/3afbc7e8e0d92ab606ccc108b59a83048a856e69.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Well, the colonoscopy—do I need to prepare for it? Yes, because you actually need to arrive with a completely clean colon, so you'll have to drink a solution that will make you go to the toilet and empty your colon. You'll also need to follow a low-residue diet so that it's easier to evacuate. So yes, it's an exam that requires preparation.",
+    "source_id": "video:7333bf1a14953e17:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:00.415705+00:00",
+    "source_text_sha256": "74e6281319a71cafd0cf5895b8638855c1768453fd3c5d2de82532784fab5dd7"
+  }
+}

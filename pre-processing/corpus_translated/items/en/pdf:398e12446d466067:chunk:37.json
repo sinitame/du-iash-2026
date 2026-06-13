@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:37",
+  "target_language": "en",
+  "source_text_sha256": "a7aeb84638cd5885aae26639a78832c454158999b5fa89dd9d8de5fe1daa4337",
+  "translated_at": "2026-06-10T20:40:58.822844+00:00",
+  "model": "gpt-5-mini",
+  "text": "at 8 weeks. Children < 30 kg, with hypoalbuminemia or with extensive disease often require higher doses or shorter intervals (79).\nAdalimumab: > 40 kg: 160 mg S0, 80 mg S2, then 40 mg every 2 weeks; < 40 kg: 80/40/20 mg every 2 weeks. Given data on underdosing in young children, higher doses may be necessary in some cases.\nOther options\nTreatment with thalidomide can induce remission in refractory children, with high rates of mucosal healing at 12 months (80,81). However, its adverse effects (sedation, peripheral neuropathy, teratogenicity) limit its use to complex situations (82).\nMaintenance therapies for remission\nMethotrexate (MTX)\nMTX is recommended as first-line maintenance immunosuppressant or in case of failure/intolerance to thiopurines. Administered subcutaneously, intramuscularly or orally on a weekly basis at a dose of 15 mg/m² (max 25 mg), it achieves clinical remission in 25–53% of cases at 12 months (83,84). Oral administration of folates [5 mg, 24 to 72 hours after methotrexate",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:37:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 37,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "at 8 weeks. Children < 30 kg, with hypoalbuminemia or with extensive disease often require higher doses or shorter intervals (79).\nAdalimumab: > 40 kg: 160 mg S0, 80 mg S2, then 40 mg every 2 weeks; < 40 kg: 80/40/20 mg every 2 weeks. Given data on underdosing in young children, higher doses may be necessary in some cases.\nOther options\nTreatment with thalidomide can induce remission in refractory children, with high rates of mucosal healing at 12 months (80,81). However, its adverse effects (sedation, peripheral neuropathy, teratogenicity) limit its use to complex situations (82).\nMaintenance therapies for remission\nMethotrexate (MTX)\nMTX is recommended as first-line maintenance immunosuppressant or in case of failure/intolerance to thiopurines. Administered subcutaneously, intramuscularly or orally on a weekly basis at a dose of 15 mg/m² (max 25 mg), it achieves clinical remission in 25–53% of cases at 12 months (83,84). Oral administration of folates [5 mg, 24 to 72 hours after methotrexate",
+    "source_id": "pdf:398e12446d466067:chunk:37",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:58.822844+00:00",
+    "source_text_sha256": "a7aeb84638cd5885aae26639a78832c454158999b5fa89dd9d8de5fe1daa4337"
+  }
+}

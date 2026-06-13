@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "ad4a18dd154fb1edc190115d2fcebe3039bdf803209f6c4acf53a19a1b7f20aa",
+  "translated_at": "2026-06-10T20:51:00.042035+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 2 ---\n• 11 ENGRÉDYAN\n• On sèl aditif : asid askòrbik\n• Ki sòti adan agrikilti biyolojik\n= piti osnon pa gen pestisid\n• 23 ENGRÉDYAN\n• 3 aditif : E471, E282, asid askòrbik, ladann i ni 1 émulsifyan\nKONKLIZYON ANKÈT LA :\nFò nou bay priyorité a pen an gòch-la paskè lis engrédyan an pi kout é i ni jis on sèl aditif.\nANKÈT 1 :\nAnn konparé lis engrédyan dé pen mi adan supèrmaché-a",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:2:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 2,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 2 ---\n• 11 ENGRÉDYAN\n• On sèl aditif : asid askòrbik\n• Ki sòti adan agrikilti biyolojik\n= piti osnon pa gen pestisid\n• 23 ENGRÉDYAN\n• 3 aditif : E471, E282, asid askòrbik, ladann i ni 1 émulsifyan\nKONKLIZYON ANKÈT LA :\nFò nou bay priyorité a pen an gòch-la paskè lis engrédyan an pi kout é i ni jis on sèl aditif.\nANKÈT 1 :\nAnn konparé lis engrédyan dé pen mi adan supèrmaché-a",
+    "source_id": "pdf:2499a50038a1326f:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:00.042035+00:00",
+    "source_text_sha256": "ad4a18dd154fb1edc190115d2fcebe3039bdf803209f6c4acf53a19a1b7f20aa"
+  }
+}

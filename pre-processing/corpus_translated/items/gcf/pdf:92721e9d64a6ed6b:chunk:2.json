@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "05bcad2e13aafa4727d9c436e0f050273a4e572cd86bd751584bb77a62c19596",
+  "translated_at": "2026-06-10T20:51:28.228471+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 2 ---\nAn plis, nou sav kounyé-a ki sèten manjé ultra-transfomé, strès, sédantèrité é tabak ka domajé mikrobyòt-la é ka agravat maladi-a.\nALÒ, SWEN MIKROBYÒT-LA, SÉ SWEN MICI A ?\nAlò, an kounyé-a i ni plizyè pist pou lavni :\nProbiotik é prébiotik : Es nou pé sèvi bakteri (probiotik) pou kalmé linflamasyon ? Lémonn syantifik pa rive jwenn on konsansis jiskaprézan asou itilité pran on probiotik ou prébiotik, étid ka kontinyé.\nTransplantasyon fekal : sé sa ki konsisté an transféré mikrobyòt on moun an bon santé vè on malad ki ni on MICI. Résilta yo entérésan, mé yo poko pèmèt tiré on konklizyon si sé itil pou on MICI.\nTretman ki vize mikrobyòt-la : Nouvo médikaman ka tèsté pou modifié bakteri entesten-an é pou diminé linflamasyon.\nAlimantasyon personnalisée : Sèten syantis ka chaché adapté rejim alimantè dapré mikrobyòt chak moun pou édé kalmé sentòm yo.\nKOMAN MWEN PÉ AGI ASI\nMIKROBYÒT MWEN ?\nMikrobyòt-ou pli kontan sèten \nal",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:2:gcf",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 2,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 2 ---\nAn plis, nou sav kounyé-a ki sèten manjé ultra-transfomé, strès, sédantèrité é tabak ka domajé mikrobyòt-la é ka agravat maladi-a.\nALÒ, SWEN MIKROBYÒT-LA, SÉ SWEN MICI A ?\nAlò, an kounyé-a i ni plizyè pist pou lavni :\nProbiotik é prébiotik : Es nou pé sèvi bakteri (probiotik) pou kalmé linflamasyon ? Lémonn syantifik pa rive jwenn on konsansis jiskaprézan asou itilité pran on probiotik ou prébiotik, étid ka kontinyé.\nTransplantasyon fekal : sé sa ki konsisté an transféré mikrobyòt on moun an bon santé vè on malad ki ni on MICI. Résilta yo entérésan, mé yo poko pèmèt tiré on konklizyon si sé itil pou on MICI.\nTretman ki vize mikrobyòt-la : Nouvo médikaman ka tèsté pou modifié bakteri entesten-an é pou diminé linflamasyon.\nAlimantasyon personnalisée : Sèten syantis ka chaché adapté rejim alimantè dapré mikrobyòt chak moun pou édé kalmé sentòm yo.\nKOMAN MWEN PÉ AGI ASI\nMIKROBYÒT MWEN ?\nMikrobyòt-ou pli kontan sèten \nal",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:51:28.228471+00:00",
+    "source_text_sha256": "05bcad2e13aafa4727d9c436e0f050273a4e572cd86bd751584bb77a62c19596"
+  }
+}

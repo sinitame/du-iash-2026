@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:11",
+  "target_language": "gcf",
+  "source_text_sha256": "9f21b706f276fa9b15a97e396975c7427c6d6141605b9be322d1619db003f384",
+  "translated_at": "2026-06-10T20:52:11.285022+00:00",
+  "model": "gpt-5-mini",
+  "text": "Sivèyans koub kwasans é pibèté-la enpòtan pou mété diagnòstik an konsidération, espesyalman pou MC (32,33). (Figure 2)\nManifestasyon ki pa adan sistèm dijestif-la pé vini avan symtom entestinal é yo ka ja la lè yo mété diagnòstik, anviron 5 a 25% ka yo (34). Yo dominé pa afè atikilasyon, apré vini pwoblèm dermatolojik. Pwoblèm zye yo pli ra, mé fò tou pran yo an kont pandan evalyasyon klinik inisyal. Anfen, pwoblèm fwa yo pé osi prezan (CSP é hépatit ôto-imoun) (34). Souvan disrèt, fo on ekzamen klinik minuté é on bilan san ki enkli on bilan fwa konplè. On ekzamen oftalmolojik é on ekzamen dermatolojik yo rekomandé lè yo mété diagnòstik MICI pédiatrik.\nFigure 2 : Koub kwasans on timoun ki swaiv pou MC, liy an wouj-la ka senbolizé dat diagnòstik-la é kòmansman pran swen terapetik",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:11:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 11,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Sivèyans koub kwasans é pibèté-la enpòtan pou mété diagnòstik an konsidération, espesyalman pou MC (32,33). (Figure 2)\nManifestasyon ki pa adan sistèm dijestif-la pé vini avan symtom entestinal é yo ka ja la lè yo mété diagnòstik, anviron 5 a 25% ka yo (34). Yo dominé pa afè atikilasyon, apré vini pwoblèm dermatolojik. Pwoblèm zye yo pli ra, mé fò tou pran yo an kont pandan evalyasyon klinik inisyal. Anfen, pwoblèm fwa yo pé osi prezan (CSP é hépatit ôto-imoun) (34). Souvan disrèt, fo on ekzamen klinik minuté é on bilan san ki enkli on bilan fwa konplè. On ekzamen oftalmolojik é on ekzamen dermatolojik yo rekomandé lè yo mété diagnòstik MICI pédiatrik.\nFigure 2 : Koub kwasans on timoun ki swaiv pou MC, liy an wouj-la ka senbolizé dat diagnòstik-la é kòmansman pran swen terapetik",
+    "source_id": "pdf:398e12446d466067:chunk:11",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:11.285022+00:00",
+    "source_text_sha256": "9f21b706f276fa9b15a97e396975c7427c6d6141605b9be322d1619db003f384"
+  }
+}

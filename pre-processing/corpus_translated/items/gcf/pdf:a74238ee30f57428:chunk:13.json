@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:13",
+  "target_language": "gcf",
+  "source_text_sha256": "3d3f68697d14ae7e7c8eeafd2f9dbc75c3d04f53b662caa25ad03bb87e51eaf2",
+  "translated_at": "2026-06-10T21:10:02.503364+00:00",
+  "model": "gpt-5-mini",
+  "text": "adla maladi. Yo ké eséyé pa alé konsiltasyon yo, pa pran kont sentòm yo pou évité jwenn médikaman. Yo pé ni pè chiriji é yo pé wont pou di sa ouswa mandé ki sa entèvansyon-an ké ye. Pou kèk nan yo, ti tay-la ka rapèl yo tout tan maladi-a menm lè yo byen. Sé siy-la yo soufri plis souvan.\nPou édé yo, pédyat la ka travay èvè on ekip ki genyen omwen on sikològ é on asistan sosyal.\nSA MWEN DWE FÈ SI I DÉPRIMÉ ?\nPitit ou pé ké déprimé à okazyon on réchut lè i konprann maladi-a pé rivini. Chanjman karaktè-a pé osi vini adan tretman-an (Prednisone ousa lòt). Ekspliké-y ki sa pa ka dire; doktè a ké pé édé-y paské sentòm yo lié èvè poussée-a é timoun lan ka reprend on aktivité nòmal dès ki i jwenn an améliorasyon.\nÈS-AN NI BAGAY POU PA FÈ ?\nKonm pou tout maladi kronik, paran yo gen tandans sou-protéjé timoun yo (\"paran-poul\").\nSé natirèl é sa souvan ka édé yo pou yo santi yo byen; mé dès ki pitit fiw oswa ki pitit",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:13:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 13,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "adla maladi. Yo ké eséyé pa alé konsiltasyon yo, pa pran kont sentòm yo pou évité jwenn médikaman. Yo pé ni pè chiriji é yo pé wont pou di sa ouswa mandé ki sa entèvansyon-an ké ye. Pou kèk nan yo, ti tay-la ka rapèl yo tout tan maladi-a menm lè yo byen. Sé siy-la yo soufri plis souvan.\nPou édé yo, pédyat la ka travay èvè on ekip ki genyen omwen on sikològ é on asistan sosyal.\nSA MWEN DWE FÈ SI I DÉPRIMÉ ?\nPitit ou pé ké déprimé à okazyon on réchut lè i konprann maladi-a pé rivini. Chanjman karaktè-a pé osi vini adan tretman-an (Prednisone ousa lòt). Ekspliké-y ki sa pa ka dire; doktè a ké pé édé-y paské sentòm yo lié èvè poussée-a é timoun lan ka reprend on aktivité nòmal dès ki i jwenn an améliorasyon.\nÈS-AN NI BAGAY POU PA FÈ ?\nKonm pou tout maladi kronik, paran yo gen tandans sou-protéjé timoun yo (\"paran-poul\").\nSé natirèl é sa souvan ka édé yo pou yo santi yo byen; mé dès ki pitit fiw oswa ki pitit",
+    "source_id": "pdf:a74238ee30f57428:chunk:13",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:10:02.503364+00:00",
+    "source_text_sha256": "3d3f68697d14ae7e7c8eeafd2f9dbc75c3d04f53b662caa25ad03bb87e51eaf2"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "496259fcbd5e987b4905d49c85138e83043bd11d5993e38404344ce872c75ff3",
+  "translated_at": "2026-06-10T20:39:17.826751+00:00",
+  "model": "gpt-5-mini",
+  "text": "-this. Indeed, each person has a microbiota that is unique. Depending, for example, on where they live, their diet, whether they exercise or not, and even whether they have a pet!\n\nIn cases of Crohn’s disease or ulcerative colitis, the microbiota becomes unbalanced. This is called dysbiosis.\n\nWHY? BECAUSE IN IBD:\nInflammation attacks the microbiota.\nThe balance of bacteria is broken, thus disrupting the immune function of the microbiota.\nChicken or egg, it’s hard to know which comes first. Is it the inflammation that disrupts the microbiota or the microbiota imbalance that causes inflammation?\nResult: your body is tired, your belly hurts and your immune system gets out of balance.\n\nTHE INTESTINAL MICROBIOTA:\nYOUR SECRET ARMY!\nImagine an army of billions of tiny creatures that live in your belly and work 24/7 to keep you healthy… Well, that’s your intestinal microbiota!",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:1:en",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 1,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "-this. Indeed, each person has a microbiota that is unique. Depending, for example, on where they live, their diet, whether they exercise or not, and even whether they have a pet!\n\nIn cases of Crohn’s disease or ulcerative colitis, the microbiota becomes unbalanced. This is called dysbiosis.\n\nWHY? BECAUSE IN IBD:\nInflammation attacks the microbiota.\nThe balance of bacteria is broken, thus disrupting the immune function of the microbiota.\nChicken or egg, it’s hard to know which comes first. Is it the inflammation that disrupts the microbiota or the microbiota imbalance that causes inflammation?\nResult: your body is tired, your belly hurts and your immune system gets out of balance.\n\nTHE INTESTINAL MICROBIOTA:\nYOUR SECRET ARMY!\nImagine an army of billions of tiny creatures that live in your belly and work 24/7 to keep you healthy… Well, that’s your intestinal microbiota!",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:17.826751+00:00",
+    "source_text_sha256": "496259fcbd5e987b4905d49c85138e83043bd11d5993e38404344ce872c75ff3"
+  }
+}

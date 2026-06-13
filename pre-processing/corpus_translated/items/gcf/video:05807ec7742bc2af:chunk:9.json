@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:9",
+  "target_language": "gcf",
+  "source_text_sha256": "2161c7eedc6854fbef739ded6eaa9fe8389c566808def4b3e527027f7dbd390b",
+  "translated_at": "2026-06-10T21:16:25.001943+00:00",
+  "model": "gpt-5-mini",
+  "text": "figi-w, sa ki andidan-w, bra-w, latòks-w. Ton an ka tounen, vant-w pli dous, tèlman kòlè adan lwen. Pa fè pa, pa fè vit anba dous. É sé tuyó, sé men yo é sé pye yo. É lè ou santi anvi, ou ké eséyé si ou pé, fè pye-w vire lo tè, pran tan pandan ou ké fè men-w vire lo kwi. É bouch-w, ou ké kalmé, petèt. Kounyéa ou ké pé travay pi trankilman anlè bra-w, anlè sansasyon-w. San zanmi, san jwé, san jwé, ou ké enspiré. Kounyéa kò-w byen, la koté tuyó yo, ou bloké po-w an on mouvman anlè sourcil yo. É ou ké tiré byen lwen devan-w. Ah, rapidman. Ou té apréhendé doulè a-w. É ou pé fè sa, mwen pwopoze dousman vire. Ou vlé ki ni on enspiré pa nen; ou ké enspiré anlè kat tan. Mwen ka konté épi-w. On, dé, kenbe ankò, dé, twa, kat. Ou ké bloké pandan kat tan. Pwen an: on, dé; respirasiyon: on, kat, twa. É ou ké enspiré kon jan mwen fè la. Travès-la vit. Ou wè tan yo plis an moman sa osi. Travès on respirasiyon, sé...",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:9:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 9,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "figi-w, sa ki andidan-w, bra-w, latòks-w. Ton an ka tounen, vant-w pli dous, tèlman kòlè adan lwen. Pa fè pa, pa fè vit anba dous. É sé tuyó, sé men yo é sé pye yo. É lè ou santi anvi, ou ké eséyé si ou pé, fè pye-w vire lo tè, pran tan pandan ou ké fè men-w vire lo kwi. É bouch-w, ou ké kalmé, petèt. Kounyéa ou ké pé travay pi trankilman anlè bra-w, anlè sansasyon-w. San zanmi, san jwé, san jwé, ou ké enspiré. Kounyéa kò-w byen, la koté tuyó yo, ou bloké po-w an on mouvman anlè sourcil yo. É ou ké tiré byen lwen devan-w. Ah, rapidman. Ou té apréhendé doulè a-w. É ou pé fè sa, mwen pwopoze dousman vire. Ou vlé ki ni on enspiré pa nen; ou ké enspiré anlè kat tan. Mwen ka konté épi-w. On, dé, kenbe ankò, dé, twa, kat. Ou ké bloké pandan kat tan. Pwen an: on, dé; respirasiyon: on, kat, twa. É ou ké enspiré kon jan mwen fè la. Travès-la vit. Ou wè tan yo plis an moman sa osi. Travès on respirasiyon, sé...",
+    "source_id": "video:05807ec7742bc2af:chunk:9",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:25.001943+00:00",
+    "source_text_sha256": "2161c7eedc6854fbef739ded6eaa9fe8389c566808def4b3e527027f7dbd390b"
+  }
+}

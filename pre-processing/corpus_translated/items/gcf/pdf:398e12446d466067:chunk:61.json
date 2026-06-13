@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:61",
+  "target_language": "gcf",
+  "source_text_sha256": "05a792f653cae5dc236a521df0ec1c3e3df182cfc8d4ae3de190ac44501a6473",
+  "translated_at": "2026-06-10T20:55:00.736102+00:00",
+  "model": "gpt-5-mini",
+  "text": "ining intestinal \nhealth: the genetics and immunology of very early onset \ninflammatory bowel disease. Cell Mol Gastroenterol Hepatol. \n2015;1:462–476.\n6.\t\n\u0007Pazmandi J, Kalinichenko A, Ardy RC, et al. Early-onset inflam-\nmatory bowel disease as a model disease to identify key \nregulators of immune homeostasis mechanisms. Immunol Rev. \n2019;287:162–185.\n7.\t\n\u0007Charbit-Henrion F, Parlato M, Hanein S, et al. Diagnostic yield \nof next generation sequencing in very early-onset inflam-\nmatory bowel diseases: a multicenter study. J Crohns Colitis \n2018;12:1104–1112.\n8.\t\n\u0007Kuenzig ME, Fung SG, Marderfeld L, et al. Twenty-first century \ntrends in the global epidemiology of pediatric onset inflam-\nmatory bowel disease: Systematic review. Gastroenterology \n2022;162: 1147-1159.\n9.\t\n\u0007Turck D, Gower-Rousseau C, Dabadie A. Maladi inflamwatwa krónik \nadan trip-la. Adan: F Gottrand, D Turck, éds. Gastroentéwoloji \npédyatrique. Pwogrè an pedyatri 40, Doin, \nRueil-Malmaison, 2016:151-178.\n10.\t \u0007Ng SC, Shi HY, Hamidi N. Worldwide incidence and prevalence \nof inflammatory bowel disease in the 21st century: a systematic \nreview of population-based studies. Lancet 2017; 390:2769-2778.\n11.\t \u0007Ghio",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:61:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 61,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ining intestinal \nhealth: the genetics and immunology of very early onset \ninflammatory bowel disease. Cell Mol Gastroenterol Hepatol. \n2015;1:462–476.\n6.\t\n\u0007Pazmandi J, Kalinichenko A, Ardy RC, et al. Early-onset inflam-\nmatory bowel disease as a model disease to identify key \nregulators of immune homeostasis mechanisms. Immunol Rev. \n2019;287:162–185.\n7.\t\n\u0007Charbit-Henrion F, Parlato M, Hanein S, et al. Diagnostic yield \nof next generation sequencing in very early-onset inflam-\nmatory bowel diseases: a multicenter study. J Crohns Colitis \n2018;12:1104–1112.\n8.\t\n\u0007Kuenzig ME, Fung SG, Marderfeld L, et al. Twenty-first century \ntrends in the global epidemiology of pediatric onset inflam-\nmatory bowel disease: Systematic review. Gastroenterology \n2022;162: 1147-1159.\n9.\t\n\u0007Turck D, Gower-Rousseau C, Dabadie A. Maladi inflamwatwa krónik \nadan trip-la. Adan: F Gottrand, D Turck, éds. Gastroentéwoloji \npédyatrique. Pwogrè an pedyatri 40, Doin, \nRueil-Malmaison, 2016:151-178.\n10.\t \u0007Ng SC, Shi HY, Hamidi N. Worldwide incidence and prevalence \nof inflammatory bowel disease in the 21st century: a systematic \nreview of population-based studies. Lancet 2017; 390:2769-2778.\n11.\t \u0007Ghio",
+    "source_id": "pdf:398e12446d466067:chunk:61",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:00.736102+00:00",
+    "source_text_sha256": "05a792f653cae5dc236a521df0ec1c3e3df182cfc8d4ae3de190ac44501a6473"
+  }
+}

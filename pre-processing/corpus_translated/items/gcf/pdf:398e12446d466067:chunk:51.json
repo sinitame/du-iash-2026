@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:51",
+  "target_language": "gcf",
+  "source_text_sha256": "6312b0823402f6172306162ffbdd984b54cc993cd3cb8a19f37345e1bcacc198",
+  "translated_at": "2026-06-10T20:54:24.506218+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 12 ---\n188\nFigure 5 : Organigram rékapitulatif pou pris an chaj rectocolit emorajik (RCH) pédiatrik\n1\nÉléman ki swiv-la bizwen pran an kont si maladi a aktif : kolit enfektyé (enkli CMV épi C. difficile), kolit ki lye épi 5-ASA, intolérans laktoz, sendwòm kolon irité, malad cœliaque. Si ni dékòdan ant skor PUCAI é klasifikasyon endoskopik kolit-la, sé endoskopi ki bizwen primé.\n2\n5-ASA dòzé adan 60–80 mg/kg/jou jouk 4,8 gram pa jou. Yon dòz chak jou an sèl fwa ka osi efikas kon on dòz deux fwa pa jou.\n3\nLavantman 5-ASA (1 g pa jou osi efikas kon dòz pli wo) pli efikas kon lavantman stéroïd. Lavantman yo bizwen administre an dékubit gòch. Lavantman likid pli difisil pou toléré kon mous é supozitwa, mé yo pli adapté pou kolit ki étann lwen.\n4\nSi pa ni amiyorasyon (bès PUCAI mwens ki 20 pwen) apré 7 à 10 jou, ouswa si PUCAI ogmante pa 20 pwen a nimpòt kilè, panse a ogmanté tretman-an. La dépendans",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:51:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 51,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 12 ---\n188\nFigure 5 : Organigram rékapitulatif pou pris an chaj rectocolit emorajik (RCH) pédiatrik\n1\nÉléman ki swiv-la bizwen pran an kont si maladi a aktif : kolit enfektyé (enkli CMV épi C. difficile), kolit ki lye épi 5-ASA, intolérans laktoz, sendwòm kolon irité, malad cœliaque. Si ni dékòdan ant skor PUCAI é klasifikasyon endoskopik kolit-la, sé endoskopi ki bizwen primé.\n2\n5-ASA dòzé adan 60–80 mg/kg/jou jouk 4,8 gram pa jou. Yon dòz chak jou an sèl fwa ka osi efikas kon on dòz deux fwa pa jou.\n3\nLavantman 5-ASA (1 g pa jou osi efikas kon dòz pli wo) pli efikas kon lavantman stéroïd. Lavantman yo bizwen administre an dékubit gòch. Lavantman likid pli difisil pou toléré kon mous é supozitwa, mé yo pli adapté pou kolit ki étann lwen.\n4\nSi pa ni amiyorasyon (bès PUCAI mwens ki 20 pwen) apré 7 à 10 jou, ouswa si PUCAI ogmante pa 20 pwen a nimpòt kilè, panse a ogmanté tretman-an. La dépendans",
+    "source_id": "pdf:398e12446d466067:chunk:51",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:24.506218+00:00",
+    "source_text_sha256": "6312b0823402f6172306162ffbdd984b54cc993cd3cb8a19f37345e1bcacc198"
+  }
+}

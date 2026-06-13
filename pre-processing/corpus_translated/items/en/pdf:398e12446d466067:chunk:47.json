@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:47",
+  "target_language": "en",
+  "source_text_sha256": "6f8e52f5d61cc54053da830f4ff8e5fe2757a6b6bc7ec8aad6f312faeaae58e8",
+  "translated_at": "2026-06-10T20:41:16.785179+00:00",
+  "model": "gpt-5-mini",
+  "text": "published by \nESPGHAN and ECCO (121,122).\n(Figure 5 and Table 7)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:47:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 47,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "published by \nESPGHAN and ECCO (121,122).\n(Figure 5 and Table 7)",
+    "source_id": "pdf:398e12446d466067:chunk:47",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:16.785179+00:00",
+    "source_text_sha256": "6f8e52f5d61cc54053da830f4ff8e5fe2757a6b6bc7ec8aad6f312faeaae58e8"
+  }
+}

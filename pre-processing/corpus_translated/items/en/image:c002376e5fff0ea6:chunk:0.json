@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c002376e5fff0ea6:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "772cfe8c84882479deab09bd8427fabfefcd8c21e02a33fd34c1893dbbac1e71",
+  "translated_at": "2026-06-10T20:38:06.242613+00:00",
+  "model": "gpt-5-mini",
+  "text": "| He\n\nOF WITH\nLIVING WITH V\n\nDo you have hemorrhagic Crohn's disease? It's normal to have questions!\nYou will find answers in this fact sheet! You must not stay alone with your questions:\ntalk about them with your parents or your doctor!\n\nIt is difficult to talk about a definitive cure because we do not yet know enough about the cause of this disease. Fortunately there are medications to calm flare-up periods (attacks), allow you to be in good shape and make abnormal signs disappear for long periods. It is possible that the disease will have relapses but, even in severe or complicated cases, the outcomes are ultimately good.\n\nYes, it's normal when you are in pain, have diarrhea or when you feel \"ugly\" because of the medications: you feel alone, you think it's unfair, you cry and you have the impression that no one understands. You must talk about it with your parents or your doctor, they can help you or find someone who can. You can also ask to meet someone your age who has the same disease. You then realize that you are\n\nnot alone.\nNo, you are not the only one. About 250,000 people in",
+  "row": {
+    "id": "image:c002376e5fff0ea6:chunk:0:en",
+    "document_id": "image:c002376e5fff0ea6",
+    "chunk_index": 0,
+    "source_file": "questions_enfant.png",
+    "source_path": "/data/equipes/equipe-04/images/questions_enfant.png",
+    "text_path": "corpus/texts/images/questions_enfant.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "| He\n\nOF WITH\nLIVING WITH V\n\nDo you have hemorrhagic Crohn's disease? It's normal to have questions!\nYou will find answers in this fact sheet! You must not stay alone with your questions:\ntalk about them with your parents or your doctor!\n\nIt is difficult to talk about a definitive cure because we do not yet know enough about the cause of this disease. Fortunately there are medications to calm flare-up periods (attacks), allow you to be in good shape and make abnormal signs disappear for long periods. It is possible that the disease will have relapses but, even in severe or complicated cases, the outcomes are ultimately good.\n\nYes, it's normal when you are in pain, have diarrhea or when you feel \"ugly\" because of the medications: you feel alone, you think it's unfair, you cry and you have the impression that no one understands. You must talk about it with your parents or your doctor, they can help you or find someone who can. You can also ask to meet someone your age who has the same disease. You then realize that you are\n\nnot alone.\nNo, you are not the only one. About 250,000 people in",
+    "source_id": "image:c002376e5fff0ea6:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:38:06.242613+00:00",
+    "source_text_sha256": "772cfe8c84882479deab09bd8427fabfefcd8c21e02a33fd34c1893dbbac1e71"
+  }
+}

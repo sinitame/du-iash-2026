@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:28",
+  "target_language": "gcf",
+  "source_text_sha256": "96440456a46ec9fe8abb6c498da00aa833b812af307850947c65088cd381753c",
+  "translated_at": "2026-06-10T20:53:02.666934+00:00",
+  "model": "gpt-5-mini",
+  "text": "o-entérologue adilt, ka réprésanté souvénman dènnyé etap pwosesis transisyon-an. Le siksé global transisyon swen é réusit transfè final-la asi byen lié (58). Enplikasyon medsen tratant adan pwosesis-sa sé osi on faktè ki mété transisyon an réisi. Transisyon-an ka mandé on préparasyon gradyel pou devlopé koté zenn yo konn maladi yo, konpetans otonomi é kominikasyon, é osi fè yo pran responsablité anlè swen yo (59). Lè yo mennen’y mal, i ka mennen on ogmantasyon lopitalizasyon, on\nFigure 3 : Skò aktivité rékto-kolit hémorragik pédyatrik (PUCAI) (48)",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:28:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 28,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "o-entérologue adilt, ka réprésanté souvénman dènnyé etap pwosesis transisyon-an. Le siksé global transisyon swen é réusit transfè final-la asi byen lié (58). Enplikasyon medsen tratant adan pwosesis-sa sé osi on faktè ki mété transisyon an réisi. Transisyon-an ka mandé on préparasyon gradyel pou devlopé koté zenn yo konn maladi yo, konpetans otonomi é kominikasyon, é osi fè yo pran responsablité anlè swen yo (59). Lè yo mennen’y mal, i ka mennen on ogmantasyon lopitalizasyon, on\nFigure 3 : Skò aktivité rékto-kolit hémorragik pédyatrik (PUCAI) (48)",
+    "source_id": "pdf:398e12446d466067:chunk:28",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:02.666934+00:00",
+    "source_text_sha256": "96440456a46ec9fe8abb6c498da00aa833b812af307850947c65088cd381753c"
+  }
+}

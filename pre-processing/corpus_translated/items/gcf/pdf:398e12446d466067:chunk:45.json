@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:45",
+  "target_language": "gcf",
+  "source_text_sha256": "c43b5133d0a803497ccd73d8f7f9e5827f466d1bb70b5506819e241572cb6a55",
+  "translated_at": "2026-06-10T20:54:05.865946+00:00",
+  "model": "gpt-5-mini",
+  "text": "sant preskri kortikoid \noral kon \"tratman transisyon\" pandan yo ka tann \nlèfè vedolizumab-la ka parèt (114,115).\n\nCombioterapi\nI pa rekòmandé sèvi kombioterapi an premye chwa osnon si terapi a echwé koté timoun. On révyon récent di létiwati a é on etid multisentik mennen anba l’égid ESPGHAN pa pèmèt tir on konklizyon lo itilizasyon-y (116,117). Itilizasyon’y an pédiatri an ka éksèpsyoné, é sé fo ki sa sòti adan on avi favorab an rényon konsiltasyon pluridisiplinè.\n\nInibitè Janus Kinaz\nInibitè Janus Kinaz oral pa ni AMM pou MC pédiatrique. Men on etid klinik resan montré ké upadacitinib efikas, san nouvo siyn sekirite, adan on ti sou-gwoup pasyan ki ni MICI (aj 9 a 20 an) (118). Itilizasyon’y an pédiatri an ka éksèpsyoné, é sé fo ké sa sòti adan on avi favorab an rényon konsiltasyon pluridisiplinè.\n\nPyé désizyonèl pou stratéji terapetik (62)\n(Figure 4)\n\nTratman chirijikal (119)\nChiriji i endiké selman si ni konplikasyon kon sténoz, absè, fistul",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:45:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 45,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "sant preskri kortikoid \noral kon \"tratman transisyon\" pandan yo ka tann \nlèfè vedolizumab-la ka parèt (114,115).\n\nCombioterapi\nI pa rekòmandé sèvi kombioterapi an premye chwa osnon si terapi a echwé koté timoun. On révyon récent di létiwati a é on etid multisentik mennen anba l’égid ESPGHAN pa pèmèt tir on konklizyon lo itilizasyon-y (116,117). Itilizasyon’y an pédiatri an ka éksèpsyoné, é sé fo ki sa sòti adan on avi favorab an rényon konsiltasyon pluridisiplinè.\n\nInibitè Janus Kinaz\nInibitè Janus Kinaz oral pa ni AMM pou MC pédiatrique. Men on etid klinik resan montré ké upadacitinib efikas, san nouvo siyn sekirite, adan on ti sou-gwoup pasyan ki ni MICI (aj 9 a 20 an) (118). Itilizasyon’y an pédiatri an ka éksèpsyoné, é sé fo ké sa sòti adan on avi favorab an rényon konsiltasyon pluridisiplinè.\n\nPyé désizyonèl pou stratéji terapetik (62)\n(Figure 4)\n\nTratman chirijikal (119)\nChiriji i endiké selman si ni konplikasyon kon sténoz, absè, fistul",
+    "source_id": "pdf:398e12446d466067:chunk:45",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:05.865946+00:00",
+    "source_text_sha256": "c43b5133d0a803497ccd73d8f7f9e5827f466d1bb70b5506819e241572cb6a55"
+  }
+}

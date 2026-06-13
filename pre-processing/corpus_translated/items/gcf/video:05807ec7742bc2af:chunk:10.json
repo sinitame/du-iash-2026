@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:10",
+  "target_language": "gcf",
+  "source_text_sha256": "7a010347bf464d23f7deaf6c856b385343e394cc946ff879e3f910b7d34ab64b",
+  "translated_at": "2026-06-10T21:16:09.668105+00:00",
+  "model": "gpt-5-mini",
+  "text": ". Ou pwen, on, dé, respirasyon, on, kat, trwa. É ou kay inspiré jan mwen té fè-y. Atravè-a vit. Ou ka wè tan yo plis adan moman-tou-a osi. Atravè on respirasyon, sé penge épi nou ka wè. É ou relaché trankilman, ou pé akèyé sa. Mé respirasyon an ka ouvè adan kò-w. Ou santi yo ad lòt pati kò-w. Ou relaché é sé tout bagay ki ka obsèvé. Ou akèyé san analiz é san jijman. On dézyèm fwa, an nouvo, ou kay fè-y pa nen. Asou kat tan. On, ou pwen, on, dé, ou fè on, trwa, ou pwen. Ou bloké pou kat tan. Ou kay voyé ou pwen, dé, sé kon ou té kwè. Oswa 4, 3 vitman. Épi apré, ou expiré asi ou. On, dé, trwa. É ou relaché. 4, trwa, senk, sis. É ou akèyé sansasyon-an. É ou relaché byen. Ou pé akèyé soupir, pes pwa, non. É ou reprann ritym-la. Sé ou. É détant. É la rivé. Dé pye. É onniyèm, twazyèm é dènye fwa. Mwen pwopoze ankò. Ou kay inspiré asou kat tan. Ou plénen nen-an. On, dé, trwa, kat. Épi trwa, é mwen lévé-mwen. Nou jwenn prédiksyon. On, d",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:10:gcf",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 10,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": ". Ou pwen, on, dé, respirasyon, on, kat, trwa. É ou kay inspiré jan mwen té fè-y. Atravè-a vit. Ou ka wè tan yo plis adan moman-tou-a osi. Atravè on respirasyon, sé penge épi nou ka wè. É ou relaché trankilman, ou pé akèyé sa. Mé respirasyon an ka ouvè adan kò-w. Ou santi yo ad lòt pati kò-w. Ou relaché é sé tout bagay ki ka obsèvé. Ou akèyé san analiz é san jijman. On dézyèm fwa, an nouvo, ou kay fè-y pa nen. Asou kat tan. On, ou pwen, on, dé, ou fè on, trwa, ou pwen. Ou bloké pou kat tan. Ou kay voyé ou pwen, dé, sé kon ou té kwè. Oswa 4, 3 vitman. Épi apré, ou expiré asi ou. On, dé, trwa. É ou relaché. 4, trwa, senk, sis. É ou akèyé sansasyon-an. É ou relaché byen. Ou pé akèyé soupir, pes pwa, non. É ou reprann ritym-la. Sé ou. É détant. É la rivé. Dé pye. É onniyèm, twazyèm é dènye fwa. Mwen pwopoze ankò. Ou kay inspiré asou kat tan. Ou plénen nen-an. On, dé, trwa, kat. Épi trwa, é mwen lévé-mwen. Nou jwenn prédiksyon. On, d",
+    "source_id": "video:05807ec7742bc2af:chunk:10",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:16:09.668105+00:00",
+    "source_text_sha256": "7a010347bf464d23f7deaf6c856b385343e394cc946ff879e3f910b7d34ab64b"
+  }
+}

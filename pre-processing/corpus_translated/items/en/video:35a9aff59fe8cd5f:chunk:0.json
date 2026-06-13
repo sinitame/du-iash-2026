@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:35a9aff59fe8cd5f:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "d13317b14f411b87fbc5dbbb14d654b7795ee4a08b2886e7e4eea067de5f80ce",
+  "translated_at": "2026-06-10T20:47:14.049314+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Will I have to have surgery? In Crohn's disease, surgery is performed in case of complications. It is for lesions that are difficult to manage medically. Or in case of failure of many treatments with an inflammatory lesion that is somewhat beyond control. And so, sometimes, to protect the suture — that is, in fact, we cut out the diseased piece and then we stitch. But sometimes, to protect that suture, we have to put a stoma upstream, that is, we divert the digestive tract. This is to protect the stitch so there is no load and healing can take place as well as possible. But this stoma is, in that case, temporary and afterwards we can restore the digestive tract to its continuity. In very rare cases, sometimes, when the disease has been hard to control, when it has caused many inflammations, when there are perineal fistulas and so on that are very, very severe and difficult. In very rare cases, sometimes, we come to propose permanent stomas to manage this inflammation. We were unable to control it medically but it remains exc",
+  "row": {
+    "id": "video:35a9aff59fe8cd5f:chunk:0:en",
+    "document_id": "video:35a9aff59fe8cd5f",
+    "chunk_index": 0,
+    "source_file": "e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.mp4",
+    "text_path": "corpus/texts/videos/e34e1835807d386f21f4ba489f3704f3d9b574d9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Will I have to have surgery? In Crohn's disease, surgery is performed in case of complications. It is for lesions that are difficult to manage medically. Or in case of failure of many treatments with an inflammatory lesion that is somewhat beyond control. And so, sometimes, to protect the suture — that is, in fact, we cut out the diseased piece and then we stitch. But sometimes, to protect that suture, we have to put a stoma upstream, that is, we divert the digestive tract. This is to protect the stitch so there is no load and healing can take place as well as possible. But this stoma is, in that case, temporary and afterwards we can restore the digestive tract to its continuity. In very rare cases, sometimes, when the disease has been hard to control, when it has caused many inflammations, when there are perineal fistulas and so on that are very, very severe and difficult. In very rare cases, sometimes, we come to propose permanent stomas to manage this inflammation. We were unable to control it medically but it remains exc",
+    "source_id": "video:35a9aff59fe8cd5f:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:14.049314+00:00",
+    "source_text_sha256": "d13317b14f411b87fbc5dbbb14d654b7795ee4a08b2886e7e4eea067de5f80ce"
+  }
+}

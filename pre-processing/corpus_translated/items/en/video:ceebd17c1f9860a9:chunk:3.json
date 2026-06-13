@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:ceebd17c1f9860a9:chunk:3",
+  "target_language": "en",
+  "source_text_sha256": "c5964c353db1a9bc7ac5c9cd7410530d3ec1c0879e273f78e3b4b151681ac170",
+  "translated_at": "2026-06-10T20:44:25.662450+00:00",
+  "model": "gpt-5-mini",
+  "text": "It's easier to quickly put in place solutions to make your daily life easier. You can also benefit from extra time during exams. This means that you have more time to take your tests. This can really help when you don't feel at your best or when you need to go to the toilet during the exam. For absences, usually—and with a bit of organization from your middle school or high school—your teachers or classmates will take care of giving you the missed lessons so you can catch up. If you have to miss many classes, there are arrangements such as the home educational assistance service, or sa pade. It allows you to continue following classes from home with the help of a teacher. In case of hospitalization, you can benefit from hospital school, with teachers who support you in your learning and stay connected with your school. There are even robots with a screen that allow you to be in direct contact with your class. This device is called TED-I. And your parents will find all the information on the site education.gov.fr. From the age of 16, you can make a request for",
+  "row": {
+    "id": "video:ceebd17c1f9860a9:chunk:3:en",
+    "document_id": "video:ceebd17c1f9860a9",
+    "chunk_index": 3,
+    "source_file": "08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "source_path": "/data/equipes/equipe-04/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.mov",
+    "text_path": "corpus/texts/videos/08eeeabbf9569644207b05def01f3ea47f72afc9.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "It's easier to quickly put in place solutions to make your daily life easier. You can also benefit from extra time during exams. This means that you have more time to take your tests. This can really help when you don't feel at your best or when you need to go to the toilet during the exam. For absences, usually—and with a bit of organization from your middle school or high school—your teachers or classmates will take care of giving you the missed lessons so you can catch up. If you have to miss many classes, there are arrangements such as the home educational assistance service, or sa pade. It allows you to continue following classes from home with the help of a teacher. In case of hospitalization, you can benefit from hospital school, with teachers who support you in your learning and stay connected with your school. There are even robots with a screen that allow you to be in direct contact with your class. This device is called TED-I. And your parents will find all the information on the site education.gov.fr. From the age of 16, you can make a request for",
+    "source_id": "video:ceebd17c1f9860a9:chunk:3",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:25.662450+00:00",
+    "source_text_sha256": "c5964c353db1a9bc7ac5c9cd7410530d3ec1c0879e273f78e3b4b151681ac170"
+  }
+}

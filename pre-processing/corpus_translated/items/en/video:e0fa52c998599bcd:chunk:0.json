@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:e0fa52c998599bcd:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "a544412f708cc4de3967ebbd81f1b1311c0834f035f0b4581fe8af17361202ea",
+  "translated_at": "2026-06-10T20:44:57.500811+00:00",
+  "model": "gpt-5-mini",
+  "text": "Stress: friend or Andy?\nIt's more of an enemy in the sense that stress, when you're not ill, causes stomach pain and gives diarrhea. In an intestine that is a bit more fragile, it can take on somewhat larger proportions. And doctors will say that stress does not, by itself, cause it to develop. But when you listen to patients, you realize that sometimes this disease is discovered after certain episodes of greater stress. It's more of an enemy, actually.",
+  "row": {
+    "id": "video:e0fa52c998599bcd:chunk:0:en",
+    "document_id": "video:e0fa52c998599bcd",
+    "chunk_index": 0,
+    "source_file": "3b72dff425f15a571948521e351e3a40d65d1335.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3b72dff425f15a571948521e351e3a40d65d1335.mp4",
+    "text_path": "corpus/texts/videos/3b72dff425f15a571948521e351e3a40d65d1335.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Stress: friend or Andy?\nIt's more of an enemy in the sense that stress, when you're not ill, causes stomach pain and gives diarrhea. In an intestine that is a bit more fragile, it can take on somewhat larger proportions. And doctors will say that stress does not, by itself, cause it to develop. But when you listen to patients, you realize that sometimes this disease is discovered after certain episodes of greater stress. It's more of an enemy, actually.",
+    "source_id": "video:e0fa52c998599bcd:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:44:57.500811+00:00",
+    "source_text_sha256": "a544412f708cc4de3967ebbd81f1b1311c0834f035f0b4581fe8af17361202ea"
+  }
+}

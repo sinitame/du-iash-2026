@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "adb4024ca05df76448f7220c7b09afdab97d1b0a010db5642b2a5b6e32ae8f98",
+  "translated_at": "2026-06-10T20:48:53.688999+00:00",
+  "model": "gpt-5-mini",
+  "text": "+ kwonik ki ka fè kò-a pa byen sèvi épi fè-a\nDéfó adopsyon fè-a osnon dé witémin (witémin B12, witémin B9) lè maladi ti-trip (maladi grav é/osnon étann é/osnon opérè) ouswa si i ni maladi cœliaque asosié\n= Défó apò an fè osnon witémin B9 (osnon asid folik) lè manjé pa ase\næ Konsomasyon witémin B12 pa twòp bakteri adan ti-trip lè ni sténoz osnon operasyon anlè grèl\n+ Konsomasyon asid folik an twòp pandan sé tratman an kon Méthotrexate\nToksisite dé kèk medikaman (Azathioprine, Purinethol, Méthotrexate) anlè moèl osé (ki ka fè globil yo).\n\nKarans an fè-la défini préskè égzklizivman pa to féritin sérik ki ka varyé an fonksyon anflamasyon jénéral. Yo admet fo kenbé to > 30 ug/L kan pa ni enflamasyon sérik é > 100 ug/L si i ni enflamasyon. Yo estimé 45% pasyan MICI ka soufri karans martyal (sitwaman pandan premié lanné apré diagnòz-la).",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:2:gcf",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 2,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "+ kwonik ki ka fè kò-a pa byen sèvi épi fè-a\nDéfó adopsyon fè-a osnon dé witémin (witémin B12, witémin B9) lè maladi ti-trip (maladi grav é/osnon étann é/osnon opérè) ouswa si i ni maladi cœliaque asosié\n= Défó apò an fè osnon witémin B9 (osnon asid folik) lè manjé pa ase\næ Konsomasyon witémin B12 pa twòp bakteri adan ti-trip lè ni sténoz osnon operasyon anlè grèl\n+ Konsomasyon asid folik an twòp pandan sé tratman an kon Méthotrexate\nToksisite dé kèk medikaman (Azathioprine, Purinethol, Méthotrexate) anlè moèl osé (ki ka fè globil yo).\n\nKarans an fè-la défini préskè égzklizivman pa to féritin sérik ki ka varyé an fonksyon anflamasyon jénéral. Yo admet fo kenbé to > 30 ug/L kan pa ni enflamasyon sérik é > 100 ug/L si i ni enflamasyon. Yo estimé 45% pasyan MICI ka soufri karans martyal (sitwaman pandan premié lanné apré diagnòz-la).",
+    "source_id": "image:818673e80f975a59:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:53.688999+00:00",
+    "source_text_sha256": "adb4024ca05df76448f7220c7b09afdab97d1b0a010db5642b2a5b6e32ae8f98"
+  }
+}

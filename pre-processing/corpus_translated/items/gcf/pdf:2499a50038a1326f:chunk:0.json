@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:2499a50038a1326f:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "be29319101ab313506cf4501a17512a231d89e7c40c57733e6723a0d9eb252dd",
+  "translated_at": "2026-06-10T20:50:48.508398+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nLIS ENGREDYAN : KI KI DI KI ?\nEngredyan yo toujou listé depi sa ki pli prezan jis asi sa ki mwens prezan. Si sik-la osnon lwil-la an tèt lis-la, sa pa forsan on bon chwa, sof si’w ka gadé on boutèy lwil osnon on paké bonbon. Pa egzanp, si’w achté on ji friwi é pwemye engredyan an sé dlo, sé pli plito on bwason friwi..\nAn jeneral, fò’w konprann tout engredyan ki listé. Sé onlo menm kon si’w ka swiv on resèt an kizin : ou ka chwazi pli fasil sé-la koté ou konnèt tout engredyan yo.\nAdditif alimantè (konm E102, E150, elatriye) : pli yo mwens, pli bon. Jòdi-a i ni 320 yo ka sèvi. Gén ki san danjé, mé gén lòt ki plis diskité. Pou moun ki ni MICI, sé sitou émulsifyan yo ki ka pozé pwoblèm.\n(Gadé fich \"Les additifs alimentaires\" an MIKADO pou sav plis é pi byen dékouvre yo.)\nLI ÉTIKÈT :\nGID POU FÈ BON CHWA\nAprann li étiqèt alimantè-a i enpòtan anpil ! Sa ka édé’w sav egzakteman sa ou ka manjé é fè chwa ki klè. Lenfòmasyon asou sé",
+  "row": {
+    "id": "pdf:2499a50038a1326f:chunk:0:gcf",
+    "document_id": "pdf:2499a50038a1326f",
+    "chunk_index": 0,
+    "source_file": "lire_les_etiquettes.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/lire_les_etiquettes.pdf",
+    "text_path": "corpus/texts/pdfs/lire_les_etiquettes.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Page 1 ---\nLIS ENGREDYAN : KI KI DI KI ?\nEngredyan yo toujou listé depi sa ki pli prezan jis asi sa ki mwens prezan. Si sik-la osnon lwil-la an tèt lis-la, sa pa forsan on bon chwa, sof si’w ka gadé on boutèy lwil osnon on paké bonbon. Pa egzanp, si’w achté on ji friwi é pwemye engredyan an sé dlo, sé pli plito on bwason friwi..\nAn jeneral, fò’w konprann tout engredyan ki listé. Sé onlo menm kon si’w ka swiv on resèt an kizin : ou ka chwazi pli fasil sé-la koté ou konnèt tout engredyan yo.\nAdditif alimantè (konm E102, E150, elatriye) : pli yo mwens, pli bon. Jòdi-a i ni 320 yo ka sèvi. Gén ki san danjé, mé gén lòt ki plis diskité. Pou moun ki ni MICI, sé sitou émulsifyan yo ki ka pozé pwoblèm.\n(Gadé fich \"Les additifs alimentaires\" an MIKADO pou sav plis é pi byen dékouvre yo.)\nLI ÉTIKÈT :\nGID POU FÈ BON CHWA\nAprann li étiqèt alimantè-a i enpòtan anpil ! Sa ka édé’w sav egzakteman sa ou ka manjé é fè chwa ki klè. Lenfòmasyon asou sé",
+    "source_id": "pdf:2499a50038a1326f:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:48.508398+00:00",
+    "source_text_sha256": "be29319101ab313506cf4501a17512a231d89e7c40c57733e6723a0d9eb252dd"
+  }
+}

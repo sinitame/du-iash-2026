@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:14",
+  "target_language": "gcf",
+  "source_text_sha256": "9ebc430ae60309b5e3080a0a9cc9004396820fbeac073d1ad2dd28f5a546866f",
+  "translated_at": "2026-06-10T21:09:28.399335+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pou tout maladi kwonik, paran yo\nka gen tandans pou yo twòp pwotéjé timoun yo\n(paran-poul).\nSé on bagay natirèl é sa souvan édé yo pou yo santi yo byen ; mè lè pitit fi a osnon pitit gason an gran ase, i enpòtan\nki i aprann pran swen tèt li, vin otònòm, asir tretman an li menm\nosnon rélé dirèkteman medsen an lè i bizwen'y. Maladi sala pé mennen\ntansyon ant paran é timoun, sitou an adolesans.\nAnkyetid paran yo parèt lè timoun nan pa manjé oswa i ka pèdi pwa ; fò nou palé\navè li paskè i pé bizwen diskité sa. Diskisyon sala pé osi fèt épi medsen an.",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:14:gcf",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 14,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Pou tout maladi kwonik, paran yo\nka gen tandans pou yo twòp pwotéjé timoun yo\n(paran-poul).\nSé on bagay natirèl é sa souvan édé yo pou yo santi yo byen ; mè lè pitit fi a osnon pitit gason an gran ase, i enpòtan\nki i aprann pran swen tèt li, vin otònòm, asir tretman an li menm\nosnon rélé dirèkteman medsen an lè i bizwen'y. Maladi sala pé mennen\ntansyon ant paran é timoun, sitou an adolesans.\nAnkyetid paran yo parèt lè timoun nan pa manjé oswa i ka pèdi pwa ; fò nou palé\navè li paskè i pé bizwen diskité sa. Diskisyon sala pé osi fèt épi medsen an.",
+    "source_id": "pdf:a74238ee30f57428:chunk:14",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:09:28.399335+00:00",
+    "source_text_sha256": "9ebc430ae60309b5e3080a0a9cc9004396820fbeac073d1ad2dd28f5a546866f"
+  }
+}

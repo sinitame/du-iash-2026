@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:818673e80f975a59:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "3d03026e764cf2c2f70c9ea77f836a7fdde6d8ff52ebbb3d122327d8022ee69a",
+  "translated_at": "2026-06-10T20:37:08.549548+00:00",
+  "model": "gpt-5-mini",
+  "text": "By definition, this is a decrease in the serum level of hemoglobin, a protein contained in red blood cells that carries part of the body's iron (65%) and whose essential role is to bring oxygen from the lungs to the organs. A level < 12 g/dL for men and < 11 g/dL for women is considered to indicate anemia. In the majority of cases this is accompanied by a decrease in the number of red blood cells.\n\nTYPES OF DEFICIENCIES\nFREQUENCIES\n\nT\n\nZ\nO\nF\nZ\nLu\n>\nsu\nœ\na.",
+  "row": {
+    "id": "image:818673e80f975a59:chunk:1:en",
+    "document_id": "image:818673e80f975a59",
+    "chunk_index": 1,
+    "source_file": "fatigue_carence.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_carence.png",
+    "text_path": "corpus/texts/images/fatigue_carence.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "By definition, this is a decrease in the serum level of hemoglobin, a protein contained in red blood cells that carries part of the body's iron (65%) and whose essential role is to bring oxygen from the lungs to the organs. A level < 12 g/dL for men and < 11 g/dL for women is considered to indicate anemia. In the majority of cases this is accompanied by a decrease in the number of red blood cells.\n\nTYPES OF DEFICIENCIES\nFREQUENCIES\n\nT\n\nZ\nO\nF\nZ\nLu\n>\nsu\nœ\na.",
+    "source_id": "image:818673e80f975a59:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:08.549548+00:00",
+    "source_text_sha256": "3d03026e764cf2c2f70c9ea77f836a7fdde6d8ff52ebbb3d122327d8022ee69a"
+  }
+}

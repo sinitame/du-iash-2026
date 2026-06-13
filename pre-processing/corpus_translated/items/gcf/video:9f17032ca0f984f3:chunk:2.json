@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "b442aec35f2764cdbd2819b54e533b7d76c281a78168eec76d8bfae6c006ee45",
+  "translated_at": "2026-06-10T21:17:13.566053+00:00",
+  "model": "gpt-5-mini",
+  "text": "s adan séri Les Modes Vintres pou édéw pi byen konprann Miki é difikilté ou ka rankontwé chak jou. Konprann maladi-w sé tretman-w, sé pi bon mwayen pou gadé moral-w é bat pou alé byen.",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:2:gcf",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 2,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "s adan séri Les Modes Vintres pou édéw pi byen konprann Miki é difikilté ou ka rankontwé chak jou. Konprann maladi-w sé tretman-w, sé pi bon mwayen pou gadé moral-w é bat pou alé byen.",
+    "source_id": "video:9f17032ca0f984f3:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:17:13.566053+00:00",
+    "source_text_sha256": "b442aec35f2764cdbd2819b54e533b7d76c281a78168eec76d8bfae6c006ee45"
+  }
+}

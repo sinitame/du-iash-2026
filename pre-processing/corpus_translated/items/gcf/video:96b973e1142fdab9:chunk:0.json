@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:96b973e1142fdab9:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "0bf8e358d160846a71f3e5d7e1ef929d9bec251def2eaa144fc9712cd4891a96",
+  "translated_at": "2026-06-10T21:14:16.513110+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Eski tretman mwen ka maché ? Tretman-la ka maché, mè an verité, jòdi-a nou poko ni sa-la, é sa té ké bèl si nou té ni'y : lè nou fè prémyé koloskopi-a, yo pran biyopsi, yo té pé mété on ti chip ki té ké di nou ki chimen entfalmasyon-an ka pran—é la, antfalmasyon-an ka pran chimen sa-a, é la, i ka pran on lòt chimen—é kon sa nou té pé touswit ba bon medikaman-an. Alò jòdi-a nou ni medikaman, nou palé di biyotérapi, ki ka cibé sèten chimen entfalmasyon, mè yo ka maché adan sèten pasyan é pa adan lòt, é ni lòt ki ka maché adan lòt pasyan é pa adan sémé. Konsa, pafwa fò nou eséyé pliziè medikaman pou jwenn sa ki bon. Kon sa nou ké jwenn bon-an, mè jòdi-a medikaman yo ka fonksyonné byen kanmenm, biyotérapi ka maché byen.",
+  "row": {
+    "id": "video:96b973e1142fdab9:chunk:0:gcf",
+    "document_id": "video:96b973e1142fdab9",
+    "chunk_index": 0,
+    "source_file": "3810641e013f039b1737d2c6c8cb134ec0a5d3a0.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3810641e013f039b1737d2c6c8cb134ec0a5d3a0.mp4",
+    "text_path": "corpus/texts/videos/3810641e013f039b1737d2c6c8cb134ec0a5d3a0.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Eski tretman mwen ka maché ? Tretman-la ka maché, mè an verité, jòdi-a nou poko ni sa-la, é sa té ké bèl si nou té ni'y : lè nou fè prémyé koloskopi-a, yo pran biyopsi, yo té pé mété on ti chip ki té ké di nou ki chimen entfalmasyon-an ka pran—é la, antfalmasyon-an ka pran chimen sa-a, é la, i ka pran on lòt chimen—é kon sa nou té pé touswit ba bon medikaman-an. Alò jòdi-a nou ni medikaman, nou palé di biyotérapi, ki ka cibé sèten chimen entfalmasyon, mè yo ka maché adan sèten pasyan é pa adan lòt, é ni lòt ki ka maché adan lòt pasyan é pa adan sémé. Konsa, pafwa fò nou eséyé pliziè medikaman pou jwenn sa ki bon. Kon sa nou ké jwenn bon-an, mè jòdi-a medikaman yo ka fonksyonné byen kanmenm, biyotérapi ka maché byen.",
+    "source_id": "video:96b973e1142fdab9:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:16.513110+00:00",
+    "source_text_sha256": "0bf8e358d160846a71f3e5d7e1ef929d9bec251def2eaa144fc9712cd4891a96"
+  }
+}

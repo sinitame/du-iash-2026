@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:68",
+  "target_language": "en",
+  "source_text_sha256": "f2f5571fb1e315ee8eb550a86611de47a04966410657d8a0960f12adbc820c11",
+  "translated_at": "2026-06-10T20:42:14.992243+00:00",
+  "model": "gpt-5-mini",
+  "text": "p of the European Society for Paediatric Gastro-\nenterology, Hepatology and Nutrition. J Pediatr Gastroenterol \nNutr. 2018; 67:414-430.\n41. Levine A, Koletzko S, Turner D, et al. ESPGHAN revised Porto \ncriteria for the diagnosis of inflammatory bowel disease \nin children and adolescents. J Pediatr Gastroenterol Nutr. \n2014;58:795-806.\n42. de Bie CI, Paerregaard A, Kolacek S, et al. Disease phenotype \nat diagnosis in pediatric Crohn’s disease: 5 years analyses of the \nEUROKIDS registry. Inflamm Bowel Dis. 2013;19: 378-385.\n43. Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of \nthe Montreal classification for inflammatory bowel disease: the \nParis classification. Inflamm Bowel Dis. 2011;17:1314-1321.\n44. Hyams JS, Ferry GD, Mandel FS, et al. Development and \nvalidation of a pediatric Crohn’s disease activity index. J Pediatr \nGastroenterol Nutr. 1991;12:439-47.\n45. Orlanski-Meyer E, Aardoom M, Ricciuto A, et al. Predicting \noutcomes in pediatric ulcerative colitis for management optimi-\nzation: Systematic review and consensus statements from the \npediatric inflammatory bowel disease - Ahead Program. Gastro-\nenterology. 2021;160: 378-402.\n46. Hochart",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:68:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 68,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "p of the European Society for Paediatric Gastro-\nenterology, Hepatology and Nutrition. J Pediatr Gastroenterol \nNutr. 2018; 67:414-430.\n41. Levine A, Koletzko S, Turner D, et al. ESPGHAN revised Porto \ncriteria for the diagnosis of inflammatory bowel disease \nin children and adolescents. J Pediatr Gastroenterol Nutr. \n2014;58:795-806.\n42. de Bie CI, Paerregaard A, Kolacek S, et al. Disease phenotype \nat diagnosis in pediatric Crohn’s disease: 5 years analyses of the \nEUROKIDS registry. Inflamm Bowel Dis. 2013;19: 378-385.\n43. Levine A, Griffiths A, Markowitz J, et al. Pediatric modification of \nthe Montreal classification for inflammatory bowel disease: the \nParis classification. Inflamm Bowel Dis. 2011;17:1314-1321.\n44. Hyams JS, Ferry GD, Mandel FS, et al. Development and \nvalidation of a pediatric Crohn’s disease activity index. J Pediatr \nGastroenterol Nutr. 1991;12:439-47.\n45. Orlanski-Meyer E, Aardoom M, Ricciuto A, et al. Predicting \noutcomes in pediatric ulcerative colitis for management optimi-\nzation: Systematic review and consensus statements from the \npediatric inflammatory bowel disease - Ahead Program. Gastro-\nenterology. 2021;160: 378-402.\n46. Hochart",
+    "source_id": "pdf:398e12446d466067:chunk:68",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:14.992243+00:00",
+    "source_text_sha256": "f2f5571fb1e315ee8eb550a86611de47a04966410657d8a0960f12adbc820c11"
+  }
+}

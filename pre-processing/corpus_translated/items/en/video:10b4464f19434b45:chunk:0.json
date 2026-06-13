@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:10b4464f19434b45:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "15326366ce7d587b39fcd37819b3e0641df7c3e6bbabcaf8ef6d511eaaccb5c9",
+  "translated_at": "2026-06-10T20:46:51.907133+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Can you explain Crohn's disease to me? The disease, when it is an inflammatory bowel disease, is a condition that causes inflammation, which can affect any segments from the mouth to the anus, but in a segmental and focal way, with lesions, then healthy parts, then lesions, then healthy parts, and lesions that are classically described as transmural, meaning they can be quite deep. It is a disease that has a genetic component, but the genetic part is not that large — it accounts for about 10% — and it will be expressed in a given environment. So the environment is classically an industrialized, northern setting, with a certain type of diet, and that will set the stage together with the microbiota, which is all the bacteria we have in the colon, which are very useful to us because usually we live in symbiosis with them; in particular, they actually provide us with vitamins. But here there will be an imbalance of this microbiota, which will be a bit disturbed and will induce a somewhat inappropriate immune reaction. So all of that will create a...",
+  "row": {
+    "id": "video:10b4464f19434b45:chunk:0:en",
+    "document_id": "video:10b4464f19434b45",
+    "chunk_index": 0,
+    "source_file": "a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "text_path": "corpus/texts/videos/a4257febb53401388f4c2156925cbd114de775e3.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Can you explain Crohn's disease to me? The disease, when it is an inflammatory bowel disease, is a condition that causes inflammation, which can affect any segments from the mouth to the anus, but in a segmental and focal way, with lesions, then healthy parts, then lesions, then healthy parts, and lesions that are classically described as transmural, meaning they can be quite deep. It is a disease that has a genetic component, but the genetic part is not that large — it accounts for about 10% — and it will be expressed in a given environment. So the environment is classically an industrialized, northern setting, with a certain type of diet, and that will set the stage together with the microbiota, which is all the bacteria we have in the colon, which are very useful to us because usually we live in symbiosis with them; in particular, they actually provide us with vitamins. But here there will be an imbalance of this microbiota, which will be a bit disturbed and will induce a somewhat inappropriate immune reaction. So all of that will create a...",
+    "source_id": "video:10b4464f19434b45:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:51.907133+00:00",
+    "source_text_sha256": "15326366ce7d587b39fcd37819b3e0641df7c3e6bbabcaf8ef6d511eaaccb5c9"
+  }
+}

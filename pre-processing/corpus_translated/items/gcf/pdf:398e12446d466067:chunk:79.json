@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:79",
+  "target_language": "gcf",
+  "source_text_sha256": "0be329f0d4ac8e98e6e42485b9a0d8cf1939324058b8319931e6a60c74019e0f",
+  "translated_at": "2026-06-10T21:07:17.014831+00:00",
+  "model": "gpt-5-mini",
+  "text": "ogmante risk pou kansé osinon hemophagocytic lymphohistiocytosis adan pasyan pédiatrik ki ni maladi entesten anflamasyon. Gastroenterology 2017;152:1901-14.\n94.\tKotlyar DS, Osterman MT, Diamond RH, et al. On révi sistèmátik asou faktè ki kontribyé pou hepatosplenic T-cell lymphoma adan pasyan ki ni maladi entesten anflamasyon. Clin Gastroenterol Hepatol. 2011;9:36-41.\n95.\tde Francisco R, Castaño-García A, Martínez-González S, et al. Anpak statou sérologik viris Epstein-Barr asou rézilta klinik adan pasyan granmoun ki ni maladi entesten anflamasyon. Aliment Pharmacol Ther. 2018;48:723-30.\n96.\tRahier JF, Magro F, Abreu C, et al. European Crohn’s and Colitis Organisation [ECCO]. Dezyèm konsansis ewopeyen bazé asou prèv pou prévensyon, dyagnostik é manadjman enfeksyon opòtinis adan maladi entesten anflamasyon. J Crohns Colitis 2014;8:443-68.\n97.\tMartinelli M, Giugliano FP, Strisciuglio C, et al. Vaksinasyon é statou iminizasyon adan maladi entesten anflamatwa pédiatrik: on letid miltisantè sòti adan Pediatric IBD Porto Group di ESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\tLevine A, Wine E, Assa A, et al. Diyet éksklizyon pou maladi Crohn di",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:79:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 79,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ogmante risk pou kansé osinon hemophagocytic lymphohistiocytosis adan pasyan pédiatrik ki ni maladi entesten anflamasyon. Gastroenterology 2017;152:1901-14.\n94.\tKotlyar DS, Osterman MT, Diamond RH, et al. On révi sistèmátik asou faktè ki kontribyé pou hepatosplenic T-cell lymphoma adan pasyan ki ni maladi entesten anflamasyon. Clin Gastroenterol Hepatol. 2011;9:36-41.\n95.\tde Francisco R, Castaño-García A, Martínez-González S, et al. Anpak statou sérologik viris Epstein-Barr asou rézilta klinik adan pasyan granmoun ki ni maladi entesten anflamasyon. Aliment Pharmacol Ther. 2018;48:723-30.\n96.\tRahier JF, Magro F, Abreu C, et al. European Crohn’s and Colitis Organisation [ECCO]. Dezyèm konsansis ewopeyen bazé asou prèv pou prévensyon, dyagnostik é manadjman enfeksyon opòtinis adan maladi entesten anflamasyon. J Crohns Colitis 2014;8:443-68.\n97.\tMartinelli M, Giugliano FP, Strisciuglio C, et al. Vaksinasyon é statou iminizasyon adan maladi entesten anflamatwa pédiatrik: on letid miltisantè sòti adan Pediatric IBD Porto Group di ESPGHAN. Inflamm Bowel Dis. 2020;26:1407-1414.\n98.\tLevine A, Wine E, Assa A, et al. Diyet éksklizyon pou maladi Crohn di",
+    "source_id": "pdf:398e12446d466067:chunk:79",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:17.014831+00:00",
+    "source_text_sha256": "0be329f0d4ac8e98e6e42485b9a0d8cf1939324058b8319931e6a60c74019e0f"
+  }
+}

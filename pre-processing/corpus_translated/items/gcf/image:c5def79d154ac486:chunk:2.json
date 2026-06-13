@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c5def79d154ac486:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "170d5e6181ea2217a75a87198f7d90c1a8506985ffc0dbca114414f2869d891f",
+  "translated_at": "2026-06-10T20:48:45.743868+00:00",
+  "model": "gpt-5-mini",
+  "text": "Enflamasyon kwonik sa-la té pé ka kontribyé\na fatig la pa aksyon kèk pwoteyin pro-\nanflamatwa ki pwodui an twòp pandan MICI\né konsa an pati esplike poukisa plis ki 80 % pasyan\nMICI ka di yo lasé lè i ni on pwousé\nanflamasyon. Mé on etid récént entérésé\npasyan ki an rémission an konparé on gwoup «\nlasé » é on gwoup « pa lasé ». Adan gwoup\n« lasé », ni an plis prodiksion TNFα é entèféron γ.\nSa pé pétèt permeté pou lye fenomèn fatig la (épi tout\nsijèktivité li) a faktè biyolojik ki pé mezurab. Mé travay\nsa yo bizwen toujou konfirmé.\n\nKI FAKTÈ KI\nRIZIK KI PI\nFRÉKWAN ?\n\nPlizyè etid montré ké fatig la pli\nfrékwan lakay fanm, lakay pasyan ki pa ni travay\noswa ki ni difikilté finansyé, lè nivo sosyo-edikatif\nba, lè moun ka fimen, lè dyagnostik fèt resaman,\nlè maladi a aktif é lè gen anemi. Pa ni différans\ndapré laj pasyan yo é prèski pa ni différans\nant Crohn é RCH.\n\nréf. n°6",
+  "row": {
+    "id": "image:c5def79d154ac486:chunk:2:gcf",
+    "document_id": "image:c5def79d154ac486",
+    "chunk_index": 2,
+    "source_file": "fatigue_mici.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_mici.png",
+    "text_path": "corpus/texts/images/fatigue_mici.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Enflamasyon kwonik sa-la té pé ka kontribyé\na fatig la pa aksyon kèk pwoteyin pro-\nanflamatwa ki pwodui an twòp pandan MICI\né konsa an pati esplike poukisa plis ki 80 % pasyan\nMICI ka di yo lasé lè i ni on pwousé\nanflamasyon. Mé on etid récént entérésé\npasyan ki an rémission an konparé on gwoup «\nlasé » é on gwoup « pa lasé ». Adan gwoup\n« lasé », ni an plis prodiksion TNFα é entèféron γ.\nSa pé pétèt permeté pou lye fenomèn fatig la (épi tout\nsijèktivité li) a faktè biyolojik ki pé mezurab. Mé travay\nsa yo bizwen toujou konfirmé.\n\nKI FAKTÈ KI\nRIZIK KI PI\nFRÉKWAN ?\n\nPlizyè etid montré ké fatig la pli\nfrékwan lakay fanm, lakay pasyan ki pa ni travay\noswa ki ni difikilté finansyé, lè nivo sosyo-edikatif\nba, lè moun ka fimen, lè dyagnostik fèt resaman,\nlè maladi a aktif é lè gen anemi. Pa ni différans\ndapré laj pasyan yo é prèski pa ni différans\nant Crohn é RCH.\n\nréf. n°6",
+    "source_id": "image:c5def79d154ac486:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:45.743868+00:00",
+    "source_text_sha256": "170d5e6181ea2217a75a87198f7d90c1a8506985ffc0dbca114414f2869d891f"
+  }
+}

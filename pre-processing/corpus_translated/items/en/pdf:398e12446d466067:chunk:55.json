@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:55",
+  "target_language": "en",
+  "source_text_sha256": "20b4f449dbdc69b580edbd5516a481d67f0c5c42b949928d4a93dba800c98677",
+  "translated_at": "2026-06-10T20:41:42.212127+00:00",
+  "model": "gpt-5-mini",
+  "text": "Some studies report lower frequencies, suggesting variability according to the cohorts studied and the therapeutic strategies used (8,11,12).\nMonitoring and follow-up\nClose follow-up is essential, including clinical monitoring (growth in height and weight, puberty, disease activity), biological monitoring (CBC, transaminases, CRP, fecal calprotectin) and endoscopic follow-up. In the long term, the increased risk of colorectal cancer requires regular endoscopic surveillance after 8-10 years of disease, particularly in cases of pancolitis.\nTable 7: summary of the different molecules used in pediatrics (121,122)\nName of the \nmolecule\nPharmacological \nclass\nDosage (child)\nMain adverse \neffects\nRecommended monitoring\nMesalazine (5-\nASA)\nLocal anti-inflammatory\n60-80 mg/kg/day (max \n100 mg/kg/day or 4.8 g/day) \norally; rectal: 25 mg/kg \n(max 1 g/day)\nHeadaches, nausea, \nabdominal pain, \nintolerance mimicking \na flare, rare \nnephrotoxicity or \npancreatitis\nCBC, creatinine, urinalysis \nperiodically; clinical monitoring \nof tolerance\nSulfasalazine\n5-ASA linked to \nsulfapyridine\n40-70 mg/kg/day (max \n4 g/day)\nDigestive disorders,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:55:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 55,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Some studies report lower frequencies, suggesting variability according to the cohorts studied and the therapeutic strategies used (8,11,12).\nMonitoring and follow-up\nClose follow-up is essential, including clinical monitoring (growth in height and weight, puberty, disease activity), biological monitoring (CBC, transaminases, CRP, fecal calprotectin) and endoscopic follow-up. In the long term, the increased risk of colorectal cancer requires regular endoscopic surveillance after 8-10 years of disease, particularly in cases of pancolitis.\nTable 7: summary of the different molecules used in pediatrics (121,122)\nName of the \nmolecule\nPharmacological \nclass\nDosage (child)\nMain adverse \neffects\nRecommended monitoring\nMesalazine (5-\nASA)\nLocal anti-inflammatory\n60-80 mg/kg/day (max \n100 mg/kg/day or 4.8 g/day) \norally; rectal: 25 mg/kg \n(max 1 g/day)\nHeadaches, nausea, \nabdominal pain, \nintolerance mimicking \na flare, rare \nnephrotoxicity or \npancreatitis\nCBC, creatinine, urinalysis \nperiodically; clinical monitoring \nof tolerance\nSulfasalazine\n5-ASA linked to \nsulfapyridine\n40-70 mg/kg/day (max \n4 g/day)\nDigestive disorders,",
+    "source_id": "pdf:398e12446d466067:chunk:55",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:42.212127+00:00",
+    "source_text_sha256": "20b4f449dbdc69b580edbd5516a481d67f0c5c42b949928d4a93dba800c98677"
+  }
+}

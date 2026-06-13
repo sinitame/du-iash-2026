@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:56",
+  "target_language": "gcf",
+  "source_text_sha256": "371f62d7df70dc04102d80334d19247f7f5bc0aa477ba0458ec7c00d7359955a",
+  "translated_at": "2026-06-10T20:54:59.249495+00:00",
+  "model": "gpt-5-mini",
+  "text": "rar\nnéfrotoksisitè oswa\npankréatit\nNFS, créatinine, urin\npériodikman ; swivi\nklinik pou tolerans\nSulfasalazine\n5-ASA lyé à\nsulfapyridine\n40-70 mg/kg/j (max\n4 g/j)\nTroubles dijestif,\ncéphalées, rash,\noligospermie, réyaksyon\nalèjik\nNFS, bilan hépatik é rénal ;\nswivi efè dijestif\nCorticostéroïdes\n(Prednisone)\nKortikoid\nsistemik\n1 mg/kg/j (max 40 mg/j)\np.o. pandan 2-3 semenn,\napwé sa dékwoisans\npwogresif\nIpèrglikemi, pran pwa, HTA,\nostéoporoz, troub dann limè,\nretad kwasans\nSwivi klinik: tansyon,\npwa, glykemie, DMO si\ntretman prolongé\nBudésonide LM\nKortikoid topik\nkolik\nDaprè schéma adilt\n(sèlman kolit gòch)\nMwens efè sistemik\nkonparé à prednisone, posib\ncéphalées, dyspepsie\nSwivi klinik\nAzathioprine\n(AZA)\nImunomodilatè\n(thiopurines)\n2-2,5 mg/kg/j\nMiyelosupresyon,\nepatit, pankréatit,\nnausées, risk raro de\nlymphom\nTPMT avan tretman,\nNFS + ALAT/ASAT chak\n1-2 semenn puis chak 3 mwa,\npwoteksyon solèy\n6-Mercaptopurine\n(6-MP)\nImunomodilatè\n(thiopurines)\n1-1,5 mg/kg/j\nMenm kon azathioprine\nMenm kon AZA, dòzaj 6-TGN/6-\nMMP si pa efikasité oswa toksisite",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:56:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 56,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "rar\nnéfrotoksisitè oswa\npankréatit\nNFS, créatinine, urin\npériodikman ; swivi\nklinik pou tolerans\nSulfasalazine\n5-ASA lyé à\nsulfapyridine\n40-70 mg/kg/j (max\n4 g/j)\nTroubles dijestif,\ncéphalées, rash,\noligospermie, réyaksyon\nalèjik\nNFS, bilan hépatik é rénal ;\nswivi efè dijestif\nCorticostéroïdes\n(Prednisone)\nKortikoid\nsistemik\n1 mg/kg/j (max 40 mg/j)\np.o. pandan 2-3 semenn,\napwé sa dékwoisans\npwogresif\nIpèrglikemi, pran pwa, HTA,\nostéoporoz, troub dann limè,\nretad kwasans\nSwivi klinik: tansyon,\npwa, glykemie, DMO si\ntretman prolongé\nBudésonide LM\nKortikoid topik\nkolik\nDaprè schéma adilt\n(sèlman kolit gòch)\nMwens efè sistemik\nkonparé à prednisone, posib\ncéphalées, dyspepsie\nSwivi klinik\nAzathioprine\n(AZA)\nImunomodilatè\n(thiopurines)\n2-2,5 mg/kg/j\nMiyelosupresyon,\nepatit, pankréatit,\nnausées, risk raro de\nlymphom\nTPMT avan tretman,\nNFS + ALAT/ASAT chak\n1-2 semenn puis chak 3 mwa,\npwoteksyon solèy\n6-Mercaptopurine\n(6-MP)\nImunomodilatè\n(thiopurines)\n1-1,5 mg/kg/j\nMenm kon azathioprine\nMenm kon AZA, dòzaj 6-TGN/6-\nMMP si pa efikasité oswa toksisite",
+    "source_id": "pdf:398e12446d466067:chunk:56",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:54:59.249495+00:00",
+    "source_text_sha256": "371f62d7df70dc04102d80334d19247f7f5bc0aa477ba0458ec7c00d7359955a"
+  }
+}

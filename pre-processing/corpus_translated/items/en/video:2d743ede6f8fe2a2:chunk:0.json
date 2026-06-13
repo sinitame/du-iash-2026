@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:2d743ede6f8fe2a2:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "a7932b3c656a737302006fdba606e5fbf292d90c0ff2ed09d211714adc15d22d",
+  "translated_at": "2026-06-10T20:46:51.723252+00:00",
+  "model": "gpt-5-mini",
+  "text": "What are biotherapies? Biotherapies are molecules. In the body, cells talk to each other by sending chemical molecules or signaling molecules, things like cytokines. They send these and that allows them to have a dialogue between them. Biotherapies are targeted medicines; they are antibodies that will catch a cytokine or a particular molecule and neutralize it. For example, anti-TNFs— infliximab, adalimumab—are medicines, they are antibodies that will catch TNF, and this molecule, TNF, is a molecule that goes to the site of inflammation. It's like a fire truck with a huge siren: TNF is the siren and it calls, in fact, all the lymphocytes that will arrive and start to attack the digestive tissue. So the antibodies that come will catch that siren, silence it, which creates an artificial silence and therefore creates a remission.",
+  "row": {
+    "id": "video:2d743ede6f8fe2a2:chunk:0:en",
+    "document_id": "video:2d743ede6f8fe2a2",
+    "chunk_index": 0,
+    "source_file": "addbc9a02a92d81765f002867fdc395125b921d7.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/addbc9a02a92d81765f002867fdc395125b921d7.mp4",
+    "text_path": "corpus/texts/videos/addbc9a02a92d81765f002867fdc395125b921d7.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "What are biotherapies? Biotherapies are molecules. In the body, cells talk to each other by sending chemical molecules or signaling molecules, things like cytokines. They send these and that allows them to have a dialogue between them. Biotherapies are targeted medicines; they are antibodies that will catch a cytokine or a particular molecule and neutralize it. For example, anti-TNFs— infliximab, adalimumab—are medicines, they are antibodies that will catch TNF, and this molecule, TNF, is a molecule that goes to the site of inflammation. It's like a fire truck with a huge siren: TNF is the siren and it calls, in fact, all the lymphocytes that will arrive and start to attack the digestive tissue. So the antibodies that come will catch that siren, silence it, which creates an artificial silence and therefore creates a remission.",
+    "source_id": "video:2d743ede6f8fe2a2:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:51.723252+00:00",
+    "source_text_sha256": "a7932b3c656a737302006fdba606e5fbf292d90c0ff2ed09d211714adc15d22d"
+  }
+}

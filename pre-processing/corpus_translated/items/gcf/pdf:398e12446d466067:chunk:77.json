@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:77",
+  "target_language": "gcf",
+  "source_text_sha256": "5f0dcf0bcb879a798b597a9f5f1e008e0e974e12b75ae62394476ef574d90c8f",
+  "translated_at": "2026-06-10T21:06:59.459139+00:00",
+  "model": "gpt-5-mini",
+  "text": "analiz. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate pou jéré maladi Crohn adan timoun. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S, Wang C, et al. Siplemanman folat pou terapi methotrexate an pasyan ki ni atrit romatoid : on revizyon sistèmàtik. J Clin Rheumatol. 2019;25:197-202.\n86.\tValentino PL, Church PC, Shah PS, et al. Epatotoxisite kozé pa terapi methotrexate an timoun ki ni maladi enflamatwa trip : on revizyon sistèmàtik épi méta-analiz. Inflamm Bowel Dis. 2014;20:47-59.\n87.\tTurner D, Doveh E, Cohen A, et al. Efikasité methotrexate oral an maladi Crohn pédiatrik : on etid multicentrik ki sèvi épi propensity score. Gut 2015;64:1898-904.\n88.\tChande N, Patton PH, Tsoulis DJ, et al. Azathioprine ob 6-mercaptopurine pou mantenn rémission an maladi Crohn. Cochrane Database Syst Rev 2015;4:CD000067.\n89.\tBeaugerie L, Brousse N, Bouvier AM, et al. CESAME Study Group. Maladi lymphoproliferatif an pasyan ki ka pran thiopurines pou maladi enflamatwa trip : on etid kowòt obsèvatwa prospektif. Lancet 2009;374:1617-25.\n90.\tKotlyar DS, Lewis JD, Beaugerie L, et al.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:77:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 77,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "analiz. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate pou jéré maladi Crohn adan timoun. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S, Wang C, et al. Siplemanman folat pou terapi methotrexate an pasyan ki ni atrit romatoid : on revizyon sistèmàtik. J Clin Rheumatol. 2019;25:197-202.\n86.\tValentino PL, Church PC, Shah PS, et al. Epatotoxisite kozé pa terapi methotrexate an timoun ki ni maladi enflamatwa trip : on revizyon sistèmàtik épi méta-analiz. Inflamm Bowel Dis. 2014;20:47-59.\n87.\tTurner D, Doveh E, Cohen A, et al. Efikasité methotrexate oral an maladi Crohn pédiatrik : on etid multicentrik ki sèvi épi propensity score. Gut 2015;64:1898-904.\n88.\tChande N, Patton PH, Tsoulis DJ, et al. Azathioprine ob 6-mercaptopurine pou mantenn rémission an maladi Crohn. Cochrane Database Syst Rev 2015;4:CD000067.\n89.\tBeaugerie L, Brousse N, Bouvier AM, et al. CESAME Study Group. Maladi lymphoproliferatif an pasyan ki ka pran thiopurines pou maladi enflamatwa trip : on etid kowòt obsèvatwa prospektif. Lancet 2009;374:1617-25.\n90.\tKotlyar DS, Lewis JD, Beaugerie L, et al.",
+    "source_id": "pdf:398e12446d466067:chunk:77",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:59.459139+00:00",
+    "source_text_sha256": "5f0dcf0bcb879a798b597a9f5f1e008e0e974e12b75ae62394476ef574d90c8f"
+  }
+}

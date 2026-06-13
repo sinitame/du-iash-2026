@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:60",
+  "target_language": "en",
+  "source_text_sha256": "4e77039e01a8934c6146ac249cee13bdde45fec87209f878c8cbf5f713325ca7",
+  "translated_at": "2026-06-10T20:41:56.113097+00:00",
+  "model": "gpt-5-mini",
+  "text": "the medical management of these patients. It must be prepared and carried out with rigor.\nAcknowledgements: I warmly thank Dr NGWANOU (*) for carefully reviewing this work and for the insightful advice.\n* Pediatrics Department. Rennes University Hospital—South Hospital\nReferences\n1.\t\nCarroll MW, Kuenzig ME, Mack DR, et al. The impact of inflam-\nmatory bowel disease in Canada 2018: children and adoles-\ncents with IBD. J Can Assoc Gastroenterol 2019;2:S49–S67.\n2.\t\nUhlig HH, Schwerd T, Koletzko S, et al. COLORS in IBD Study \nGroup and NEOPICS. The diagnostic approach to monogenic \nvery early onset inflammatory bowel disease. Gastroenterology. \n2014;147:990–1007.e3.\n3.\t\nGlocker EO, Kotlarz D, Boztug K, et al. Inflammatory bowel \ndisease and mutations affecting the interleukin-10 receptor. N \nEngl J Med. 2009;361:2033–2045.\n4.\t\nHsieh KH, Chang MH, Lee CY, et al. Wiskott-Aldrich syndrome \nand inflammatory bowel disease. Ann Allergy. 1988;60:429–431.\n5.\t\nKelsen JR, Baldassano RN, Artis D, et al. Maintaining intestinal \nhealth: the genetics and immunology of very early onset \ninflammatory bowel disease. Cell Mol Gastroenterol Hepatol. \n2015;1:462–476.\n6.\t\nPazmandi J, Kalinichenko A, Ardy RC, et al.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:60:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 60,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "the medical management of these patients. It must be prepared and carried out with rigor.\nAcknowledgements: I warmly thank Dr NGWANOU (*) for carefully reviewing this work and for the insightful advice.\n* Pediatrics Department. Rennes University Hospital—South Hospital\nReferences\n1.\t\nCarroll MW, Kuenzig ME, Mack DR, et al. The impact of inflam-\nmatory bowel disease in Canada 2018: children and adoles-\ncents with IBD. J Can Assoc Gastroenterol 2019;2:S49–S67.\n2.\t\nUhlig HH, Schwerd T, Koletzko S, et al. COLORS in IBD Study \nGroup and NEOPICS. The diagnostic approach to monogenic \nvery early onset inflammatory bowel disease. Gastroenterology. \n2014;147:990–1007.e3.\n3.\t\nGlocker EO, Kotlarz D, Boztug K, et al. Inflammatory bowel \ndisease and mutations affecting the interleukin-10 receptor. N \nEngl J Med. 2009;361:2033–2045.\n4.\t\nHsieh KH, Chang MH, Lee CY, et al. Wiskott-Aldrich syndrome \nand inflammatory bowel disease. Ann Allergy. 1988;60:429–431.\n5.\t\nKelsen JR, Baldassano RN, Artis D, et al. Maintaining intestinal \nhealth: the genetics and immunology of very early onset \ninflammatory bowel disease. Cell Mol Gastroenterol Hepatol. \n2015;1:462–476.\n6.\t\nPazmandi J, Kalinichenko A, Ardy RC, et al.",
+    "source_id": "pdf:398e12446d466067:chunk:60",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:41:56.113097+00:00",
+    "source_text_sha256": "4e77039e01a8934c6146ac249cee13bdde45fec87209f878c8cbf5f713325ca7"
+  }
+}

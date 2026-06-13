@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "e223407d1fa6329aa82f37276d15907d0978a9073d66caad93da1e325193c965",
+  "translated_at": "2026-06-10T20:45:17.988353+00:00",
+  "model": "gpt-5-mini",
+  "text": "Okay, press down on the floor. You will be able to notice the very outer edges of your feet, roll onto the outer edges of your feet, then roll onto the inner edges of your feet. Then you will roll your feet and put them back down, pressing firmly. You can imagine as if you had roots firmly anchored into the ground, so that under your feet you can feel what a real foot connection is like to connect well to the ground. Is it closer to 2.0 or is it closer to 2? Very slowly, calmly, I invite you to become aware, to name the sensations and to gauge the intensity of your emotion, and to gently bring your attention to this area. You will unroll your feet, press down through them now, and feel the support in your back. You will try to gradually straighten your back; for that you may notice a little tension in your shoulders, and to perfect your posture you can lower your chin slightly, and gently keep your head upright. You calmly observe the sensations in your back, which relax and let go, and then become aware of your back. Now that you have become aware",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:1:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 1,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Okay, press down on the floor. You will be able to notice the very outer edges of your feet, roll onto the outer edges of your feet, then roll onto the inner edges of your feet. Then you will roll your feet and put them back down, pressing firmly. You can imagine as if you had roots firmly anchored into the ground, so that under your feet you can feel what a real foot connection is like to connect well to the ground. Is it closer to 2.0 or is it closer to 2? Very slowly, calmly, I invite you to become aware, to name the sensations and to gauge the intensity of your emotion, and to gently bring your attention to this area. You will unroll your feet, press down through them now, and feel the support in your back. You will try to gradually straighten your back; for that you may notice a little tension in your shoulders, and to perfect your posture you can lower your chin slightly, and gently keep your head upright. You calmly observe the sensations in your back, which relax and let go, and then become aware of your back. Now that you have become aware",
+    "source_id": "video:05807ec7742bc2af:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:17.988353+00:00",
+    "source_text_sha256": "e223407d1fa6329aa82f37276d15907d0978a9073d66caad93da1e325193c965"
+  }
+}

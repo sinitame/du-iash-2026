@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:83",
+  "target_language": "en",
+  "source_text_sha256": "1ba8018816d27f7ab853e93c517c75835c02dec573579a2b7258a3e4726523e9",
+  "translated_at": "2026-06-10T20:42:41.797094+00:00",
+  "model": "gpt-5-mini",
+  "text": "et al. Real world experience \nwith ustekinumab in children and young adults at a tertiary care \npediatric inflammatory bowel disease center. J Pediatr Gastro-\nenterol Nutr. 2019;69:61-67.\n112. Hyams JS, Turner D, Cohen SA, et al. Pharmacokinetics, safety \nand efficacy of intravenous vedolizumab in paediatric patients \nwith ulcerative colitis or Crohn’s disease: results from the phase \n2 HUBBLE study. J Crohn’s Colitis 2022;16:1243-1254.\n113. Attia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, \nand predictors of vedolizumab treatment in children with inflam-\nmatory bowel disease (VEDOKIDs): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n114. Klomberg RCW, de Ridder L. Vedolizumab in paediatric IBD: \na huge step forward but not there yet. Lancet Gastroenterol \nHepatol. 2023;8:3-4.\n115. Atia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, \nand predictors of vedolizumab treatment in children with inflam-\nmatory bowel disease (VEDOKIDS): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116. Wlazlo M, Kierkus J. Dual biological therapy for the treatment of \npediatric inflammator",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:83:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 83,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "et al. Real world experience \nwith ustekinumab in children and young adults at a tertiary care \npediatric inflammatory bowel disease center. J Pediatr Gastro-\nenterol Nutr. 2019;69:61-67.\n112. Hyams JS, Turner D, Cohen SA, et al. Pharmacokinetics, safety \nand efficacy of intravenous vedolizumab in paediatric patients \nwith ulcerative colitis or Crohn’s disease: results from the phase \n2 HUBBLE study. J Crohn’s Colitis 2022;16:1243-1254.\n113. Attia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, \nand predictors of vedolizumab treatment in children with inflam-\nmatory bowel disease (VEDOKIDs): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n114. Klomberg RCW, de Ridder L. Vedolizumab in paediatric IBD: \na huge step forward but not there yet. Lancet Gastroenterol \nHepatol. 2023;8:3-4.\n115. Atia O, Shavit-Brunschwig Z, Mould DR, et al. Outcomes, dosing, \nand predictors of vedolizumab treatment in children with inflam-\nmatory bowel disease (VEDOKIDS): a prospective, multicentre \ncohort study. Lancet Gastroenterol Hepatol. 2023;8:31-42.\n116. Wlazlo M, Kierkus J. Dual biological therapy for the treatment of \npediatric inflammator",
+    "source_id": "pdf:398e12446d466067:chunk:83",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:41.797094+00:00",
+    "source_text_sha256": "1ba8018816d27f7ab853e93c517c75835c02dec573579a2b7258a3e4726523e9"
+  }
+}

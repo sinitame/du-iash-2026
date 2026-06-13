@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:78",
+  "target_language": "gcf",
+  "source_text_sha256": "7d01ab01ef4d55a68672d02b0dfe4c3174d46a68dbc9a730b85bc8bc6c796a69",
+  "translated_at": "2026-06-10T21:07:22.608914+00:00",
+  "model": "gpt-5-mini",
+  "text": "troub ferative adan pasyan ki ka pran thiopurines pou maladi enflamatwa entesten: on étid prospektif obsèvatwa an kohòt. Lancet 2009;374:1617-25.\n90.\t Kotlyar DS, Lewis JD, Beaugerie L, et al. Risk pou limfom an pasyan ki gen maladi enflamatwa entesten é ki treté épi azathioprine é 6-mercaptopurine: on méta-analiz. Clin Gastroenterol Hepatol. 2015;13:847-58.\n91.\t Lemaitre M, Kirchgesner J, Rudnichi A, et al. Asosyasyon ant itilizasyon thiopurines ouswa antagonis faktè nekroz tumè, poukont yo oswa an konbiné, é risk pou limfom an pasyan ki gen maladi enflamatwa entesten. JAMA 2017;318:1679-86.\n92.\t Joosse ME, Aardoom MA, Kemos P, et al.; Paediatric IBD Porto group of ESPGHAN. Kansé é mortalité an maladi enflamatwa entesten ki komansé adan timoun: on étid prospektif 3-an, multinasyonal, fèt pa group Paediatric IBD Porto di ESPGHAN. Aliment Pharmacol Ther. 2018;48:523-37.\n93.\t Hyams JS, Dubinsky MC, Baldassano RN, et al. Infliximab pa asosyé épi on ogmantasyon risk kansé ouswa hemofagositik limfohistiositoz an pasyan pédiatrik ki gen maladi enflamatwa entesten. Gastroenterology 2017;152:1901-14.\n94.\t Kotlyar DS, Osterman MT, Diamon",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:78:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 78,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "troub ferative adan pasyan ki ka pran thiopurines pou maladi enflamatwa entesten: on étid prospektif obsèvatwa an kohòt. Lancet 2009;374:1617-25.\n90.\t Kotlyar DS, Lewis JD, Beaugerie L, et al. Risk pou limfom an pasyan ki gen maladi enflamatwa entesten é ki treté épi azathioprine é 6-mercaptopurine: on méta-analiz. Clin Gastroenterol Hepatol. 2015;13:847-58.\n91.\t Lemaitre M, Kirchgesner J, Rudnichi A, et al. Asosyasyon ant itilizasyon thiopurines ouswa antagonis faktè nekroz tumè, poukont yo oswa an konbiné, é risk pou limfom an pasyan ki gen maladi enflamatwa entesten. JAMA 2017;318:1679-86.\n92.\t Joosse ME, Aardoom MA, Kemos P, et al.; Paediatric IBD Porto group of ESPGHAN. Kansé é mortalité an maladi enflamatwa entesten ki komansé adan timoun: on étid prospektif 3-an, multinasyonal, fèt pa group Paediatric IBD Porto di ESPGHAN. Aliment Pharmacol Ther. 2018;48:523-37.\n93.\t Hyams JS, Dubinsky MC, Baldassano RN, et al. Infliximab pa asosyé épi on ogmantasyon risk kansé ouswa hemofagositik limfohistiositoz an pasyan pédiatrik ki gen maladi enflamatwa entesten. Gastroenterology 2017;152:1901-14.\n94.\t Kotlyar DS, Osterman MT, Diamon",
+    "source_id": "pdf:398e12446d466067:chunk:78",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:07:22.608914+00:00",
+    "source_text_sha256": "7d01ab01ef4d55a68672d02b0dfe4c3174d46a68dbc9a730b85bc8bc6c796a69"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:13",
+  "target_language": "en",
+  "source_text_sha256": "2a9b3a04d892e13038a9776665f969645db940c5d69c27e5794b76b2c20923d0",
+  "translated_at": "2026-06-10T20:40:03.389604+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 4 ---\n180\nBiology\nThe initial biological workup should include a complete blood count,\nat least two inflammatory markers as well as albumin,\ntransaminases and gamma-GT. Data from pediatric IBD registries indicate that at diagnosis,\n54% of children with mild UC and 21% of children with mild CD have\nnormal results for hemoglobin, albumin, CRP and ESR (35). ASCA and p-ANCA\nhave good specificity in children (85 to 95% depending on the studies) but low sensitivity (20 to 60%) (36).\nThey are not systematically performed in routine practice. Fecal calprotectin is superior to any other blood marker\nfor detecting intestinal inflammation.\nA meta-analysis of 8 pediatric studies showed an excellent sensitivity (98%) of fecal calprotectin measurement for the diagnosis of IBD and a more modest specificity (68%) (37). Adult reference ranges can\nbe used in children over 4 years of age. A fecal calprotectin level above 250 μg/g of stool in a child followed for IBD is a strong argument in favor of an inflammatio",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:13:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 13,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 4 ---\n180\nBiology\nThe initial biological workup should include a complete blood count,\nat least two inflammatory markers as well as albumin,\ntransaminases and gamma-GT. Data from pediatric IBD registries indicate that at diagnosis,\n54% of children with mild UC and 21% of children with mild CD have\nnormal results for hemoglobin, albumin, CRP and ESR (35). ASCA and p-ANCA\nhave good specificity in children (85 to 95% depending on the studies) but low sensitivity (20 to 60%) (36).\nThey are not systematically performed in routine practice. Fecal calprotectin is superior to any other blood marker\nfor detecting intestinal inflammation.\nA meta-analysis of 8 pediatric studies showed an excellent sensitivity (98%) of fecal calprotectin measurement for the diagnosis of IBD and a more modest specificity (68%) (37). Adult reference ranges can\nbe used in children over 4 years of age. A fecal calprotectin level above 250 μg/g of stool in a child followed for IBD is a strong argument in favor of an inflammatio",
+    "source_id": "pdf:398e12446d466067:chunk:13",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:40:03.389604+00:00",
+    "source_text_sha256": "2a9b3a04d892e13038a9776665f969645db940c5d69c27e5794b76b2c20923d0"
+  }
+}

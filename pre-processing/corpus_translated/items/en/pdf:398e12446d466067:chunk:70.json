@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:70",
+  "target_language": "en",
+  "source_text_sha256": "3bdef9b53ca1adec8d523b4db0e6ae0b325507643f49b275654712acc823f416",
+  "translated_at": "2026-06-10T20:42:11.588897+00:00",
+  "model": "gpt-5-mini",
+  "text": "0;105:1893-1900.\n50. \u0007Komaki Y, Komaki F, Yamada A, et al. Risk of cancers in patients \nwith pediatric inflammatory bowel diseases: A systematic review \nand meta-analysis. J Pediatr. 2021;229: 102-117.\n51. \u0007Elmahdi R, Lemser CE, Thomsen SB, et al. Development of \ncancer among patients with pediatric-onset inflammatory \nbowel disease: a meta-analysis of population-based studies. \nJAMA Netw Open 2022;5:e220595.\n52. \u0007Blum RW, Garell D, Hodgman CH, et al. Transition from child-cen-\ntered to adult health-care systems for adolescents with chronic \nconditions. A position paper of the Society for Adolescent \nMedicine. J. Adolesc. Health 1993;14: 570-576.\n53. \u0007Rosen DS. Transition of young people with respiratory diseases \nto adult health care. Paediatr. Respir. Rev. 2004;5:124-131.\n54. \u0007Wallis C. Transition of care in children with chronic disease. BMJ. \n2007;334:1231-1232.\n55. \u0007Bennett DL, Towns SJ, Steinbeck KS. Smoothing the transition to \nadult care. Med. J. Aust. 2005;182:373-374.\n56. \u0007McDonagh JE, Growing up and moving on: transition from \npediatric to adult care. Pediatr. Transplant. 2005;9:364-372.\n57. \u0007Giarelli E, Bernhardt BA, Mack R, et al. Adolescents’ transition to \nse",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:70:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 70,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "0;105:1893-1900.\n50. \u0007Komaki Y, Komaki F, Yamada A, et al. Risk of cancers in patients \nwith pediatric inflammatory bowel diseases: A systematic review \nand meta-analysis. J Pediatr. 2021;229: 102-117.\n51. \u0007Elmahdi R, Lemser CE, Thomsen SB, et al. Development of \ncancer among patients with pediatric-onset inflammatory \nbowel disease: a meta-analysis of population-based studies. \nJAMA Netw Open 2022;5:e220595.\n52. \u0007Blum RW, Garell D, Hodgman CH, et al. Transition from child-cen-\ntered to adult health-care systems for adolescents with chronic \nconditions. A position paper of the Society for Adolescent \nMedicine. J. Adolesc. Health 1993;14: 570-576.\n53. \u0007Rosen DS. Transition of young people with respiratory diseases \nto adult health care. Paediatr. Respir. Rev. 2004;5:124-131.\n54. \u0007Wallis C. Transition of care in children with chronic disease. BMJ. \n2007;334:1231-1232.\n55. \u0007Bennett DL, Towns SJ, Steinbeck KS. Smoothing the transition to \nadult care. Med. J. Aust. 2005;182:373-374.\n56. \u0007McDonagh JE, Growing up and moving on: transition from \npediatric to adult care. Pediatr. Transplant. 2005;9:364-372.\n57. \u0007Giarelli E, Bernhardt BA, Mack R, et al. Adolescents’ transition to \nse",
+    "source_id": "pdf:398e12446d466067:chunk:70",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:11.588897+00:00",
+    "source_text_sha256": "3bdef9b53ca1adec8d523b4db0e6ae0b325507643f49b275654712acc823f416"
+  }
+}

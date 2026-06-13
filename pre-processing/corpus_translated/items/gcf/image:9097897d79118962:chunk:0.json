@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:9097897d79118962:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "3f51810cd18f39d917d1b0f664c9af6354cb3a42e65a5f5668d126f360818ab0",
+  "translated_at": "2026-06-10T20:49:17.534316+00:00",
+  "model": "gpt-5-mini",
+  "text": "PREVANSYON\n\nPREVANSYON\n\nFATIG\n\nFICH\n\n#09\n\nÉPI TRETMAN\n\nEFÉK KORTIKOID LO FATIG\n\nKortikoid, an jeneral, fè on efè dopan o kòmansman ki konbat fatig la. Mé si yo sèvi yo pandant lontan, oswa lè, kan yo arété yo, sa pé fè parèt on ensifizans surrénal; la sitiyasyon la vin lòpòsé é i ka gen an fatig klè souvan an konbit épi doulè nan mis ki ka ranfòsé sansasyon fatig la.\n\nEFÉK IMUNOSUPRESÈ LO FATIG\n\nMèmjan, Azathioprine é Purinethol pé mennen fatig adan kò a o kômansman tretman-an. Mé efè a disparèt adan pi fò ka an dépi plizyé semèn, kon sa an jeneral pa bizwen arrété tretman-an. I enpòtan pou avizé pasyan-an é pou édé-y trapé pasé premye semèn yo. Fatig sa a ka vini pafwa épi doulè mis ki konn déranjé é ki, yo menm, pé fè entèwonp tretman-an.\n\nSé an koz pasyan yo souvan ka mansyoné é ki pafwa pratisyen yo jwenn difikilté pou tande. Men i klè ké kèk medikaman pé favorizé fatig la. Mé menmjan, medikaman sa yo souvan esansyèl pou tretman-an.",
+  "row": {
+    "id": "image:9097897d79118962:chunk:0:gcf",
+    "document_id": "image:9097897d79118962",
+    "chunk_index": 0,
+    "source_file": "fatigue_traitement.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_traitement.png",
+    "text_path": "corpus/texts/images/fatigue_traitement.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "PREVANSYON\n\nPREVANSYON\n\nFATIG\n\nFICH\n\n#09\n\nÉPI TRETMAN\n\nEFÉK KORTIKOID LO FATIG\n\nKortikoid, an jeneral, fè on efè dopan o kòmansman ki konbat fatig la. Mé si yo sèvi yo pandant lontan, oswa lè, kan yo arété yo, sa pé fè parèt on ensifizans surrénal; la sitiyasyon la vin lòpòsé é i ka gen an fatig klè souvan an konbit épi doulè nan mis ki ka ranfòsé sansasyon fatig la.\n\nEFÉK IMUNOSUPRESÈ LO FATIG\n\nMèmjan, Azathioprine é Purinethol pé mennen fatig adan kò a o kômansman tretman-an. Mé efè a disparèt adan pi fò ka an dépi plizyé semèn, kon sa an jeneral pa bizwen arrété tretman-an. I enpòtan pou avizé pasyan-an é pou édé-y trapé pasé premye semèn yo. Fatig sa a ka vini pafwa épi doulè mis ki konn déranjé é ki, yo menm, pé fè entèwonp tretman-an.\n\nSé an koz pasyan yo souvan ka mansyoné é ki pafwa pratisyen yo jwenn difikilté pou tande. Men i klè ké kèk medikaman pé favorizé fatig la. Mé menmjan, medikaman sa yo souvan esansyèl pou tretman-an.",
+    "source_id": "image:9097897d79118962:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:17.534316+00:00",
+    "source_text_sha256": "3f51810cd18f39d917d1b0f664c9af6354cb3a42e65a5f5668d126f360818ab0"
+  }
+}

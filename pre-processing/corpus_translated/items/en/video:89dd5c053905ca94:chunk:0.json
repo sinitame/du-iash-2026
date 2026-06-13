@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:89dd5c053905ca94:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "b43cd134db29fcf89fb3f1c3da0e72452be20a2e938bfb7cd4aaaa8861e54f10",
+  "translated_at": "2026-06-10T20:46:18.416337+00:00",
+  "model": "gpt-5-mini",
+  "text": "Is it normal to be a little tired? Yes, it's completely normal to be tired with this illness because TNF, for example, is a molecule; it goes into the brain and makes you tired. So inflammation makes you tired. Pain makes you tired, so this is an inflammatory disease that causes pain and diarrhea; with diarrhea there is dehydration, and we lose iron. All of that are factors that cause tiredness. So the disease, for example, causes fatigue. But sometimes, even when someone is in remission, when they don't have anemia, when they don't have iron deficiency, when they don't have zinc deficiency, when they don't have vitamin deficiency, when they are in really deep remission, fatigue—sometimes it's the last thing that remains and patients are exhausted. And that can have many causes. The first thing is that it's not so simple to live with a chronic disease and to carry that mental load all the time, always having to anticipate everything, wondering what to do, whether I should cancel, whether I should call in sick, etc. So that mental load is tiring. There can be a fati",
+  "row": {
+    "id": "video:89dd5c053905ca94:chunk:0:en",
+    "document_id": "video:89dd5c053905ca94",
+    "chunk_index": 0,
+    "source_file": "9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.mp4",
+    "text_path": "corpus/texts/videos/9482a9a7644cf1ff31b9d1a5d930e9bf13a9a0b2.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "Is it normal to be a little tired? Yes, it's completely normal to be tired with this illness because TNF, for example, is a molecule; it goes into the brain and makes you tired. So inflammation makes you tired. Pain makes you tired, so this is an inflammatory disease that causes pain and diarrhea; with diarrhea there is dehydration, and we lose iron. All of that are factors that cause tiredness. So the disease, for example, causes fatigue. But sometimes, even when someone is in remission, when they don't have anemia, when they don't have iron deficiency, when they don't have zinc deficiency, when they don't have vitamin deficiency, when they are in really deep remission, fatigue—sometimes it's the last thing that remains and patients are exhausted. And that can have many causes. The first thing is that it's not so simple to live with a chronic disease and to carry that mental load all the time, always having to anticipate everything, wondering what to do, whether I should cancel, whether I should call in sick, etc. So that mental load is tiring. There can be a fati",
+    "source_id": "video:89dd5c053905ca94:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:18.416337+00:00",
+    "source_text_sha256": "b43cd134db29fcf89fb3f1c3da0e72452be20a2e938bfb7cd4aaaa8861e54f10"
+  }
+}

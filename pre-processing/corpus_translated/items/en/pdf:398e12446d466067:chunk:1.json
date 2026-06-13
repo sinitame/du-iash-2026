@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "b77f39a59f49aa90351c98037cc7fa4d87e8040d9720e6fa97c0df3efd7ee639",
+  "translated_at": "2026-06-10T20:39:48.581686+00:00",
+  "model": "gpt-5-mini",
+  "text": "the market\nCAG: severe acute colitis\nASCA: anti-Saccharomyces cerevisiae antibodies\nAZA: azathioprine\nCRP: C reactive protein\nCSP: primary sclerosing cholangitis\nEBV: Epstein Barr virus\nNEE: exclusive enteral nutrition\nEO-IBD: early onset inflammatory bowel disease\nIBD: inflammatory bowel disease\nIMC: body mass index\nIFX: infliximab\nIRM: magnetic resonance imaging\nLM: modified release\nMC: Crohn disease\nMICI: chronic inflammatory bowel disease\nMTX: methotrexate\nNFS: complete blood count\np-ANCA: antibodies directed against the perinuclear region of the cytoplasm of neutrophil polymorphonuclear cells\nPCDAI: pediatric Crohn disease activity index\nPO: orally\nPUCAI: pediatric ulcerative colitis activity index\nRCH: ulcerative colitis\nSES-CD: simple endoscopic score for Crohn disease\nTNF: tumor necrosis factor\nTPMT: thiopurine methyltransferase\nVEO-IBD: very early onset inflammatory bowel disease\nIntroduction\nIBD can be diagnosed throughout life. \nHowever, there are specific features unique to the pediatric\nform. For example, Crohn disease is more often \ndiagnosed at the inflammatory stage,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:1:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 1,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "the market\nCAG: severe acute colitis\nASCA: anti-Saccharomyces cerevisiae antibodies\nAZA: azathioprine\nCRP: C reactive protein\nCSP: primary sclerosing cholangitis\nEBV: Epstein Barr virus\nNEE: exclusive enteral nutrition\nEO-IBD: early onset inflammatory bowel disease\nIBD: inflammatory bowel disease\nIMC: body mass index\nIFX: infliximab\nIRM: magnetic resonance imaging\nLM: modified release\nMC: Crohn disease\nMICI: chronic inflammatory bowel disease\nMTX: methotrexate\nNFS: complete blood count\np-ANCA: antibodies directed against the perinuclear region of the cytoplasm of neutrophil polymorphonuclear cells\nPCDAI: pediatric Crohn disease activity index\nPO: orally\nPUCAI: pediatric ulcerative colitis activity index\nRCH: ulcerative colitis\nSES-CD: simple endoscopic score for Crohn disease\nTNF: tumor necrosis factor\nTPMT: thiopurine methyltransferase\nVEO-IBD: very early onset inflammatory bowel disease\nIntroduction\nIBD can be diagnosed throughout life. \nHowever, there are specific features unique to the pediatric\nform. For example, Crohn disease is more often \ndiagnosed at the inflammatory stage,",
+    "source_id": "pdf:398e12446d466067:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:48.581686+00:00",
+    "source_text_sha256": "b77f39a59f49aa90351c98037cc7fa4d87e8040d9720e6fa97c0df3efd7ee639"
+  }
+}

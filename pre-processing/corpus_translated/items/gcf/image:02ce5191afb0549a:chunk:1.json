@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:02ce5191afb0549a:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "d04707a4d074026029b5f94b36447e92684210afee03c960a5d1cf65fd0dc584",
+  "translated_at": "2026-06-10T20:48:56.523428+00:00",
+  "model": "gpt-5-mini",
+  "text": "Anksyé patolojik adan 30% di yo.\n10 mandman\n\nMété maladi-a an rémisyon.\nSévré an kortikoid.\nArété fimen.\n\nKi pran an chaj ki posib ?\nManjé nòmalman é divèrsifié\nKorijé anemi\nKorijé karans ki té idantifié\nEvalyé (sèlman èvè pratikan an) si li entérésan pou ba dòz médikaman yo, pou entèwonpé yo oubyen pou chanjé yo\nAn paralèl a tretman spécifik kon anxyolitik oubyen antidépresè, kot preskripsion-an bizwen on diskisyon èvè pratikan référan an é, si posib, on sikyat, sé posib fè pran an chaj tip psikoterapi\nPran an chaj spécifikman pwoblèm psikolojik (coaching santé, tretman médikaman, psikoterapi)\nEvité dezosyalizasyon : limité lopitalizasyon ; travayé, sòti, aimé.\nYo démontré ki terapi brè ki asé sou chaché solisyon efikas an ka fatig asosyé èvè MICI menm si efè pozitif-la ka sanm...\nFè spòt : nenpot ki aktivité, mé fè’y régilyèman, an reprann pwogresivman,",
+  "row": {
+    "id": "image:02ce5191afb0549a:chunk:1:gcf",
+    "document_id": "image:02ce5191afb0549a",
+    "chunk_index": 1,
+    "source_file": "fatigue_depression.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_depression.png",
+    "text_path": "corpus/texts/images/fatigue_depression.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Anksyé patolojik adan 30% di yo.\n10 mandman\n\nMété maladi-a an rémisyon.\nSévré an kortikoid.\nArété fimen.\n\nKi pran an chaj ki posib ?\nManjé nòmalman é divèrsifié\nKorijé anemi\nKorijé karans ki té idantifié\nEvalyé (sèlman èvè pratikan an) si li entérésan pou ba dòz médikaman yo, pou entèwonpé yo oubyen pou chanjé yo\nAn paralèl a tretman spécifik kon anxyolitik oubyen antidépresè, kot preskripsion-an bizwen on diskisyon èvè pratikan référan an é, si posib, on sikyat, sé posib fè pran an chaj tip psikoterapi\nPran an chaj spécifikman pwoblèm psikolojik (coaching santé, tretman médikaman, psikoterapi)\nEvité dezosyalizasyon : limité lopitalizasyon ; travayé, sòti, aimé.\nYo démontré ki terapi brè ki asé sou chaché solisyon efikas an ka fatig asosyé èvè MICI menm si efè pozitif-la ka sanm...\nFè spòt : nenpot ki aktivité, mé fè’y régilyèman, an reprann pwogresivman,",
+    "source_id": "image:02ce5191afb0549a:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:48:56.523428+00:00",
+    "source_text_sha256": "d04707a4d074026029b5f94b36447e92684210afee03c960a5d1cf65fd0dc584"
+  }
+}

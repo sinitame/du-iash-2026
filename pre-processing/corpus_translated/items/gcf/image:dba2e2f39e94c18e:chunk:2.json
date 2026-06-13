@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "0d39ae2cb4882411fdb6b440d7a09bbf46e1afb617ecfe0289a13f8c913e842a",
+  "translated_at": "2026-06-10T20:50:28.507333+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pratikman tout malad ki ni Crohnou osinon recto-colite hémorragique ké bizwen, adan on pwen antan maladi-a, yonn hospitalizasyion nésésè. An plizé ka, i pé—é i dwet—préparé sa pou évité ni jéré konplikasyon osinon pwoblèm adan moman kot sé pli enpòtan sé gadé konfò moral la, menm si i ni on malèz fizik kozé pa lopitalizasyion-an.\n\nL’afa ka disponib pou tout lenfòmasyon : O 811 091 623 (lendi asi vandredi dé 14h a 18h) oswa info-accueil@afa.asso.fr\nSanté Info Droits, liy jiridik é sosyal CISS : O 810 004 333 (lendi, mèkredi é vandredi dé 14h a 18h / madi é jedi dé 14h a 20h)\n\nMoun konfyans la :\nLè on moun ka fè on hospitalizasyion adan on établesman lasanté, yo ka pwopoze malad-la désigné on moun konfyans. Moun konfyans-la pé ésé on paran, on pwohès osinon doktè ki swen-an. Yo ké konsilté li, pa egzamp, si malad-la pa kapav exprimé volonte-y é pa kapav resevwa lenfòmasyon ki rété nécesè. Dézignanasyon sa fèt an ekri. Dézignanasyon sa valab pandan tout tan hospitalizasyion-an, sòf si malad-la di otreman.",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:2:gcf",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 2,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Pratikman tout malad ki ni Crohnou osinon recto-colite hémorragique ké bizwen, adan on pwen antan maladi-a, yonn hospitalizasyion nésésè. An plizé ka, i pé—é i dwet—préparé sa pou évité ni jéré konplikasyon osinon pwoblèm adan moman kot sé pli enpòtan sé gadé konfò moral la, menm si i ni on malèz fizik kozé pa lopitalizasyion-an.\n\nL’afa ka disponib pou tout lenfòmasyon : O 811 091 623 (lendi asi vandredi dé 14h a 18h) oswa info-accueil@afa.asso.fr\nSanté Info Droits, liy jiridik é sosyal CISS : O 810 004 333 (lendi, mèkredi é vandredi dé 14h a 18h / madi é jedi dé 14h a 20h)\n\nMoun konfyans la :\nLè on moun ka fè on hospitalizasyion adan on établesman lasanté, yo ka pwopoze malad-la désigné on moun konfyans. Moun konfyans-la pé ésé on paran, on pwohès osinon doktè ki swen-an. Yo ké konsilté li, pa egzamp, si malad-la pa kapav exprimé volonte-y é pa kapav resevwa lenfòmasyon ki rété nécesè. Dézignanasyon sa fèt an ekri. Dézignanasyon sa valab pandan tout tan hospitalizasyion-an, sòf si malad-la di otreman.",
+    "source_id": "image:dba2e2f39e94c18e:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:28.507333+00:00",
+    "source_text_sha256": "0d39ae2cb4882411fdb6b440d7a09bbf46e1afb617ecfe0289a13f8c913e842a"
+  }
+}

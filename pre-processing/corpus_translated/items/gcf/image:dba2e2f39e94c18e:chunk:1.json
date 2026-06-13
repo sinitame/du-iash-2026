@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:dba2e2f39e94c18e:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "2f7751cd925e0d2d072e64dbff243b5f2ce747660f4060d3834b253db59cdc97",
+  "translated_at": "2026-06-10T20:50:42.923289+00:00",
+  "model": "gpt-5-mini",
+  "text": "> Fè fanmiw é moun ki pré a-w sav é ba yo pli bon enfòmasyon posib, yo savman préokipé ; pran prèvon pou enfòmé yo pandan tout tan lopitalizasyon-an\n2 Préviné patwon ou\n> Préviné lékol la si sa néssésè (paran oben timoun ki lopitalizé)\n> Prévwa arrosé plant-la, gadé on bèt, ranmase lèt la é téni kay ou pwòp é aéré …\n> Kòm lopital-la sé on plas koté lavi ka fèt an plizyè, fè atansyon a bagay valè ou …\n> Kontinyé péti plézi-w adan lopital-la : thé préféréd-w, on radyo pou nouvèl, oben kas pou mizik-ou, liv, lenj dòmi ou pou twalèt … pansé aménajé espas person-\nnel-w, byen-sir an respè règl hospi-\ntaliè é pou bon vwazinajé lòt malad.\n\n2/ Préparé séjou a\n\n[Les\n\nAnlo sit é fim disponib asi entènèt : tape \"préparé lopitalizasyon-w\" asi on motè réchèch. An plis, sit entènèt lopital/klinik nou an ké ofri-w osi pou fasilité démarch yo.\n\nO3\n\nLOPITALIZASYON",
+  "row": {
+    "id": "image:dba2e2f39e94c18e:chunk:1:gcf",
+    "document_id": "image:dba2e2f39e94c18e",
+    "chunk_index": 1,
+    "source_file": "vivre_mici_hospitalisation.png",
+    "source_path": "/data/equipes/equipe-04/images/vivre_mici_hospitalisation.png",
+    "text_path": "corpus/texts/images/vivre_mici_hospitalisation.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "> Fè fanmiw é moun ki pré a-w sav é ba yo pli bon enfòmasyon posib, yo savman préokipé ; pran prèvon pou enfòmé yo pandan tout tan lopitalizasyon-an\n2 Préviné patwon ou\n> Préviné lékol la si sa néssésè (paran oben timoun ki lopitalizé)\n> Prévwa arrosé plant-la, gadé on bèt, ranmase lèt la é téni kay ou pwòp é aéré …\n> Kòm lopital-la sé on plas koté lavi ka fèt an plizyè, fè atansyon a bagay valè ou …\n> Kontinyé péti plézi-w adan lopital-la : thé préféréd-w, on radyo pou nouvèl, oben kas pou mizik-ou, liv, lenj dòmi ou pou twalèt … pansé aménajé espas person-\nnel-w, byen-sir an respè règl hospi-\ntaliè é pou bon vwazinajé lòt malad.\n\n2/ Préparé séjou a\n\n[Les\n\nAnlo sit é fim disponib asi entènèt : tape \"préparé lopitalizasyon-w\" asi on motè réchèch. An plis, sit entènèt lopital/klinik nou an ké ofri-w osi pou fasilité démarch yo.\n\nO3\n\nLOPITALIZASYON",
+    "source_id": "image:dba2e2f39e94c18e:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:50:42.923289+00:00",
+    "source_text_sha256": "2f7751cd925e0d2d072e64dbff243b5f2ce747660f4060d3834b253db59cdc97"
+  }
+}

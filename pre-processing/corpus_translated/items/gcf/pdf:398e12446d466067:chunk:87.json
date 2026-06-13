@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:87",
+  "target_language": "gcf",
+  "source_text_sha256": "fce1d4909c9763c5b8a5d177e9a11f1e804e689379fdac74b8f861afcda1b869",
+  "translated_at": "2026-06-10T21:08:01.367628+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Paj 18 ---\n194\nSenk pwen fò\n●\tEvalyasyon kwasans an wotè é pwa é dévlopman puberté sé on pati entyè pwosesis dyagnostik-la é i enpòtan pou swivi répons tretman-an.\n●\tMICI ki parèt trè bonè avan 6 an ka mandé fè dépistaj pou déficit imunitaire é chaché on koz monojénik.\n●\tDemann pou egzamen adisyonèl, espesyalman radyolojik, ka mandé réfléksyon asou envasivite ekzamen yo é asou répètisyon yo adan tan.\n●\tNitrisyon entéral eksklizif sé on tretman d’indiksyon privilégié pou maladi Crohn an pédiatri. Anpil altènativ terapéutik pou MICI pa ni AMM an pédiatri. Chak molécule bizwen sèvi adan fason optimal é adan bon indikasyon avan pansé fè on chanjman tretman.\n●\tTransisyon ant pédyat é adilt sé on etap majè nan parkou medikal pasyan-an, aboutisman on préparasyon ki fèt an avans é rijid.",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:87:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 87,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "--- Paj 18 ---\n194\nSenk pwen fò\n●\tEvalyasyon kwasans an wotè é pwa é dévlopman puberté sé on pati entyè pwosesis dyagnostik-la é i enpòtan pou swivi répons tretman-an.\n●\tMICI ki parèt trè bonè avan 6 an ka mandé fè dépistaj pou déficit imunitaire é chaché on koz monojénik.\n●\tDemann pou egzamen adisyonèl, espesyalman radyolojik, ka mandé réfléksyon asou envasivite ekzamen yo é asou répètisyon yo adan tan.\n●\tNitrisyon entéral eksklizif sé on tretman d’indiksyon privilégié pou maladi Crohn an pédiatri. Anpil altènativ terapéutik pou MICI pa ni AMM an pédiatri. Chak molécule bizwen sèvi adan fason optimal é adan bon indikasyon avan pansé fè on chanjman tretman.\n●\tTransisyon ant pédyat é adilt sé on etap majè nan parkou medikal pasyan-an, aboutisman on préparasyon ki fèt an avans é rijid.",
+    "source_id": "pdf:398e12446d466067:chunk:87",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:08:01.367628+00:00",
+    "source_text_sha256": "fce1d4909c9763c5b8a5d177e9a11f1e804e689379fdac74b8f861afcda1b869"
+  }
+}

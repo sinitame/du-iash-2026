@@ -1,0 +1,11 @@
+{
+  "id": "image:b620cbf2bdce20a7",
+  "status": "done",
+  "source_file": "absences_pour_soins_medicaux.png",
+  "source_path": "/data/equipes/equipe-04/images/absences_pour_soins_medicaux.png",
+  "text_path": "corpus/texts/images/absences_pour_soins_medicaux.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "b620cbf2bdce20a7b2c69f8fb2f26ce978565b70fa6b1a20bf0e943babd82d81",
+  "created_at": "2026-06-10T16:25:19.711258+00:00"
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:05807ec7742bc2af:chunk:8",
+  "target_language": "en",
+  "source_text_sha256": "bf07bf81b0f21342088707600b0408f95493e03bd2030d0205f2199122067711",
+  "translated_at": "2026-06-10T20:45:39.785991+00:00",
+  "model": "gpt-5-mini",
+  "text": "t, maybe chickens. Here we go. I don't have your joltes. For that, I'm going to suggest now, in Spiré, again, by the mes. You will quietly raise some people to the horizontage, you will contract.\n\nSome guises émouler.\n\nAnd if you can, you'll try to bring your feet a little toward three. You will do put in take the back, you have a gentle, and when we have some, you the most gently possible. You will reposition your feet. And we have please on the floor, this time we will evoke the concept of your tour, all this release, so times. Maybe some mires at wells, under your vacillés, maybe a better awareness of your people. You live to leave to bring back, it was that of artillery, I invite you quietly now. You will inhale, you rest the done beautiful. You will try to lift your arms vertically and lift your people to the horizontage. And you will inhale and you will try as gently as possible. You will inhale, you will contract all the areas of your body, your face, your contenu, your arms, your thorac. The tone turns, your abdomen the softest, so much anger at a distance. Do not, you be quick under the soft. And it's the pipes, it's the hands l",
+  "row": {
+    "id": "video:05807ec7742bc2af:chunk:8:en",
+    "document_id": "video:05807ec7742bc2af",
+    "chunk_index": 8,
+    "source_file": "3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.mp4",
+    "text_path": "corpus/texts/videos/3edeb0dba75886151dcffafe7bb73adad21cc1aa.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "t, maybe chickens. Here we go. I don't have your joltes. For that, I'm going to suggest now, in Spiré, again, by the mes. You will quietly raise some people to the horizontage, you will contract.\n\nSome guises émouler.\n\nAnd if you can, you'll try to bring your feet a little toward three. You will do put in take the back, you have a gentle, and when we have some, you the most gently possible. You will reposition your feet. And we have please on the floor, this time we will evoke the concept of your tour, all this release, so times. Maybe some mires at wells, under your vacillés, maybe a better awareness of your people. You live to leave to bring back, it was that of artillery, I invite you quietly now. You will inhale, you rest the done beautiful. You will try to lift your arms vertically and lift your people to the horizontage. And you will inhale and you will try as gently as possible. You will inhale, you will contract all the areas of your body, your face, your contenu, your arms, your thorac. The tone turns, your abdomen the softest, so much anger at a distance. Do not, you be quick under the soft. And it's the pipes, it's the hands l",
+    "source_id": "video:05807ec7742bc2af:chunk:8",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:45:39.785991+00:00",
+    "source_text_sha256": "bf07bf81b0f21342088707600b0408f95493e03bd2030d0205f2199122067711"
+  }
+}

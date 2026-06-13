@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:84e4c5ee89a4d55a:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "4cec9dab5f08cab00e658bd4fb7dc414b394f0dadb3ac7454a7b50d87a0284ec",
+  "translated_at": "2026-06-10T20:47:09.264237+00:00",
+  "model": "gpt-5-mini",
+  "text": "In a child or an adult, you can see bone pain. Inflammatory bone diseases actually cause demineralization, and this can lead to vertebral compression fractures. So if you have bone pain, it’s not just because the backpack is too heavy. You should talk about it and have an X‑ray to make sure the disease hasn’t caused a vertebral compression fracture. There can also be other bone manifestations, for example in the jaw, the sternum, or the clavicle. This is called chronic recurrent multifocal osteomyelitis. If there are pains all over like that, you should also speak with a gastroenterologist; they will do routine tests to check the digestive tract. So overall, the message is to talk about it, to say something, and not to dismiss it by saying “it’s just the backpack” or “it’s nothing.”",
+  "row": {
+    "id": "video:84e4c5ee89a4d55a:chunk:1:en",
+    "document_id": "video:84e4c5ee89a4d55a",
+    "chunk_index": 1,
+    "source_file": "cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "text_path": "corpus/texts/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "In a child or an adult, you can see bone pain. Inflammatory bone diseases actually cause demineralization, and this can lead to vertebral compression fractures. So if you have bone pain, it’s not just because the backpack is too heavy. You should talk about it and have an X‑ray to make sure the disease hasn’t caused a vertebral compression fracture. There can also be other bone manifestations, for example in the jaw, the sternum, or the clavicle. This is called chronic recurrent multifocal osteomyelitis. If there are pains all over like that, you should also speak with a gastroenterologist; they will do routine tests to check the digestive tract. So overall, the message is to talk about it, to say something, and not to dismiss it by saying “it’s just the backpack” or “it’s nothing.”",
+    "source_id": "video:84e4c5ee89a4d55a:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:09.264237+00:00",
+    "source_text_sha256": "4cec9dab5f08cab00e658bd4fb7dc414b394f0dadb3ac7454a7b50d87a0284ec"
+  }
+}

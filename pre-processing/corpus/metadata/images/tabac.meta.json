@@ -1,0 +1,11 @@
+{
+  "id": "image:5728a2c9f75dc554",
+  "status": "done",
+  "source_file": "tabac.png",
+  "source_path": "/data/equipes/equipe-04/images/tabac.png",
+  "text_path": "corpus/texts/images/tabac.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "5728a2c9f75dc554b3e2b4d95840f6eb16bcbbde2292b0630b100b48636e1e38",
+  "created_at": "2026-06-10T16:25:51.912576+00:00"
+}

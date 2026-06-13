@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4bfc1f82dd0940c0:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "bb56921a7d35f7891b3bd69356571cdce04b2d7afc4479a3e9cdb620747ea0bb",
+  "translated_at": "2026-06-10T20:46:42.172521+00:00",
+  "model": "gpt-5-mini",
+  "text": "treatment given to you at home or by infusion in hospital. Finally, it is also possible to follow a special diet that can be as effective as a maintenance treatment. Other medicines can also calm the pain and help you heal. When medicines don't work, or your intestine is too damaged, it is sometimes necessary to have surgery. It is often very effective, even if it is not always definitive. For example, when two organs are connected to each other when they shouldn't be, which is called a fistula, or when a part of the digestive tract is narrowed, which is called a stricture (stenosis). The surgeon then removes the diseased parts during surgery. Sometimes the intestine is connected to the skin; this is called a stoma. It is generally covered by a plastic pouch. To know whether the medicines are working and whether the disease is active, you need to have medical tests regularly. Ultrasound, which allows seeing inside the body using an ultrasound probe that is placed on your belly. Fecal calprotectin, which allows examining your stools to assess the level of inflammation in your intestine.",
+  "row": {
+    "id": "video:4bfc1f82dd0940c0:chunk:1:en",
+    "document_id": "video:4bfc1f82dd0940c0",
+    "chunk_index": 1,
+    "source_file": "9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.mp4",
+    "text_path": "corpus/texts/videos/9aaebab97d9615168038dd7f7f52dba7897b936b.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "treatment given to you at home or by infusion in hospital. Finally, it is also possible to follow a special diet that can be as effective as a maintenance treatment. Other medicines can also calm the pain and help you heal. When medicines don't work, or your intestine is too damaged, it is sometimes necessary to have surgery. It is often very effective, even if it is not always definitive. For example, when two organs are connected to each other when they shouldn't be, which is called a fistula, or when a part of the digestive tract is narrowed, which is called a stricture (stenosis). The surgeon then removes the diseased parts during surgery. Sometimes the intestine is connected to the skin; this is called a stoma. It is generally covered by a plastic pouch. To know whether the medicines are working and whether the disease is active, you need to have medical tests regularly. Ultrasound, which allows seeing inside the body using an ultrasound probe that is placed on your belly. Fecal calprotectin, which allows examining your stools to assess the level of inflammation in your intestine.",
+    "source_id": "video:4bfc1f82dd0940c0:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:42.172521+00:00",
+    "source_text_sha256": "bb56921a7d35f7891b3bd69356571cdce04b2d7afc4479a3e9cdb620747ea0bb"
+  }
+}

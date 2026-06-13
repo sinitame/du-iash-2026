@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:c002376e5fff0ea6:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "62474ba248b5e8f5c6cafb7549df0dac3dae3c33b3601b4ddd3ebe21bf33889f",
+  "translated_at": "2026-06-10T20:37:53.033120+00:00",
+  "model": "gpt-5-mini",
+  "text": "In France (children and adults) live with Crohn's disease or ulcerative colitis\n(UC). 20% are children.\n\nIt is not a contagious disease and significant progress has been made to better understand the\ncauses of this disease. We now know that there are\ngenetic and external factors, such as\nthe environment. It is not caused by any particular\nfood. And it is not because you are\nanxious or nervous that you are sick.\n\nI",
+  "row": {
+    "id": "image:c002376e5fff0ea6:chunk:1:en",
+    "document_id": "image:c002376e5fff0ea6",
+    "chunk_index": 1,
+    "source_file": "questions_enfant.png",
+    "source_path": "/data/equipes/equipe-04/images/questions_enfant.png",
+    "text_path": "corpus/texts/images/questions_enfant.txt",
+    "modality": "image",
+    "language": "en",
+    "text": "In France (children and adults) live with Crohn's disease or ulcerative colitis\n(UC). 20% are children.\n\nIt is not a contagious disease and significant progress has been made to better understand the\ncauses of this disease. We now know that there are\ngenetic and external factors, such as\nthe environment. It is not caused by any particular\nfood. And it is not because you are\nanxious or nervous that you are sick.\n\nI",
+    "source_id": "image:c002376e5fff0ea6:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:37:53.033120+00:00",
+    "source_text_sha256": "62474ba248b5e8f5c6cafb7549df0dac3dae3c33b3601b4ddd3ebe21bf33889f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:35",
+  "target_language": "gcf",
+  "source_text_sha256": "3de7519b7ae5c769b16492e040432159bcd855363e3a7df5c4fde8086451c631",
+  "translated_at": "2026-06-10T20:53:50.001890+00:00",
+  "model": "gpt-5-mini",
+  "text": "re vs polymérique) ou de la voie d’ad-\nministrasyon (oral vs sond nasogastrik) (63,67). An pratik, on sipò sikolojik é dyetetik sé fòman konsiyé (68).\nKortikostewoyid\nLè NEE pa posib ousa apré on échek itilizasyon li-a (2 à 4 simenn), kortiko-\nstewoyid sistémik sé on altènativ ki chwazi. Dòz inisyèl prednisolon dépan asi pwa kò (1 mg/kg, maksimòm 40 mg) é i dwé diminnyé pwogresivman dès ki rémisyon klinik atenn, an plis ta pa pli di 4 simenn apré kòmansman tretman-an. Adan ka on atak iléo-cæcal léjè [L1], si NEE pa asé efikas, tretman ak budésonid a libérasyon iléal pli préféyab ki prednisolon. Pou pasyan ki plis ki 40 kg, dòz inisyèl budésonid sé 9 mg on fwa pa jou pandan 6 simenn, apré i diminnyé kon sa : 6 mg on fwa pa jou pandan 2 simenn, apré 3 mg on fwa pa jou pandan 2 simenn. Yo rekomandé budésonid pou atak iléo-cæcal lokalizé (69,70). Itilizasyon kortikostewoyid dwé rete limité, konsidré efè endezirab (sendwòm de",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:35:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 35,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "re vs polymérique) ou de la voie d’ad-\nministrasyon (oral vs sond nasogastrik) (63,67). An pratik, on sipò sikolojik é dyetetik sé fòman konsiyé (68).\nKortikostewoyid\nLè NEE pa posib ousa apré on échek itilizasyon li-a (2 à 4 simenn), kortiko-\nstewoyid sistémik sé on altènativ ki chwazi. Dòz inisyèl prednisolon dépan asi pwa kò (1 mg/kg, maksimòm 40 mg) é i dwé diminnyé pwogresivman dès ki rémisyon klinik atenn, an plis ta pa pli di 4 simenn apré kòmansman tretman-an. Adan ka on atak iléo-cæcal léjè [L1], si NEE pa asé efikas, tretman ak budésonid a libérasyon iléal pli préféyab ki prednisolon. Pou pasyan ki plis ki 40 kg, dòz inisyèl budésonid sé 9 mg on fwa pa jou pandan 6 simenn, apré i diminnyé kon sa : 6 mg on fwa pa jou pandan 2 simenn, apré 3 mg on fwa pa jou pandan 2 simenn. Yo rekomandé budésonid pou atak iléo-cæcal lokalizé (69,70). Itilizasyon kortikostewoyid dwé rete limité, konsidré efè endezirab (sendwòm de",
+    "source_id": "pdf:398e12446d466067:chunk:35",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:53:50.001890+00:00",
+    "source_text_sha256": "3de7519b7ae5c769b16492e040432159bcd855363e3a7df5c4fde8086451c631"
+  }
+}

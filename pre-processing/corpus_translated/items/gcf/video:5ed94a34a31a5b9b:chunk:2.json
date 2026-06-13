@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:5ed94a34a31a5b9b:chunk:2",
+  "target_language": "gcf",
+  "source_text_sha256": "1b29a95b9d1d9739dae42ccc3f32929b3c09f07c7400b9d37e03cf5f29f5acb3",
+  "translated_at": "2026-06-10T21:12:31.656079+00:00",
+  "model": "gpt-5-mini",
+  "text": "Pa sòti adan manjé ultra-transformé, pa sòti adan kèk médikaman, ni pa sòti adan lòt faktè kon tabak oswa polisyon. Nou sav osi sé pa kontajé, pa éredité, ni pa paské on manjé an patikilyé. An Frans, anviron 300 000 moun ka viv épi maladi-tala é 15% an yo sé timoun. Chak lanné, plis ousa mwens 8 000 nouvo ka yo diagnostiké. Ou toujou ka posé kèsyon asi maladi-w? Alò, gadé lòt vidéo nan séri Les Modes Vintres pou édé-w pli byen konprann Mickey-la é dé difikilté ou ka jwenn chak jou. Konprann maladi-w é tretman-w, sé pli bon mwayen pou gadé moral-w é bat pou alé byen.",
+  "row": {
+    "id": "video:5ed94a34a31a5b9b:chunk:2:gcf",
+    "document_id": "video:5ed94a34a31a5b9b",
+    "chunk_index": 2,
+    "source_file": "01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/01a48596903fd751890c2e16f7326a4abfd0359f.mp4",
+    "text_path": "corpus/texts/videos/01a48596903fd751890c2e16f7326a4abfd0359f.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Pa sòti adan manjé ultra-transformé, pa sòti adan kèk médikaman, ni pa sòti adan lòt faktè kon tabak oswa polisyon. Nou sav osi sé pa kontajé, pa éredité, ni pa paské on manjé an patikilyé. An Frans, anviron 300 000 moun ka viv épi maladi-tala é 15% an yo sé timoun. Chak lanné, plis ousa mwens 8 000 nouvo ka yo diagnostiké. Ou toujou ka posé kèsyon asi maladi-w? Alò, gadé lòt vidéo nan séri Les Modes Vintres pou édé-w pli byen konprann Mickey-la é dé difikilté ou ka jwenn chak jou. Konprann maladi-w é tretman-w, sé pli bon mwayen pou gadé moral-w é bat pou alé byen.",
+    "source_id": "video:5ed94a34a31a5b9b:chunk:2",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:12:31.656079+00:00",
+    "source_text_sha256": "1b29a95b9d1d9739dae42ccc3f32929b3c09f07c7400b9d37e03cf5f29f5acb3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:9f17032ca0f984f3:chunk:1",
+  "target_language": "en",
+  "source_text_sha256": "14a48353d0a7152f47720c5dc080973c8e04872f77a7af4255c1325ac6f3ff5a",
+  "translated_at": "2026-06-10T20:46:17.318522+00:00",
+  "model": "gpt-5-mini",
+  "text": "a summer without your parents, but you can bring friends of your choice. It's a great time to learn to manage your illness and make new friends. To help you better understand and manage your illness, some hospitals offer patient therapeutic education programs, also called ETP. La faf also offers the Micado program, online workshops organized during the school holidays. These small-group workshops let you share with other teens with the same illness and get information and tips and tricks to feel better. Finally, you may sometimes miss class. La faf therefore offers the brochure Ma Miki au Baï, which you can give to your teachers to explain the illness and more easily catch up on lessons. La faf is there to help you if you have questions, if you feel alone, or if you want to meet other children who have a Miki. Do you still have questions about your illness? Then watch the other videos in the Les Modes Vintres series to help you better understand Miki and the difficulties you face every day. Understanding your illness is your treatment, it's the best way to keep",
+  "row": {
+    "id": "video:9f17032ca0f984f3:chunk:1:en",
+    "document_id": "video:9f17032ca0f984f3",
+    "chunk_index": 1,
+    "source_file": "810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.mp4",
+    "text_path": "corpus/texts/videos/810cc7a6463e162c45324517b2c3e647d96ca82c.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "a summer without your parents, but you can bring friends of your choice. It's a great time to learn to manage your illness and make new friends. To help you better understand and manage your illness, some hospitals offer patient therapeutic education programs, also called ETP. La faf also offers the Micado program, online workshops organized during the school holidays. These small-group workshops let you share with other teens with the same illness and get information and tips and tricks to feel better. Finally, you may sometimes miss class. La faf therefore offers the brochure Ma Miki au Baï, which you can give to your teachers to explain the illness and more easily catch up on lessons. La faf is there to help you if you have questions, if you feel alone, or if you want to meet other children who have a Miki. Do you still have questions about your illness? Then watch the other videos in the Les Modes Vintres series to help you better understand Miki and the difficulties you face every day. Understanding your illness is your treatment, it's the best way to keep",
+    "source_id": "video:9f17032ca0f984f3:chunk:1",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:46:17.318522+00:00",
+    "source_text_sha256": "14a48353d0a7152f47720c5dc080973c8e04872f77a7af4255c1325ac6f3ff5a"
+  }
+}

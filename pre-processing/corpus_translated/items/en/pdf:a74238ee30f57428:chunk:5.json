@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:5",
+  "target_language": "en",
+  "source_text_sha256": "d0cced9ef752689a815ced387469dad8b885d4104269d50bec5845499d72d385",
+  "translated_at": "2026-06-10T20:43:08.196022+00:00",
+  "model": "gpt-5-mini",
+  "text": "cutaneous, ocular\nor hepatic. All these manifestations are generally\nnot serious.\nDO CHILDREN RECOVER FROM THIS DISEASE?\nThese are chronic diseases that can\npersist for a long time but to varying degrees. Children\nand adults have long periods of remission\nwithout signs of the disease. Most patients\nhave only moderate involvement well controlled\nby treatment. These diseases are not life-threatening. In Crohn’s disease if a child should\never need to undergo surgery this can lead to a prolonged remission but\nit is not the definitive treatment of the disease.\nIn contrast, in UC, surgery can be\ncurative [(coloprotectomy (removal of the colon and\nrectum)].\nCAN MY CHILD BE MANAGED BY MY\nFAMILY DOCTOR OR BY A SPECIALIST?\nIt is reasonable to consult a pediatrician specialized\nin gastroenterology (intestinal specialist). This\nspecialist is trained to manage this kind\nof problem and is connected with a team\ncapable of providing all the care and examinations\n(endoscopy, surgery). Most Pediatrics departments will be able, either to take charge of the child, so",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:5:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 5,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "cutaneous, ocular\nor hepatic. All these manifestations are generally\nnot serious.\nDO CHILDREN RECOVER FROM THIS DISEASE?\nThese are chronic diseases that can\npersist for a long time but to varying degrees. Children\nand adults have long periods of remission\nwithout signs of the disease. Most patients\nhave only moderate involvement well controlled\nby treatment. These diseases are not life-threatening. In Crohn’s disease if a child should\never need to undergo surgery this can lead to a prolonged remission but\nit is not the definitive treatment of the disease.\nIn contrast, in UC, surgery can be\ncurative [(coloprotectomy (removal of the colon and\nrectum)].\nCAN MY CHILD BE MANAGED BY MY\nFAMILY DOCTOR OR BY A SPECIALIST?\nIt is reasonable to consult a pediatrician specialized\nin gastroenterology (intestinal specialist). This\nspecialist is trained to manage this kind\nof problem and is connected with a team\ncapable of providing all the care and examinations\n(endoscopy, surgery). Most Pediatrics departments will be able, either to take charge of the child, so",
+    "source_id": "pdf:a74238ee30f57428:chunk:5",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:08.196022+00:00",
+    "source_text_sha256": "d0cced9ef752689a815ced387469dad8b885d4104269d50bec5845499d72d385"
+  }
+}

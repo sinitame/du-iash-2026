@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:67",
+  "target_language": "en",
+  "source_text_sha256": "be8c5dfbc66e4de94ab4a1f0829bd7ea6849c97b767d696bc2503815309cc713",
+  "translated_at": "2026-06-10T20:42:03.852431+00:00",
+  "model": "gpt-5-mini",
+  "text": "the IBD Porto Group of \nESPGHAN. Inflamm Bowel Dis. 2016; 22:1908-1914.\n37.\t \u0007Koninckx CR, Donat E, Benninga M, et al. The use of fecal \ncalprotectin testing in paediatric disorders: A position paper \nof the European Society for Paediatric Gastroenterology and \nNutrition Gastroenterology Committee. J Pediatr Gastroenterol \nNutr. 2021;72:617-640.\n38.\t \u0007Kellar A, Dolinger M, Novak KL, et al. Intestinal ultrasound for the \npediatric gastroenterologist: a guide for inflammatory bowel \ndisease monitoring in children. Expert Consensus on behalf \nof the International Bowel Ultrasound Group (IBUS) Pediatric \nCommittee. J Pediatr Gastroenterol Nutr. 2022;176:142-148.\n39.\t \u0007Hoerning A, Jüngert J, Siebenlist G, et al. Ultrasound in pediatric \ninflammatory bowel disease – A review of the state of the art \nand future perspectives. Children. 2024;11:156.\n40.\t \u0007Oliva S, Thomson M, de Ridder L, et al. Endoscopy in pediatric \ninflammatory bowel disease: A Position Paper on behalf of the \nPorto IBD Group of the European Society for Paediatric Gastro-\nenterology, Hepatology and Nutrition. J Pediatr Gastroenterol \nNutr. 2018; 67:414-430.\n41.\t \u0007Levine A, Koletzko S, Turner D, et al. ESPGHAN revised Por",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:67:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 67,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "the IBD Porto Group of \nESPGHAN. Inflamm Bowel Dis. 2016; 22:1908-1914.\n37.\t \u0007Koninckx CR, Donat E, Benninga M, et al. The use of fecal \ncalprotectin testing in paediatric disorders: A position paper \nof the European Society for Paediatric Gastroenterology and \nNutrition Gastroenterology Committee. J Pediatr Gastroenterol \nNutr. 2021;72:617-640.\n38.\t \u0007Kellar A, Dolinger M, Novak KL, et al. Intestinal ultrasound for the \npediatric gastroenterologist: a guide for inflammatory bowel \ndisease monitoring in children. Expert Consensus on behalf \nof the International Bowel Ultrasound Group (IBUS) Pediatric \nCommittee. J Pediatr Gastroenterol Nutr. 2022;176:142-148.\n39.\t \u0007Hoerning A, Jüngert J, Siebenlist G, et al. Ultrasound in pediatric \ninflammatory bowel disease – A review of the state of the art \nand future perspectives. Children. 2024;11:156.\n40.\t \u0007Oliva S, Thomson M, de Ridder L, et al. Endoscopy in pediatric \ninflammatory bowel disease: A Position Paper on behalf of the \nPorto IBD Group of the European Society for Paediatric Gastro-\nenterology, Hepatology and Nutrition. J Pediatr Gastroenterol \nNutr. 2018; 67:414-430.\n41.\t \u0007Levine A, Koletzko S, Turner D, et al. ESPGHAN revised Por",
+    "source_id": "pdf:398e12446d466067:chunk:67",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:03.852431+00:00",
+    "source_text_sha256": "be8c5dfbc66e4de94ab4a1f0829bd7ea6849c97b767d696bc2503815309cc713"
+  }
+}

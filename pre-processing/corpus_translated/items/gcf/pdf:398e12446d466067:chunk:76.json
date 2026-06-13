@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:76",
+  "target_language": "gcf",
+  "source_text_sha256": "5e970a706e90da74a2a46b2261141f3f40fddb40a26d6da057ccfd65e2870811",
+  "translated_at": "2026-06-10T21:06:48.032900+00:00",
+  "model": "gpt-5-mini",
+  "text": "inter DA, Joosse ME, de Wildt SN, et al. Farmakokinétik, farmakodinamik é imunojénisite infliximab adan maladi entesten anflamatwa pou timoun: on revizyon sistematik é konsidérasyon pou réajisté dòz. J Pediatr Gastroenterol Nutr. 2020;70:763-76.\n80.\tLazzerini M, Martelossi S, Magazzù G, et al. Efékt thalidomide asou remisyon klinik adan timoun é adolesan ki ni Crohn réfrakté: on trial klinik randomizé. JAMA. 2013;310:2164-73.\n81.\tLazzerini M, Villanacci V, Pellegrin MC, et al. Gerizon endoskopik é istolojik adan timoun ki ni maladi entesten anflamatwa épi tretman thalidomide. Clin Gastroenterol Hepatol. 2017;15:1382-9.\n82.\tYang C, Singh P, Singh H, et al. Revizyon sistematik: thalidomide é analog thalidomide pou traitman maladi entesten anflamatwa. Aliment Pharmacol Ther. 2015;41:1079-93.\n83.\tColman RJ, Lawton RC, Dubinsky MC, Rubin DT. Methotrexate pou traitman Crohn adan timoun: on revizyon sistematik é on méta-analiz. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate pou jéré Crohn adan timoun. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S,",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:76:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 76,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "inter DA, Joosse ME, de Wildt SN, et al. Farmakokinétik, farmakodinamik é imunojénisite infliximab adan maladi entesten anflamatwa pou timoun: on revizyon sistematik é konsidérasyon pou réajisté dòz. J Pediatr Gastroenterol Nutr. 2020;70:763-76.\n80.\tLazzerini M, Martelossi S, Magazzù G, et al. Efékt thalidomide asou remisyon klinik adan timoun é adolesan ki ni Crohn réfrakté: on trial klinik randomizé. JAMA. 2013;310:2164-73.\n81.\tLazzerini M, Villanacci V, Pellegrin MC, et al. Gerizon endoskopik é istolojik adan timoun ki ni maladi entesten anflamatwa épi tretman thalidomide. Clin Gastroenterol Hepatol. 2017;15:1382-9.\n82.\tYang C, Singh P, Singh H, et al. Revizyon sistematik: thalidomide é analog thalidomide pou traitman maladi entesten anflamatwa. Aliment Pharmacol Ther. 2015;41:1079-93.\n83.\tColman RJ, Lawton RC, Dubinsky MC, Rubin DT. Methotrexate pou traitman Crohn adan timoun: on revizyon sistematik é on méta-analiz. Inflamm Bowel Dis. 2018;24:2135-41.\n84.\tScherkenbach LA, Stumpf JL. Methotrexate pou jéré Crohn adan timoun. Ann Pharmacother. 2016;50:60-9.\n85.\tLiu L, Liu S,",
+    "source_id": "pdf:398e12446d466067:chunk:76",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:06:48.032900+00:00",
+    "source_text_sha256": "5e970a706e90da74a2a46b2261141f3f40fddb40a26d6da057ccfd65e2870811"
+  }
+}

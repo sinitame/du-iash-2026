@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "image:9097897d79118962:chunk:1",
+  "target_language": "gcf",
+  "source_text_sha256": "300dcee533277ed7d4f0a2a42cfd2d7c79506176083e5e63cf0e6d15b56eb2e7",
+  "translated_at": "2026-06-10T20:49:17.185838+00:00",
+  "model": "gpt-5-mini",
+  "text": "Méthotrexate sé on médikaman ki pé mennen fatig an lè é pafwa an jou apré yo pran'y (pa vwa intramuskilè, sou-kutané oswá oral) ché on poursan pa néglijab pasyan.\nAdan kontrèman a Azathioprine oswá Purinethol, efè-la pa toujou diminnyé an tan é i pé ni bizwen entèwipsyon tretman-an. Més, désizyon-la pa pé pran san dakò pratiksyen an chaj, é i fo mété sa an balans èvè risk dégradasyon maladi-a.\n\nENPAK DES ANTI-TNE\nASOU FATIG\n\nAnpil etid montré ké anti-TNFa anmiyowé siyifikativman nòt fatig yo é nòt kalite lavi. I egziste osi kèk doné kontradiktwa ki trouv on exès fatig chés pasyan treté èvè anti-TNFa, mé sa pé rivé paské maladi-a té plis sevè é/oswá plis aktif.",
+  "row": {
+    "id": "image:9097897d79118962:chunk:1:gcf",
+    "document_id": "image:9097897d79118962",
+    "chunk_index": 1,
+    "source_file": "fatigue_traitement.png",
+    "source_path": "/data/equipes/equipe-04/images/fatigue_traitement.png",
+    "text_path": "corpus/texts/images/fatigue_traitement.txt",
+    "modality": "image",
+    "language": "gcf",
+    "text": "Méthotrexate sé on médikaman ki pé mennen fatig an lè é pafwa an jou apré yo pran'y (pa vwa intramuskilè, sou-kutané oswá oral) ché on poursan pa néglijab pasyan.\nAdan kontrèman a Azathioprine oswá Purinethol, efè-la pa toujou diminnyé an tan é i pé ni bizwen entèwipsyon tretman-an. Més, désizyon-la pa pé pran san dakò pratiksyen an chaj, é i fo mété sa an balans èvè risk dégradasyon maladi-a.\n\nENPAK DES ANTI-TNE\nASOU FATIG\n\nAnpil etid montré ké anti-TNFa anmiyowé siyifikativman nòt fatig yo é nòt kalite lavi. I egziste osi kèk doné kontradiktwa ki trouv on exès fatig chés pasyan treté èvè anti-TNFa, mé sa pé rivé paské maladi-a té plis sevè é/oswá plis aktif.",
+    "source_id": "image:9097897d79118962:chunk:1",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:49:17.185838+00:00",
+    "source_text_sha256": "300dcee533277ed7d4f0a2a42cfd2d7c79506176083e5e63cf0e6d15b56eb2e7"
+  }
+}

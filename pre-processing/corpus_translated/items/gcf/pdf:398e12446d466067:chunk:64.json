@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:64",
+  "target_language": "gcf",
+  "source_text_sha256": "f7777ca607f7ddf267364bad402ae85ea72d79078bd34198995b3ac12250c5b6",
+  "translated_at": "2026-06-10T20:55:24.412093+00:00",
+  "model": "gpt-5-mini",
+  "text": ". J Crohns Colitis 2022;16:1187-96.\n21.\tDe Silva PS, Olsen A, Christensen J, et al. On asosyasyon ant asid arakidonik dan dyèt la, mezuré adan tisi adipoz, é kolit ulcératif. Gastroenterology 2010;139:1912-7.\n22.\tJohn S, Luben R, Shrestha SS, et al. Asid gra poliansaturé n-3 ki dan dyèt la é etioloji kolit ulcératif : on etid kwohort prospektiv an UK. Eur J Gastroenterol Hepatol. 2010;22:602-6.\n23.\tLi F, Liu X, Wang W, et al. Konsomasyon legim é fwi é risk pou maladi entesten enfamatwa : on meta-analiz. Eur J Gastroenterol Hepatol. 2015;27:623-30.\n24.\tNarula N, Wong ECL, Dehghan M, et al. Asosyasyon ant konsomasyon manjé twòp pwosésé é risk maladi entesten enfamatwa : on etid kwohort prospektiv. BMJ. 2021;374:n1554.\n25.\tDel Pinto R, Pietropaoli D, Chandar AK, et al. Asosyasyon ant maladi entesten enfamatwa é defisyans Vitamin D : on revizyon sistematik é on meta-analiz. Inflamm Bowel Dis. 2015;21:2708-17.\n26.\tLedder O, Sonnino M, Birimberger-Schwartz L, et al. Evalyasyon kritè PIBD-classes : on validasyon plizye sant. J Crohn’s colitis. 2020;14:1672-1679.\n27.\tRicciuto A, Mack DR, Huynh HQ, et al. Dia",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:64:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 64,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": ". J Crohns Colitis 2022;16:1187-96.\n21.\tDe Silva PS, Olsen A, Christensen J, et al. On asosyasyon ant asid arakidonik dan dyèt la, mezuré adan tisi adipoz, é kolit ulcératif. Gastroenterology 2010;139:1912-7.\n22.\tJohn S, Luben R, Shrestha SS, et al. Asid gra poliansaturé n-3 ki dan dyèt la é etioloji kolit ulcératif : on etid kwohort prospektiv an UK. Eur J Gastroenterol Hepatol. 2010;22:602-6.\n23.\tLi F, Liu X, Wang W, et al. Konsomasyon legim é fwi é risk pou maladi entesten enfamatwa : on meta-analiz. Eur J Gastroenterol Hepatol. 2015;27:623-30.\n24.\tNarula N, Wong ECL, Dehghan M, et al. Asosyasyon ant konsomasyon manjé twòp pwosésé é risk maladi entesten enfamatwa : on etid kwohort prospektiv. BMJ. 2021;374:n1554.\n25.\tDel Pinto R, Pietropaoli D, Chandar AK, et al. Asosyasyon ant maladi entesten enfamatwa é defisyans Vitamin D : on revizyon sistematik é on meta-analiz. Inflamm Bowel Dis. 2015;21:2708-17.\n26.\tLedder O, Sonnino M, Birimberger-Schwartz L, et al. Evalyasyon kritè PIBD-classes : on validasyon plizye sant. J Crohn’s colitis. 2020;14:1672-1679.\n27.\tRicciuto A, Mack DR, Huynh HQ, et al. Dia",
+    "source_id": "pdf:398e12446d466067:chunk:64",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:55:24.412093+00:00",
+    "source_text_sha256": "f7777ca607f7ddf267364bad402ae85ea72d79078bd34198995b3ac12250c5b6"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:92721e9d64a6ed6b:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "5e6f7283f50b920212b5a23dd2667dc2b0b4ea6b79b07439c6b815e928e67b8b",
+  "translated_at": "2026-06-10T20:39:20.369305+00:00",
+  "model": "gpt-5-mini",
+  "text": "--- Page 1 ---\nWHAT EXACTLY IS IT?\nThe gut microbiota is a community of bacteria, viruses, parasites and fungi that are good for you and live in your intestine. They are essential for your body to work properly. And they alone make up between 1 and 3 kg of your weight!\n\nWHY IS THE MICROBIOTA SO IMPORTANT?\nYour microbiota plays several essential roles:\nIt helps digest certain foods that your digestive tract can't handle on its own.\nIt boosts your immune system and helps you fight microbes.\nIt influences your mood and your brain (because yes, your gut and your brain are connected!).\nIt helps you absorb the vitamins and minerals your body needs.\n\nCROHN'S DISEASE, ULCERATIVE COLITIS: WHAT'S THE CONNECTION WITH THE MICROBIOTA?\nSeveral researchers, supported by afa, are currently studying the microbiota and are interested in the role of our environment and our lifestyle on it. Indeed, each person has a microbiota that is unique. For example, it can depend on where they live, their diet, whether they exercise or not, and even whether they have a pet!\nIn case",
+  "row": {
+    "id": "pdf:92721e9d64a6ed6b:chunk:0:en",
+    "document_id": "pdf:92721e9d64a6ed6b",
+    "chunk_index": 0,
+    "source_file": "microbiote_intestinal.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/microbiote_intestinal.pdf",
+    "text_path": "corpus/texts/pdfs/microbiote_intestinal.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "--- Page 1 ---\nWHAT EXACTLY IS IT?\nThe gut microbiota is a community of bacteria, viruses, parasites and fungi that are good for you and live in your intestine. They are essential for your body to work properly. And they alone make up between 1 and 3 kg of your weight!\n\nWHY IS THE MICROBIOTA SO IMPORTANT?\nYour microbiota plays several essential roles:\nIt helps digest certain foods that your digestive tract can't handle on its own.\nIt boosts your immune system and helps you fight microbes.\nIt influences your mood and your brain (because yes, your gut and your brain are connected!).\nIt helps you absorb the vitamins and minerals your body needs.\n\nCROHN'S DISEASE, ULCERATIVE COLITIS: WHAT'S THE CONNECTION WITH THE MICROBIOTA?\nSeveral researchers, supported by afa, are currently studying the microbiota and are interested in the role of our environment and our lifestyle on it. Indeed, each person has a microbiota that is unique. For example, it can depend on where they live, their diet, whether they exercise or not, and even whether they have a pet!\nIn case",
+    "source_id": "pdf:92721e9d64a6ed6b:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:39:20.369305+00:00",
+    "source_text_sha256": "5e6f7283f50b920212b5a23dd2667dc2b0b4ea6b79b07439c6b815e928e67b8b"
+  }
+}

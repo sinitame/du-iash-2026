@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:10b4464f19434b45:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "15326366ce7d587b39fcd37819b3e0641df7c3e6bbabcaf8ef6d511eaaccb5c9",
+  "translated_at": "2026-06-10T21:19:15.215707+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Es-ke ou pé espliké mwen maladi Crohn-la ? Maladi-a, lè i sé on maladi inflamatwa kwonik adan entesten, sé on maladi ki ké bay anflamasyon, ki pé bay anflamasyon adan tout segment ki sòti adan bouch jis a anus, mè an fason segmanté é fokal, koté ké ni lésyon, épi zòn an sante, épi lésyon, épi zòn an sante, épi lésyon ki, klasman, yo ka kriyé transmural, sa vlé di i pé ase pwofon. Sé on maladi ki ni on pati jénétik, mè pati jénétik-la pa si enpòtan kon sa, i ka konte anviwon 10%, ki ké exprimé an fonksyon on anviwònman donné. Alò lanvironnman an jénéral sé an peyi endistriyalizé, an nò, épi on sèten kalite manjé, épi sé sa ka fè an entèraksyon épi mikrobiòt-la — sé tout bakteri nou ni adan kolon-an — ki itil a nou paskè dabitid nou viv an simbyoz épi yo ; an patikilyé yo ban nou vitamin ki enpòtan pou nou. Mé la, ké ni on désékilib ant mikrobiòt-la, i ké vin on ti dézékilib, ki ké indwi on réyaksyon iminitè ki pa adapté. Donk tout sa, sa ké kréyé u",
+  "row": {
+    "id": "video:10b4464f19434b45:chunk:0:gcf",
+    "document_id": "video:10b4464f19434b45",
+    "chunk_index": 0,
+    "source_file": "a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/a4257febb53401388f4c2156925cbd114de775e3.mp4",
+    "text_path": "corpus/texts/videos/a4257febb53401388f4c2156925cbd114de775e3.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Es-ke ou pé espliké mwen maladi Crohn-la ? Maladi-a, lè i sé on maladi inflamatwa kwonik adan entesten, sé on maladi ki ké bay anflamasyon, ki pé bay anflamasyon adan tout segment ki sòti adan bouch jis a anus, mè an fason segmanté é fokal, koté ké ni lésyon, épi zòn an sante, épi lésyon, épi zòn an sante, épi lésyon ki, klasman, yo ka kriyé transmural, sa vlé di i pé ase pwofon. Sé on maladi ki ni on pati jénétik, mè pati jénétik-la pa si enpòtan kon sa, i ka konte anviwon 10%, ki ké exprimé an fonksyon on anviwònman donné. Alò lanvironnman an jénéral sé an peyi endistriyalizé, an nò, épi on sèten kalite manjé, épi sé sa ka fè an entèraksyon épi mikrobiòt-la — sé tout bakteri nou ni adan kolon-an — ki itil a nou paskè dabitid nou viv an simbyoz épi yo ; an patikilyé yo ban nou vitamin ki enpòtan pou nou. Mé la, ké ni on désékilib ant mikrobiòt-la, i ké vin on ti dézékilib, ki ké indwi on réyaksyon iminitè ki pa adapté. Donk tout sa, sa ké kréyé u",
+    "source_id": "video:10b4464f19434b45:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:15.215707+00:00",
+    "source_text_sha256": "15326366ce7d587b39fcd37819b3e0641df7c3e6bbabcaf8ef6d511eaaccb5c9"
+  }
+}

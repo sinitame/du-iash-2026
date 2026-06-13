@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:9",
+  "target_language": "gcf",
+  "source_text_sha256": "cacdcbc2ffa52a7085429f0cd535f3c1145b617c33f3709b817be6f63267e035",
+  "translated_at": "2026-06-10T21:11:27.872320+00:00",
+  "model": "gpt-5-mini",
+  "text": "Périod transisyon é rédiksyon pwogresif solusyon nitrisyon entrale.\nArè  \nCDED\n•  Perd pwa san volonte : rékalkilé apò enèji é ajistman solusyon nitrisyon entrale +/- ajistman rékòmandasyon dyétetik.\n•  Pa byen suivé solusyon nitrisyon entrale : ajisté gou-a osinon konsantrasyon an dapré préférans ou, swiv adékasyon nitrisyonèl la.\n•  Pa byen suivé manjé obligatwa : révizyon resèt yo é ajistman sipò-a.\nAjistman  \nCDED\n•  Maladi Crohn aktiv, konfymé pa imajri é makè byolojik.\n•  Konsiltasyon épi gastwo-entréològ la é rankont èvè tout ekip la (gastwo-entréològ, dyétisyen·ne, …) pou pran desizyon medikal an pataj.\n•  Verifyé tolerans a solusyon nitrisyon entrale-a, a manjé obligatwa yo é sivèyaj observans terapetik pandan 12 semenn.\nDesizyon  \npou mete an \nplas CDED\n•  Evalyasyon dyétetik : antropométri é abitid alimantè.\n•  Édikasyon lo rejim faz 1 CDED, an enkli manjé obligatwa é manjé otorisé.  \n•  Evalyasyon klinik é preskripsio",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:9:gcf",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 9,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "Périod transisyon é rédiksyon pwogresif solusyon nitrisyon entrale.\nArè  \nCDED\n•  Perd pwa san volonte : rékalkilé apò enèji é ajistman solusyon nitrisyon entrale +/- ajistman rékòmandasyon dyétetik.\n•  Pa byen suivé solusyon nitrisyon entrale : ajisté gou-a osinon konsantrasyon an dapré préférans ou, swiv adékasyon nitrisyonèl la.\n•  Pa byen suivé manjé obligatwa : révizyon resèt yo é ajistman sipò-a.\nAjistman  \nCDED\n•  Maladi Crohn aktiv, konfymé pa imajri é makè byolojik.\n•  Konsiltasyon épi gastwo-entréològ la é rankont èvè tout ekip la (gastwo-entréològ, dyétisyen·ne, …) pou pran desizyon medikal an pataj.\n•  Verifyé tolerans a solusyon nitrisyon entrale-a, a manjé obligatwa yo é sivèyaj observans terapetik pandan 12 semenn.\nDesizyon  \npou mete an \nplas CDED\n•  Evalyasyon dyétetik : antropométri é abitid alimantè.\n•  Édikasyon lo rejim faz 1 CDED, an enkli manjé obligatwa é manjé otorisé.  \n•  Evalyasyon klinik é preskripsio",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:9",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:11:27.872320+00:00",
+    "source_text_sha256": "cacdcbc2ffa52a7085429f0cd535f3c1145b617c33f3709b817be6f63267e035"
+  }
+}

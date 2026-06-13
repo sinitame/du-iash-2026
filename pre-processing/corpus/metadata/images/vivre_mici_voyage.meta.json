@@ -1,0 +1,11 @@
+{
+  "id": "image:bb811ee0ab1a696c",
+  "status": "done",
+  "source_file": "vivre_mici_voyage.png",
+  "source_path": "/data/equipes/equipe-04/images/vivre_mici_voyage.png",
+  "text_path": "corpus/texts/images/vivre_mici_voyage.txt",
+  "modality": "image",
+  "language": "fr",
+  "source_sha256": "bb811ee0ab1a696c93ecb829df37a3fd10fb363139b5f48f9adf0ef7d32a1796",
+  "created_at": "2026-06-10T16:26:07.659450+00:00"
+}

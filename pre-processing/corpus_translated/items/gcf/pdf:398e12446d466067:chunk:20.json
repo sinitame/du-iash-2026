@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:20",
+  "target_language": "gcf",
+  "source_text_sha256": "c80da7604661b5d46b8935068a7ef8bd405dfd6d60f45184af0bc55fd74271ef",
+  "translated_at": "2026-06-10T20:52:44.468327+00:00",
+  "model": "gpt-5-mini",
+  "text": "ti filtra enflamatwè léger ki pa spécifik adan lamina propria\n-\tUlkasyon/érosyon an mukoaz\n-\tSiy ki endike krónikité : chanjman arkitèktiral an kript, métaplazi ak sélil Paneth adan kolon, diminyisyon sélil kalisiform\n\nTablo 3 : Klassifikasyon Pari pou maladi Crohn pédyatrik (4)\nLaj lè dyagnostik fèt\nA1a :\t0-10 an\nA1b :\t10-17 an\nA2 :\t17-40 an\nA3 :\t> 40 an\n\nLokalizasyon (L = «location»)\nL1 :\tpati dista iléon ± ti atenn cekòm limité\nL2 :\tsèl kolon\nL3 :\tiléo-kolik\nL4a :\tatenn digesyon anlè avan ligaman Treitz\nL4b :\tjéjunom é/oswa 2/3 pwoksimal iléon\n\nKonpòtman (B = «behavior»)\nB1 :\tenflamatwè\nB2 :\tsténosant\nB3 :\tfistulisant\nB2B3 :\tansanm sténosant é fistulisant, swa an menm tan, swa adan peryòd diféran\np :\tmalad péri-anal\n\nKwasans (G = «growth»)\nG0 :\tpa gen reta nan kwasans\nG1 :\treta nan kwasans",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:20:gcf",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 20,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "gcf",
+    "text": "ti filtra enflamatwè léger ki pa spécifik adan lamina propria\n-\tUlkasyon/érosyon an mukoaz\n-\tSiy ki endike krónikité : chanjman arkitèktiral an kript, métaplazi ak sélil Paneth adan kolon, diminyisyon sélil kalisiform\n\nTablo 3 : Klassifikasyon Pari pou maladi Crohn pédyatrik (4)\nLaj lè dyagnostik fèt\nA1a :\t0-10 an\nA1b :\t10-17 an\nA2 :\t17-40 an\nA3 :\t> 40 an\n\nLokalizasyon (L = «location»)\nL1 :\tpati dista iléon ± ti atenn cekòm limité\nL2 :\tsèl kolon\nL3 :\tiléo-kolik\nL4a :\tatenn digesyon anlè avan ligaman Treitz\nL4b :\tjéjunom é/oswa 2/3 pwoksimal iléon\n\nKonpòtman (B = «behavior»)\nB1 :\tenflamatwè\nB2 :\tsténosant\nB3 :\tfistulisant\nB2B3 :\tansanm sténosant é fistulisant, swa an menm tan, swa adan peryòd diféran\np :\tmalad péri-anal\n\nKwasans (G = «growth»)\nG0 :\tpa gen reta nan kwasans\nG1 :\treta nan kwasans",
+    "source_id": "pdf:398e12446d466067:chunk:20",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:52:44.468327+00:00",
+    "source_text_sha256": "c80da7604661b5d46b8935068a7ef8bd405dfd6d60f45184af0bc55fd74271ef"
+  }
+}

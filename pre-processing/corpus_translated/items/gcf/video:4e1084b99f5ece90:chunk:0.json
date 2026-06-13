@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:4e1084b99f5ece90:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "d156c36084b365bc9b923f4062e050eb0011d6f9a7954815c6bb0375da36bc01",
+  "translated_at": "2026-06-10T21:19:32.062385+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Èske i ni lòt tretman ki pa jis perfizyon ? Biotérapi yo egziste pa voa intraveyneuz, é kounyé a ni osi kèk ki pa fèt jis asou perfizyon, pa ekzamp on \"cliquestime\" ki preskri sèlman pa voa intraveyneuz. I ni fòm sous-kutané ki egziste. Épi lè pasyan yo ka al byen é yo an rémisyon, nou pé pwopoze yo fòm sous-kutané pou fè lakay. Sé menm bagay la pou \"antivio\", mé an fòm sous-kutané egziste. Donk, nou gen plis é plis tretman pa voa sous-kutané. Par kont, lè yo kòmansé tretman an, \"cliquestime\" avan \"tivio\" é apré anti-IL23, twa premye perfizyon yo fèt pa voa intraveyneuz.",
+  "row": {
+    "id": "video:4e1084b99f5ece90:chunk:0:gcf",
+    "document_id": "video:4e1084b99f5ece90",
+    "chunk_index": 0,
+    "source_file": "d3dc1f272bcd4171096cd3a9049a785970f22099.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/d3dc1f272bcd4171096cd3a9049a785970f22099.mp4",
+    "text_path": "corpus/texts/videos/d3dc1f272bcd4171096cd3a9049a785970f22099.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "... Èske i ni lòt tretman ki pa jis perfizyon ? Biotérapi yo egziste pa voa intraveyneuz, é kounyé a ni osi kèk ki pa fèt jis asou perfizyon, pa ekzamp on \"cliquestime\" ki preskri sèlman pa voa intraveyneuz. I ni fòm sous-kutané ki egziste. Épi lè pasyan yo ka al byen é yo an rémisyon, nou pé pwopoze yo fòm sous-kutané pou fè lakay. Sé menm bagay la pou \"antivio\", mé an fòm sous-kutané egziste. Donk, nou gen plis é plis tretman pa voa sous-kutané. Par kont, lè yo kòmansé tretman an, \"cliquestime\" avan \"tivio\" é apré anti-IL23, twa premye perfizyon yo fèt pa voa intraveyneuz.",
+    "source_id": "video:4e1084b99f5ece90:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:19:32.062385+00:00",
+    "source_text_sha256": "d156c36084b365bc9b923f4062e050eb0011d6f9a7954815c6bb0375da36bc01"
+  }
+}

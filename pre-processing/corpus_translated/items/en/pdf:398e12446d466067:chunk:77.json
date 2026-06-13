@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:398e12446d466067:chunk:77",
+  "target_language": "en",
+  "source_text_sha256": "5f0dcf0bcb879a798b597a9f5f1e008e0e974e12b75ae62394476ef574d90c8f",
+  "translated_at": "2026-06-10T20:42:26.486347+00:00",
+  "model": "gpt-5-mini",
+  "text": "analysis. Inflamm Bowel Dis. 2018;24:2135-41.\n84. Scherkenbach LA, Stumpf JL. Methotrexate for the Management of Crohn’s disease in children. Ann Pharmacother. 2016;50:60-9.\n85. Liu L, Liu S, Wang C, et al. Folate supplementation for methotrexate therapy in patients with rheumatoid arthritis: a systematic review. J Clin Rheumatol. 2019;25:197-202.\n86. Valentino PL, Church PC, Shah PS, et al. Hepatotoxicity caused by methotrexate therapy in children with inflammatory bowel disease: a systematic review and meta-analysis. Inflamm Bowel Dis. 2014;20:47-59.\n87. Turner D, Doveh E, Cohen A, et al. Efficacy of oral methotrexate in paediatric Crohn’s disease: a multicentre propensity score study. Gut. 2015;64:1898-904.\n88. Chande N, Patton PH, Tsoulis DJ, et al. Azathioprine or 6-mercaptopurine for maintenance of remission in Crohn’s disease. Cochrane Database Syst Rev. 2015;4:CD000067.\n89. Beaugerie L, Brousse N, Bouvier AM, et al. CESAME Study Group. Lymphoproliferative disorders in patients receiving thiopurines for inflammatory bowel disease: a prospective observational cohort study. Lancet. 2009;374:1617-25.\n90. Kotlyar DS, Lewis JD, Beaugerie L, et al",
+  "row": {
+    "id": "pdf:398e12446d466067:chunk:77:en",
+    "document_id": "pdf:398e12446d466067",
+    "chunk_index": 77,
+    "source_file": "postu-2026-COURBETTE.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/postu-2026-COURBETTE.pdf",
+    "text_path": "corpus/texts/pdfs/postu-2026-COURBETTE.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "analysis. Inflamm Bowel Dis. 2018;24:2135-41.\n84. Scherkenbach LA, Stumpf JL. Methotrexate for the Management of Crohn’s disease in children. Ann Pharmacother. 2016;50:60-9.\n85. Liu L, Liu S, Wang C, et al. Folate supplementation for methotrexate therapy in patients with rheumatoid arthritis: a systematic review. J Clin Rheumatol. 2019;25:197-202.\n86. Valentino PL, Church PC, Shah PS, et al. Hepatotoxicity caused by methotrexate therapy in children with inflammatory bowel disease: a systematic review and meta-analysis. Inflamm Bowel Dis. 2014;20:47-59.\n87. Turner D, Doveh E, Cohen A, et al. Efficacy of oral methotrexate in paediatric Crohn’s disease: a multicentre propensity score study. Gut. 2015;64:1898-904.\n88. Chande N, Patton PH, Tsoulis DJ, et al. Azathioprine or 6-mercaptopurine for maintenance of remission in Crohn’s disease. Cochrane Database Syst Rev. 2015;4:CD000067.\n89. Beaugerie L, Brousse N, Bouvier AM, et al. CESAME Study Group. Lymphoproliferative disorders in patients receiving thiopurines for inflammatory bowel disease: a prospective observational cohort study. Lancet. 2009;374:1617-25.\n90. Kotlyar DS, Lewis JD, Beaugerie L, et al",
+    "source_id": "pdf:398e12446d466067:chunk:77",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:42:26.486347+00:00",
+    "source_text_sha256": "5f0dcf0bcb879a798b597a9f5f1e008e0e974e12b75ae62394476ef574d90c8f"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:1a98f27bacc8cbc4:chunk:12",
+  "target_language": "en",
+  "source_text_sha256": "af67426f3ee2ec49d2c22b2d6e5d32865602e796c2143c47305e89a7bce7483c",
+  "translated_at": "2026-06-10T20:43:56.061617+00:00",
+  "model": "gpt-5-mini",
+  "text": "Difficulty consuming the 150 g of chicken breast. Fortunately I can reduce this amount by compensating with a 3rd egg (in crêpes or pancakes), or by replacing it twice a week with fish, one of those times with tuna in oil, or with more solution.\nThese options will help me continue phase 2. In addition, I know that the diet can be further expanded afterwards... Hence the importance of follow-up with a dietitian.”\n36-year-old patient: was growing tired of certain required foods",
+  "row": {
+    "id": "pdf:1a98f27bacc8cbc4:chunk:12:en",
+    "document_id": "pdf:1a98f27bacc8cbc4",
+    "chunk_index": 12,
+    "source_file": "remis_cded_crohn_exclusion_diet.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/remis_cded_crohn_exclusion_diet.pdf",
+    "text_path": "corpus/texts/pdfs/remis_cded_crohn_exclusion_diet.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "Difficulty consuming the 150 g of chicken breast. Fortunately I can reduce this amount by compensating with a 3rd egg (in crêpes or pancakes), or by replacing it twice a week with fish, one of those times with tuna in oil, or with more solution.\nThese options will help me continue phase 2. In addition, I know that the diet can be further expanded afterwards... Hence the importance of follow-up with a dietitian.”\n36-year-old patient: was growing tired of certain required foods",
+    "source_id": "pdf:1a98f27bacc8cbc4:chunk:12",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:56.061617+00:00",
+    "source_text_sha256": "af67426f3ee2ec49d2c22b2d6e5d32865602e796c2143c47305e89a7bce7483c"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:eb3be299db0846af:chunk:0",
+  "target_language": "gcf",
+  "source_text_sha256": "66b295a49b6fcbaa6a3d3697c44b717370668fac6601c55ba0b4b62d50d97904",
+  "translated_at": "2026-06-10T21:14:25.622502+00:00",
+  "model": "gpt-5-mini",
+  "text": "Dijesyon sé on pwosesis ki koumans adan bouch-la lè nou mastiké manjé-a. Déja, bouch-la ka sékrété anzim ki ka kòmansé dégradé manje-a. Apre sa, nou dégluti é manjé-a alé adan ozofaj-la ki pouse'y adan lestoma. Lestoma sé on gwo sak épi an pil misk ki ka brase kontni an pou fè'y vin on bouy. Bouy sa a ké pouse adan duodénòm épi adan intestin grèl-la. Entestin-la sé on bagay ki vréman enpòtan, i mézire kat mèt. Lè nou gadé selil yo, yo ni an pil vilozité anlè sifas-la pou ogmanté absòpsyon-an. Sé adan menm intestin-la, gras a anzim yo ki sòti adan pankréa, manjé-a ka transfòmé an pwotéin, an asid aminé, an asid gras é an glusid, ki ké absòbé é pasé an san. É gras a sa, kan on timoun, i ka grandi é i ka pran pwa; é kan on adilt, i ka mantni pwa li. É apré tout sé nitriyann-la fin arivé pou nou nourri, sé déchè ki té rété yo ké pouse adan kolòn-la.",
+  "row": {
+    "id": "video:eb3be299db0846af:chunk:0:gcf",
+    "document_id": "video:eb3be299db0846af",
+    "chunk_index": 0,
+    "source_file": "314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.mp4",
+    "text_path": "corpus/texts/videos/314806d86a7a9fca6659e1b26c9c7ef83d557e05.txt",
+    "modality": "video",
+    "language": "gcf",
+    "text": "Dijesyon sé on pwosesis ki koumans adan bouch-la lè nou mastiké manjé-a. Déja, bouch-la ka sékrété anzim ki ka kòmansé dégradé manje-a. Apre sa, nou dégluti é manjé-a alé adan ozofaj-la ki pouse'y adan lestoma. Lestoma sé on gwo sak épi an pil misk ki ka brase kontni an pou fè'y vin on bouy. Bouy sa a ké pouse adan duodénòm épi adan intestin grèl-la. Entestin-la sé on bagay ki vréman enpòtan, i mézire kat mèt. Lè nou gadé selil yo, yo ni an pil vilozité anlè sifas-la pou ogmanté absòpsyon-an. Sé adan menm intestin-la, gras a anzim yo ki sòti adan pankréa, manjé-a ka transfòmé an pwotéin, an asid aminé, an asid gras é an glusid, ki ké absòbé é pasé an san. É gras a sa, kan on timoun, i ka grandi é i ka pran pwa; é kan on adilt, i ka mantni pwa li. É apré tout sé nitriyann-la fin arivé pou nou nourri, sé déchè ki té rété yo ké pouse adan kolòn-la.",
+    "source_id": "video:eb3be299db0846af:chunk:0",
+    "source_language": "fr",
+    "target_language": "gcf",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T21:14:25.622502+00:00",
+    "source_text_sha256": "66b295a49b6fcbaa6a3d3697c44b717370668fac6601c55ba0b4b62d50d97904"
+  }
+}

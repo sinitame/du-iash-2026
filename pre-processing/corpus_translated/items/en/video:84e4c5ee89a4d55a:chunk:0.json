@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "video:84e4c5ee89a4d55a:chunk:0",
+  "target_language": "en",
+  "source_text_sha256": "8d73aa2af263b0cd30c9b0fab70ba9f6d1a204ad450f2534de3f9183f224b980",
+  "translated_at": "2026-06-10T20:47:02.450788+00:00",
+  "model": "gpt-5-mini",
+  "text": "... Will I have symptoms other than digestive ones? So, in severe inflammatory diseases, there can be inflammatory manifestations that appear in other organs, and in particular the joints. Inflammatory joint involvement is a particular kind of involvement: it is pain that you can have in the morning with a feeling of not being able to use your joints, and what we call \"morning stiffness,\" that is, during the first 30 minutes you are a bit like an old person — it hurts, it's hard to move, and then as the day goes on it gets better and better. So, that is an inflammatory involvement and it will need to be managed. Pain that comes at the end of the day is more mechanical, and that may have nothing to do with the disease, and there can also be other involvements. So when someone has bone pain, that is not normal in a child or an adult; we will see bone pain. Inflammatory diseases, in fact, cause demineralization, and that can lead to vertebral compression fractures. So if you have pain in the b...",
+  "row": {
+    "id": "video:84e4c5ee89a4d55a:chunk:0:en",
+    "document_id": "video:84e4c5ee89a4d55a",
+    "chunk_index": 0,
+    "source_file": "cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "source_path": "/data/equipes/equipe-04/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.mp4",
+    "text_path": "corpus/texts/videos/cef6f3d7ae652c335bb63f9de7091370364f03d4.txt",
+    "modality": "video",
+    "language": "en",
+    "text": "... Will I have symptoms other than digestive ones? So, in severe inflammatory diseases, there can be inflammatory manifestations that appear in other organs, and in particular the joints. Inflammatory joint involvement is a particular kind of involvement: it is pain that you can have in the morning with a feeling of not being able to use your joints, and what we call \"morning stiffness,\" that is, during the first 30 minutes you are a bit like an old person — it hurts, it's hard to move, and then as the day goes on it gets better and better. So, that is an inflammatory involvement and it will need to be managed. Pain that comes at the end of the day is more mechanical, and that may have nothing to do with the disease, and there can also be other involvements. So when someone has bone pain, that is not normal in a child or an adult; we will see bone pain. Inflammatory diseases, in fact, cause demineralization, and that can lead to vertebral compression fractures. So if you have pain in the b...",
+    "source_id": "video:84e4c5ee89a4d55a:chunk:0",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:47:02.450788+00:00",
+    "source_text_sha256": "8d73aa2af263b0cd30c9b0fab70ba9f6d1a204ad450f2534de3f9183f224b980"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "source_id": "pdf:a74238ee30f57428:chunk:12",
+  "target_language": "en",
+  "source_text_sha256": "0b4d3f4716857351ed8c0d761ef0f8626d1c2734e576d8ec8dd85f7f3982764d",
+  "translated_at": "2026-06-10T20:43:11.160648+00:00",
+  "model": "gpt-5-mini",
+  "text": "what is called parenteral nutrition (PN), exclusive (EPN) when they are no longer taking anything by mouth.\nA supplement can also be given through the veins in addition to a normal diet. PN can last weeks or months, if necessary in the hospital or at home, for the time needed to rest the digestive tract or to improve their general condition. PN can also “prepare” a child for surgery in this way. Caloric intake is markedly increased and the majority of children begin to grow again during this intravenous feeding.\nWHAT PROBLEMS ARE ENCOUNTERED WITH A SICK ADOLESCENT?\nAdolescents are very sensitive about their physical appearance, and inflammatory diseases or their treatment can have consequences they find hard to live with. They often feel upset, grumpy and depressed, or oppositional during flare-ups.\nThey are deeply affected by changes in their weight or facial appearance because of the treatment or the disease. They may therefore try to miss appointments, ignore symptoms to avoid being given medications. They may be afraid of surgery and ashamed of it",
+  "row": {
+    "id": "pdf:a74238ee30f57428:chunk:12:en",
+    "document_id": "pdf:a74238ee30f57428",
+    "chunk_index": 12,
+    "source_file": "questions_parents.pdf",
+    "source_path": "/data/equipes/equipe-04/pdf/questions_parents.pdf",
+    "text_path": "corpus/texts/pdfs/questions_parents.txt",
+    "modality": "pdf",
+    "language": "en",
+    "text": "what is called parenteral nutrition (PN), exclusive (EPN) when they are no longer taking anything by mouth.\nA supplement can also be given through the veins in addition to a normal diet. PN can last weeks or months, if necessary in the hospital or at home, for the time needed to rest the digestive tract or to improve their general condition. PN can also “prepare” a child for surgery in this way. Caloric intake is markedly increased and the majority of children begin to grow again during this intravenous feeding.\nWHAT PROBLEMS ARE ENCOUNTERED WITH A SICK ADOLESCENT?\nAdolescents are very sensitive about their physical appearance, and inflammatory diseases or their treatment can have consequences they find hard to live with. They often feel upset, grumpy and depressed, or oppositional during flare-ups.\nThey are deeply affected by changes in their weight or facial appearance because of the treatment or the disease. They may therefore try to miss appointments, ignore symptoms to avoid being given medications. They may be afraid of surgery and ashamed of it",
+    "source_id": "pdf:a74238ee30f57428:chunk:12",
+    "source_language": "fr",
+    "target_language": "en",
+    "translation_model": "gpt-5-mini",
+    "translated_at": "2026-06-10T20:43:11.160648+00:00",
+    "source_text_sha256": "0b4d3f4716857351ed8c0d761ef0f8626d1c2734e576d8ec8dd85f7f3982764d"
+  }
+}
